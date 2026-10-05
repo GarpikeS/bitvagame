@@ -37,3 +37,6 @@ jobs:
       - name: Build
         run: npm run build
         working-directory: figma-real-layout
+        env:
+          NODE_ENV: production
+          VITE_ENABLE_CLOSED_GAMES: 'false'

@@ -19,6 +19,7 @@
 git bundle create ..\bitvagame-source.bundle main baseline-2026-10-06
 git bundle verify ..\bitvagame-source.bundle
 Get-FileHash ..\bitvagame-source.bundle -Algorithm SHA256
+git clone --branch main ..\bitvagame-source.bundle ..\bitvagame-verification
 ```
 
 Bundle сохраняет commit-историю/refs, не ignored/untracked файлы и не `.env`.
