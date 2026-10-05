@@ -16,13 +16,19 @@
 ## Bundle
 
 ```powershell
-git bundle create ..\bitvagame-source.bundle --all
+git bundle create ..\bitvagame-source.bundle main baseline-2026-10-06
 git bundle verify ..\bitvagame-source.bundle
 Get-FileHash ..\bitvagame-source.bundle -Algorithm SHA256
 ```
 
 Bundle сохраняет commit-историю/refs, не ignored/untracked файлы и не `.env`.
 Хранить приватно. Локальный bundle не является независимой доверенной временной отметкой.
+
+В локальной `.git` могут существовать служебные служебные ссылки от прошлых
+сеансов. Они сохраняются без изменения, но не относятся к новой истории
+`main`. Не использовать `--all` или mirror-push для передачи: старые снимки
+не прошли текущий аудит и могут содержать исключённые сейчас файлы.
+Экспортировать только явно согласованные ветки/метки.
 
 Манифест текущего HEAD:
 
