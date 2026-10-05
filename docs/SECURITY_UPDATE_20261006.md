@@ -61,6 +61,10 @@ runtime store, QA-выгрузки и служебные снимки рабоч
 CI проверяет историю на секреты, состав репозитория, установку, audit,
 API-тесты и production build. Dependabot предлагает weekly-обновления
 npm/Actions через PR, без автоматического merge или выкладки на сайт.
+React и React DOM обновляются одной группой: CI отклонил отдельный React DOM
+19.3.0 с React 19.2.7 из-за peer dependency conflict. Это предложение бота
+не включено в `main`. Группировка применяется к version/security updates
+по [правилам GitHub](https://docs.github.com/en/code-security/reference/supply-chain-security/dependabot-options-reference#groups).
 Исходники `74369a3780b69977ed2b80bb32f4131f7cc23110` и метка
 `baseline-2026-10-06` опубликованы. Видимость GitHub проверена: PUBLIC.
 [Первый Source quality gate](https://github.com/GarpikeS/bitvagame/actions/runs/37357576065)
