@@ -38,5 +38,13 @@ node scripts/qa-favorites-title.cjs
 Видео требует внешнего хранилища. UI-моки не подтверждают реальную оплату/почту.
 
 `artifacts/` и `qa/` игнорируются. В MD результатов указать дату, среду,
-viewport, PASS/FAIL и ограничения. CI выполняет только repository gate,
-API-тесты и build; не production-деплой. Workflow ещё не запускался на GitHub.
+viewport, PASS/FAIL и ограничения. CI выполняет secret scan, repository gate,
+чистую установку, dependency audit, API-тесты и build; не production-деплой.
+
+## Подтверждённый запуск GitHub
+
+06.10.2026 (Asia/Krasnoyarsk), исходники
+`74369a3780b69977ed2b80bb32f4131f7cc23110`:
+[Source quality gate — PASS](https://github.com/GarpikeS/bitvagame/actions/runs/37357576065).
+Оба задания `secrets` и `verify` завершились успешно; API — 18 тестов.
+Это результат указанного коммита, не гарантия последующих изменений.

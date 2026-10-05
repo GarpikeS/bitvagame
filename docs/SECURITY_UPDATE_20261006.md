@@ -40,7 +40,7 @@ registry advisory response через [npm audit](https://docs.npmjs.com/cli/v11
 | TypeScript API / Vite production build | PASS |
 | Шапка главной, 540px | PASS, отступ справа 10px, ошибок консоли нет |
 | Избранное, 320/375/390/540/768/1280px | 12 PASS, текст/иконка/клики/overflow |
-| Gitleaks 8.30.1, существующая история main | 3 коммита, секреты не найдены |
+| Gitleaks 8.30.1, история до исходного security commit `74369a3` | 4 коммита, секреты не найдены |
 
 Build: `NODE_ENV=production`, `VITE_ENABLE_CLOSED_GAMES=false`.
 JS `index-zlhiN6sF.js` и CSS `index-BVEH4TdW.css` совпадают с ранее проверенной
@@ -61,8 +61,12 @@ runtime store, QA-выгрузки и служебные снимки рабоч
 CI проверяет историю на секреты, состав репозитория, установку, audit,
 API-тесты и production build. Dependabot предлагает weekly-обновления
 npm/Actions через PR, без автоматического merge или выкладки на сайт.
-Результат фактического GitHub Actions запуска нужно смотреть в Actions:
-локальные PASS сами по себе не доказывают выполнение удалённого workflow.
+Исходники `74369a3780b69977ed2b80bb32f4131f7cc23110` и метка
+`baseline-2026-10-06` опубликованы. Видимость GitHub проверена: PUBLIC.
+[Первый Source quality gate](https://github.com/GarpikeS/bitvagame/actions/runs/37357576065)
+завершился PASS: задания `secrets` и `verify`, включая audit, 18 API-тестов
+и build. Этот результат относится к указанному коммиту; новые изменения
+проверяются отдельными запусками CI.
 
 Сайт в этой задаче не выкладывался. Реальный SMTP, платёжный провайдер,
 TLS/DNS production, внешние медиапотоки и полный penetration/accessibility
