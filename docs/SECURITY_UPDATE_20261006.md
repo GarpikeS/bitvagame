@@ -40,7 +40,7 @@ registry advisory response через [npm audit](https://docs.npmjs.com/cli/v11
 | TypeScript API / Vite production build | PASS |
 | Шапка главной, 540px | PASS, отступ справа 10px, ошибок консоли нет |
 | Избранное, 320/375/390/540/768/1280px | 12 PASS, текст/иконка/клики/overflow |
-| Gitleaks 8.30.1, история до исходного security commit `74369a3` | 4 коммита, секреты не найдены |
+| Gitleaks 8.30.1, история до исходного security commit `90c9461` | 4 коммита, секреты не найдены |
 
 Build: `NODE_ENV=production`, `VITE_ENABLE_CLOSED_GAMES=false`.
 JS `index-zlhiN6sF.js` и CSS `index-BVEH4TdW.css` совпадают с ранее проверенной
@@ -65,9 +65,9 @@ React и React DOM обновляются одной группой: CI откл
 19.3.0 с React 19.2.7 из-за peer dependency conflict. Это предложение бота
 не включено в `main`. Группировка применяется к version/security updates
 по [правилам GitHub](https://docs.github.com/en/code-security/reference/supply-chain-security/dependabot-options-reference#groups).
-Исходники `74369a3780b69977ed2b80bb32f4131f7cc23110` и метка
+Исходники `89f6b1b9c722bef084a8a4e9c6356bd6c0d458d3` и метка
 `baseline-2026-10-06` опубликованы. Видимость GitHub проверена: PUBLIC.
-[Первый Source quality gate](https://github.com/GarpikeS/bitvagame/actions/runs/37357576065)
+[Source quality gate опубликованной истории](https://github.com/GarpikeS/bitvagame/actions/runs/37360486252)
 завершился PASS: задания `secrets` и `verify`, включая audit, 18 API-тестов
 и build. Этот результат относится к указанному коммиту; новые изменения
 проверяются отдельными запусками CI.

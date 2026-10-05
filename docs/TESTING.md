@@ -44,7 +44,7 @@ viewport, PASS/FAIL и ограничения. CI выполняет secret scan
 ## Подтверждённый запуск GitHub
 
 06.10.2026 (Asia/Krasnoyarsk), исходники
-`74369a3780b69977ed2b80bb32f4131f7cc23110`:
-[Source quality gate — PASS](https://github.com/GarpikeS/bitvagame/actions/runs/37357576065).
+`89f6b1b9c722bef084a8a4e9c6356bd6c0d458d3`:
+[Source quality gate — PASS](https://github.com/GarpikeS/bitvagame/actions/runs/37360486252).
 Оба задания `secrets` и `verify` завершились успешно; API — 18 тестов.
 Это результат указанного коммита, не гарантия последующих изменений.
