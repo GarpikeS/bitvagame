@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+node_modules/
+server-data/
+server-dist/
+dist/
+qa/
+*.tgz
+*.log
+*.tmp
+npm-debug.log*

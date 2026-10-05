@@ -1,0 +1,14 @@
+type ComponentProps = {
+  className?: string;
+  property1?: "14";
+};
+
+function Component({ className, property1 = "14" }: ComponentProps) {
+  return (
+    <div className={className || "overflow-clip relative size-[105px]"} data-node-id="1:566">
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.1] left-0 not-italic text-[#ff8b1e] text-[110.468px] top-[10.59px] whitespace-nowrap" data-node-id="1:567">
+        14
+      </p>
+    </div>
+  );
+}

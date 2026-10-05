@@ -1,0 +1,12 @@
+<instance id="1:358" name="Frame 2087325388" x="555" y="1829" width="465" height="463">
+  <frame id="2:148" name="text" x="40" y="40" width="385" height="135">
+    <frame id="2:149" name="Frame 2087325389" x="0" y="0" width="385" height="50">
+      <instance id="2:150" name="Frame 34" x="0" y="0" width="200" height="50" />
+      <instance id="2:153" name="Group 2087326594" x="333" y="0" width="56" height="56" hidden="true" />
+    </frame>
+    <text id="2:154" name="Музыкальное лото" x="0" y="66" width="268" height="69" />
+  </frame>
+  <frame id="2:155" name="Button" x="40" y="318" width="385" height="105">
+    <instance id="2:156" name="Play – button" x="280" y="0" width="105" height="105" />
+  </frame>
+</instance>

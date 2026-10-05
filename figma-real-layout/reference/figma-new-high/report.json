@@ -1,0 +1,17 @@
+{
+  "music-detail": {
+    "nodeId": "1:259",
+    "bytes": 131682,
+    "path": "reference\\figma-new-high\\music-detail.png"
+  },
+  "karaoke-splash": {
+    "nodeId": "1:506",
+    "bytes": 198171,
+    "path": "reference\\figma-new-high\\karaoke-splash.png"
+  },
+  "buy-blanks-no-coins": {
+    "nodeId": "1:580",
+    "bytes": 73713,
+    "path": "reference\\figma-new-high\\buy-blanks-no-coins.png"
+  }
+}

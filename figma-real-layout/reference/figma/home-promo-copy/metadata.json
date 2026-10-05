@@ -1,0 +1,12 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "<frame id=\"1:1234\" name=\"Frame 2087325394\" x=\"631\" y=\"4240\" width=\"388\" height=\"141\">\n  <text id=\"1:1235\" name=\"Активируйте промокод\" x=\"0\" y=\"0\" width=\"374\" height=\"74\" />\n  <text id=\"1:1236\" name=\"монеты автоматически зачислятся на баланс после регистрации\" x=\"0\" y=\"98\" width=\"388\" height=\"43\" />\n</frame>"
+    },
+    {
+      "type": "text",
+      "text": "IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design."
+    }
+  ]
+}

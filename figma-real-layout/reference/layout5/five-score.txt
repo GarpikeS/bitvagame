@@ -1,0 +1,94 @@
+const imgGroup = "https://www.figma.com/api/mcp/asset/559c39f1-807d-4e58-b796-5ba66f351caa.svg";
+
+function Component58Group({ className }: { className?: string }) {
+  return (
+    <div className={className || "aspect-[64/64.00797271728516] relative w-[38.667px]"} data-node-id="1:751" data-name="Component 58/Group">
+      <div className="absolute contents inset-0" data-node-id="1:752" data-name="Group">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup} />
+      </div>
+    </div>
+  );
+}
+
+type Component58Props = {
+  className?: string;
+  property1?: "Frame 2087326795" | "Frame 2087326799";
+};
+
+function Component58({ className, property1 = "Frame 2087326799" }: Component58Props) {
+  const isFrame2087326795 = property1 === "Frame 2087326795";
+  const isFrame2087326799 = property1 === "Frame 2087326799";
+  return (
+    <div className={className || `content-stretch flex flex-col gap-[29px] items-center pb-[53px] pt-[55px] px-[16px] relative rounded-[50px] size-[230px] ${isFrame2087326799 ? "bg-[#ffdebf]" : '[word-break:break-word] bg-[#ff8b1e] font-["TT_Hoves_Pro_Trial_Variable:Compact_DemiBold"] leading-[1.1] not-italic text-[#f3f3f3] text-center'}`} id={isFrame2087326799 ? "node-1_4461" : "node-1_4458"}>
+      {isFrame2087326795 && (
+        <>
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] relative shrink-0 text-[72px] whitespace-nowrap" data-node-id="1:4459">
+            +1
+          </p>
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] relative shrink-0 text-[24px] w-[181px]" data-node-id="1:4460">
+            за каждое верное слово
+          </p>
+        </>
+      )}
+      {isFrame2087326799 && (
+        <>
+          <Component58Group className="relative shrink-0 size-[54px]" />
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Compact_DemiBold'] leading-[1.1] not-italic relative shrink-0 text-[#ff8b1e] text-[24px] text-center w-[181px]" data-node-id="1:4463">
+            за каждое верное слово
+          </p>
+        </>
+      )}
+    </div>
+  );
+}
+
+export default function Frame2087326800() {
+  return (
+    <div className="content-stretch flex flex-col gap-[40px] items-start relative size-full" data-node-id="1:726">
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Bold'] leading-[1.003] min-w-full not-italic relative shrink-0 text-[#161616] text-[96px] uppercase w-[min-content]" data-node-id="1:727">
+        СИСТЕМА ОЧКОВ
+      </p>
+      <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="1:728">
+        <div className="content-stretch flex gap-[13px] items-start relative shrink-0" data-node-id="1:729">
+          <Component58 className="[word-break:break-word] bg-[#ff8b1e] content-stretch flex flex-col font-['TT_Hoves_Pro_Trial_Variable:Compact_DemiBold'] gap-[29px] items-center leading-[1.1] not-italic pb-[53px] pt-[55px] px-[16px] relative rounded-[50px] shrink-0 size-[230px] text-[#f3f3f3] text-center" property1="Frame 2087326795" />
+          <div className="[word-break:break-word] bg-[#ffdebf] content-stretch flex flex-col font-['TT_Hoves_Pro_Trial:DemiBold'] gap-[29px] items-center not-italic pb-[53px] pt-[55px] px-[16px] relative rounded-[50px] shrink-0 size-[230px] text-[#ff8b1e] text-center" data-node-id="1:731">
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] leading-[1.1] relative shrink-0 text-[72px] whitespace-nowrap" data-node-id="I1:731;1:4459">
+              0
+            </p>
+            <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] leading-[0] relative shrink-0 text-[24px] w-[181px]" data-node-id="I1:731;1:4460">
+              <p className="leading-[1.1] mb-0">если ошибся</p>
+              <p className="leading-[1.1]">или пропустил слово</p>
+            </div>
+          </div>
+          <div className="[word-break:break-word] bg-[#ffdebf] content-stretch flex flex-col font-['TT_Hoves_Pro_Trial:DemiBold'] gap-[29px] items-center leading-[1.1] not-italic pb-[53px] pt-[55px] px-[16px] relative rounded-[50px] shrink-0 size-[230px] text-[#ff8b1e] text-center" data-node-id="1:732">
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] relative shrink-0 text-[72px] whitespace-nowrap" data-node-id="I1:732;1:4459">
+              10
+            </p>
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] relative shrink-0 text-[24px] w-[181px] whitespace-pre-wrap" data-node-id="I1:732;1:4460">
+              {`песен `}
+              <br aria-hidden />в игре
+            </p>
+          </div>
+          <div className="bg-[#ffdebf] content-stretch flex flex-col gap-[23px] items-center pb-[53px] pt-[55px] px-[16px] relative rounded-[50px] shrink-0 size-[230px]" data-node-id="1:733">
+            <Component58Group className="relative shrink-0 size-[54px]" />
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.1] min-w-full not-italic relative shrink-0 text-[#ff8b1e] text-[24px] text-center w-[min-content]" data-node-id="I1:733;1:4463">
+              побеждает игрок с наибольшим счётом
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

@@ -1,0 +1,85 @@
+<frame id="1:1051" name="Новая игра/новая категория" x="-1644" y="-3248" width="1080" height="2987">
+  <frame id="1:1052" name="Group 2087326750" x="60" y="645.6875" width="960" height="1143">
+    <rounded-rectangle id="1:1053" name="Rectangle 260" x="60" y="645.6875" width="960" height="960" />
+    <frame id="1:1054" name="Frame 6273" x="60" y="1628.6875" width="960" height="160">
+      <text id="1:1055" name="НОВАЯ ПЕСНЯ" x="47" y="51.3125" width="274" height="58" />
+      <rounded-rectangle id="1:1056" name="Rectangle 259" x="710" y="38" width="199" height="83" />
+      <text id="1:1057" name="60 песен" x="742" y="70.2578125" width="132" height="21" />
+    </frame>
+  </frame>
+  <frame id="1:1058" name="Group 2087326652" x="60" y="107" width="960" height="121">
+    <rounded-rectangle id="1:1059" name="Rectangle 120" x="60" y="107" width="960" height="121" />
+    <ellipse id="1:1060" name="Ellipse 83" x="94" y="136" width="64" height="64" />
+    <vector id="1:1061" name="Vector 61" x="119" y="156" width="11.5" height="23" />
+    <text id="1:1062" name="Музыкальное лото Дома" x="192" y="153" width="498" height="29" />
+  </frame>
+  <rounded-rectangle id="1:1063" name="Rectangle 154" x="0" y="2558" width="1081" height="1597" />
+  <frame id="1:1064" name="Group 2087326625" x="615.2421875" y="2684.890625" width="405" height="208.703125">
+    <text id="1:1065" name="Политика конфиденциальности" x="615.2421875" y="2830.1875" width="383" height="18" />
+    <text id="1:1066" name="ИП Шаталов Дмитрий Андреевич ОГРН: 322861700029539 ИНН: 711404699134" x="615.2421855204814" y="2684.8907266152964" width="405" height="76" />
+    <text id="1:1067" name="© 2025. Все права защищены" x="615.2421875" y="2875.59375" width="362" height="18" />
+  </frame>
+  <text id="1:1068" name="И Г Р Ы" x="300.421875" y="2727.234375" width="154" height="61" />
+  <frame id="1:1069" name="Group" x="68.78125" y="2727.294921875" width="192.05136108398438" height="61.456947326660156" />
+  <vector id="1:1075" name="Vector" x="60" y="2682.849609375" width="209.06297302246094" height="32.37458801269531" />
+  <vector id="1:1076" name="Vector" x="60" y="2800.275390625" width="209.06297302246094" height="32.37458801269531" />
+  <vector id="1:1077" name="Vector" x="175.42578125" y="2803.083984375" width="183.53639221191406" height="32.37458801269531" />
+  <vector id="1:1078" name="Vector" x="149.8984375" y="2681" width="209.06297302246094" height="32.37458801269531" />
+  <vector id="1:1079" name="Vector" x="260.8828125" y="2685.439453125" width="209.06297302246094" height="32.37458801269531" />
+  <vector id="1:1080" name="Vector" x="260.8828125" y="2802.865234375" width="209.06297302246094" height="32.37458801269531" />
+  <frame id="1:1081" name="Group 2087326572" x="778" y="127" width="217" height="82">
+    <rounded-rectangle id="1:1082" name="Rectangle 119" x="778.0001220703125" y="127" width="217" height="82" />
+    <text id="1:1083" name="11 240" x="857" y="155" width="114" height="29" />
+    <rounded-rectangle id="1:1084" name="Adobe Express - file (10) 3" x="782.734375" y="136" width="70.66575351880886" height="67.43088146062837" />
+  </frame>
+  <frame id="1:1085" name="Frame 6267" x="60" y="333" width="1093.678955078125" height="182.6883544921875">
+    <text id="1:1086" name="ВЫБЕРИТЕ КАТЕГОРИЮ" x="0" y="0" width="1093.678955078125" height="50" />
+    <frame id="1:1087" name="Frame 6266" x="0" y="100" width="1093.678955078125" height="82.6883544921875">
+      <frame id="1:1088" name="Frame 6262" x="0" y="0" width="242.4197235107422" height="82.6883544921875">
+        <text id="1:1089" name="Девичник" x="25.209861755371094" y="26.84417724609375" width="192" height="29" />
+      </frame>
+      <frame id="1:1090" name="Frame 6263" x="257.41973876953125" y="0" width="257.41973876953125" height="82.6883544921875">
+        <text id="1:1091" name="Хиты 2000" x="25.209861755371094" y="26.84417724609375" width="207" height="29" />
+      </frame>
+      <frame id="1:1092" name="Frame 6264" x="529.8394775390625" y="0" width="307.41973876953125" height="82.6883544921875">
+        <text id="1:1093" name="Хиты караоке" x="25.209861755371094" y="26.84417724609375" width="257" height="29" />
+      </frame>
+      <frame id="1:1094" name="Frame 6265" x="852.2592163085938" y="0" width="241.4197235107422" height="82.6883544921875">
+        <text id="1:1095" name="Хиты 90-х" x="25.209861755371094" y="26.84417724609375" width="191" height="29" />
+      </frame>
+    </frame>
+  </frame>
+  <rounded-rectangle id="1:1096" name="Rectangle 265" x="60" y="1989.6875" width="472" height="229" />
+  <rounded-rectangle id="1:1097" name="Rectangle 267" x="60" y="2231.6875" width="472" height="229" />
+  <rounded-rectangle id="1:1098" name="Rectangle 266" x="548" y="1989.6875" width="472" height="229" />
+  <rounded-rectangle id="1:1099" name="Rectangle 268" x="548" y="2231.6875" width="472" height="229" />
+  <frame id="1:1100" name="Frame 6453" x="92" y="2132.6875" width="305" height="54">
+    <text id="1:1101" name="Купить бланки" x="0" y="0" width="305" height="21" />
+    <text id="1:1102" name="1 бланк = 1 человек" x="0" y="36" width="305" height="18" />
+  </frame>
+  <frame id="1:1103" name="Frame 6455" x="92" y="2372.6875" width="305" height="54">
+    <text id="1:1104" name="Объявить победителя" x="0" y="0" width="305" height="21" />
+    <text id="1:1105" name="и завершить игру" x="0" y="36" width="305" height="18" />
+  </frame>
+  <frame id="1:1106" name="Frame 6456" x="588" y="2372.6875" width="305" height="54">
+    <text id="1:1107" name="Новая игра" x="0" y="0" width="305" height="21" />
+    <text id="1:1108" name="обновить список песен" x="0" y="36" width="305" height="18" />
+  </frame>
+  <frame id="1:1109" name="Frame 6454" x="588" y="2132.6875" width="305" height="54">
+    <text id="1:1110" name="Выпали песни" x="0" y="0" width="305" height="21" />
+    <text id="1:1111" name="какие песни уже сыграли" x="0" y="36" width="305" height="18" />
+  </frame>
+  <frame id="1:1112" name="Frame 6452" x="92" y="2021.6875" width="79" height="79" />
+  <frame id="1:1120" name="Frame 6460" x="588" y="2021.6875" width="79" height="79">
+    <text id="1:1121" name="14" x="0" y="19" width="79" height="60" />
+  </frame>
+  <frame id="1:1122" name="Frame 6458" x="92" y="2267.6875" width="79" height="79" />
+  <frame id="1:1137" name="Frame 6459" x="588" y="2267.6875" width="79" height="79" />
+  <text id="1:1139" name="Управление игрой" x="60" y="1919" width="449" height="39" />
+  <text id="1:1140" name="Дискотека Авария" x="132" y="745" width="453" height="67" />
+  <text id="1:1141" name="Если хочешь остаться" x="132" y="848" width="557" height="67" />
+  <text id="1:1142" name="То ли это ветерок мои губы колышет То ли это я кричу тебе, но ты меня не слышишь Если хочешь остаться, останься просто так Пусть тебе приснятся сны о теплых берегах  Давно за двенадцать, а ты еще в гостях" x="132" y="988" width="819" height="581" />
+  <frame id="1:1143" name="Frame 6461" x="821" y="1405" width="156" height="156" />
+  <rounded-rectangle id="1:1145" name="Rectangle 272" x="-72" y="-41" width="1257" height="3095" />
+  <instance id="1:1146" name="Frame 2087326756" x="60" y="829" width="960" height="777" />
+</frame>

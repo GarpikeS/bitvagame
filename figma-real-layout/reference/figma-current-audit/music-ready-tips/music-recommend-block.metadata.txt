@@ -1,0 +1,9 @@
+<frame id="1:294" name="Frame 6510" x="60" y="5804.5234375" width="962" height="521">
+  <text id="1:295" name="ВАМ МОЖЕТ ПОНРАВИТЬСЯ" x="0" y="0" width="961.4970703125" height="39" />
+  <frame id="1:296" name="Frame 6508" x="0" y="71" width="962" height="310">
+    <instance id="1:297" name="Component 40" x="0" y="0" width="310" height="310" />
+    <instance id="1:298" name="Component 40" x="326" y="0" width="310" height="310" />
+    <instance id="1:299" name="Frame 2087325390" x="652" y="0" width="310" height="310" />
+  </frame>
+  <instance id="1:300" name="button M" x="0" y="413" width="966" height="108" />
+</frame>

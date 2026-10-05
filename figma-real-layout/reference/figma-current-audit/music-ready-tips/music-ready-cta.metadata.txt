@@ -1,0 +1,4 @@
+<frame id="1:356" name="Frame 6493" x="60" y="5485" width="960" height="219">
+  <text id="1:357" name="ВСЁ ГОТОВО? ТОГДА ЖМИТЕ!" x="0" y="0" width="960" height="67" />
+  <instance id="1:358" name="Component 36" x="0" y="99" width="960" height="120" />
+</frame>

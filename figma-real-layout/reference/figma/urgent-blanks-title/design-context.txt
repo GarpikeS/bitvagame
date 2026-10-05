@@ -1,0 +1,7 @@
+export default function Component() {
+  return (
+    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:DemiBold'] leading-[1.1] not-italic relative size-full text-[#4c2704] text-[72px] whitespace-nowrap" data-node-id="1:365">
+      Бланки внутри!
+    </p>
+  );
+}

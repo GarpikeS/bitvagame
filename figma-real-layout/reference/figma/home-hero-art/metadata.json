@@ -1,0 +1,12 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "<frame id=\"1:1215\" name=\"Group 2087326593\" x=\"-153.92076110839844\" y=\"193.00039672851562\" width=\"1444.8962763763898\" height=\"1560.4238414925949\">\n  <rounded-rectangle id=\"1:1216\" name=\"Untitled (28) 3\" x=\"-167.70118513521882\" y=\"593.2573390392594\" width=\"1368.2996451163708\" height=\"1498.7215063291624\" />\n  <rounded-rectangle id=\"1:1217\" name=\"Untitled (28) 2\" x=\"-167.7031391177745\" y=\"593.258340504664\" width=\"1368.2996451163708\" height=\"1498.7215063291624\" />\n</frame>"
+    },
+    {
+      "type": "text",
+      "text": "IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design."
+    }
+  ]
+}

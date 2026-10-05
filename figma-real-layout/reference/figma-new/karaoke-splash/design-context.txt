@@ -1,0 +1,367 @@
+const imgGroup = "http://localhost:3845/assets/6589cdf6fc7d7748172b1348acda4278ae6914fb.svg";
+const imgVector = "http://localhost:3845/assets/aac82b27865bdf1ef609d826496b783517a50960.svg";
+const imgVector1 = "http://localhost:3845/assets/ef4015fc83a48547d0b5bf010ea86b94b32fa797.svg";
+const imgVector2 = "http://localhost:3845/assets/1212412734ea2de9a748eb038ea74bd89b4c9e3e.svg";
+const imgVector3 = "http://localhost:3845/assets/7f9b7492acd4a848ce1091af4ea6352800c4d7de.svg";
+const imgGroup1 = "http://localhost:3845/assets/3835d315778756a7fe11172d2627b31069150d89.svg";
+const imgLettersCoinsLettersVariant34 = "http://localhost:3845/assets/4acc0c6a779b3ba92f7419909ea4b37613b864c3.svg";
+const imgUnion = "http://localhost:3845/assets/4d85e0c883d3fbf7c298316041389c2c52688c69.svg";
+const imgAdobeExpressFile103 = "http://localhost:3845/assets/7a310a701f0d624eeaa84ab0c161d11ab49e2557.png";
+const imgCb832Fa3A20Abcc45665F34E937D72B32890067DDc324D58Af9C0849Be36Cada2 = "http://localhost:3845/assets/5d001430ce40e9374d1e203e61cc40140fd19cff.png";
+const imgCb832Fa3A20Abcc45665F34E937D72B32890067DDc324D58Af9C0849Be36Cada3 = "http://localhost:3845/assets/43f08b5309f1b0a4d252b50417b10f6507b58621.png";
+const imgCb832Fa3A20Abcc45665F34E937D72B32890067DDc324D58Af9C0849Be36Cada1 = "http://localhost:3845/assets/3e4c8e1184be71ed6b5f6bc853104a70591ad596.svg";
+const imgGroup2087331427 = "http://localhost:3845/assets/2c516294d602309ee065ee318e42ddd761b84dba.svg";
+const imgGroup2087331422 = "http://localhost:3845/assets/eff350df935e08cee1bf4380d163052edc8762be.svg";
+const imgFrame2087326726 = "http://localhost:3845/assets/8d33aa59d77f99ab3dc38feb0e3e457eaf66c081.svg";
+const imgUnion1 = "http://localhost:3845/assets/24c9f666424e5c1fa384d780a94a1327488696c2.svg";
+const imgGroup2087331618 = "http://localhost:3845/assets/f0d33c799e4a064f09cd0e367814499c135dfcff.svg";
+const imgGroup2 = "http://localhost:3845/assets/265a747ccb2677806befc0f452af359d266a2120.svg";
+const img98 = "http://localhost:3845/assets/0be492e0497526803ef67a04ac46423589ae2bc9.svg";
+
+function Footer({ className }: { className?: string }) {
+  return (
+    <div className={className || "bg-[#161616] h-[505px] relative rounded-tl-[80px] rounded-tr-[80px] w-[1081px]"} data-node-id="1:129" data-name="Footer">
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [text-underline-position:from-font] [word-break:break-word] absolute decoration-from-font decoration-solid font-['TT_Hoves_Pro_Trial_Variable:Medium'] inset-[53.52%_13.41%_42.91%_51.16%] leading-none not-italic text-[#767676] text-[25.946px] underline whitespace-nowrap" data-node-id="1:130">
+        Политика конфиденциальности
+      </p>
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial:Regular'] inset-[24.75%_14.99%_61.19%_51.16%] leading-[1.11] not-italic text-[#767676] text-[24px] whitespace-nowrap" data-node-id="1:131">
+        ИП Шаталов Дмитрий Андреевич
+        <br aria-hidden />
+        ОГРН: 322861700029539
+        <br aria-hidden />
+        ИНН: 711404699134
+      </p>
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial:Regular'] inset-[62.52%_18.69%_34.12%_51.16%] leading-none not-italic text-[#767676] text-[24px] whitespace-nowrap" data-node-id="1:132">
+        © 2026. Все права защищены
+      </p>
+      <div className="absolute content-stretch flex flex-col items-start left-[25px] px-[38.148px] top-[121px]" data-node-id="1:133">
+        <div className="grid-cols-[max-content] grid-rows-[max-content] inline-grid leading-[0] place-items-start relative shrink-0" data-node-id="I1:133;739:25743">
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] col-1 font-['TT_Trailers_Trial:Bold_Italic'] leading-[1.003] ml-[570.09px] mt-[109.63px] not-italic relative row-1 text-[#ff391f] text-[87.12px] whitespace-nowrap" data-node-id="I1:133;739:25744">
+            И Г Р Ы
+          </p>
+          <div className="col-1 h-[61.12px] ml-[20.82px] mt-[109.77px] relative row-1 w-[191.002px]" data-node-id="I1:133;739:25745" data-name="Group">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup} />
+          </div>
+          <div className="col-1 h-[32.198px] ml-0 mt-[4.39px] relative row-1 w-[207.92px]" data-node-id="I1:133;739:25751" data-name="Vector">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+          </div>
+          <div className="col-1 h-[32.198px] ml-0 mt-[282.83px] relative row-1 w-[207.92px]" data-node-id="I1:133;739:25752" data-name="Vector">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+          </div>
+          <div className="col-1 h-[32.198px] ml-[273.7px] mt-[289.49px] relative row-1 w-[182.533px]" data-node-id="I1:133;739:25753" data-name="Vector">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector2} />
+          </div>
+          <div className="col-1 h-[32.198px] ml-[213.17px] mt-0 relative row-1 w-[207.92px]" data-node-id="I1:133;739:25754" data-name="Vector">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+          </div>
+          <div className="col-1 h-[32.198px] ml-[476.33px] mt-[10.53px] relative row-1 w-[207.92px]" data-node-id="I1:133;739:25755" data-name="Vector">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector3} />
+          </div>
+          <div className="col-1 h-[32.198px] ml-[476.33px] mt-[288.97px] relative row-1 w-[207.92px]" data-node-id="I1:133;739:25756" data-name="Vector">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+type Component1Props = {
+  className?: string;
+  property1?: "mic" | "14";
+};
+
+function Component1({ className, property1 = "14" }: Component1Props) {
+  const is14 = property1 === "14";
+  return (
+    <div className={className || "overflow-clip relative size-[105px]"} id={is14 ? "node-1_566" : "node-1_558"}>
+      {property1 === "mic" && (
+        <div className="absolute contents inset-[0_6.64%_0.31%_5.06%]" data-node-id="1:559" data-name="Group">
+          <div className="absolute inset-[0_6.64%_0.31%_5.06%]" data-node-id="1:560" data-name="Group">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup1} />
+          </div>
+        </div>
+      )}
+      {is14 && (
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.1] left-0 not-italic text-[#ff8b1e] text-[110.468px] top-[10.59px] whitespace-nowrap" data-node-id="1:567">
+          14
+        </p>
+      )}
+    </div>
+  );
+}
+
+function Frame({ className }: { className?: string }) {
+  return (
+    <div className={className || "bg-white content-stretch flex flex-col gap-[24px] items-start p-[32px] relative rounded-[40px] w-[472px]"} data-node-id="1:535">
+      <Component1 className="overflow-clip relative shrink-0 size-[105px]" property1="mic" />
+      <div className="[word-break:break-word] content-stretch flex flex-col gap-[16px] items-start leading-[1.1] not-italic relative shrink-0 w-full" data-node-id="1:537">
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Medium'] relative shrink-0 text-[#161616] text-[30px] w-[406px]" data-node-id="1:538">
+          Купить другую категорию
+        </p>
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Regular'] min-w-full relative shrink-0 text-[#898989] text-[26px] w-[min-content]" data-node-id="1:539">
+          1 категория = 100 монет
+        </p>
+      </div>
+    </div>
+  );
+}
+
+function Component45Default({ className }: { className?: string }) {
+  return (
+    <div className={className || "bg-[#fe391f] content-stretch drop-shadow-[0px_3.439px_9.07px_rgba(254,57,31,0.91)] flex items-center justify-between p-[32px] relative rounded-[932.921px] w-[970px]"} data-node-id="1:255" data-name="Component 45/default">
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Bold'] leading-[1.003] not-italic relative shrink-0 text-[80px] text-white uppercase whitespace-nowrap" data-node-id="1:256">
+        Начать игру
+      </p>
+      <div className="bg-[#b01c08] content-stretch flex items-center justify-center px-[32px] py-[16px] relative rounded-[800px] shrink-0 w-[199px]" data-node-id="1:257">
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.1] not-italic relative shrink-0 text-[#f3f3f3] text-[30px] text-center whitespace-nowrap" data-node-id="1:258">
+          60 песен
+        </p>
+      </div>
+    </div>
+  );
+}
+
+function LettersCoinsLettersVariant({ className }: { className?: string }) {
+  return (
+    <div className={className || "relative size-[82px]"} data-node-id="1:37" data-name="Letters/Coins/Letters/Variant34">
+      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgLettersCoinsLettersVariant34} />
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial:Bold'] inset-[29.27%_32.93%_29.27%_31.71%] leading-[1.1] not-italic text-[#f3f3f3] text-[48.188px] text-center whitespace-nowrap" data-node-id="1:39">
+        Т
+      </p>
+    </div>
+  );
+}
+
+function IconsOutlineChevronLeft({ className }: { className?: string }) {
+  return (
+    <div className={className || "overflow-clip relative size-[24px]"} data-node-id="1:40" data-name="icons/outline/chevron-left">
+      <div className="absolute inset-[20.83%_33.33%]" data-node-id="1:42" data-name="Union">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUnion} />
+      </div>
+    </div>
+  );
+}
+
+function CoinsHeaderFrame({ className }: { className?: string }) {
+  return (
+    <div className={className || "bg-[#e5e5e5] content-stretch flex items-center justify-center pb-[21px] pl-[25px] pr-[28px] pt-[20px] relative rounded-[32px] size-[64px]"} data-node-id="1:44" data-name="Coins/Header/Frame 2087325377">
+      <IconsOutlineChevronLeft className="overflow-clip relative shrink-0 size-[24px]" />
+    </div>
+  );
+}
+
+export default function Component() {
+  return (
+    <div className="bg-[#f3f3f3] relative size-full" data-node-id="1:506" data-name="Заставка (Хиты караоке)">
+      <div className="-translate-x-1/2 absolute bg-white content-stretch flex items-center justify-between left-1/2 p-[20px] rounded-[90px] top-[80px] w-[960px]" data-node-id="1:507" data-name="Header">
+        <div className="content-stretch flex gap-[16px] items-center relative shrink-0" data-node-id="I1:507;838:4386">
+          <CoinsHeaderFrame className="bg-[#e5e5e5] content-stretch flex items-center justify-center pb-[21px] pl-[25px] pr-[28px] pt-[20px] relative rounded-[32px] shrink-0 size-[64px]" />
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.1] not-italic relative shrink-0 text-[#161616] text-[42px] text-center whitespace-nowrap" data-node-id="I1:507;838:4388">
+            Караоке битва
+          </p>
+        </div>
+        <div className="content-stretch flex gap-[8px] items-center relative shrink-0" data-node-id="I1:507;838:4389">
+          <div className="content-stretch flex gap-[4px] items-center pr-[24px] py-[8px] relative rounded-[90px] shrink-0" data-node-id="I1:507;838:4390" style={{ backgroundImage: "linear-gradient(-49.5408deg, rgb(35, 35, 35) 8.0174%, rgb(66, 66, 66) 96.721%)" }}>
+            <div className="flex h-[67.431px] items-center justify-center relative shrink-0 w-[70.666px]" data-node-id="I1:507;838:4391">
+              <div className="flex-none rotate-[0.63deg]">
+                <div className="h-[66.667px] relative w-[69.938px]" data-name="Adobe Express - file (10) 3">
+                  <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                    <img alt="" className="absolute h-[279.23%] left-0 max-w-none top-[-40.3%] w-[269.47%]" src={imgAdobeExpressFile103} />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] bg-clip-text font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.1] not-italic relative shrink-0 text-[40.973px] text-[transparent] text-center whitespace-nowrap" data-node-id="I1:507;838:4392" style={{ backgroundImage: "linear-gradient(108.646deg, rgb(209, 209, 209) 0%, rgb(102, 102, 102) 146.67%)" }}>
+              11 240
+            </p>
+          </div>
+          <LettersCoinsLettersVariant className="relative shrink-0 size-[82px]" />
+        </div>
+      </div>
+      <div className="absolute content-stretch flex flex-col gap-[80px] items-center left-[60px] top-[284px] w-[960px]" data-node-id="1:508">
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Bold'] leading-[1.003] not-italic relative shrink-0 text-[#ff8b1e] text-[120px] text-center uppercase w-full" data-node-id="1:509">
+          ХИТЫ КАРАОКЕ
+        </p>
+        <div className="content-stretch flex flex-col gap-[20px] items-start relative shrink-0 w-full" data-node-id="1:510">
+          <div className="grid-cols-[max-content] grid-rows-[max-content] inline-grid leading-[0] place-items-start relative shrink-0" data-node-id="1:511" data-name="Mask group">
+            <div className="col-1 grid-cols-[max-content] grid-rows-[max-content] inline-grid ml-[-334px] mt-[-394.69px] place-items-start relative row-1" data-node-id="1:513">
+              <div className="col-1 h-[2196.811px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[334px_394.688px] mask-size-[960px_960px] ml-0 mt-0 relative row-1 w-[1556.46px]" data-node-id="1:514" style={{ maskImage: `url("${imgCb832Fa3A20Abcc45665F34E937D72B32890067DDc324D58Af9C0849Be36Cada1}")` }} data-name="cb832fa3a20abcc45665f34e937d72b3_2890067d-dc32-4d58-af9c-0849be36cada 1">
+                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgCb832Fa3A20Abcc45665F34E937D72B32890067DDc324D58Af9C0849Be36Cada2} />
+              </div>
+              <div className="col-1 h-[586.395px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[81.341px_-467.576px] mask-size-[960px_960px] ml-[252.66px] mt-[862.26px] relative row-1 w-[1107.74px]" data-node-id="1:515" style={{ maskImage: `url("${imgCb832Fa3A20Abcc45665F34E937D72B32890067DDc324D58Af9C0849Be36Cada1}")` }}>
+                <div className="absolute inset-[-6.5%_-3.44%_-5.47%_-3.44%]">
+                  <img alt="" className="block max-w-none size-full" src={imgGroup2087331427} />
+                </div>
+              </div>
+              <div className="col-1 h-[998.466px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[-175.865px_-300.262px] mask-size-[960px_960px] ml-[509.87px] mt-[694.95px] relative row-1 w-[800.439px]" data-node-id="1:520" style={{ maskImage: `url("${imgCb832Fa3A20Abcc45665F34E937D72B32890067DDc324D58Af9C0849Be36Cada1}")` }} data-name="cb832fa3a20abcc45665f34e937d72b3_2890067d-dc32-4d58-af9c-0849be36cada 2">
+                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgCb832Fa3A20Abcc45665F34E937D72B32890067DDc324D58Af9C0849Be36Cada3} />
+              </div>
+              <div className="col-1 flex h-[330.636px] items-center justify-center ml-[382px] mt-[419px] relative row-1 w-[868.512px]" data-node-id="1:521">
+                <div className="flex-none rotate-[-4.6deg] skew-x-[-0.04deg]">
+                  <div className="h-[263.316px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[-48px_-24.312px] mask-size-[960px_960px] relative w-[850.315px]" style={{ maskImage: `url("${imgCb832Fa3A20Abcc45665F34E937D72B32890067DDc324D58Af9C0849Be36Cada1}")` }}>
+                    <div className="absolute inset-[-6.02%_-1.37%_-1.21%_-2.96%]">
+                      <img alt="" className="block max-w-none size-full" src={imgGroup2087331422} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <Component45Default className="bg-[#fe391f] content-stretch drop-shadow-[0px_3.439px_9.07px_rgba(254,57,31,0.91)] flex items-center justify-between p-[32px] relative rounded-[932.921px] shrink-0 w-[970px]" />
+        </div>
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Bold'] leading-[0] not-italic relative shrink-0 text-[#161616] text-[96px] text-center uppercase w-full" data-node-id="1:525">
+          <span className="leading-[1.1]">Управление</span>
+          <span className="leading-[1.1] text-[#ff8b1e]">{` игрой`}</span>
+        </p>
+        <div className="content-start flex flex-wrap gap-[16px] items-start relative shrink-0 w-full" data-node-id="1:526">
+          <Frame className="bg-white content-stretch flex flex-col gap-[24px] items-start p-[32px] relative rounded-[40px] shrink-0 w-[472px]" />
+          <div className="bg-white content-stretch flex flex-col gap-[24px] items-start p-[32px] relative rounded-[40px] shrink-0 w-[472px]" data-node-id="1:528">
+            <div className="overflow-clip relative shrink-0 size-[105px]" data-node-id="I1:528;1:536">
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.1] left-0 not-italic text-[#ff8b1e] text-[110.468px] top-[10.59px] whitespace-nowrap" data-node-id="I1:528;1:536;1:567">
+                14
+              </p>
+            </div>
+            <div className="[word-break:break-word] content-stretch flex flex-col gap-[16px] items-start leading-[1.1] not-italic relative shrink-0 w-full" data-node-id="I1:528;1:537">
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Medium'] relative shrink-0 text-[#161616] text-[30px] w-[406px]" data-node-id="I1:528;1:538">
+                Выпали песни
+              </p>
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Regular'] min-w-full relative shrink-0 text-[#898989] text-[26px] w-[min-content]" data-node-id="I1:528;1:539">
+                смотреть правильные ответы
+              </p>
+            </div>
+          </div>
+          <div className="bg-white content-stretch flex flex-col gap-[24px] items-start p-[32px] relative rounded-[40px] shrink-0 w-[472px]" data-node-id="1:529">
+            <div className="overflow-clip relative shrink-0 size-[105px]" data-node-id="I1:529;1:536">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame2087326726} />
+            </div>
+            <div className="[word-break:break-word] content-stretch flex flex-col gap-[16px] items-start leading-[1.1] not-italic relative shrink-0 w-full" data-node-id="I1:529;1:537">
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Medium'] relative shrink-0 text-[#161616] text-[30px] w-[406px]" data-node-id="I1:529;1:538">
+                Объявить победителя
+              </p>
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Regular'] min-w-full relative shrink-0 text-[#898989] text-[26px] w-[min-content]" data-node-id="I1:529;1:539">
+                и завершить игру
+              </p>
+            </div>
+          </div>
+          <div className="bg-white content-stretch flex flex-col gap-[24px] items-start p-[32px] relative rounded-[40px] shrink-0 w-[472px]" data-node-id="1:530">
+            <div className="bg-[#ff8b1e] content-stretch flex items-center justify-center relative rounded-[110.008px] shrink-0 size-[105px]" data-node-id="I1:530;1:536">
+              <div className="relative shrink-0 size-[48px]" data-node-id="I1:530;1:536;1:542" data-name="icons/fill/play">
+                <div className="absolute bottom-[16.67%] left-1/4 right-[16.67%] top-[16.67%]" data-node-id="I1:530;1:536;1:542;419:6943" data-name="Union">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUnion1} />
+                </div>
+              </div>
+            </div>
+            <div className="[word-break:break-word] content-stretch flex flex-col gap-[16px] items-start leading-[1.1] not-italic relative shrink-0 w-full" data-node-id="I1:530;1:537">
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Medium'] relative shrink-0 text-[#161616] text-[30px] w-[406px]" data-node-id="I1:530;1:538">
+                Новая игра
+              </p>
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Regular'] min-w-full relative shrink-0 text-[#898989] text-[26px] w-[min-content]" data-node-id="I1:530;1:539">
+                обновить список песен
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="content-stretch flex flex-col gap-[30px] items-start relative shrink-0 w-full" data-node-id="1:531">
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Bold'] leading-[1.1] min-w-full not-italic relative shrink-0 text-[#161616] text-[96px] text-center uppercase w-[min-content]" data-node-id="1:532">
+            советы
+          </p>
+          <div className="h-[667.344px] relative shrink-0 w-[966.934px]" data-node-id="1:533">
+            <div className="absolute flex inset-[61.39%_0_0_0] items-center justify-center" data-node-id="I1:533;1:360" style={{ containerType: "size" }}>
+              <div className="flex-none h-[hypot(1.03287cqw,82.5683cqh)] rotate-[-2.69deg] w-[hypot(98.9671cqw,-17.4317cqh)]">
+                <div className="bg-white relative rounded-[40px] shadow-[0px_4px_18.6px_0px_rgba(0,0,0,0.25)] size-full" />
+              </div>
+            </div>
+            <div className="absolute flex inset-[69.12%_17.05%_7.97%_20.56%] items-center justify-center" data-node-id="I1:533;1:361" style={{ containerType: "size" }}>
+              <div className="flex-none h-[hypot(0.97165cqw,81.662cqh)] rotate-[-2.69deg] w-[hypot(99.0284cqw,-18.338cqh)]">
+                <div className="[word-break:break-word] content-stretch flex flex-col gap-[25px] items-start not-italic relative size-full">
+                  <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Trailers_Trial:Bold'] leading-[0.88] relative shrink-0 text-[#140403] text-[56px] w-full" data-node-id="I1:533;1:362">
+                    ПОЙТЕ ВМЕСТЕ
+                  </p>
+                  <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Medium'] leading-[0] relative shrink-0 text-[#232323] text-[30px] w-full" data-node-id="I1:533;1:363">
+                    <p className="leading-[1.09] mb-0">Включайте песни, считайте очки</p>
+                    <p className="leading-[1.09]">и выясните, кто чемпион караоке битвы!</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="absolute contents inset-[0_0.18%_63.39%_0.08%]" data-node-id="I1:533;1:364">
+              <div className="absolute flex inset-[0_0.18%_63.39%_0.08%] items-center justify-center" data-node-id="I1:533;1:365" style={{ containerType: "size" }}>
+                <div className="flex-none h-[hypot(0.724506cqw,87.1362cqh)] rotate-[-1.88deg] w-[hypot(99.2755cqw,-12.8638cqh)]">
+                  <div className="bg-white relative rounded-[40px] shadow-[0px_4px_18.6px_0px_rgba(0,0,0,0.25)] size-full" />
+                </div>
+              </div>
+              <div className="absolute flex inset-[7.08%_10.66%_70.95%_20.59%] items-center justify-center" data-node-id="I1:533;1:366" style={{ containerType: "size" }}>
+                <div className="flex-none h-[hypot(0.616889cqw,85.21cqh)] rotate-[-1.88deg] w-[hypot(99.3831cqw,-14.79cqh)]">
+                  <div className="[word-break:break-word] content-stretch flex flex-col gap-[25px] items-start not-italic relative size-full">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Trailers_Trial:Bold'] leading-[0.88] relative shrink-0 text-[#140403] text-[56px] w-full" data-node-id="I1:533;1:367">
+                      ОТКРОЙТЕ ИГРУ
+                    </p>
+                    <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[0] relative shrink-0 text-[#161616] text-[30px] w-full" data-node-id="I1:533;1:368">
+                      <p className="leading-[1.32] mb-0">Откройте окно с игрой, в которой рандомно</p>
+                      <p className="leading-[1.32]">будут приходить песни.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="absolute flex inset-[12.59%_84.77%_71.94%_4.55%] items-center justify-center" data-node-id="I1:533;1:369" style={{ containerType: "size" }}>
+                <div className="flex-none h-[hypot(3.17808cqw,96.8219cqh)] rotate-[-1.88deg] w-[hypot(96.8219cqw,-3.17808cqh)]">
+                  <div className="overflow-clip relative size-full">
+                    <div className="absolute inset-[0.29%_11.35%_1.14%_13.57%]" data-node-id="I1:533;1:370">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup2087331618} />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="absolute flex inset-[76.27%_84.53%_8.06%_4.65%] items-center justify-center" data-node-id="I1:533;1:373" style={{ containerType: "size" }}>
+              <div className="flex-none h-[hypot(4.48755cqw,95.5125cqh)] rotate-[-2.69deg] w-[hypot(95.5125cqw,-4.48755cqh)]">
+                <div className="overflow-clip relative size-full">
+                  <div className="absolute left-[4.78px] overflow-clip size-[89.304px] top-[4.73px]" data-node-id="I1:533;1:374">
+                    <div className="absolute contents inset-[0_0.74%_0.74%_0]" data-node-id="I1:533;1:375" data-name="Group">
+                      <div className="absolute inset-[0_0.74%_0.74%_0]" data-node-id="I1:533;1:376" data-name="Group">
+                        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup2} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="absolute contents inset-[31.57%_0.11%_31.45%_0.1%]" data-node-id="I1:533;1:378">
+              <div className="absolute flex inset-[31.57%_0.11%_31.45%_0.1%] items-center justify-center" data-node-id="I1:533;1:379" style={{ containerType: "size" }}>
+                <div className="flex-none h-[hypot(-0.782571cqw,86.2401cqh)] rotate-[2.03deg] w-[hypot(99.2174cqw,13.7599cqh)]">
+                  <div className="bg-[#ff8b1e] relative rounded-[40px] size-full" />
+                </div>
+              </div>
+              <div className="absolute flex inset-[39.2%_10.6%_38.57%_20.62%] items-center justify-center" data-node-id="I1:533;1:380" style={{ containerType: "size" }}>
+                <div className="flex-none h-[hypot(-0.666387cqw,84.204cqh)] rotate-[2.03deg] w-[hypot(99.3336cqw,15.796cqh)]">
+                  <div className="[word-break:break-word] content-stretch flex flex-col gap-[25px] items-start not-italic relative size-full text-[#f3f3f3]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Trailers_Trial:Bold'] leading-[0.88] relative shrink-0 text-[56px] w-full" data-node-id="I1:533;1:381">
+                      ПОДКЛЮЧИТЕ УСТРОЙСТВО
+                    </p>
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.32] relative shrink-0 text-[30px] w-full" data-node-id="I1:533;1:382">
+                      Не забудьте подключить телефон или ноутбук к колонке
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="absolute flex inset-[41.04%_84.76%_43.45%_4.53%] items-center justify-center" data-node-id="I1:533;1:383" style={{ containerType: "size" }}>
+                <div className="flex-none h-[hypot(-3.42317cqw,96.5768cqh)] rotate-[2.03deg] w-[hypot(96.5768cqw,3.42317cqh)]">
+                  <div className="overflow-clip relative size-full">
+                    <div className="absolute contents inset-[7.85%_7.75%_7.89%_7.85%]" data-node-id="I1:533;1:384" data-name="Layer_2_00000107551480302018053880000002129044602849330310_">
+                      <div className="absolute contents inset-[7.85%_7.75%_7.89%_7.85%]" data-node-id="I1:533;1:385" data-name="Layer_1_copy_6">
+                        <div className="absolute inset-[7.85%_7.75%_7.89%_7.85%]" data-node-id="I1:533;1:386" data-name="_98">
+                          <img alt="" className="absolute block inset-0 max-w-none size-full" src={img98} />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <Footer className="-translate-x-1/2 absolute bg-[#161616] bottom-[-5px] h-[505px] left-[calc(50%-0.5px)] rounded-tl-[80px] rounded-tr-[80px] w-[1081px]" />
+    </div>
+  );
+}

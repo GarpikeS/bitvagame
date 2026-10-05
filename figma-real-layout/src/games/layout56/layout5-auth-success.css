@@ -1,0 +1,64 @@
+/* Exact Figma Layout 5 auth-success frames: 1080 × 2564. */
+.page.l5a-page {
+  --canvas-width: 1080px;
+  --canvas-target-width: 540px;
+  --l5a-action-top: 1297.451px;
+  position: relative;
+  width: 1080px;
+  min-width: 1080px;
+  max-width: 1080px;
+  height: 2564px;
+  min-height: 2564px;
+  overflow: hidden;
+  isolation: isolate;
+  background: #f3f3f3;
+}
+
+.l5a-reference {
+  position: absolute;
+  z-index: 0;
+  inset: 0;
+  display: block;
+  width: 1080px;
+  height: 2564px;
+  max-width: none;
+  pointer-events: none;
+  user-select: none;
+}
+
+.l5a-hit {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  color: transparent;
+  background: transparent;
+  cursor: pointer;
+}
+
+.l5a-hit:focus-visible {
+  outline: 5px solid #ff8b1e;
+  outline-offset: 5px;
+}
+
+.l5a-back { left: 60.5px; top: 80px; width: 430px; height: 123.431px; border-radius: 70px; }
+.l5a-header-home { left: 850px; top: 80px; width: 170px; height: 123.431px; border-radius: 70px; }
+.l5a-account { left: 650px; top: 80px; width: 370px; height: 123.431px; border-radius: 70px; }
+.l5a-primary { left: 108.5px; top: var(--l5a-action-top); width: 864px; height: 122px; border-radius: 933px; }
+.l5a-secondary { left: 108.5px; top: calc(var(--l5a-action-top) + 146px); width: 864px; height: 122px; border-radius: 933px; }
+.l5a-footer-home { left: 25px; top: 2180px; width: 484px; height: 154px; }
+.l5a-privacy { left: 553px; top: 2329px; width: 383px; height: 45px; }
+
+.l5a-visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0 0 0 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}

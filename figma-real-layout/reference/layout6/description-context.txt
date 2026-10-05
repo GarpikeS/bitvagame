@@ -1,0 +1,1114 @@
+const imgProperty1Default = "https://www.figma.com/api/mcp/asset/93d8cc6e-822a-43c5-aebf-227ff06f2163.png";
+const imgEditedPhoto43 = "https://www.figma.com/api/mcp/asset/3dfbf2b9-f511-44bb-a202-6f22be4a9fa0.png";
+const imgEditedPhoto42 = "https://www.figma.com/api/mcp/asset/02b73737-a0c7-49c6-8671-46ea940682f8.svg";
+const imgRectangle42169 = "https://www.figma.com/api/mcp/asset/fe4915c9-6e25-4825-a591-275786f2b950.svg";
+const imgEditedPhoto44 = "https://www.figma.com/api/mcp/asset/c5b6584e-0629-4a28-8bb7-a47c1d9557af.png";
+const imgRectangle42170 = "https://www.figma.com/api/mcp/asset/cb0de09f-ecb4-4dc6-9c3c-520769e8a70a.svg";
+const imgEditedPhoto45 = "https://www.figma.com/api/mcp/asset/e484debe-9b75-4efd-a5ff-b18b925d34fc.png";
+const imgEditedPhoto46 = "https://www.figma.com/api/mcp/asset/a74b7ca5-fc2b-4456-9669-86a2ea46f223.png";
+const imgEditedPhoto47 = "https://www.figma.com/api/mcp/asset/ea98159d-b7cd-424d-954d-e29d261e6346.png";
+const imgEditedPhoto73 = "https://www.figma.com/api/mcp/asset/ca381ab5-acef-4ff2-bfc4-69f48a2f60b4.png";
+const imgAdobeExpressFile103 = "https://www.figma.com/api/mcp/asset/da3a2f4a-e580-43f0-9db8-31e56a9a21c6.png";
+const imgEllipse943 = "https://www.figma.com/api/mcp/asset/a6970d6f-f6dc-4e05-838b-7740f72fb432.svg";
+const imgEditedPhoto72 = "https://www.figma.com/api/mcp/asset/dc072a63-6690-40f3-9835-41f3816b72f5.svg";
+const imgEditedPhoto71 = "https://www.figma.com/api/mcp/asset/3ee73d34-e50b-48b7-9ba0-0d8cd66799de.svg";
+const imgEllipse84 = "https://www.figma.com/api/mcp/asset/9bef9ddb-6adf-4468-aaac-bb3eb8f71687.svg";
+const imgEditedPhoto52 = "https://www.figma.com/api/mcp/asset/a837c7af-71e7-4192-9557-277ae42569c4.png";
+const imgEllipse944 = "https://www.figma.com/api/mcp/asset/5ac42141-4214-4454-820f-3e58377227ad.svg";
+const imgFrame6461 = "https://www.figma.com/api/mcp/asset/93d39836-6dba-4a3b-b7af-2f96bce55a4e.svg";
+const imgG61316 = "https://www.figma.com/api/mcp/asset/5b3b159a-8442-4043-a870-078f19dd3197.svg";
+const imgG418 = "https://www.figma.com/api/mcp/asset/3179f7ce-2715-42f7-91e3-5205ffca69c5.svg";
+const imgG419 = "https://www.figma.com/api/mcp/asset/46a73790-c48c-4f66-8302-188f71ff570e.svg";
+const imgG422 = "https://www.figma.com/api/mcp/asset/761704ea-f41b-4ee3-9303-a8c8e42fe492.svg";
+const imgG426 = "https://www.figma.com/api/mcp/asset/f5a6286a-b30a-47be-88c5-7d87adabee26.svg";
+const imgG430 = "https://www.figma.com/api/mcp/asset/99cd5501-72e3-44b0-b708-9473e57a2c74.svg";
+const imgG434 = "https://www.figma.com/api/mcp/asset/dff1b94f-38a7-4243-85c6-c0df8c84a74b.svg";
+const imgG438 = "https://www.figma.com/api/mcp/asset/f8fedea6-8b61-41f3-a14f-695073ad659b.svg";
+const imgG442 = "https://www.figma.com/api/mcp/asset/d9ec4bb9-a902-48a1-a691-d5e670a296a2.svg";
+const imgG446 = "https://www.figma.com/api/mcp/asset/d3882754-ad6a-4614-acaa-7d8a621e4786.svg";
+const imgG450 = "https://www.figma.com/api/mcp/asset/e83d4db6-1b8a-4c6a-b260-f6e2ca2415f7.svg";
+const imgG454 = "https://www.figma.com/api/mcp/asset/11bc2718-1485-4906-a862-ac5bd21f4e4f.svg";
+const imgG458 = "https://www.figma.com/api/mcp/asset/89974f23-b52b-417a-9d7a-7f3eb14a39ad.svg";
+const imgG462 = "https://www.figma.com/api/mcp/asset/1584d5e0-0efe-45e7-b17c-6f2dd16d83f1.svg";
+const imgG466 = "https://www.figma.com/api/mcp/asset/00246b4e-58f8-4ba2-a738-fab8980edda2.svg";
+const imgG470 = "https://www.figma.com/api/mcp/asset/294b7ceb-2c61-4bb4-bfb4-0c09ef2fdb71.svg";
+const imgG474 = "https://www.figma.com/api/mcp/asset/cec323a2-ac6d-42e8-b15e-5b9eeef0038f.svg";
+const imgG478 = "https://www.figma.com/api/mcp/asset/a191ba60-5334-4a5f-9697-2d981788e84b.svg";
+const imgLayer2 = "https://www.figma.com/api/mcp/asset/54490f2f-f302-488a-bdfc-c603b00e748e.svg";
+const imgIconsFillPlay = "https://www.figma.com/api/mcp/asset/dd3ab0ca-c731-4bfd-a089-22e3a745d9cf.svg";
+const imgGroup2087326593 = "https://www.figma.com/api/mcp/asset/3436090e-cfe2-4773-a002-d87be9ffba5d.svg";
+const imgGroup = "https://www.figma.com/api/mcp/asset/9901bbeb-3e1b-4330-a4a5-b7cd4f332b7a.svg";
+const imgVector = "https://www.figma.com/api/mcp/asset/babe8cad-dab8-4bc5-b098-a25a6ff520bf.svg";
+const imgVector1 = "https://www.figma.com/api/mcp/asset/0fef95ad-5427-44a1-9a9a-b49d76c4cdcc.svg";
+const imgVector2 = "https://www.figma.com/api/mcp/asset/b02e7b2f-f01f-4212-b0f2-3a5a0a120bf1.svg";
+const imgVector3 = "https://www.figma.com/api/mcp/asset/2c40beff-673d-47c8-a340-3fb1402157ab.svg";
+const imgIconsOutlineHeart = "https://www.figma.com/api/mcp/asset/0f2bc9d6-c1f5-4f7d-bcc7-787651adc8c3.svg";
+const imgLettersCoinsLettersVariant34 = "https://www.figma.com/api/mcp/asset/5e6c5519-f9fa-4e37-bd0b-e2ee2720a6e7.svg";
+const imgIconsOutlineChevronLeft = "https://www.figma.com/api/mcp/asset/bc48a18a-7d76-423d-9004-cbe3880f580e.svg";
+const imgImage2 = "https://www.figma.com/api/mcp/asset/3259cdb4-243b-41fb-957c-41acf9e5d2ee.png";
+const imgImage3 = "https://www.figma.com/api/mcp/asset/f61433f0-1c97-4560-8bac-fb45249d92c6.png";
+const imgComponent40 = "https://www.figma.com/api/mcp/asset/d68bfce7-1110-4879-a5cb-ab3ec50765ec.png";
+const imgComponent41 = "https://www.figma.com/api/mcp/asset/570da141-a2d5-45bd-8b78-5c80c0cc73f9.png";
+const imgFrame2087325390 = "https://www.figma.com/api/mcp/asset/fb866d5c-cb9e-45e3-a0c2-33c0fc1bdad4.png";
+const imgImage5 = "https://www.figma.com/api/mcp/asset/46294676-e225-4e9b-911a-f2a491287262.png";
+const imgImage6 = "https://www.figma.com/api/mcp/asset/7e1104b7-27bf-408f-bf76-5cf8e3c36be6.png";
+const imgImage7 = "https://www.figma.com/api/mcp/asset/65d35fbf-d81d-475f-b707-6eaca7ea625d.png";
+const imgImage8 = "https://www.figma.com/api/mcp/asset/35ac32b8-404a-44b8-9a80-894bafce86ab.png";
+const imgImage9 = "https://www.figma.com/api/mcp/asset/a4ef7736-2497-4d08-882a-03fd6d45d899.png";
+const imgGroup1 = "https://www.figma.com/api/mcp/asset/ed2472ff-1c4a-4849-a3d2-e8c604d874bd.svg";
+const imgImage4 = "https://www.figma.com/api/mcp/asset/0b2e46b6-d9f8-4d6e-909c-235831cd5b96.svg";
+
+type EditedPhoto41Props = {
+  className?: string;
+  property1?: "Default";
+};
+
+function EditedPhoto41({ className, property1 = "Default" }: EditedPhoto41Props) {
+  const isDefault = property1 === "Default";
+  return (
+    <div className={className || `relative ${isDefault ? "h-[136px] w-[138px]" : isDefault ? "h-[161px] w-[162px]" : isDefault ? "h-[167.634px] w-[169.609px]" : "h-[147px] w-[149px]"}`} id={isDefault ? "node-1_2353" : isDefault ? "node-1_2351" : isDefault ? "node-1_2349" : isDefault ? "node-1_2347" : "node-1_2345"}>
+      <div className="absolute inset-0 overflow-hidden pointer-events-none">
+        <img alt="" className={`absolute h-[301.62%] max-w-none w-[298.11%] ${isDefault ? "left-[-149%] top-[-161.55%]" : isDefault ? "left-[-41.24%] top-[-159.67%]" : isDefault ? "left-[-190.39%] top-[-62.3%]" : isDefault ? "left-[-98.59%] top-[-62.3%]" : "left-0 top-[-62.3%]"}`} src={imgProperty1Default} />
+      </div>
+    </div>
+  );
+}
+
+function Frame2087326854({ className }: { className?: string }) {
+  return (
+    <div className={className || "h-[372.162px] relative w-[255.384px]"} data-node-id="1:716">
+      <div className="absolute bg-[#0e0e0e] border border-[#f3f3f3] border-solid h-[372.162px] left-0 rounded-[19.645px] top-0 w-[255.384px]" data-node-id="1:717" />
+      <div className="absolute contents left-0 top-0" data-node-id="1:718" data-name="Mask group">
+        <div className="absolute blur-[23.574px] h-[559.856px] left-[-169.16px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[169.164px_28.375px] mask-size-[255.384px_372.162px] top-[-28.38px] w-[566.452px]" data-node-id="1:720" style={{ maskImage: `url("${imgEditedPhoto42}")` }} data-name="edited-photo (4) 2">
+          <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={imgEditedPhoto43} />
+        </div>
+      </div>
+      <EditedPhoto41 className="absolute h-[136px] left-[58.42px] top-[52.84px] w-[138px]" />
+      <div className="absolute contents left-0 mix-blend-plus-lighter top-0" data-node-id="1:722" data-name="Mask group">
+        <div className="absolute flex h-[358.547px] items-center justify-center left-[-81.85px] mix-blend-plus-lighter top-[-124.41px] w-[516.496px]" data-node-id="1:724">
+          <div className="flex-none rotate-[55.43deg]">
+            <div className="bg-white blur-[27.612px] h-[623.139px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[81.854px_124.414px] mask-size-[255.384px_372.162px] relative w-[5.998px]" style={{ maskImage: `url("${imgRectangle42169}")` }} />
+          </div>
+        </div>
+        <div className="absolute flex h-[358.547px] items-center justify-center left-[-125.51px] mix-blend-plus-lighter top-[-88.4px] w-[516.496px]" data-node-id="1:725">
+          <div className="flex-none rotate-[55.43deg]">
+            <div className="bg-[rgba(255,255,255,0.3)] blur-[10.095px] h-[623.139px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[125.51px_88.398px] mask-size-[255.384px_372.162px] relative w-[5.998px]" style={{ maskImage: `url("${imgRectangle42169}")` }} />
+          </div>
+        </div>
+      </div>
+      <div className="[word-break:break-word] absolute content-stretch flex flex-col gap-[20.736px] items-center justify-center leading-[1.05] left-[24.8px] not-italic text-[#f3f3f3] text-center top-[227.84px] w-[205.18px]" data-node-id="1:726">
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Trailers_Trial:Bold'] relative shrink-0 text-[56px] w-full" data-node-id="1:727">
+          ИГРАЮТ ВСЕ!
+        </p>
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Regular'] relative shrink-0 text-[21.828px] w-full" data-node-id="1:728">
+          в игре принимают участие все игроки
+        </p>
+      </div>
+    </div>
+  );
+}
+
+function Frame2087326855({ className }: { className?: string }) {
+  return (
+    <div className={className || "h-[372.162px] relative w-[255.384px]"} data-node-id="1:703">
+      <div className="absolute bg-[#0e0e0e] border border-[#f3f3f3] border-solid h-[372.162px] left-0 rounded-[19.645px] top-0 w-[255.384px]" data-node-id="1:704" />
+      <div className="absolute contents left-0 top-0" data-node-id="1:705" data-name="Mask group">
+        <div className="absolute blur-[23.575px] h-[559.856px] left-[-169.16px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[169.164px_28.375px] mask-size-[255.384px_372.162px] top-[-28.38px] w-[566.452px]" data-node-id="1:707" style={{ maskImage: `url("${imgEditedPhoto42}")` }} data-name="edited-photo (4) 2">
+          <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={imgEditedPhoto44} />
+        </div>
+      </div>
+      <EditedPhoto41 className="absolute h-[136px] left-[58.8px] top-[52.84px] w-[138px]" />
+      <div className="absolute contents left-0 mix-blend-plus-lighter top-0" data-node-id="1:709" data-name="Mask group">
+        <div className="absolute flex h-[358.547px] items-center justify-center left-[-81.85px] mix-blend-plus-lighter top-[-124.42px] w-[516.496px]" data-node-id="1:711">
+          <div className="flex-none rotate-[55.43deg]">
+            <div className="bg-white blur-[27.612px] h-[623.139px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[81.854px_124.422px] mask-size-[255.384px_372.162px] relative w-[5.998px]" style={{ maskImage: `url("${imgRectangle42170}")` }} />
+          </div>
+        </div>
+        <div className="absolute flex h-[358.547px] items-center justify-center left-[-125.51px] mix-blend-plus-lighter top-[-88.41px] w-[516.496px]" data-node-id="1:712">
+          <div className="flex-none rotate-[55.43deg]">
+            <div className="bg-[rgba(255,255,255,0.3)] blur-[10.095px] h-[623.139px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[125.51px_88.406px] mask-size-[255.384px_372.162px] relative w-[5.998px]" style={{ maskImage: `url("${imgRectangle42170}")` }} />
+          </div>
+        </div>
+      </div>
+      <div className="[word-break:break-word] absolute content-stretch flex flex-col gap-[20.736px] items-center justify-center leading-[1.05] left-[24.8px] not-italic text-[#f3f3f3] text-center top-[227.84px] w-[205.18px]" data-node-id="1:713">
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Trailers_Trial:Bold'] relative shrink-0 text-[56px] w-full" data-node-id="1:714">
+          ДУЭЛЬ
+        </p>
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Regular'] relative shrink-0 text-[21.828px] w-full" data-node-id="1:715">
+          игра проходит между двумя игроками
+        </p>
+      </div>
+    </div>
+  );
+}
+
+function Frame2087326853({ className }: { className?: string }) {
+  return (
+    <div className={className || "h-[372.162px] relative w-[255.384px]"} data-node-id="1:689">
+      <div className="absolute bg-[#0e0e0e] border border-[#f3f3f3] border-solid h-[372.162px] left-0 rounded-[19.645px] top-0 w-[255.384px]" data-node-id="1:690" />
+      <div className="absolute contents left-0 top-0" data-node-id="1:691" data-name="Mask group">
+        <div className="absolute blur-[23.574px] h-[559.856px] left-[-169.16px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[169.164px_28.375px] mask-size-[255.384px_372.162px] top-[-28.38px] w-[566.452px]" data-node-id="1:693" style={{ maskImage: `url("${imgEditedPhoto42}")` }} data-name="edited-photo (4) 2">
+          <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={imgEditedPhoto45} />
+        </div>
+      </div>
+      <EditedPhoto41 className="absolute h-[161px] left-[46.23px] top-[52px] w-[162px]" />
+      <div className="absolute contents left-0 mix-blend-plus-lighter top-0" data-node-id="1:695" data-name="Mask group">
+        <div className="absolute flex h-[358.547px] items-center justify-center left-[-81.85px] mix-blend-plus-lighter top-[-124.41px] w-[516.496px]" data-node-id="1:697">
+          <div className="flex-none rotate-[55.43deg]">
+            <div className="bg-white blur-[27.612px] h-[623.139px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[81.854px_124.414px] mask-size-[255.384px_372.162px] relative w-[5.998px]" style={{ maskImage: `url("${imgRectangle42170}")` }} />
+          </div>
+        </div>
+        <div className="absolute flex h-[358.547px] items-center justify-center left-[-125.51px] mix-blend-plus-lighter top-[-88.4px] w-[516.496px]" data-node-id="1:698">
+          <div className="flex-none rotate-[55.43deg]">
+            <div className="bg-[rgba(255,255,255,0.3)] blur-[10.095px] h-[623.139px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[125.51px_88.398px] mask-size-[255.384px_372.162px] relative w-[5.998px]" style={{ maskImage: `url("${imgRectangle42170}")` }} />
+          </div>
+        </div>
+      </div>
+      <div className="[word-break:break-word] absolute content-stretch flex flex-col gap-[20.736px] h-[123.326px] items-center justify-center left-[25.1px] not-italic text-[#f3f3f3] text-center top-[228px] w-[205.18px]" data-node-id="1:699">
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Trailers_Trial:Bold'] leading-[1.05] min-w-full relative shrink-0 text-[56px] w-[min-content]" data-node-id="1:700">
+          КОММАНДОС
+        </p>
+        <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Regular'] leading-[0] relative shrink-0 text-[21.828px] w-[225px]" data-node-id="1:701">
+          <p className="leading-[1.05] mb-0">задание выполняется</p>
+          <p className="leading-[1.05]">в команде с другим игроком</p>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Frame2087326852({ className }: { className?: string }) {
+  return (
+    <div className={className || "h-[372.162px] relative w-[255.384px]"} data-node-id="1:675">
+      <div className="absolute contents left-0 top-0" data-node-id="1:676">
+        <div className="absolute bg-[#0e0e0e] border border-[#f3f3f3] border-solid h-[372.162px] left-0 rounded-[19.645px] top-0 w-[255.384px]" data-node-id="1:677" />
+        <div className="absolute contents left-0 top-0" data-node-id="1:678" data-name="Mask group">
+          <div className="absolute blur-[23.574px] h-[559.856px] left-[-169.16px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[169.164px_28.375px] mask-size-[255.384px_372.162px] top-[-28.38px] w-[566.452px]" data-node-id="1:680" style={{ maskImage: `url("${imgEditedPhoto42}")` }} data-name="edited-photo (4) 2">
+            <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={imgEditedPhoto46} />
+          </div>
+        </div>
+        <EditedPhoto41 className="absolute h-[167.634px] left-[42px] top-[52px] w-[169.609px]" />
+        <div className="absolute contents left-0 mix-blend-plus-lighter top-0" data-node-id="1:682" data-name="Mask group">
+          <div className="absolute flex h-[358.547px] items-center justify-center left-[-81.85px] mix-blend-plus-lighter top-[-124.41px] w-[516.496px]" data-node-id="1:684">
+            <div className="flex-none rotate-[55.43deg]">
+              <div className="bg-white blur-[27.612px] h-[623.139px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[81.854px_124.414px] mask-size-[255.384px_372.162px] relative w-[5.998px]" style={{ maskImage: `url("${imgRectangle42170}")` }} />
+            </div>
+          </div>
+          <div className="absolute flex h-[358.547px] items-center justify-center left-[-125.51px] mix-blend-plus-lighter top-[-88.4px] w-[516.496px]" data-node-id="1:685">
+            <div className="flex-none rotate-[55.43deg]">
+              <div className="bg-[rgba(255,255,255,0.3)] blur-[10.095px] h-[623.139px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[125.51px_88.398px] mask-size-[255.384px_372.162px] relative w-[5.998px]" style={{ maskImage: `url("${imgRectangle42170}")` }} />
+            </div>
+          </div>
+        </div>
+        <div className="[word-break:break-word] absolute content-stretch flex flex-col gap-[20.736px] items-center justify-center leading-[1.05] left-[25.1px] not-italic text-[#f3f3f3] text-center top-[228px] w-[205.18px]" data-node-id="1:686">
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Trailers_Trial:Bold'] relative shrink-0 text-[56px] w-full" data-node-id="1:687">
+            БАТЛ-РОЯЛ
+          </p>
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Regular'] relative shrink-0 text-[21.828px] w-full" data-node-id="1:688">
+            все играют против друг друга
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Frame2087326851({ className }: { className?: string }) {
+  return (
+    <div className={className || "h-[372.162px] relative w-[255.384px]"} data-node-id="1:662">
+      <div className="absolute bg-[#0e0e0e] border border-[#f3f3f3] border-solid h-[372.162px] left-0 rounded-[19.645px] top-0 w-[255.384px]" data-node-id="1:663" />
+      <div className="absolute contents left-0 top-0" data-node-id="1:664" data-name="Mask group">
+        <div className="absolute blur-[23.574px] h-[559.856px] left-[-169.16px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[169.164px_28.375px] mask-size-[255.384px_372.162px] top-[-28.38px] w-[566.452px]" data-node-id="1:666" style={{ maskImage: `url("${imgEditedPhoto42}")` }} data-name="edited-photo (4) 2">
+          <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={imgEditedPhoto47} />
+        </div>
+      </div>
+      <EditedPhoto41 className="absolute h-[147px] left-[53px] top-[52px] w-[149px]" />
+      <div className="absolute contents left-0 mix-blend-plus-lighter top-0" data-node-id="1:668" data-name="Mask group">
+        <div className="absolute flex h-[358.547px] items-center justify-center left-[-81.85px] mix-blend-plus-lighter top-[-124.41px] w-[516.496px]" data-node-id="1:670">
+          <div className="flex-none rotate-[55.43deg]">
+            <div className="bg-white blur-[27.612px] h-[623.139px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[81.854px_124.414px] mask-size-[255.384px_372.162px] relative w-[5.998px]" style={{ maskImage: `url("${imgRectangle42170}")` }} />
+          </div>
+        </div>
+        <div className="absolute flex h-[358.547px] items-center justify-center left-[-125.51px] mix-blend-plus-lighter top-[-88.4px] w-[516.496px]" data-node-id="1:671">
+          <div className="flex-none rotate-[55.43deg]">
+            <div className="bg-[rgba(255,255,255,0.3)] blur-[10.095px] h-[623.139px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[125.51px_88.398px] mask-size-[255.384px_372.162px] relative w-[5.998px]" style={{ maskImage: `url("${imgRectangle42170}")` }} />
+          </div>
+        </div>
+      </div>
+      <div className="[word-break:break-word] absolute content-stretch flex flex-col gap-[20.736px] items-center justify-center leading-[1.05] left-[25.1px] not-italic text-[#f3f3f3] text-center top-[228px] w-[205.18px]" data-node-id="1:672">
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Trailers_Trial:Bold'] min-w-full relative shrink-0 text-[56px] w-[min-content]" data-node-id="1:673">
+          СОЛО
+        </p>
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Regular'] relative shrink-0 text-[21.828px] w-[185px]" data-node-id="1:674">
+          игрок выполняет задание самостоятельно
+        </p>
+      </div>
+    </div>
+  );
+}
+
+function Frame6495({ className }: { className?: string }) {
+  return (
+    <div className={className || "bg-[#ff8b1e] h-[465px] overflow-clip relative rounded-[60px] w-[469.25px]"} data-node-id="1:632">
+      <div className="absolute left-[-64px] size-[363px] top-[calc(16.67%+77.5px)]" data-node-id="1:633">
+        <div className="absolute inset-[-43.31%]">
+          <img alt="" className="block max-w-none size-full" src={imgEllipse943} />
+        </div>
+      </div>
+      <div className="absolute contents left-[-52px] top-[calc(16.67%+43.5px)]" data-node-id="1:634">
+        <div className="absolute contents left-[-52px] top-[calc(50%+43.5px)]" data-node-id="1:635" data-name="Mask group">
+          <div className="absolute left-[-129.03px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[76.531px_233.696px] mask-size-[375.124px_242.881px] size-[489.031px] top-[41.78px]" data-node-id="1:637" style={{ maskImage: `url("${imgEditedPhoto72}")` }} data-name="edited-photo (7) 2">
+            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgEditedPhoto73} />
+          </div>
+        </div>
+        <div className="absolute contents left-[-52px] top-[calc(16.67%+43.5px)]" data-node-id="1:638" data-name="Mask group">
+          <div className="absolute left-[-21.1px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[-31.399px_-4.563px] mask-size-[319.408px_281.854px] size-[489.031px] top-[calc(16.67%+47.53px)]" data-node-id="1:640" style={{ maskImage: `url("${imgEditedPhoto71}")` }} data-name="edited-photo (7) 1">
+            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgEditedPhoto73} />
+          </div>
+        </div>
+      </div>
+      <div className="absolute flex items-center justify-center left-[-52px] size-[601px] top-0" data-node-id="1:641">
+        <div className="-scale-y-100 flex-none rotate-180">
+          <div className="relative size-[601px]" data-name="3755efbfe51599f0b3300841c286027b_deceec61-0b0e-413b-818f-12fc6388f7e3 1" />
+        </div>
+      </div>
+      <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[0] left-[45px] not-italic text-[#f3f3f3] text-[42px] top-[59.5px] whitespace-nowrap" data-node-id="1:642">
+        <p className="leading-[1.1] mb-0 whitespace-pre">{`На дачу `}</p>
+        <p className="leading-[1.1] whitespace-pre">или пикник</p>
+      </div>
+      <div className="absolute bg-[#f3f3f3] content-stretch drop-shadow-[5px_4px_4.55px_rgba(0,0,0,0.12)] flex h-[83px] items-center justify-center left-[45px] px-[35px] py-[30px] rounded-[800px] top-[calc(66.67%+27px)]" data-node-id="1:645">
+        <div className="content-stretch flex gap-[10px] items-center relative shrink-0" data-node-id="1:646">
+          <div className="flex h-[45.113px] items-center justify-center relative shrink-0 w-[38.198px]" data-node-id="1:647">
+            <div className="flex-none rotate-[0.63deg]">
+              <div className="h-[44.701px] relative w-[37.709px]" data-name="Adobe Express - file (10) 3">
+                <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                  <img alt="" className="absolute h-[279.23%] left-[-16.98%] max-w-none top-[-40.3%] w-[335.11%]" src={imgAdobeExpressFile103} />
+                </div>
+              </div>
+            </div>
+          </div>
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.1] not-italic relative shrink-0 text-[#161616] text-[30px] text-center whitespace-nowrap" data-node-id="1:648">
+            100 монет
+          </p>
+        </div>
+      </div>
+      <div className="absolute contents left-[calc(83.33%-25.04px)] top-[45px]" data-node-id="1:649">
+        <div className="absolute left-[calc(83.33%-25.04px)] size-[58px] top-[45px]" data-node-id="1:650">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse84} />
+        </div>
+        <p className="-translate-x-1/2 [text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute bottom-[80.97%] font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.1] left-[calc(91.67%-35.65px)] not-italic text-[#f3f3f3] text-[42px] text-center top-[12.8%] whitespace-nowrap" data-node-id="1:651">
+          ?
+        </p>
+      </div>
+    </div>
+  );
+}
+
+function Frame6496({ className }: { className?: string }) {
+  return (
+    <div className={className || "bg-[#ff8b1e] h-[465px] overflow-clip relative rounded-[60px] w-[469.25px]"} data-node-id="1:620">
+      <div className="absolute left-[-87px] size-[363px] top-[calc(33.33%+31px)]" data-node-id="1:621">
+        <div className="absolute inset-[-43.31%]">
+          <img alt="" className="block max-w-none size-full" src={imgEllipse944} />
+        </div>
+      </div>
+      <div className="absolute h-[520px] left-[-155px] top-[89px] w-[500px]" data-node-id="1:622" data-name="edited-photo (5) 2">
+        <div className="absolute inset-0 overflow-hidden pointer-events-none">
+          <img alt="" className="absolute h-[203.1%] left-0 max-w-none top-[-103.1%] w-[211.52%]" src={imgEditedPhoto52} />
+        </div>
+      </div>
+      <div className="absolute h-[376px] left-[13px] top-[89px] w-[437px]" data-node-id="1:623" data-name="Adobe Express - file (1) 1" />
+      <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[0] left-[45px] not-italic text-[#f3f3f3] text-[42px] top-[59.5px] whitespace-nowrap" data-node-id="1:624">
+        <p className="leading-[1.1] mb-0">День</p>
+        <p className="leading-[1.1]">рождения</p>
+      </div>
+      <div className="absolute contents left-[calc(83.33%-25.04px)] top-[45px]" data-node-id="1:625">
+        <div className="absolute left-[calc(83.33%-25.04px)] size-[58px] top-[45px]" data-node-id="1:626">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse84} />
+        </div>
+        <p className="-translate-x-1/2 [text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute bottom-[80.97%] font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.1] left-[calc(91.67%-35.65px)] not-italic text-[#f3f3f3] text-[42px] text-center top-[12.8%] whitespace-nowrap" data-node-id="1:627">
+          ?
+        </p>
+      </div>
+      <div className="absolute bg-[#f3f3f3] content-stretch drop-shadow-[5px_4px_4.55px_rgba(0,0,0,0.12)] flex h-[83px] items-center justify-center left-[45px] px-[35px] py-[30px] rounded-[800px] top-[calc(66.67%+27px)]" data-node-id="1:628">
+        <div className="content-stretch flex gap-[10px] items-center relative shrink-0" data-node-id="1:629">
+          <div className="flex h-[45.113px] items-center justify-center relative shrink-0 w-[38.198px]" data-node-id="1:630">
+            <div className="flex-none rotate-[0.63deg]">
+              <div className="h-[44.701px] relative w-[37.709px]" data-name="Adobe Express - file (10) 3">
+                <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                  <img alt="" className="absolute h-[279.23%] left-[-16.98%] max-w-none top-[-40.3%] w-[335.11%]" src={imgAdobeExpressFile103} />
+                </div>
+              </div>
+            </div>
+          </div>
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.1] not-italic relative shrink-0 text-[#161616] text-[30px] text-center whitespace-nowrap" data-node-id="1:631">
+            100 монет
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Frame6497({ className }: { className?: string }) {
+  return (
+    <div className={className || "bg-[#ff8b1e] h-[465px] overflow-clip relative rounded-[60px] w-[469.25px]"} data-node-id="1:609">
+      <div className="absolute left-[-83px] size-[363px] top-[calc(33.33%+37px)]" data-node-id="1:610">
+        <div className="absolute inset-[-43.31%]">
+          <img alt="" className="block max-w-none size-full" src={imgEllipse943} />
+        </div>
+      </div>
+      <div className="absolute flex h-[488.827px] items-center justify-center left-[-92px] top-[18px] w-[474.774px]" data-node-id="1:611">
+        <div className="flex-none rotate-[16.3deg]">
+          <div className="h-[398.759px] relative w-[378.069px]" data-name="edited-photo (5) 2">
+            <div className="absolute inset-0 overflow-hidden pointer-events-none">
+              <img alt="" className="absolute h-[216.51%] left-[-7.46%] max-w-none top-[-1.89%] w-[228.36%]" src={imgEditedPhoto52} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.1] left-[45px] not-italic text-[#f3f3f3] text-[42px] top-[59.5px] whitespace-nowrap" data-node-id="1:612">
+        Все игры
+      </p>
+      <div className="absolute contents left-[calc(83.33%-25.04px)] top-[45px]" data-node-id="1:613">
+        <div className="absolute left-[calc(83.33%-25.04px)] size-[58px] top-[45px]" data-node-id="1:614">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse84} />
+        </div>
+        <p className="-translate-x-1/2 [text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute bottom-[80.97%] font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.1] left-[calc(91.67%-35.65px)] not-italic text-[#f3f3f3] text-[42px] text-center top-[12.8%] whitespace-nowrap" data-node-id="1:615">
+          ?
+        </p>
+      </div>
+      <div className="absolute bg-[#f3f3f3] content-stretch drop-shadow-[5px_4px_4.55px_rgba(0,0,0,0.12)] flex h-[83px] items-center justify-center left-[45px] px-[35px] py-[30px] rounded-[800px] top-[calc(66.67%+27px)]" data-node-id="1:616">
+        <div className="content-stretch flex gap-[10px] items-center relative shrink-0" data-node-id="1:617">
+          <div className="flex h-[45.113px] items-center justify-center relative shrink-0 w-[38.198px]" data-node-id="1:618">
+            <div className="flex-none rotate-[0.63deg]">
+              <div className="h-[44.701px] relative w-[37.709px]" data-name="Adobe Express - file (10) 3">
+                <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                  <img alt="" className="absolute h-[279.23%] left-[-16.98%] max-w-none top-[-40.3%] w-[335.11%]" src={imgAdobeExpressFile103} />
+                </div>
+              </div>
+            </div>
+          </div>
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.1] not-italic relative shrink-0 text-[#161616] text-[30px] text-center whitespace-nowrap" data-node-id="1:619">
+            100 монет
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Frame6498({ className }: { className?: string }) {
+  return (
+    <div className={className || "bg-[#ff8b1e] h-[465px] overflow-clip relative rounded-[60px] w-[469.25px]"} data-node-id="1:600">
+      <div className="absolute left-[-64px] size-[363px] top-[calc(33.33%+37px)]" data-node-id="1:601">
+        <div className="absolute inset-[-43.31%]">
+          <img alt="" className="block max-w-none size-full" src={imgEllipse943} />
+        </div>
+      </div>
+      <div className="absolute h-[564px] left-[-82px] top-[36px] w-[502px]" data-node-id="1:602" data-name="edited-photo (5) 2">
+        <div className="absolute inset-0 overflow-hidden pointer-events-none">
+          <img alt="" className="absolute h-[201.32%] left-[-126.11%] max-w-none top-0 w-[226.11%]" src={imgEditedPhoto52} />
+        </div>
+      </div>
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.1] left-[45px] not-italic text-[#f3f3f3] text-[42px] top-[59.5px] whitespace-nowrap" data-node-id="1:603">
+        Вечеринка
+      </p>
+      <div className="absolute contents left-[calc(83.33%-25.04px)] top-[45px]" data-node-id="1:604">
+        <div className="absolute left-[calc(83.33%-25.04px)] size-[58px] top-[45px]" data-node-id="1:605">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse84} />
+        </div>
+        <p className="-translate-x-1/2 [text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute bottom-[80.97%] font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.1] left-[calc(91.67%-35.65px)] not-italic text-[#f3f3f3] text-[42px] text-center top-[12.8%] whitespace-nowrap" data-node-id="1:606">
+          ?
+        </p>
+      </div>
+      <div className="absolute bg-[#fe391f] content-stretch drop-shadow-[0px_4px_18.8px_#fe391f] flex h-[83px] items-center justify-center left-[45px] px-[35px] py-[30px] rounded-[800px] top-[calc(66.67%+27px)]" data-node-id="1:607">
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.1] not-italic relative shrink-0 text-[#f3f3f3] text-[30px] text-center whitespace-nowrap" data-node-id="1:608">
+          Бесплатно
+        </p>
+      </div>
+    </div>
+  );
+}
+
+function Frame2087326709({ className }: { className?: string }) {
+  return (
+    <div className={className || "content-stretch flex flex-col gap-[40px] items-start relative w-[960px]"} data-node-id="1:260">
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Bold'] leading-[1.003] min-w-full not-italic relative shrink-0 text-[#161616] text-[96px] uppercase w-[min-content]" data-node-id="1:261">
+        Видео с игрой
+      </p>
+      <div className="grid-cols-[max-content] grid-rows-[max-content] inline-grid leading-[0] place-items-start relative shrink-0" data-node-id="1:262">
+        <div className="bg-[#d9d9d9] col-1 h-[600px] ml-0 mt-0 relative rounded-[49px] row-1 w-[959px]" data-node-id="1:263" />
+        <div className="bg-[#3f3f3f] col-1 ml-[402px] mt-[222px] overflow-clip relative rounded-[1579.747px] row-1 size-[156px]" data-node-id="1:264">
+          <div className="absolute bg-[#f3f3f3] h-[67.266px] left-[52.24px] rounded-[15.028px] top-[44.37px] w-[15.028px]" data-node-id="1:265" />
+          <div className="absolute bg-[#f3f3f3] h-[67.266px] left-[88.02px] rounded-[15.028px] top-[44.37px] w-[15.028px]" data-node-id="1:266" />
+          <div className="absolute bg-[#3f3f3f] left-0 overflow-clip rounded-[1579.747px] size-[156px] top-0" data-node-id="1:267">
+            <div className="absolute bg-[#f3f3f3] h-[67.266px] left-[52.24px] rounded-[15.028px] top-[44.37px] w-[15.028px]" data-node-id="1:268" />
+            <div className="absolute bg-[#f3f3f3] h-[67.266px] left-[88.02px] rounded-[15.028px] top-[44.37px] w-[15.028px]" data-node-id="1:269" />
+            <div className="absolute left-0 size-[156px] top-0" data-node-id="1:270">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame6461} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.09] min-w-full not-italic relative shrink-0 text-[#161616] text-[30px] w-[min-content]" data-node-id="1:272">{`Мы собрали нарезку от наших игроков со всей России, чтобы показать, какие эмоции вы можете испытать вместе с друзьями. Уделите просмотру 1 минуту и сделайте выбор в пользу Битвы <3.`}</p>
+    </div>
+  );
+}
+
+function Group2087331646({ className }: { className?: string }) {
+  return (
+    <div className={className || "h-[312px] relative w-[953px]"} data-node-id="1:537">
+      <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Trailers_Trial:Bold'] inset-[0_51.5%_50.96%_0] leading-[0] not-italic text-[#161616] text-[96px] uppercase" data-node-id="1:538">
+        <p className="leading-[0.9] mb-0">ПОНЯТНО</p>
+        <p className="leading-[0.9] text-[#ff8b1e]">С ПЕРВОГО РАЗА</p>
+      </div>
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial_Variable:Medium'] inset-[61.54%_50.57%_0_0.62%] leading-[1.09] not-italic text-[#232323] text-[30px]" data-node-id="1:539">
+        К каждой игре — короткое видео и чёткая инструкция. Никакого чтения на 10 минут — просто смотришь и играешь.
+      </p>
+      <div className="absolute bg-white inset-[0_0_0_50.88%] rounded-[15px] shadow-[5px_4px_9.1px_0px_rgba(0,0,0,0.12)]" data-node-id="1:540" />
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial:Regular'] inset-[12.82%_8.08%_72.44%_60.52%] leading-[1.09] not-italic text-[#232323] text-[26px]" data-node-id="1:541">{`Фото/видео-инструкция к каждой игре `}</p>
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial:Regular'] inset-[44.23%_3.73%_41.03%_60.52%] leading-[1.09] not-italic text-[#232323] text-[26px]" data-node-id="1:542">{`Текстовые правила — кратко и по делу `}</p>
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial:Regular'] inset-[74.04%_1.55%_11.22%_60.52%] leading-[1.09] not-italic text-[#232323] text-[26px]" data-node-id="1:543">
+        Объяснение занимает меньше минуты
+      </p>
+      <div className="absolute inset-[74.04%_41.45%_9.94%_53.37%] overflow-clip" data-node-id="1:544">
+        <div className="absolute contents inset-[2%_8.41%_1.6%_8%]" data-node-id="1:545" data-name="layer1">
+          <div className="absolute inset-[2%_8.41%_1.6%_8%]" data-node-id="1:546" data-name="g61316">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgG61316} />
+          </div>
+        </div>
+      </div>
+      <div className="absolute inset-[43.59%_41.45%_40.38%_53.37%] overflow-clip" data-node-id="1:550">
+        <div className="absolute contents inset-[3.33%_2%_2%_3.33%]" data-node-id="1:551" style={{ containerType: "size" }} data-name="g408">
+          <div className="absolute contents inset-[3.33%_2%_2%_3.33%]" data-node-id="1:552" style={{ containerType: "size" }} data-name="g410">
+            <div className="absolute contents inset-[3.33%_2%_2%_3.33%]" data-node-id="1:553" style={{ containerType: "size" }} data-name="Clip path group">
+              <div className="absolute contents inset-[11.84%_4.76%_10.5%_6.12%]" data-node-id="1:556" style={{ containerType: "size" }} data-name="g412">
+                <div className="absolute flex inset-[11.84%_49.32%_21.59%_6.12%] items-center justify-center" data-node-id="1:557" style={{ containerType: "size" }}>
+                  <div className="-rotate-180 -scale-x-100 flex-none h-[100cqh] w-[100cqw]">
+                    <div className="mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[-1.375px_-4.255px] mask-size-[46.745px_47.334px] relative size-full" style={{ maskImage: `url("${imgG418}")` }} data-name="g418">
+                      <div className="absolute inset-[-4.17%_-6.3%]">
+                        <img alt="" className="block max-w-none size-full" src={imgG419} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[20.17%_71.51%_74.28%_28.49%] items-center justify-center" data-node-id="1:559" style={{ containerType: "size" }}>
+                  <div className="-rotate-180 -scale-x-100 flex-none h-[100cqh] w-[0px]">
+                    <div className="mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[-12.422px_-8.42px] mask-size-[46.745px_47.334px] relative size-full" style={{ maskImage: `url("${imgG418}")` }} data-name="g422">
+                      <div className="absolute inset-[0_-1.39px]">
+                        <img alt="" className="block max-w-none size-full" src={imgG422} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[31.27%_71.51%_57.64%_28.49%] items-center justify-center" data-node-id="1:561" style={{ containerType: "size" }}>
+                  <div className="-rotate-180 -scale-x-100 flex-none h-[100cqh] w-[0px]">
+                    <div className="mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[-12.422px_-13.967px] mask-size-[46.745px_47.334px] relative size-full" style={{ maskImage: `url("${imgG418}")` }} data-name="g426">
+                      <div className="absolute inset-[0_-1.39px]">
+                        <img alt="" className="block max-w-none size-full" src={imgG426} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[11.84%_4.76%_21.59%_50.68%] items-center justify-center" data-node-id="1:563" style={{ containerType: "size" }}>
+                  <div className="-rotate-180 -scale-x-100 flex-none h-[100cqh] w-[100cqw]">
+                    <div className="mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[-23.379px_-4.255px] mask-size-[46.745px_47.334px] relative size-full" style={{ maskImage: `url("${imgG418}")` }} data-name="g430">
+                      <div className="absolute inset-[-4.17%_-6.3%]">
+                        <img alt="" className="block max-w-none size-full" src={imgG430} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[78.41%_4.76%_10.5%_50.68%] items-center justify-center" data-node-id="1:565" style={{ containerType: "size" }}>
+                  <div className="-rotate-180 -scale-x-100 flex-none h-[100cqh] w-[100cqw]">
+                    <div className="mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[-23.379px_-37.537px] mask-size-[46.745px_47.334px] relative size-full" style={{ maskImage: `url("${imgG418}")` }} data-name="g434">
+                      <div className="absolute inset-[-25%_-6.3%]">
+                        <img alt="" className="block max-w-none size-full" src={imgG434} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[78.41%_49.32%_10.5%_6.12%] items-center justify-center" data-node-id="1:567" style={{ containerType: "size" }}>
+                  <div className="-rotate-180 -scale-x-100 flex-none h-[100cqh] w-[100cqw]">
+                    <div className="mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[-1.375px_-37.537px] mask-size-[46.745px_47.334px] relative size-full" style={{ maskImage: `url("${imgG418}")` }} data-name="g438">
+                      <div className="absolute inset-[-25%_-6.3%]">
+                        <img alt="" className="block max-w-none size-full" src={imgG438} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[28.48%_16.04%_71.52%_72.87%] items-center justify-center" data-node-id="1:569" style={{ containerType: "size" }}>
+                  <div className="-rotate-180 -scale-x-100 flex-none h-[0px] w-[100cqw]">
+                    <div className="mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[-34.336px_-12.576px] mask-size-[46.745px_47.334px] relative size-full" style={{ maskImage: `url("${imgG418}")` }} data-name="g442">
+                      <div className="absolute inset-[-1.39px_-25.32%_-1.39px_-25.31%]">
+                        <img alt="" className="block max-w-none size-full" src={imgG442} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[25.72%_38.23%_68.73%_61.77%] items-center justify-center" data-node-id="1:571" style={{ containerType: "size" }}>
+                  <div className="-rotate-180 -scale-x-100 flex-none h-[100cqh] w-[0px]">
+                    <div className="mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[-28.855px_-11.193px] mask-size-[46.745px_47.334px] relative size-full" style={{ maskImage: `url("${imgG418}")` }} data-name="g446">
+                      <div className="absolute inset-[0_-1.39px]">
+                        <img alt="" className="block max-w-none size-full" src={imgG446} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[36.81%_38.23%_57.64%_61.77%] items-center justify-center" data-node-id="1:573" style={{ containerType: "size" }}>
+                  <div className="-rotate-180 -scale-x-100 flex-none h-[100cqh] w-[0px]">
+                    <div className="mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[-28.855px_-16.74px] mask-size-[46.745px_47.334px] relative size-full" style={{ maskImage: `url("${imgG418}")` }} data-name="g450">
+                      <div className="absolute inset-[0_-1.39px]">
+                        <img alt="" className="block max-w-none size-full" src={imgG450} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[47.91%_38.23%_46.55%_61.77%] items-center justify-center" data-node-id="1:575" style={{ containerType: "size" }}>
+                  <div className="-rotate-180 -scale-x-100 flex-none h-[100cqh] w-[0px]">
+                    <div className="mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[-28.855px_-22.287px] mask-size-[46.745px_47.334px] relative size-full" style={{ maskImage: `url("${imgG418}")` }} data-name="g454">
+                      <div className="absolute inset-[0_-1.39px]">
+                        <img alt="" className="block max-w-none size-full" src={imgG454} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[59%_38.23%_35.45%_61.77%] items-center justify-center" data-node-id="1:577" style={{ containerType: "size" }}>
+                  <div className="-rotate-180 -scale-x-100 flex-none h-[100cqh] w-[0px]">
+                    <div className="mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[-28.855px_-27.834px] mask-size-[46.745px_47.334px] relative size-full" style={{ maskImage: `url("${imgG418}")` }} data-name="g458">
+                      <div className="absolute inset-[0_-1.39px]">
+                        <img alt="" className="block max-w-none size-full" src={imgG458} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[39.58%_16.04%_60.42%_72.87%] items-center justify-center" data-node-id="1:579" style={{ containerType: "size" }}>
+                  <div className="-rotate-180 -scale-x-100 flex-none h-[0px] w-[100cqw]">
+                    <div className="mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[-34.336px_-18.123px] mask-size-[46.745px_47.334px] relative size-full" style={{ maskImage: `url("${imgG418}")` }} data-name="g462">
+                      <div className="absolute inset-[-1.39px_-25.32%_-1.39px_-25.31%]">
+                        <img alt="" className="block max-w-none size-full" src={imgG462} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[50.67%_16.04%_49.33%_72.87%] items-center justify-center" data-node-id="1:581" style={{ containerType: "size" }}>
+                  <div className="-rotate-180 -scale-x-100 flex-none h-[0px] w-[100cqw]">
+                    <div className="mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[-34.336px_-23.67px] mask-size-[46.745px_47.334px] relative size-full" style={{ maskImage: `url("${imgG418}")` }} data-name="g466">
+                      <div className="absolute inset-[-1.39px_-25.32%_-1.39px_-25.31%]">
+                        <img alt="" className="block max-w-none size-full" src={imgG466} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[61.77%_16.04%_38.23%_72.87%] items-center justify-center" data-node-id="1:583" style={{ containerType: "size" }}>
+                  <div className="-rotate-180 -scale-x-100 flex-none h-[0px] w-[100cqw]">
+                    <div className="mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[-34.336px_-29.217px] mask-size-[46.745px_47.334px] relative size-full" style={{ maskImage: `url("${imgG418}")` }} data-name="g470">
+                      <div className="absolute inset-[-1.39px_-25.32%_-1.39px_-25.31%]">
+                        <img alt="" className="block max-w-none size-full" src={imgG470} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[50.67%_60.42%_49.33%_17.4%] items-center justify-center" data-node-id="1:585" style={{ containerType: "size" }}>
+                  <div className="-rotate-180 -scale-x-100 flex-none h-[0px] w-[100cqw]">
+                    <div className="mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[-6.945px_-23.67px] mask-size-[46.745px_47.334px] relative size-full" style={{ maskImage: `url("${imgG418}")` }} data-name="g474">
+                      <div className="absolute inset-[-1.39px_-12.66%]">
+                        <img alt="" className="block max-w-none size-full" src={imgG474} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[61.77%_65.96%_38.23%_22.94%] items-center justify-center" data-node-id="1:587" style={{ containerType: "size" }}>
+                  <div className="-rotate-180 -scale-x-100 flex-none h-[0px] w-[100cqw]">
+                    <div className="mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[-9.684px_-29.217px] mask-size-[46.745px_47.334px] relative size-full" style={{ maskImage: `url("${imgG418}")` }} data-name="g478">
+                      <div className="absolute inset-[-1.39px_-25.31%_-1.39px_-25.32%]">
+                        <img alt="" className="block max-w-none size-full" src={imgG478} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute inset-[12.5%_41.55%_72.12%_53.47%] overflow-clip" data-node-id="1:589">
+        <div className="absolute inset-[0_0.17%_0_2%]" data-node-id="1:590" data-name="Layer 2">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgLayer2} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+type ButtonMProps = {
+  className?: string;
+  state?: "disabled";
+};
+
+function ButtonM({ className, state = "disabled" }: ButtonMProps) {
+  return (
+    <div className={className || "bg-[#e6e6e6] content-stretch flex items-center justify-center overflow-clip p-[40px] relative rounded-[80px]"} data-node-id="1:235">
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.1] not-italic relative shrink-0 text-[#929292] text-[40px] text-center whitespace-nowrap" data-node-id="1:236">
+        Показать все игры
+      </p>
+    </div>
+  );
+}
+
+type PlayButtonProps = {
+  className?: string;
+  color?: "white";
+  property1?: "default";
+  shadow?: "no";
+  size?: "S";
+  text?: "no";
+};
+
+function PlayButton({ className, color = "white", property1 = "default", shadow = "no", size = "S", text = "no" }: PlayButtonProps) {
+  return (
+    <div className={className || "bg-white content-stretch flex items-center justify-center relative rounded-[110.008px] size-[105px]"} data-node-id="1:155">
+      <div className="relative shrink-0 size-[48px]" data-node-id="1:156" data-name="icons/fill/play">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconsFillPlay} />
+      </div>
+    </div>
+  );
+}
+
+function Group2087326593({ className }: { className?: string }) {
+  return (
+    <div className={className || "relative size-[56px]"} data-node-id="1:139">
+      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup2087326593} />
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute bottom-1/4 font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.1] left-[29.31%] not-italic right-[31.03%] text-[#f3f3f3] text-[42px] text-center top-1/4" data-node-id="1:141">
+        ?
+      </p>
+    </div>
+  );
+}
+
+function Footer({ className }: { className?: string }) {
+  return (
+    <div className={className || "bg-[#161616] h-[505px] relative rounded-tl-[80px] rounded-tr-[80px] w-[1081px]"} data-node-id="1:134" data-name="Footer">
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [text-underline-position:from-font] [word-break:break-word] absolute decoration-from-font decoration-solid font-['TT_Hoves_Pro_Trial_Variable:Medium'] inset-[53.52%_13.41%_42.91%_51.16%] leading-none not-italic text-[#767676] text-[25.946px] underline whitespace-nowrap" data-node-id="1:135">
+        Политика конфиденциальности
+      </p>
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial:Regular'] inset-[24.75%_14.99%_61.19%_51.16%] leading-[1.11] not-italic text-[#767676] text-[24px] whitespace-nowrap" data-node-id="1:136">
+        ИП Шаталов Дмитрий Андреевич
+        <br aria-hidden />
+        ОГРН: 322861700029539
+        <br aria-hidden />
+        ИНН: 711404699134
+      </p>
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial:Regular'] inset-[62.52%_18.69%_34.12%_51.16%] leading-none not-italic text-[#767676] text-[24px] whitespace-nowrap" data-node-id="1:137">
+        © 2026. Все права защищены
+      </p>
+      <div className="absolute content-stretch flex flex-col items-start left-[25px] px-[38.148px] top-[121px]" data-node-id="1:138">
+        <div className="grid-cols-[max-content] grid-rows-[max-content] inline-grid leading-[0] place-items-start relative shrink-0" data-node-id="I1:138;739:25743">
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] col-1 font-['TT_Trailers_Trial:Bold_Italic'] leading-[1.003] ml-[570.09px] mt-[109.63px] not-italic relative row-1 text-[#ff391f] text-[87.12px] whitespace-nowrap" data-node-id="I1:138;739:25744">
+            И Г Р Ы
+          </p>
+          <div className="col-1 h-[61.12px] ml-[20.82px] mt-[109.77px] relative row-1 w-[191.002px]" data-node-id="I1:138;739:25745" data-name="Group">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup} />
+          </div>
+          <div className="col-1 h-[32.198px] ml-0 mt-[4.39px] relative row-1 w-[207.92px]" data-node-id="I1:138;739:25751" data-name="Vector">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+          </div>
+          <div className="col-1 h-[32.198px] ml-0 mt-[282.83px] relative row-1 w-[207.92px]" data-node-id="I1:138;739:25752" data-name="Vector">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+          </div>
+          <div className="col-1 h-[32.198px] ml-[273.7px] mt-[289.49px] relative row-1 w-[182.533px]" data-node-id="I1:138;739:25753" data-name="Vector">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector2} />
+          </div>
+          <div className="col-1 h-[32.198px] ml-[213.17px] mt-0 relative row-1 w-[207.92px]" data-node-id="I1:138;739:25754" data-name="Vector">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+          </div>
+          <div className="col-1 h-[32.198px] ml-[476.33px] mt-[10.53px] relative row-1 w-[207.92px]" data-node-id="I1:138;739:25755" data-name="Vector">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector3} />
+          </div>
+          <div className="col-1 h-[32.198px] ml-[476.33px] mt-[288.97px] relative row-1 w-[207.92px]" data-node-id="I1:138;739:25756" data-name="Vector">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+type Component2Props = {
+  className?: string;
+  size?: "s";
+  state?: "default";
+};
+
+function Component2({ className, size = "s", state = "default" }: Component2Props) {
+  return (
+    <div className={className || "bg-white content-stretch flex items-center justify-center p-[18px] relative rounded-[100px] size-[84px]"} data-node-id="1:111">
+      <div className="relative shrink-0 size-[48px]" data-node-id="1:112" data-name="icons/outline/heart">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconsOutlineHeart} />
+      </div>
+    </div>
+  );
+}
+
+function LettersCoinsLettersVariant34({ className }: { className?: string }) {
+  return (
+    <div className={className || "relative size-[82px]"} data-node-id="1:37" data-name="Letters/Coins/Letters/Variant34">
+      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgLettersCoinsLettersVariant34} />
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial:Bold'] inset-[29.27%_32.93%_29.27%_31.71%] leading-[1.1] not-italic text-[#f3f3f3] text-[48.188px] text-center whitespace-nowrap" data-node-id="1:39">
+        Т
+      </p>
+    </div>
+  );
+}
+
+function IconsOutlineChevronLeft({ className }: { className?: string }) {
+  return (
+    <div className={className || "relative size-[24px]"} data-node-id="1:40" data-name="icons/outline/chevron-left">
+      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconsOutlineChevronLeft} />
+    </div>
+  );
+}
+
+function CoinsHeaderFrame2087325377({ className }: { className?: string }) {
+  return (
+    <div className={className || "bg-[#e5e5e5] content-stretch flex items-center justify-center pb-[21px] pl-[25px] pr-[28px] pt-[20px] relative rounded-[32px] size-[64px]"} data-node-id="1:44" data-name="Coins/Header/Frame 2087325377">
+      <IconsOutlineChevronLeft className="relative shrink-0 size-[24px]" />
+    </div>
+  );
+}
+
+export default function Component() {
+  return (
+    <div className="bg-[#959595] relative size-full" data-node-id="1:478" data-name="Описание игры (мобильный)">
+      <div className="absolute h-[977px] left-[-90px] top-[-1px] w-[1212px]" data-node-id="1:479" data-name="image 2">
+        <div aria-hidden className="absolute inset-0 pointer-events-none">
+          <img alt="" className="absolute max-w-none object-cover size-full" src={imgImage2} />
+          <div className="absolute inset-0 overflow-hidden">
+            <img alt="" className="absolute h-[152.26%] left-0 max-w-none top-[-20.27%] w-full" src={imgImage3} />
+          </div>
+        </div>
+      </div>
+      <div className="absolute bg-gradient-to-b from-[rgba(0,0,0,0)] h-[404px] left-[-24px] to-black top-[558px] w-[1169px]" data-node-id="1:480" />
+      <div className="-translate-x-1/2 absolute bg-[#f3f3f3] h-[6958px] left-1/2 rounded-tl-[142px] rounded-tr-[142px] top-[815px] w-[1080px]" data-node-id="1:481" />
+      <div className="absolute h-[27px] left-[calc(75%-30px)] overflow-clip top-[491px] w-[62.177px]" data-node-id="1:482" data-name="Black + Red">
+        <div className="absolute contents inset-[0_0_-0.01%_0]" data-node-id="1:483" data-name="Слой 1">
+          <div className="absolute inset-[0_0_-0.01%_0]" data-node-id="1:484" data-name="Group">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup1} />
+          </div>
+        </div>
+      </div>
+      <div className="absolute content-stretch flex gap-[15px] items-center left-[60px] top-[710px]" data-node-id="1:503">
+        <div className="bg-[#ff8b1e] content-stretch flex gap-[7.817px] h-[64.097px] items-center justify-center px-[24px] py-[16px] relative rounded-[8px] shrink-0" data-node-id="1:504" data-name="Tag">
+          <div className="flex h-[37.579px] items-center justify-center relative shrink-0 w-[30.575px]" data-node-id="I1:504;848:27530">
+            <div className="flex-none rotate-[0.63deg]">
+              <div className="h-[37.249px] relative w-[30.168px]" data-name="Adobe Express - file (10) 4">
+                <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                  <img alt="" className="absolute h-[279.23%] left-[-17.91%] max-w-none top-[-40.3%] w-[349.06%]" src={imgAdobeExpressFile103} />
+                </div>
+              </div>
+            </div>
+          </div>
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:Regular'] leading-[1.1] not-italic relative shrink-0 text-[#f3f3f3] text-[32.027px] text-center whitespace-nowrap" data-node-id="I1:504;848:27536">
+            за монеты
+          </p>
+        </div>
+        <div className="border-2 border-solid border-white content-stretch flex h-[64.097px] items-center justify-center px-[24px] py-[16px] relative rounded-[8px] shrink-0" data-node-id="1:505" data-name="Tag">
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:Regular'] leading-[1.1] not-italic relative shrink-0 text-[#f3f3f3] text-[32px] text-center whitespace-nowrap" data-node-id="I1:505;839:1802">
+            от 2-х человек
+          </p>
+        </div>
+        <div className="border-2 border-solid border-white content-stretch flex h-[64.097px] items-center justify-center px-[24px] py-[16px] relative rounded-[8px] shrink-0" data-node-id="1:506" data-name="Tag">
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:Regular'] leading-[1.1] not-italic relative shrink-0 text-[#f3f3f3] text-[32px] text-center whitespace-nowrap" data-node-id="I1:506;839:1802">
+            без реквизита
+          </p>
+        </div>
+      </div>
+      <div className="-translate-x-1/2 absolute bg-white content-stretch flex items-center justify-between left-1/2 p-[20px] rounded-[90px] top-[79px] w-[960px]" data-node-id="1:507" data-name="Header">
+        <div className="content-stretch flex gap-[16px] items-center relative shrink-0" data-node-id="I1:507;838:4386">
+          <CoinsHeaderFrame2087325377 className="bg-[#e5e5e5] content-stretch flex items-center justify-center pb-[21px] pl-[25px] pr-[28px] pt-[20px] relative rounded-[32px] shrink-0 size-[64px]" />
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.1] not-italic relative shrink-0 text-[#161616] text-[42px] text-center whitespace-nowrap" data-node-id="I1:507;838:4388">
+            Главная
+          </p>
+        </div>
+        <div className="content-stretch flex gap-[8px] items-center relative shrink-0" data-node-id="I1:507;838:4389">
+          <div className="content-stretch flex gap-[4px] items-center pr-[24px] py-[8px] relative rounded-[90px] shrink-0" data-node-id="I1:507;838:4390" style={{ backgroundImage: "linear-gradient(-49.54080331775299deg, rgb(35, 35, 35) 8.0174%, rgb(66, 66, 66) 96.721%)" }}>
+            <div className="flex h-[67.431px] items-center justify-center relative shrink-0 w-[70.666px]" data-node-id="I1:507;838:4391">
+              <div className="flex-none rotate-[0.63deg]">
+                <div className="h-[66.667px] relative w-[69.938px]" data-name="Adobe Express - file (10) 3">
+                  <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                    <img alt="" className="absolute h-[279.23%] left-0 max-w-none top-[-40.3%] w-[269.47%]" src={imgAdobeExpressFile103} />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] bg-clip-text font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.1] not-italic relative shrink-0 text-[40.973px] text-[transparent] text-center whitespace-nowrap" data-node-id="I1:507;838:4392" style={{ backgroundImage: "linear-gradient(108.64559320567818deg, rgb(209, 209, 209) 0%, rgb(102, 102, 102) 146.67%)" }}>
+              11 240
+            </p>
+          </div>
+          <LettersCoinsLettersVariant34 className="relative shrink-0 size-[82px]" />
+        </div>
+      </div>
+      <Component2 className="absolute bg-white content-stretch flex items-center justify-center left-[calc(83.33%+36px)] p-[18px] rounded-[100px] size-[84px] top-[700px]" />
+      <div className="-translate-x-1/2 absolute content-stretch flex flex-col items-start left-1/2 top-[2120px] w-[970px]" data-node-id="1:509">
+        <div className="bg-[#fe391f] content-stretch drop-shadow-[0px_3.439px_9.07px_rgba(254,57,31,0.91)] flex items-center justify-center p-[32px] relative rounded-[932.921px] shrink-0 w-[970px]" data-node-id="1:510" data-name="Component 36">
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Bold'] leading-[1.003] not-italic relative shrink-0 text-[80px] text-white uppercase whitespace-nowrap" data-node-id="I1:510;810:1624">
+            Начать игру
+          </p>
+        </div>
+      </div>
+      <Footer className="-translate-x-1/2 absolute bg-[#161616] bottom-0 h-[505px] left-[calc(50%-0.5px)] rounded-tl-[80px] rounded-tr-[80px] w-[1081px]" />
+      <div className="absolute content-stretch flex flex-col gap-[32px] items-start left-[60px] top-[6667px] w-[962px]" data-node-id="1:512">
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Bold'] leading-[0.88] not-italic relative shrink-0 text-[#161616] text-[56px] w-[961.497px]" data-node-id="1:513">
+          ВАМ МОЖЕТ ПОНРАВИТЬСЯ
+        </p>
+        <div className="content-stretch flex gap-[16px] items-start relative shrink-0 w-[962px]" data-node-id="1:514">
+          <div className="content-stretch flex flex-col items-start justify-between p-[38px] relative rounded-[40px] shrink-0 size-[310px]" data-node-id="1:515" data-name="Component 40">
+            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[40px] size-full" src={imgComponent40} />
+            <div className="content-stretch flex gap-[16px] items-center relative shrink-0 w-full" data-node-id="I1:515;844:26980">
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex-[1_0_0] font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.1] min-w-px not-italic relative text-[#f3f3f3] text-[20px]" data-node-id="I1:515;844:26981">
+                Королевская битва
+              </p>
+              <div className="relative shrink-0 size-[56px]" data-node-id="I1:515;844:26982">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup2087326593} />
+                <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute bottom-1/4 font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.1] left-[29.31%] not-italic right-[31.03%] text-[#f3f3f3] text-[24px] text-center top-1/4" data-node-id="I1:515;844:26982;742:25176">
+                  ?
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex items-center justify-end relative shrink-0 w-full" data-node-id="I1:515;844:26983" data-name="Button">
+              <PlayButton className="bg-white content-stretch flex items-center justify-center relative rounded-[110.008px] shrink-0 size-[105px]" />
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-start justify-between p-[38px] relative rounded-[40px] shrink-0 size-[310px]" data-node-id="1:516" data-name="Component 40">
+            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[40px] size-full" src={imgComponent41} />
+            <div className="content-stretch flex gap-[16px] items-center relative shrink-0 w-full" data-node-id="I1:516;844:26992">
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex-[1_0_0] font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.1] min-w-px not-italic relative text-[#f3f3f3] text-[20px]" data-node-id="I1:516;844:26993">
+                Караоке-
+                <br aria-hidden />
+                битва
+              </p>
+              <Group2087326593 className="relative shrink-0 size-[56px]" />
+            </div>
+            <div className="content-stretch flex items-center justify-end relative shrink-0 w-full" data-node-id="I1:516;844:26995" data-name="Button">
+              <PlayButton className="bg-white content-stretch flex items-center justify-center relative rounded-[110.008px] shrink-0 size-[105px]" />
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col items-start justify-between p-[40px] relative rounded-[40px] shrink-0 size-[310px]" data-node-id="1:517">
+            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[40px] size-full" src={imgFrame2087325390} />
+            <div className="content-stretch flex gap-[16px] items-center relative shrink-0 w-full" data-node-id="I1:517;742:25201">
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex-[1_0_0] font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.1] min-w-px not-italic relative text-[#f3f3f3] text-[20px]" data-node-id="I1:517;742:483">
+                Распределитель ролей в мафии
+              </p>
+              <div className="relative shrink-0 size-[56px]" data-node-id="I1:517;742:25178">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup2087326593} />
+                <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute bottom-1/4 font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.1] left-[29.31%] not-italic right-[31.03%] text-[#f3f3f3] text-[32px] text-center top-1/4" data-node-id="I1:517;742:25178;742:25176">
+                  ?
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex items-center justify-end relative shrink-0 w-full" data-node-id="I1:517;742:505" data-name="Button">
+              <PlayButton className="bg-white content-stretch flex items-center justify-center relative rounded-[110.008px] shrink-0 size-[105px]" />
+            </div>
+          </div>
+        </div>
+        <ButtonM className="bg-[#e6e6e6] content-stretch flex items-center justify-center overflow-clip p-[40px] relative rounded-[80px] shrink-0 w-[966px]" />
+      </div>
+      <div className="absolute contents left-[60px] top-[926px]" data-node-id="1:519">
+        <div className="absolute content-stretch flex flex-col items-center left-[60px] top-[926px] w-[960px]" data-node-id="1:520">
+          <div className="[word-break:break-word] content-stretch flex flex-col gap-[40px] items-center not-italic relative shrink-0 text-center w-[659px]" data-node-id="1:521">
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Trailers_Trial:Bold'] leading-[0] relative shrink-0 text-[#161616] text-[96px] uppercase w-full" data-node-id="1:522">
+              <span className="leading-[1.003] text-[#ff8b1e]">КОРОЛЕВСКАЯ</span>
+              <span className="leading-[1.003]">{` БИТВА`}</span>
+            </p>
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.05] relative shrink-0 text-[#232323] text-[30px] w-full" data-node-id="1:523">
+              Весёлые соревнования для вечеринок, семьи и корпоративов. Открыл — и сразу играй!
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className="absolute gap-x-[14px] gap-y-[14px] grid grid-cols-[repeat(2,minmax(0,1fr))] grid-rows-[repeat(2,minmax(0,1fr))] h-[918px] left-[60px] top-[1154px] w-[960px]" data-node-id="1:524">
+        <div className="bg-[#e3e3e3] col-1 content-stretch flex flex-col gap-[32px] items-center justify-self-stretch p-[40px] relative rounded-[40px] row-1 self-stretch shrink-0" data-node-id="1:525" data-name="Tag/Frame 2087326694">
+          <div className="grid-rows-[max-content] inline-grid leading-[0] place-items-start relative shrink-0 w-full" data-node-id="I1:525;849:27615" data-name="Mask group">
+            <div className="aspect-[2400/1792] col-1 mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[101.508px_10px] mask-size-[393px_221.36px] ml-[-25.83%] mt-[-10px] relative row-1 w-[143%]" data-node-id="I1:525;849:27617" style={{ maskImage: `url("${imgImage4}")` }} data-name="image 3">
+              <div aria-hidden className="absolute inset-0 pointer-events-none">
+                <img alt="" className="absolute max-w-none object-cover size-full" src={imgImage5} />
+                <img alt="" className="absolute max-w-none object-contain size-full" src={imgImage6} />
+              </div>
+            </div>
+          </div>
+          <div className="absolute bg-[#ff8b1e] content-stretch flex flex-col items-center justify-center left-[368px] px-[20px] py-[10px] rounded-[50px] size-[48px] top-[195px]" data-node-id="I1:525;849:27618">
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Black'] leading-[1.003] not-italic relative shrink-0 text-[32px] text-white whitespace-nowrap" data-node-id="I1:525;849:27619">
+              1
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="I1:525;849:27620">
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:Medium'] leading-[1.05] not-italic relative shrink-0 text-[#232323] text-[24px] w-full" data-node-id="I1:525;849:27622">
+              Открыл коробку — и сразу начал играть. Никаких долгих объяснений. Правило одно: побеждает тот, кто наберёт больше всего очков.
+            </p>
+          </div>
+        </div>
+        <div className="bg-[#e3e3e3] col-2 content-stretch flex flex-col gap-[32px] items-center justify-self-stretch p-[40px] relative rounded-[40px] row-1 self-stretch shrink-0" data-node-id="1:526">
+          <div className="grid-rows-[max-content] inline-grid leading-[0] place-items-start relative shrink-0 w-full" data-node-id="I1:526;849:27615" data-name="Mask group">
+            <div className="aspect-[2400/1792] col-1 mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[101.508px_10px] mask-size-[393px_221.36px] ml-[-25.83%] mt-[-10px] relative row-1 w-[143%]" data-node-id="I1:526;849:27617" style={{ maskImage: `url("${imgImage4}")` }} data-name="image 3">
+              <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none size-full" src={imgImage7} />
+            </div>
+          </div>
+          <div className="absolute bg-[#ff8b1e] content-stretch flex flex-col items-center justify-center left-[368px] px-[20px] py-[10px] rounded-[50px] size-[48px] top-[195px]" data-node-id="I1:526;849:27618">
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Black'] leading-[1.003] not-italic relative shrink-0 text-[32px] text-white whitespace-nowrap" data-node-id="I1:526;849:27619">
+              2
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="I1:526;849:27620">
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:Medium'] leading-[1.05] not-italic relative shrink-0 text-[#232323] text-[24px] w-full" data-node-id="I1:526;849:27622">
+              Единственная настолка, где игроки не сидят на месте. Живые соревнования, движение и азарт с первой же игры.
+            </p>
+          </div>
+        </div>
+        <div className="bg-[#e3e3e3] col-1 content-stretch flex flex-col gap-[32px] items-center justify-self-stretch p-[40px] relative rounded-[40px] row-2 self-stretch shrink-0" data-node-id="1:527">
+          <div className="grid-rows-[max-content] inline-grid leading-[0] place-items-start relative shrink-0 w-full" data-node-id="I1:527;849:27615" data-name="Mask group">
+            <div className="aspect-[2400/1792] col-1 mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[101.508px_10px] mask-size-[393px_221.36px] ml-[-25.83%] mt-[-10px] relative row-1 w-[143%]" data-node-id="I1:527;849:27617" style={{ maskImage: `url("${imgImage4}")` }} data-name="image 3">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute h-[82.6%] left-[16.3%] max-w-none top-0 w-[75.67%]" src={imgImage8} />
+              </div>
+            </div>
+          </div>
+          <div className="absolute bg-[#ff8b1e] content-stretch flex flex-col items-center justify-center left-[368px] px-[20px] py-[10px] rounded-[50px] size-[48px] top-[195px]" data-node-id="I1:527;849:27618">
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Black'] leading-[1.003] not-italic relative shrink-0 text-[32px] text-white whitespace-nowrap" data-node-id="I1:527;849:27619">
+              3
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="I1:527;849:27620">
+            <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:Medium'] leading-[0] not-italic relative shrink-0 text-[#232323] text-[24px] w-full" data-node-id="I1:527;849:27622">
+              <p className="leading-[1.05] mb-0">Остановите в любой момент</p>
+              <p className="leading-[1.05]">{`и возобновите когда угодно. `}</p>
+            </div>
+          </div>
+        </div>
+        <div className="bg-[#e3e3e3] col-2 content-stretch flex flex-col gap-[32px] items-center justify-self-stretch p-[40px] relative rounded-[40px] row-2 self-stretch shrink-0" data-node-id="1:528">
+          <div className="grid-rows-[max-content] inline-grid leading-[0] place-items-start relative shrink-0 w-full" data-node-id="I1:528;849:27615" data-name="Mask group">
+            <div className="aspect-[2400/1792] col-1 mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[101.508px_10px] mask-size-[393px_221.36px] ml-[-25.83%] mt-[-10px] relative row-1 w-[143%]" data-node-id="I1:528;849:27617" style={{ maskImage: `url("${imgImage4}")` }} data-name="image 3">
+              <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage9} />
+            </div>
+          </div>
+          <div className="absolute bg-[#ff8b1e] content-stretch flex flex-col items-center justify-center left-[368px] px-[20px] py-[10px] rounded-[50px] size-[48px] top-[195px]" data-node-id="I1:528;849:27618">
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Black'] leading-[1.003] not-italic relative shrink-0 text-[32px] text-white whitespace-nowrap" data-node-id="I1:528;849:27619">
+              4
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="I1:528;849:27620">
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:Medium'] leading-[1.05] not-italic relative shrink-0 text-[#232323] text-[24px] w-full" data-node-id="I1:528;849:27622">
+              Подходит и для детей, и для взрослых — в каждом сборнике указано, нужен ли реквизит.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className="-translate-x-1/2 absolute content-stretch flex flex-col gap-[40px] items-start left-[calc(50%+0.25px)] top-[2714px] w-[962.497px]" data-node-id="1:529">
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Bold'] leading-[1.003] min-w-full not-italic relative shrink-0 text-[#161616] text-[96px] uppercase w-[min-content]" data-node-id="1:530">
+          СИСТЕМА ОЧКОВ
+        </p>
+        <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="1:531">
+          <div className="[word-break:break-word] content-stretch flex gap-[13px] items-start leading-[1.1] not-italic relative shrink-0 text-center" data-node-id="1:532">
+            <div className="bg-[#ffdebf] content-stretch flex flex-col font-['TT_Hoves_Pro_Trial:DemiBold'] gap-[29px] items-center pb-[53px] pt-[55px] px-[16px] relative rounded-[50px] shrink-0 size-[230px] text-[#ff8b1e]" data-node-id="1:533">
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] relative shrink-0 text-[72px] whitespace-nowrap" data-node-id="I1:533;1291:6066">
+                +1
+              </p>
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] relative shrink-0 text-[24px] w-[181px]" data-node-id="I1:533;1291:6067">
+                за лёгкое задани
+              </p>
+            </div>
+            <div className="bg-[#ff8b1e] content-stretch flex flex-col gap-[29px] items-center pb-[53px] pt-[55px] px-[16px] relative rounded-[50px] shrink-0 size-[230px] text-[#f3f3f3]" data-node-id="1:534">
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:DemiBold'] relative shrink-0 text-[72px] whitespace-nowrap" data-node-id="I1:534;1291:6066">
+                +2
+              </p>
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Medium'] relative shrink-0 text-[24px] w-[181px]" data-node-id="I1:534;1291:6067">
+                за среднее задание
+              </p>
+            </div>
+            <div className="bg-[#fe391f] content-stretch flex flex-col font-['TT_Hoves_Pro_Trial:DemiBold'] gap-[29px] items-center pb-[53px] pt-[55px] px-[16px] relative rounded-[50px] shrink-0 size-[230px] text-[#f3f3f3]" data-node-id="1:535">
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] relative shrink-0 text-[72px] whitespace-nowrap" data-node-id="I1:535;1291:6066">
+                +5
+              </p>
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] relative shrink-0 text-[24px] w-[181px]" data-node-id="I1:535;1291:6067">
+                за сложное задание
+              </p>
+            </div>
+            <div className="bg-white content-stretch flex flex-col font-['TT_Hoves_Pro_Trial:DemiBold'] gap-[29px] items-center pb-[53px] pt-[55px] px-[16px] relative rounded-[50px] shrink-0 size-[230px] text-[#ff8b1e]" data-node-id="1:536">
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] relative shrink-0 text-[72px] whitespace-nowrap" data-node-id="I1:536;1291:6066">
+                10
+              </p>
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] relative shrink-0 text-[24px] w-[181px] whitespace-pre-wrap" data-node-id="I1:536;1291:6067">
+                {`игр `}
+                <br aria-hidden />в сборнике
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <Group2087331646 className="absolute h-[312px] left-[65px] top-[2321px] w-[953px]" />
+      <Frame2087326709 className="-translate-x-1/2 absolute content-stretch flex flex-col gap-[40px] items-start left-1/2 top-[5753px] w-[960px]" />
+      <div className="absolute content-stretch flex flex-col gap-[40px] items-end left-[53px] top-[4458px] w-[967.5px]" data-node-id="1:597">
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Bold'] leading-[1.003] not-italic relative shrink-0 text-[#161616] text-[96px] uppercase w-full" data-node-id="1:598">
+          СБОРНИКИ ИГР
+        </p>
+        <div className="gap-x-[29px] gap-y-[30px] grid grid-cols-[repeat(2,minmax(0,1fr))] grid-rows-[repeat(2,minmax(0,1fr))] h-[960px] relative shrink-0 w-full" data-node-id="1:599">
+          <Frame6498 className="bg-[#ff8b1e] col-1 justify-self-stretch overflow-clip relative rounded-[60px] row-1 self-stretch shrink-0" />
+          <Frame6497 className="bg-[#ff8b1e] col-2 justify-self-stretch overflow-clip relative rounded-[60px] row-1 self-stretch shrink-0" />
+          <Frame6496 className="bg-[#ff8b1e] col-1 justify-self-stretch overflow-clip relative rounded-[60px] row-2 self-stretch shrink-0" />
+          <Frame6495 className="bg-[#ff8b1e] col-2 justify-self-stretch overflow-clip relative rounded-[60px] row-2 self-stretch shrink-0" />
+        </div>
+        <div className="bg-[#e6e6e6] content-stretch flex items-center justify-center overflow-clip p-[40px] relative rounded-[80px] shrink-0 w-full" data-node-id="1:652" data-name="button M">
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.1] not-italic relative shrink-0 text-[#929292] text-[40px] text-center whitespace-nowrap" data-node-id="I1:652;776:26678">
+            Показать все категории
+          </p>
+        </div>
+      </div>
+      <div className="-translate-x-1/2 absolute contents left-1/2 top-[3130px]" data-node-id="1:653">
+        <div className="-translate-x-1/2 absolute bg-white h-[252px] left-[calc(50%+0.5px)] rounded-[50px] top-[4193px] w-[731px]" data-node-id="1:654" />
+        <div className="absolute contents left-0 top-[3130px]" data-node-id="1:655">
+          <div className="absolute contents left-0 top-[3130px]" data-node-id="1:656">
+            <div className="absolute bg-[#161616] h-[1131px] left-0 rounded-[120px] top-[3130px] w-[1080px]" data-node-id="1:657" />
+            <div className="absolute content-stretch flex flex-col gap-[60px] items-center left-[calc(8.33%+32px)] top-[3201px] w-[836.151px]" data-node-id="1:658">
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Bold'] leading-[0] min-w-full not-italic relative shrink-0 text-[#f3f3f3] text-[96px] text-center uppercase w-[min-content]" data-node-id="1:659">
+                <span className="leading-[0.9] text-[#ff8b1e]">{`ТИПЫ `}</span>
+                <span className="leading-[0.9]">ЗАДАНИЙ</span>
+              </p>
+              <div className="content-stretch flex flex-col gap-[37px] items-center relative shrink-0 w-[836.151px]" data-node-id="1:660">
+                <div className="content-stretch flex gap-[35px] items-center relative shrink-0 w-full" data-node-id="1:661">
+                  <Frame2087326851 className="h-[372.162px] relative shrink-0 w-[255.384px]" />
+                  <Frame2087326852 className="h-[372.162px] relative shrink-0 w-[255.384px]" />
+                  <Frame2087326853 className="h-[372.162px] relative shrink-0 w-[255.384px]" />
+                </div>
+                <div className="content-stretch flex gap-[35px] items-center relative shrink-0" data-node-id="1:702">
+                  <Frame2087326855 className="h-[372.162px] relative shrink-0 w-[255.384px]" />
+                  <Frame2087326854 className="h-[372.162px] relative shrink-0 w-[255.384px]" />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="-translate-x-1/2 absolute contents left-1/2 top-[4215px]" data-node-id="1:729">
+            <div className="-translate-x-1/2 absolute bg-[#ff8b1e] h-[82px] left-1/2 rounded-[8px] top-[4215px] w-[366px]" data-node-id="1:730" />
+            <p className="-translate-x-1/2 [text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute bottom-[45.03%] font-['TT_Hoves_Pro_Trial_Variable:Compact_DemiBold'] leading-[1.1] left-1/2 not-italic text-[#f3f3f3] text-[48.897px] text-center top-[54.53%] whitespace-nowrap" data-node-id="1:731">
+              10 раундов
+            </p>
+          </div>
+          <p className="-translate-x-1/2 [text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.09] left-1/2 not-italic text-[#161616] text-[30px] text-center top-[4341px] w-[634px]" data-node-id="1:732">{` Побеждает тот, у кого по итогам 10 раундов окажется больше всего баллов!`}</p>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+
+These styles are contained in the design: 1: Effect(type: DROP_SHADOW, color: #0000001F, offset: (5, 4), radius: 9.100000381469727, spread: 0), Black: , Оранжевый: #FF391F, красный: Effect(type: DROP_SHADOW, color: #FE391F, offset: (0, 4), radius: 37.599998474121094, spread: 0).
+
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

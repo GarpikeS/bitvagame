@@ -1,0 +1,90 @@
+<frame id="1:837" name="Описание игры (мобильный)" x="186" y="545" width="1080" height="6202">
+  <rounded-rectangle id="1:838" name="fef5212522d3979c5d1d89d95b14975e_2d8e6142-bc9d-4479-822f-ed621241b7d6 1" x="-79" y="0" width="1262" height="1016" />
+  <rounded-rectangle id="1:839" name="Rectangle 231" x="-30" y="558" width="1169" height="410" />
+  <rounded-rectangle id="1:840" name="Rectangle 156" x="0" y="837" width="1080" height="5433" />
+  <frame id="1:841" name="Frame 6401" x="60" y="720" width="743.6431884765625" height="64.09736633300781">
+    <frame id="1:842" name="Frame 6396" x="0" y="0" width="228.47564697265625" height="64.09736633300781">
+      <rounded-rectangle id="1:843" name="Adobe Express - file (10) 3" x="19.951087951660156" y="13.259390830993652" width="30.575135774914884" height="37.57858394535879" />
+      <text id="1:844" name="за монеты" x="57.93376541137695" y="21.048683166503906" width="151" height="22" />
+    </frame>
+    <frame id="1:845" name="Frame 6262" x="243.4755859375" y="0" width="248.08375549316406" height="64.09736633300781">
+      <text id="1:846" name="от 2-х человек" x="19.54187774658203" y="21.048683166503906" width="209" height="22" />
+    </frame>
+    <frame id="1:847" name="Frame 6397" x="506.5595703125" y="0" width="237.08375549316406" height="64.09736633300781">
+      <text id="1:848" name="с реквизитом" x="19.54187774658203" y="21.048683166503906" width="198" height="22" />
+    </frame>
+  </frame>
+  <frame id="1:849" name="Frame 6521" x="299.5" y="912" width="481" height="159">
+    <text id="1:850" name="КАРАОКЕ-БИТВА" x="47" y="0" width="387" height="67" />
+    <text id="1:851" name="Проверьте, кто из вас лучше знает любимые песни!" x="0" y="107" width="481" height="52" />
+  </frame>
+  <instance id="1:852" name="Header" x="60" y="79" width="960" height="123.43087768554688" />
+  <frame id="1:853" name="Frame 2087326793" x="60" y="1136" width="962.4970703125" height="4475.70556640625">
+    <frame id="1:854" name="Frame 2087326794" x="0" y="0" width="962.4970703125" height="1070">
+      <frame id="1:855" name="Frame 2087326708" x="0" y="0" width="962.4970703125" height="918">
+        <instance id="1:856" name="Tag/Frame 2087326694" x="0" y="0" width="474.24853515625" height="452" />
+        <instance id="1:857" name="Frame 2087326706" x="488.24853515625" y="0" width="474.24853515625" height="452" />
+        <instance id="1:858" name="Frame 2087326707" x="0" y="466" width="474.24853515625" height="452" />
+        <instance id="1:859" name="Frame 2087326708" x="488.24853515625" y="466" width="474.24853515625" height="452" />
+      </frame>
+      <instance id="1:860" name="Component 36" x="0" y="950" width="970" height="120" />
+    </frame>
+    <frame id="1:861" name="Group 2087331491" x="0" y="1150" width="959" height="663">
+      <rounded-rectangle id="1:862" name="Rectangle 42148" x="0" y="1150" width="959" height="663" />
+      <frame id="1:863" name="Frame 6528" x="38" y="1189" width="861" height="557">
+        <text id="1:864" name="ПРАВИЛА ИГРЫ" x="0" y="0" width="861" height="67" />
+        <frame id="1:865" name="Frame 6527" x="0" y="117" width="861" height="440">
+          <instance id="1:866" name="Frame 6437" x="0" y="0" width="861" height="80" />
+          <instance id="1:867" name="Frame 6527" x="0" y="120" width="861" height="80" />
+          <instance id="1:868" name="Frame 6528" x="0" y="240" width="861" height="80" />
+          <instance id="1:869" name="Frame 6529" x="0" y="360" width="861" height="80" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="1:870" name="Frame 6522" x="0" y="1893" width="962.4970703125" height="270.705078125">
+      <text id="1:871" name="РЕКВИЗИТ" x="0" y="0" width="962.4970703125" height="67" />
+      <frame id="1:872" name="Group 2087331490" x="0" y="107" width="959" height="163.705078125">
+        <rounded-rectangle id="1:873" name="Rectangle 42147" x="0" y="107" width="959" height="163.705078125" />
+        <frame id="1:874" name="Frame 6517" x="16" y="133.72735977172852" width="804" height="114">
+          <frame id="1:875" name="Group 2087331488" x="0" y="7.5" width="99" height="99" />
+          <frame id="1:890" name="Frame 6516" x="119" y="0" width="685" height="114">
+            <text id="1:891" name="Для игры вам понадобятся лист бумаги, ручка или заметки в телефоне" x="0" y="0" width="685" height="52" />
+            <text id="1:892" name="Записывайте пропущенные слова и считайте очки — это часть веселья!" x="0" y="72" width="685" height="42" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="1:893" name="Frame 2087326800" x="0" y="2243.705078125" width="962.4970703125" height="337.00030517578125">
+      <text id="1:894" name="СИСТЕМА ОЧКОВ" x="0" y="0" width="962.4970703125" height="67" />
+      <frame id="1:895" name="Frame 2087326797" x="0" y="107" width="959.0012817382812" height="230.0003204345703">
+        <frame id="1:896" name="Frame 2087326798" x="0" y="0" width="959.0012817382812" height="230.0003204345703">
+          <instance id="1:897" name="Frame 2087326799" x="0" y="0" width="230.0003204345703" height="230.0003204345703" />
+          <instance id="1:898" name="Frame 2087326796" x="243.0003204345703" y="0" width="230.0003204345703" height="230.0003204345703" />
+          <instance id="1:899" name="Frame 2087326797" x="486.0006408691406" y="0" width="230.0003204345703" height="230.0003204345703" />
+          <instance id="1:900" name="Frame 2087326798" x="729.0009765625" y="0" width="230.0003204345703" height="230.0003204345703" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="1:901" name="Frame 2087326802" x="0" y="2660.705322265625" width="962.4970703125" height="1214">
+      <text id="1:902" name="выбрать категорию" x="0" y="0" width="962.4970703125" height="67" />
+      <frame id="1:903" name="Frame 2087326801" x="0" y="107" width="960" height="959">
+        <instance id="1:904" name="Frame 6496" x="0" y="0" width="465" height="465" />
+        <instance id="1:905" name="Frame 6497" x="494" y="0" width="465" height="465" />
+        <instance id="1:906" name="Frame 6498" x="0" y="494" width="465.5" height="465" />
+        <instance id="1:907" name="Frame 6499" x="494.5" y="494" width="465.5" height="465" />
+      </frame>
+      <instance id="1:908" name="button M" x="0" y="1106" width="966" height="108" />
+    </frame>
+    <frame id="1:909" name="Frame 2087326770" x="0" y="3954.705322265625" width="962" height="521">
+      <text id="1:910" name="ВАМ МОЖЕТ ПОНРАВИТЬСЯ" x="0" y="0" width="961.4970703125" height="39" />
+      <frame id="1:911" name="Frame 6508" x="0" y="71" width="962" height="310">
+        <instance id="1:912" name="Component 40" x="0" y="0" width="310" height="310" />
+        <instance id="1:913" name="Component 40" x="326" y="0" width="310" height="310" />
+        <instance id="1:914" name="Frame 2087325390" x="652" y="0" width="310" height="310" />
+      </frame>
+      <instance id="1:915" name="button M" x="0" y="413" width="966" height="108" />
+    </frame>
+  </frame>
+  <instance id="1:916" name="Component 2" x="936" y="700" width="84" height="84" />
+  <instance id="1:917" name="Footer" x="-1" y="5697" width="1081" height="505" />
+</frame>

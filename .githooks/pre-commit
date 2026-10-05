@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+set -eu
+node tools/repository-check.cjs --staged
+git diff --cached --check

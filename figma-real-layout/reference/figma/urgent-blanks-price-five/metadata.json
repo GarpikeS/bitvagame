@@ -1,0 +1,12 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "<frame id=\"1:360\" name=\"Frame 2087326827\" x=\"843\" y=\"2447\" width=\"144\" height=\"63\">\n  <text id=\"1:361\" name=\"250 р.\" x=\"30\" y=\"12\" width=\"84\" height=\"39\" />\n</frame>"
+    },
+    {
+      "type": "text",
+      "text": "IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design."
+    }
+  ]
+}

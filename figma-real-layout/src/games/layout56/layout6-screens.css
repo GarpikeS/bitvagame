@@ -1,0 +1,78 @@
+/* Direct Figma exports for Layout 6 nodes 1:1061, 1:1111, 1:1121 and 1:1288. */
+.page.l6c-page.l6s-page {
+  --l6s-height: 2074px;
+  width: 1080px;
+  min-width: 1080px;
+  max-width: 1080px;
+  height: var(--l6s-height);
+  min-height: var(--l6s-height);
+  overflow: hidden;
+  background: #f3f3f3;
+}
+
+.page.l6c-page.l6s-page[data-render-mode='figma-reference'] {
+  margin: 0;
+  padding: 0 !important;
+}
+
+.l6s-reference {
+  position: absolute;
+  z-index: 0;
+  inset: 0;
+  display: block;
+  width: 1080px;
+  height: var(--l6s-height);
+  max-width: none;
+  object-fit: fill;
+  pointer-events: none;
+  user-select: none;
+}
+
+.l6s-nav {
+  position: absolute;
+  z-index: 4;
+  top: 107px;
+  left: 60px;
+}
+
+.l6s-page--tasks .l6s-nav { left: 59px; }
+
+.l6s-hit {
+  position: absolute;
+  z-index: 5;
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  color: transparent;
+  background: transparent;
+  cursor: pointer;
+}
+
+.l6s-hit:focus-visible {
+  outline: 5px solid #161616;
+  outline-offset: 5px;
+}
+
+.l6s-header-back { left: 60px; top: 107px; width: 600px; height: 123.431px; border-radius: 90px; }
+.l6s-header-account { left: 670px; top: 107px; width: 350px; height: 123.431px; border-radius: 90px; }
+.l6s-footer-home { left: 25px; width: 484px; height: 185px; }
+.l6s-footer-privacy { left: 545px; width: 435px; height: 72px; }
+
+.l6s-game-previous { left: 60px; top: 2281px; width: 468px; height: 120px; border-radius: 933px; }
+.l6s-game-next { left: 552px; top: 2281px; width: 468px; height: 120px; border-radius: 933px; }
+.l6s-manage-collections { left: 60px; top: 2638px; width: 960px; height: 144px; }
+.l6s-manage-tasks { left: 60px; top: 2782px; width: 960px; height: 144px; }
+.l6s-manage-winner { left: 60px; top: 2926px; width: 960px; height: 144px; }
+.l6s-manage-new { left: 60px; top: 3070px; width: 960px; height: 144px; }
+
+.l6s-task-play { left: 714px; width: 305px; height: 122px; border-radius: 933px; }
+.l6s-task-play--one { top: 1294px; }
+.l6s-task-play--two { top: 2382px; }
+.l6s-task-play--three { top: 3422px; }
+
+.l6s-modal-close { left: 906px; top: 337px; width: 68px; height: 68px; border-radius: 50%; }
+.l6s-props-buy { left: 751px; width: 195px; height: 82px; border-radius: 80px; }
+.l6s-props-buy--cups { top: 515px; }
+.l6s-props-buy--balls { top: 733px; }
+.l6s-props-buy--all { left: 132px; top: 1160px; width: 814px; height: 84px; }

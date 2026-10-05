@@ -1,0 +1,96 @@
+const imgGroup = "http://localhost:3845/assets/3835d315778756a7fe11172d2627b31069150d89.svg";
+const imgFrame2087326726 = "http://localhost:3845/assets/8d33aa59d77f99ab3dc38feb0e3e457eaf66c081.svg";
+const imgUnion = "http://localhost:3845/assets/24c9f666424e5c1fa384d780a94a1327488696c2.svg";
+type ComponentProps = {
+  className?: string;
+  property1?: "mic" | "14";
+};
+
+function Component({ className, property1 = "14" }: ComponentProps) {
+  const is14 = property1 === "14";
+  return (
+    <div className={className || "overflow-clip relative size-[105px]"} id={is14 ? "node-1_566" : "node-1_558"}>
+      {property1 === "mic" && (
+        <div className="absolute contents inset-[0_6.64%_0.31%_5.06%]" data-node-id="1:559" data-name="Group">
+          <div className="absolute inset-[0_6.64%_0.31%_5.06%]" data-node-id="1:560" data-name="Group">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup} />
+          </div>
+        </div>
+      )}
+      {is14 && (
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.1] left-0 not-italic text-[#ff8b1e] text-[110.468px] top-[10.59px] whitespace-nowrap" data-node-id="1:567">
+          14
+        </p>
+      )}
+    </div>
+  );
+}
+
+function Frame({ className }: { className?: string }) {
+  return (
+    <div className={className || "bg-white content-stretch flex flex-col gap-[24px] items-start p-[32px] relative rounded-[40px] w-[472px]"} data-node-id="1:535">
+      <Component className="overflow-clip relative shrink-0 size-[105px]" property1="mic" />
+      <div className="[word-break:break-word] content-stretch flex flex-col gap-[16px] items-start leading-[1.1] not-italic relative shrink-0 w-full" data-node-id="1:537">
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Medium'] relative shrink-0 text-[#161616] text-[30px] w-[406px]" data-node-id="1:538">
+          Купить другую категорию
+        </p>
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Regular'] min-w-full relative shrink-0 text-[#898989] text-[26px] w-[min-content]" data-node-id="1:539">
+          1 категория = 100 монет
+        </p>
+      </div>
+    </div>
+  );
+}
+
+export default function Frame1() {
+  return (
+    <div className="content-start flex flex-wrap gap-[16px] items-start relative size-full" data-node-id="1:526">
+      <Frame className="bg-white content-stretch flex flex-col gap-[24px] items-start p-[32px] relative rounded-[40px] shrink-0 w-[472px]" />
+      <div className="bg-white content-stretch flex flex-col gap-[24px] items-start p-[32px] relative rounded-[40px] shrink-0 w-[472px]" data-node-id="1:528">
+        <div className="overflow-clip relative shrink-0 size-[105px]" data-node-id="I1:528;1:536">
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.1] left-0 not-italic text-[#ff8b1e] text-[110.468px] top-[10.59px] whitespace-nowrap" data-node-id="I1:528;1:536;1:567">
+            14
+          </p>
+        </div>
+        <div className="[word-break:break-word] content-stretch flex flex-col gap-[16px] items-start leading-[1.1] not-italic relative shrink-0 w-full" data-node-id="I1:528;1:537">
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Medium'] relative shrink-0 text-[#161616] text-[30px] w-[406px]" data-node-id="I1:528;1:538">
+            Выпали песни
+          </p>
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Regular'] min-w-full relative shrink-0 text-[#898989] text-[26px] w-[min-content]" data-node-id="I1:528;1:539">
+            смотреть правильные ответы
+          </p>
+        </div>
+      </div>
+      <div className="bg-white content-stretch flex flex-col gap-[24px] items-start p-[32px] relative rounded-[40px] shrink-0 w-[472px]" data-node-id="1:529">
+        <div className="overflow-clip relative shrink-0 size-[105px]" data-node-id="I1:529;1:536">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame2087326726} />
+        </div>
+        <div className="[word-break:break-word] content-stretch flex flex-col gap-[16px] items-start leading-[1.1] not-italic relative shrink-0 w-full" data-node-id="I1:529;1:537">
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Medium'] relative shrink-0 text-[#161616] text-[30px] w-[406px]" data-node-id="I1:529;1:538">
+            Объявить победителя
+          </p>
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Regular'] min-w-full relative shrink-0 text-[#898989] text-[26px] w-[min-content]" data-node-id="I1:529;1:539">
+            и завершить игру
+          </p>
+        </div>
+      </div>
+      <div className="bg-white content-stretch flex flex-col gap-[24px] items-start p-[32px] relative rounded-[40px] shrink-0 w-[472px]" data-node-id="1:530">
+        <div className="bg-[#ff8b1e] content-stretch flex items-center justify-center relative rounded-[110.008px] shrink-0 size-[105px]" data-node-id="I1:530;1:536">
+          <div className="relative shrink-0 size-[48px]" data-node-id="I1:530;1:536;1:542" data-name="icons/fill/play">
+            <div className="absolute bottom-[16.67%] left-1/4 right-[16.67%] top-[16.67%]" data-node-id="I1:530;1:536;1:542;419:6943" data-name="Union">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUnion} />
+            </div>
+          </div>
+        </div>
+        <div className="[word-break:break-word] content-stretch flex flex-col gap-[16px] items-start leading-[1.1] not-italic relative shrink-0 w-full" data-node-id="I1:530;1:537">
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Medium'] relative shrink-0 text-[#161616] text-[30px] w-[406px]" data-node-id="I1:530;1:538">
+            Новая игра
+          </p>
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Regular'] min-w-full relative shrink-0 text-[#898989] text-[26px] w-[min-content]" data-node-id="I1:530;1:539">
+            обновить список песен
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+}

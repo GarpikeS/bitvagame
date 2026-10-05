@@ -1,0 +1,1 @@
+<symbol id="1:1257" name="Play – button/Default/Yes/Default" x="748" y="1083" width="274" height="285" />

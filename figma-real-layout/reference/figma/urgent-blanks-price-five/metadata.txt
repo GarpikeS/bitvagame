@@ -1,0 +1,3 @@
+<frame id="1:360" name="Frame 2087326827" x="843" y="2447" width="144" height="63">
+  <text id="1:361" name="250 р." x="30" y="12" width="84" height="39" />
+</frame>

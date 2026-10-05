@@ -1,0 +1,12 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "<rounded-rectangle id=\"1:838\" name=\"fef5212522d3979c5d1d89d95b14975e_2d8e6142-bc9d-4479-822f-ed621241b7d6 1\" x=\"-79\" y=\"0\" width=\"1262\" height=\"1016\" />"
+    },
+    {
+      "type": "text",
+      "text": "IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design."
+    }
+  ]
+}

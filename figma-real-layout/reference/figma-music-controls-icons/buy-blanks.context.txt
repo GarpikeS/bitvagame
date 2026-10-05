@@ -1,0 +1,21 @@
+const imgGroup = "http://localhost:3845/assets/e82a4df6de8e72416de79a8a771f5cf834355e1b.svg";
+const imgGroup1 = "http://localhost:3845/assets/da4c8d880a060ff51a67f131a61b682e92c64964.svg";
+
+export default function Frame() {
+  return (
+    <div className="relative size-full" data-node-id="1:1112">
+      <div className="absolute contents inset-[0_21.43%_0_0]" data-node-id="1:1113">
+        <div className="absolute contents inset-[90.48%_21.43%_0_69.05%]" data-node-id="1:1114" data-name="Group">
+          <div className="absolute inset-[90.48%_21.43%_0_69.05%]" data-node-id="1:1115" data-name="Group">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup} />
+          </div>
+        </div>
+        <div className="absolute contents inset-[0_21.43%_0_0]" data-node-id="1:1117" data-name="Group">
+          <div className="absolute inset-[0_21.43%_0_0]" data-node-id="1:1118" data-name="Group">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup1} />
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}

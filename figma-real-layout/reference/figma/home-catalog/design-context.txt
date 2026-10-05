@@ -1,0 +1,168 @@
+const imgUnion = "http://localhost:3845/assets/5b9ff6ec506d8b20294e2802131bb2332e2a9ca5.svg";
+const imgUnion1 = "http://localhost:3845/assets/5302f54f09468c73b4241a949e6aa0370a4b2806.svg";
+const imgUnion2 = "http://localhost:3845/assets/81d9372e753489636c48fc165cba082f96daf840.svg";
+const imgComponent40 = "http://localhost:3845/assets/1be5177ea43a48b3a28b82f9c9c1bd5744646240.png";
+const imgFrame2087325389 = "http://localhost:3845/assets/5a6f20e6bbe25cd1d8c107b79cf60296371605b1.png";
+const imgFrame2087325390 = "http://localhost:3845/assets/e8c345335df0190cd56fbc87085a3a7b7d0ace62.png";
+const imgFrame2087325391 = "http://localhost:3845/assets/951f97ada74b1cebfa157856986ae24a0e6b070e.png";
+const imgGroup2087326594 = "http://localhost:3845/assets/caaa993901b9c349ee051dd5749b8c8133ddb96f.svg";
+type ButtonMProps = {
+  className?: string;
+  state?: "disabled";
+};
+
+function ButtonM({ className, state = "disabled" }: ButtonMProps) {
+  return (
+    <div className={className || "bg-[#e6e6e6] content-stretch flex items-center justify-center overflow-clip p-[40px] relative rounded-[80px]"} data-node-id="1:1923">
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.1] not-italic relative shrink-0 text-[#929292] text-[40px] text-center whitespace-nowrap" data-node-id="1:1924">
+        Показать все игры
+      </p>
+    </div>
+  );
+}
+type PlayButtonProps = {
+  className?: string;
+  color?: "red" | "white";
+  property1?: "default";
+  shadow?: "yes" | "no";
+  size?: "L" | "S";
+  text?: "no";
+};
+
+function PlayButton({ className, color = "red", property1 = "default", shadow = "yes", size = "L", text = "no" }: PlayButtonProps) {
+  const isDefaultAndNoAndNotShadowAndSAndWhite = property1 === "default" && text === "no" && shadow === "no" && size === "S" && color === "white";
+  return (
+    <div className={className || `content-stretch flex items-center justify-center relative rounded-[110.008px] ${isDefaultAndNoAndNotShadowAndSAndWhite ? "bg-white size-[105px]" : "bg-[#fe391f] drop-shadow-[0px_4.757px_19.682px_#fe391f] size-[220.015px]"}`} id={isDefaultAndNoAndNotShadowAndSAndWhite ? "node-1_1571" : "node-1_1563"}>
+      <div className={`relative shrink-0 ${isDefaultAndNoAndNotShadowAndSAndWhite ? "size-[48px]" : "size-[121px]"}`} id={isDefaultAndNoAndNotShadowAndSAndWhite ? "node-1_1572" : "node-1_1564"} data-name="icons/fill/play">
+        <div className="absolute bottom-[16.67%] left-1/4 right-[16.67%] top-[16.67%]" id={isDefaultAndNoAndNotShadowAndSAndWhite ? "node-I1_1572-419_6943" : "node-I1_1564-419_6943"} data-name="Union">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={isDefaultAndNoAndNotShadowAndSAndWhite ? imgUnion1 : imgUnion} />
+        </div>
+      </div>
+    </div>
+  );
+}
+type ComponentProps = {
+  className?: string;
+  size?: "s";
+  state?: "active";
+};
+
+function Component({ className, size = "s", state = "active" }: ComponentProps) {
+  return (
+    <div className={className || "bg-white content-stretch flex items-center justify-center p-[18px] relative rounded-[100px] size-[84px]"} data-node-id="1:1914">
+      <div className="relative shrink-0 size-[48px]" data-node-id="1:1915" data-name="icons/fill/heart">
+        <div className="absolute inset-[12.5%_8.33%_13.02%_8.33%]" data-node-id="I1:1915;419:6957" data-name="Union">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUnion2} />
+        </div>
+      </div>
+    </div>
+  );
+}
+type ButtonSProps = {
+  className?: string;
+  property1?: "Active";
+};
+
+function ButtonS({ className, property1 = "Active" }: ButtonSProps) {
+  return (
+    <div className={className || "bg-[#ff8b1e] content-stretch flex items-center justify-center px-[32px] py-[24px] relative rounded-[81.979px]"} data-node-id="1:1905">
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:Medium'] leading-[1.1] not-italic relative shrink-0 text-[#f3f3f3] text-[40px] text-center whitespace-nowrap" data-node-id="1:1906">
+        Все игры
+      </p>
+    </div>
+  );
+}
+
+export default function Frame() {
+  return (
+    <div className="content-stretch flex flex-col gap-[48px] items-start relative size-full" data-node-id="1:1243">
+      <div className="content-stretch flex gap-[16px] items-center relative shrink-0 w-full" data-node-id="1:1244">
+        <ButtonS className="bg-[#ff8b1e] content-stretch flex items-center justify-center px-[32px] py-[24px] relative rounded-[81.979px] shrink-0" />
+        <div className="bg-white content-stretch flex items-center justify-center px-[32px] py-[24px] relative rounded-[81.979px] shrink-0" data-node-id="1:1246" data-name="button - S">
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:Medium'] leading-[1.1] not-italic relative shrink-0 text-[#161616] text-[40px] text-center whitespace-nowrap" data-node-id="I1:1246;1:1910">
+            Бесплатно
+          </p>
+        </div>
+        <div className="bg-white content-stretch flex items-center justify-center px-[32px] py-[24px] relative rounded-[81.979px] shrink-0" data-node-id="1:1247" data-name="Component 3">
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:Medium'] leading-[1.1] not-italic relative shrink-0 text-[#161616] text-[40px] text-center whitespace-nowrap" data-node-id="I1:1247;1:1910">
+            Без реквизита
+          </p>
+        </div>
+        <Component className="bg-white content-stretch flex items-center justify-center p-[18px] relative rounded-[100px] shrink-0 size-[84px]" />
+      </div>
+      <div className="content-stretch flex flex-col gap-[32px] items-start relative shrink-0 w-full" data-node-id="1:1249">
+        <div className="content-start flex flex-wrap gap-[30px] items-start relative shrink-0 w-full" data-node-id="1:1250">
+          <div className="content-stretch flex flex-col h-[467px] items-start justify-between p-[40px] relative rounded-[40px] shrink-0 w-[465px]" data-node-id="1:1251" data-name="Component 40">
+            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[40px] size-full" src={imgComponent40} />
+            <div className="content-stretch flex gap-[16px] items-center relative shrink-0 w-full" data-node-id="I1:1251;1:2972">
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex-[1_0_0] font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.1] min-w-px not-italic relative text-[#f3f3f3] text-[38px]" data-node-id="I1:1251;1:2973">
+                Королевская битва
+              </p>
+              <div className="relative shrink-0 size-[56px]" data-node-id="I1:1251;1:2974">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup2087326594} />
+                <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute bottom-1/4 font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.1] left-[29.31%] not-italic right-[31.03%] text-[#f3f3f3] text-[32px] text-center top-1/4" data-node-id="I1:1251;1:2974;1:1621">
+                  ?
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex items-center justify-end relative shrink-0 w-full" data-node-id="I1:1251;1:2975" data-name="Button">
+              <PlayButton className="bg-white content-stretch flex items-center justify-center relative rounded-[110.008px] shrink-0 size-[105px]" color="white" shadow="no" size="S" />
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col h-[467px] items-start justify-between p-[40px] relative rounded-[40px] shrink-0 w-[465px]" data-node-id="1:1252">
+            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[40px] size-full" src={imgFrame2087325389} />
+            <div className="content-stretch flex gap-[16px] items-center relative shrink-0 w-full" data-node-id="I1:1252;1:2972">
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex-[1_0_0] font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.1] min-w-px not-italic relative text-[#f3f3f3] text-[38px]" data-node-id="I1:1252;1:2973">
+                Караоке-битва
+              </p>
+              <div className="relative shrink-0 size-[56px]" data-node-id="I1:1252;1:2974">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup2087326594} />
+                <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute bottom-1/4 font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.1] left-[29.31%] not-italic right-[31.03%] text-[#f3f3f3] text-[32px] text-center top-1/4" data-node-id="I1:1252;1:2974;1:1621">
+                  ?
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex items-center justify-end relative shrink-0 w-full" data-node-id="I1:1252;1:2975" data-name="Button">
+              <PlayButton className="bg-white content-stretch flex items-center justify-center relative rounded-[110.008px] shrink-0 size-[105px]" color="white" shadow="no" size="S" />
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col h-[467px] items-start justify-between p-[40px] relative rounded-[40px] shrink-0 w-[465px]" data-node-id="1:1253">
+            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[40px] size-full" src={imgFrame2087325390} />
+            <div className="content-stretch flex gap-[16px] items-center relative shrink-0 w-full" data-node-id="I1:1253;1:2972">
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex-[1_0_0] font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.1] min-w-px not-italic relative text-[#f3f3f3] text-[38px]" data-node-id="I1:1253;1:2973">
+                Распределитель ролей в мафии
+              </p>
+              <div className="relative shrink-0 size-[56px]" data-node-id="I1:1253;1:2974">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup2087326594} />
+                <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute bottom-1/4 font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.1] left-[29.31%] not-italic right-[31.03%] text-[#f3f3f3] text-[32px] text-center top-1/4" data-node-id="I1:1253;1:2974;1:1621">
+                  ?
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex items-center justify-end relative shrink-0 w-full" data-node-id="I1:1253;1:2975" data-name="Button">
+              <PlayButton className="bg-white content-stretch flex items-center justify-center relative rounded-[110.008px] shrink-0 size-[105px]" color="white" shadow="no" size="S" />
+            </div>
+          </div>
+          <div className="content-stretch flex flex-col h-[467px] items-start justify-between p-[40px] relative rounded-[40px] shrink-0 w-[465px]" data-node-id="1:1254">
+            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[40px] size-full" src={imgFrame2087325391} />
+            <div className="content-stretch flex gap-[16px] items-center relative shrink-0 w-full" data-node-id="I1:1254;1:2972">
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex-[1_0_0] font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.1] min-w-px not-italic relative text-[#f3f3f3] text-[38px]" data-node-id="I1:1254;1:2973">
+                Музыкальное лото
+              </p>
+              <div className="relative shrink-0 size-[56px]" data-node-id="I1:1254;1:2974">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup2087326594} />
+                <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute bottom-1/4 font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.1] left-[29.31%] not-italic right-[31.03%] text-[#f3f3f3] text-[32px] text-center top-1/4" data-node-id="I1:1254;1:2974;1:1621">
+                  ?
+                </p>
+              </div>
+            </div>
+            <div className="content-stretch flex items-center justify-end relative shrink-0 w-full" data-node-id="I1:1254;1:2975" data-name="Button">
+              <PlayButton className="bg-white content-stretch flex items-center justify-center relative rounded-[110.008px] shrink-0 size-[105px]" color="white" shadow="no" size="S" />
+            </div>
+          </div>
+        </div>
+        <ButtonM className="bg-[#e6e6e6] content-stretch flex items-center justify-center overflow-clip p-[40px] relative rounded-[80px] shrink-0 w-full" />
+      </div>
+    </div>
+  );
+}

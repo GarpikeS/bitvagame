@@ -1,0 +1,1 @@
+{"Оранжевый":"#FF391F","colors/icon/icon-high":"#141414","Black":""}

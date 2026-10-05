@@ -1,0 +1,9 @@
+export default function Frame() {
+  return (
+    <div className="relative size-full" data-node-id="1:1120">
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.1] left-0 not-italic text-[#ff8b1e] text-[86.271px] top-[19px] whitespace-nowrap" data-node-id="1:1121">
+        14
+      </p>
+    </div>
+  );
+}

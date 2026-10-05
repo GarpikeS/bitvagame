@@ -1,0 +1,140 @@
+<frame id="1:259" name="Описание игры (мобильный)" x="0" y="0" width="1080" height="6948">
+  <rounded-rectangle id="1:260" name="image 2" x="-90" y="-1" width="1212" height="977" />
+  <rounded-rectangle id="1:261" name="Rectangle 231" x="-24" y="558" width="1169" height="404" />
+  <rounded-rectangle id="1:262" name="Rectangle 156" x="0" y="815" width="1080" height="6462" />
+  <frame id="1:263" name="Black + Red" x="780" y="491" width="62.17713928222656" height="27" />
+  <frame id="1:284" name="Frame 6400" x="60" y="710" width="772.8167724609375" height="64.09736633300781">
+    <instance id="1:285" name="Tag" x="0" y="0" width="230.81675720214844" height="64.09736633300781" />
+    <instance id="1:286" name="Tag" x="245.81675720214844" y="0" width="257" height="64.09736633300781" />
+    <instance id="1:287" name="Tag" x="517.8167724609375" y="0" width="255" height="64.09736633300781" />
+  </frame>
+  <instance id="1:288" name="Header" x="60" y="79" width="960" height="123.43087768554688" />
+  <instance id="1:289" name="Component 2" x="936" y="700" width="84" height="84" />
+  <frame id="1:290" name="Frame 2087326673" x="55" y="2140" width="970" height="264">
+    <instance id="1:291" name="Component 35" x="0" y="0" width="970" height="120" />
+    <instance id="1:292" name="Component 34" x="0" y="144" width="970" height="120" />
+  </frame>
+  <instance id="1:293" name="Footer" x="-1" y="6443" width="1081" height="505" />
+  <frame id="1:294" name="Frame 6510" x="60" y="5804.5234375" width="962" height="521">
+    <text id="1:295" name="ВАМ МОЖЕТ ПОНРАВИТЬСЯ" x="0" y="0" width="961.4970703125" height="39" />
+    <frame id="1:296" name="Frame 6508" x="0" y="71" width="962" height="310">
+      <instance id="1:297" name="Component 40" x="0" y="0" width="310" height="310" />
+      <instance id="1:298" name="Component 40" x="326" y="0" width="310" height="310" />
+      <instance id="1:299" name="Frame 2087325390" x="652" y="0" width="310" height="310" />
+    </frame>
+    <instance id="1:300" name="button M" x="0" y="413" width="966" height="108" />
+  </frame>
+  <frame id="1:301" name="Group 2087326742" x="60" y="895" width="960" height="262.44012451171875">
+    <frame id="1:302" name="Frame 6373" x="60" y="954" width="960" height="203.44012451171875">
+      <frame id="1:303" name="Group 7" x="163.9998779296875" y="0" width="632.000244140625" height="86.44012451171875">
+        <frame id="1:304" name="Group 6" x="164.87562251091003" y="29.18316650390625" width="547.9512939453125" height="57.2569580078125">
+          <ellipse id="1:305" name="Ellipse 5" x="164.87562251091003" y="29.18316650390625" width="57.2569580078125" height="57.2569580078125" />
+          <ellipse id="1:306" name="Ellipse 6" x="481.19788813591003" y="29.18316650390625" width="57.2569580078125" height="57.2569580078125" />
+          <ellipse id="1:307" name="Ellipse 7" x="655.56995844841" y="29.18316650390625" width="57.2569580078125" height="57.2569580078125" />
+        </frame>
+        <text id="1:308" name="МУЗЫКАЛЬНОЕ ЛОТО" x="163.9998779296875" y="0" width="632" height="84" />
+        <frame id="1:309" name="Mask group" x="164.00010031517013" y="0" width="632" height="84">
+          <text id="1:310" name="МУЗЫКАЛЬНОЕ ЛОТО" x="164.00010031517013" y="0" width="632" height="84" />
+          <frame id="1:311" name="Group 5" x="164.00010031517013" y="25.67822265625" width="547.9483642578125" height="57.2569580078125">
+            <ellipse id="1:312" name="Ellipse 2" x="164.00010031517013" y="25.67822265625" width="57.2569580078125" height="57.2569580078125" />
+            <ellipse id="1:313" name="Ellipse 3" x="480.32138937767013" y="25.67822265625" width="57.2569580078125" height="57.2569580078125" />
+            <ellipse id="1:314" name="Ellipse 4" x="654.6915065651701" y="25.67822265625" width="57.2569580078125" height="57.2569580078125" />
+          </frame>
+        </frame>
+      </frame>
+      <text id="1:315" name="Музыкальное лото — это игра, где каждому участнику выдаётся бланк с песнями и первый, кто соберёт комбинацию из зачеркнутых полей, побеждает!" x="0" y="116.44012451171875" width="960" height="87" />
+    </frame>
+    <frame id="1:316" name="Group 2087326676" x="716" y="895" width="249.90966796875" height="69.51551818847656">
+      <frame id="1:317" name="Group 180" x="745.0005741119385" y="895" width="205.61660766601562" height="66.90619659423828">
+        <text id="1:318" name="Дома" x="751.6171879768372" y="895" width="199" height="56" />
+        <vector id="1:319" name="i" x="818.5390644073486" y="958.828125" width="15.39531533998013" height="27.12042333402121" />
+        <vector id="1:320" name="i" x="763.71875" y="949.1953125" width="18.718176281777005" height="19.60196269433277" />
+      </frame>
+      <vector id="1:321" name="Vector 52" x="716" y="906.47265625" width="249.90966796875" height="58.0428581237793" />
+    </frame>
+  </frame>
+  <frame id="1:322" name="Frame 2087326708" x="60" y="1190" width="960" height="918">
+    <instance id="1:323" name="Tag/Frame 2087326694" x="0" y="0" width="473" height="452" />
+    <instance id="1:324" name="Frame 2087326706" x="487" y="0" width="473" height="452" />
+    <instance id="1:325" name="Frame 2087326707" x="0" y="466" width="473" height="452" />
+    <frame id="1:326" name="Group 2087331625" x="487" y="466" width="473" height="452">
+      <frame id="1:327" name="Frame 2087326708" x="487" y="466" width="473" height="452">
+        <frame id="1:328" name="Mask group" x="40" y="40" width="393" height="221.36000061035156">
+          <rounded-rectangle id="1:329" name="Rectangle 212" x="40" y="40" width="393" height="221.36000061035156" />
+          <rounded-rectangle id="1:330" name="image 3" x="-61.5078125" y="30" width="561.96923828125" height="289.34503173828125" />
+        </frame>
+        <frame id="1:331" name="Frame 2087326683" x="368" y="195" width="48" height="48" hidden="true">
+          <text id="1:332" name="1" x="19" y="13" width="13" height="22" hidden="true" />
+        </frame>
+        <text id="1:333" name="Обратите внимание!" x="40" y="293.3599853515625" width="339" height="45" />
+        <frame id="1:334" name="Frame 6386" x="40" y="370.3599853515625" width="393" height="42">
+          <text id="1:335" name="для игры вам понадобятся индивидуальные бланки." x="0" y="0" width="393" height="42" />
+        </frame>
+      </frame>
+      <frame id="1:336" name="Mask group" x="554.0008544921875" y="503" width="363" height="224">
+        <rounded-rectangle id="1:337" name="Rectangle 111000855" x="554.0008697509766" y="503" width="363" height="224" />
+        <rounded-rectangle id="1:338" name="Group 2087326590 1" x="539.8133697509766" y="469.541015625" width="507.53194279219497" height="411.45122769370573" />
+      </frame>
+    </frame>
+  </frame>
+  <frame id="1:339" name="Group 2087331622" x="55" y="2477" width="970" height="1078">
+    <frame id="1:340" name="Frame 2087326711" x="55" y="3435" width="970" height="120">
+      <instance id="1:341" name="Component 35" x="0" y="0" width="962" height="120" />
+    </frame>
+    <frame id="1:342" name="Frame 2087326710" x="60" y="2477" width="960" height="926">
+      <frame id="1:343" name="Frame 2087326660" x="0" y="0" width="960" height="926">
+        <text id="1:344" name="ЭТАПЫ ПОДГОТОВКИ К ИГРЕ" x="48" y="344" width="864" height="67" />
+        <frame id="1:345" name="Frame 6433" x="48" y="459" width="830" height="419">
+          <instance id="1:346" name="Frame 6433" x="0" y="0" width="830" height="83" />
+          <instance id="1:347" name="Frame 6434" x="0" y="115" width="830" height="80" />
+          <instance id="1:348" name="Frame 6435" x="0" y="227" width="830" height="80" />
+          <instance id="1:349" name="Frame 6436" x="0" y="339" width="830" height="80" />
+        </frame>
+      </frame>
+      <frame id="1:350" name="Frame 2087326709" x="0" y="0" width="960" height="292">
+        <frame id="1:351" name="Mask group" x="0" y="0" width="960" height="292">
+          <rounded-rectangle id="1:352" name="Rectangle 203" x="0" y="0" width="960" height="292" />
+          <rounded-rectangle id="1:353" name="JzS3ZIl_u5o 3" x="-276" y="-411.728515625" width="1408.144344292239" height="1811.6151393080581" />
+        </frame>
+        <frame id="1:354" name="Frame 6435" x="62" y="173.3116455078125" width="356.41973876953125" height="82.6883544921875">
+          <text id="1:355" name="4 простых шага" x="25.209861755371094" y="26.84417724609375" width="306" height="29" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="1:356" name="Frame 6493" x="60" y="5485" width="960" height="219">
+    <text id="1:357" name="ВСЁ ГОТОВО? ТОГДА ЖМИТЕ!" x="0" y="0" width="960" height="67" />
+    <instance id="1:358" name="Component 36" x="0" y="99" width="960" height="120" />
+  </frame>
+  <symbol id="1:359" name="Group 2087331626" x="59" y="4715" width="966.9335327148438" height="667.3438720703125" />
+  <rounded-rectangle id="1:389" name="Rectangle 244" x="60" y="3742" width="960" height="863" />
+  <text id="1:390" name="КУПИТЬ БЛАНКИ" x="56.5" y="3632" width="958" height="67" />
+  <frame id="1:391" name="Frame 6272" x="117" y="4352" width="837" height="118.18016052246094">
+    <text id="1:392" name="КУПИТЬ БЛАНКИ" x="250.5" y="30.09008026123047" width="336" height="58" />
+  </frame>
+  <text id="1:393" name="После покупки бланки будут доступны в личном кабинете" x="129" y="4523" width="812" height="21" />
+  <instance id="1:394" name="Component 34" x="117" y="3790" width="837" height="120" />
+  <frame id="1:395" name="Group 2087331486" x="861" y="3816" width="64" height="64" />
+  <text id="1:398" name="СКОЛЬКО БЛАНКОВ?" x="122" y="3987" width="836" height="35" />
+  <frame id="1:399" name="Group 2087326623" x="117" y="4054" width="836" height="116">
+    <frame id="1:400" name="Group 2087326578" x="116.99999999999955" y="4054.0001068115234" width="836" height="116">
+      <rounded-rectangle id="1:401" name="Rectangle 155" x="116.99999999999909" y="4054.000213623047" width="836" height="116" />
+      <frame id="1:402" name="Group 2087326574" x="860.9999999999995" y="4080.0001068115234" width="64.13752746582031" height="64.13752746582031" />
+      <frame id="1:405" name="Group 2087326575" x="138.99999999999955" y="4080.0684661865234" width="64" height="64" />
+      <text id="1:408" name="30 бланков" x="419.99999999999955" y="4083.0001068115234" width="224" height="53" />
+    </frame>
+  </frame>
+  <frame id="1:409" name="Group 2087331621" x="200" y="4202" width="680" height="69">
+    <frame id="1:410" name="Frame 2087326721" x="200" y="4202" width="332" height="69">
+      <frame id="1:411" name="Frame 2087326720" x="10" y="11.228515625" width="327.1173400878906" height="41.28857421875">
+        <rounded-rectangle id="1:412" name="Adobe Express - file (10) 3" x="6.4453125" y="2.64453125" width="42.117332952451534" height="41.28857321324904" />
+        <text id="1:413" name="Стоимость: 1500" x="60" y="11.64453125" width="234" height="21" />
+      </frame>
+    </frame>
+    <frame id="1:414" name="Group 2087326577" x="544.1171875" y="4202" width="335.8828125" height="69">
+      <frame id="1:415" name="Frame 2087326722" x="544.1171875" y="4201.999999999996" width="335.8828125" height="69">
+        <text id="1:416" name="1 бланк на человека" x="29.44140625" y="24.5" width="277" height="21" />
+      </frame>
+    </frame>
+  </frame>
+</frame>

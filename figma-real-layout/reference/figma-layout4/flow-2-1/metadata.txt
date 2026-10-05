@@ -1,0 +1,32 @@
+<frame id="1:4448" name="2.1" x="2542" y="17041" width="1080" height="2564">
+  <frame id="1:4449" name="Frame 2087326652" x="-1" y="80" width="1081" height="1483.45166015625">
+    <instance id="1:4450" name="Header" x="60.5" y="0" width="960" height="104.43013000488281" />
+    <frame id="1:4451" name="Frame 2087326650" x="60.5" y="184.4301300048828" width="960" height="1299.021484375">
+      <frame id="1:4452" name="Frame 2087326659" x="0" y="0" width="960" height="163">
+        <text id="1:4453" name="ВЫ ВОШЛИ В АККАУНТ" x="0" y="0" width="960" height="163" />
+      </frame>
+      <frame id="1:4454" name="Frame 6434" x="0" y="243" width="960" height="1056.021484375">
+        <instance id="1:4455" name="Component 23" x="62" y="48" width="836" height="17" />
+        <text id="1:4456" name="С ВОЗВРАЩЕНИЕМ!" x="48" y="145" width="864" height="67" />
+        <frame id="1:4457" name="Frame 2087325399" x="356" y="292" width="248" height="380.021484375">
+          <instance id="1:4458" name="Letters" x="0" y="0" width="248" height="248" />
+          <frame id="1:4459" name="Frame 2087325397" x="21" y="280" width="206" height="100.021484375">
+            <frame id="1:4460" name="Frame 2087325399" x="2" y="0" width="202" height="50">
+              <text id="1:4461" name="Тимур" x="0" y="0" width="202" height="50" />
+            </frame>
+            <frame id="1:4462" name="Group 2087326645" x="0" y="82" width="206" height="18.021484375">
+              <text id="1:4463" name="@timur" x="0" y="82" width="87" height="18" />
+              <ellipse id="1:4464" name="Ellipse 95" x="98" y="89.021484375" width="7.436416149139404" height="7.436416149139404" />
+              <text id="1:4465" name="ID 0427" x="116" y="82.021484375" width="90" height="18" />
+            </frame>
+          </frame>
+        </frame>
+        <text id="1:4466" name="Изменить личные данные можно в личном кабинете" x="263.5" y="752.021484375" width="433" height="54" />
+        <frame id="1:4467" name="Frame 2087326672" x="48" y="886.021484375" width="864" height="122">
+          <instance id="1:4468" name="Component 17" x="0" y="0" width="864" height="122" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <instance id="1:4469" name="Footer" x="-1" y="2059" width="1081" height="505" />
+</frame>

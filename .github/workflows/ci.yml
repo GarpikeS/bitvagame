@@ -1,0 +1,39 @@
+name: Source quality gate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: source-check-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+          cache-dependency-path: figma-real-layout/package-lock.json
+      - name: Repository safety
+        run: node tools/repository-check.cjs
+      - name: Install locked dependencies
+        run: npm ci
+        working-directory: figma-real-layout
+      - name: API tests
+        run: npm run test:api
+        working-directory: figma-real-layout
+      - name: Build
+        run: npm run build
+        working-directory: figma-real-layout

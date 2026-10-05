@@ -1,0 +1,49 @@
+<frame id="1:417" name="Group 2087331628" x="1190" y="3645" width="963.5" height="973">
+  <rounded-rectangle id="1:418" name="Rectangle 244" x="1193.5" y="3755" width="960" height="863" />
+  <text id="1:419" name="КУПИТЬ БЛАНКИ" x="1190" y="3645" width="958" height="67" />
+  <frame id="1:420" name="Frame 6272" x="1250.5" y="4365" width="837" height="118.18016052246094">
+    <text id="1:421" name="КУПИТЬ БЛАНКИ" x="250.5" y="30.09008026123047" width="336" height="58" />
+  </frame>
+  <text id="1:422" name="После покупки бланки будут доступны в личном кабинете" x="1262.5" y="4536" width="812" height="21" />
+  <frame id="1:423" name="Group 2087331486" x="1994.5" y="3829" width="64" height="64" />
+  <text id="1:426" name="СКОЛЬКО БЛАНКОВ?" x="1255.5" y="4000" width="836" height="35" />
+  <frame id="1:427" name="Group 2087326623" x="1250.5" y="4067" width="836" height="116">
+    <frame id="1:428" name="Group 2087326578" x="1250.5" y="4067" width="836" height="116">
+      <rounded-rectangle id="1:429" name="Rectangle 155" x="1250.5" y="4067" width="836" height="116" />
+      <frame id="1:430" name="Group 2087326574" x="1994.5" y="4093" width="64.13752746582031" height="64.13752746582031" />
+      <frame id="1:433" name="Group 2087326575" x="1272.5" y="4093.068359375" width="64" height="64" />
+      <text id="1:436" name="30 бланков" x="1553.5" y="4096" width="224" height="53" />
+    </frame>
+  </frame>
+  <frame id="1:437" name="Group 2087331621" x="1333.5" y="4215" width="680" height="69">
+    <frame id="1:438" name="Frame 2087326721" x="1333.5" y="4215" width="332" height="69">
+      <frame id="1:439" name="Frame 2087326720" x="10" y="11.228515625" width="327.1173400878906" height="41.28857421875">
+        <rounded-rectangle id="1:440" name="Adobe Express - file (10) 3" x="6.4453125" y="2.64453125" width="42.117332952451534" height="41.28857321324904" />
+        <text id="1:441" name="Стоимость: 1500" x="60" y="11.64453125" width="234" height="21" />
+      </frame>
+    </frame>
+    <frame id="1:442" name="Group 2087326577" x="1677.6171875" y="4215" width="335.8828125" height="69">
+      <frame id="1:443" name="Frame 2087326722" x="1677.6171875" y="4215" width="335.8828125" height="69">
+        <text id="1:444" name="1 бланк на человека" x="29.44140625" y="24.5" width="277" height="21" />
+      </frame>
+    </frame>
+  </frame>
+  <frame id="1:445" name="Group 2087331623" x="1252.5" y="3803" width="842" height="680">
+    <instance id="1:446" name="Component 34" x="1255.5" y="3803" width="837" height="120" />
+    <frame id="1:447" name="Group 2087331486" x="2063.5" y="3893" width="64.0000055950577" height="64.0000055950577" />
+    <frame id="1:450" name="Frame 6512" x="1252.5" y="3947" width="842" height="536">
+      <frame id="1:451" name="Frame 2087326723" x="39" y="60" width="764" height="416">
+        <frame id="1:452" name="Frame 6511" x="0" y="0" width="712" height="416">
+          <text id="1:453" name="Девичник" x="0" y="0" width="186" height="29" />
+          <vector id="1:454" name="Vector 192" x="0" y="79" width="712" height="0.00006491820113296853" />
+          <text id="1:455" name="Хиты 90-х" x="0" y="129.00006103515625" width="194" height="29" />
+          <vector id="1:456" name="Vector 193" x="0" y="208.00006103515625" width="712" height="0.00006491820113296853" />
+          <text id="1:457" name="Хиты 2000-х" x="0" y="258.0001220703125" width="247" height="29" />
+          <vector id="1:458" name="Vector 196" x="0" y="337.0001220703125" width="712" height="0.00006491820113296853" />
+          <text id="1:459" name="Хиты караоке" x="0" y="387.00018310546875" width="261" height="29" />
+        </frame>
+      </frame>
+      <rounded-rectangle id="1:460" name="Rectangle 111000854" x="809" y="60" width="6" height="236" />
+    </frame>
+  </frame>
+</frame>

@@ -1,0 +1,28 @@
+<frame id="1:2271" name="Страница регистрации " x="13916" y="8218" width="1080" height="2564">
+  <frame id="1:2272" name="Frame 2087326652" x="-1" y="80" width="1081" height="1483.79052734375">
+    <instance id="1:2273" name="Header" x="60" y="0" width="961" height="104.43013000488281" />
+    <frame id="1:2274" name="Frame 2087326650" x="60.5" y="184.4301300048828" width="960" height="1299.3603515625">
+      <frame id="1:2275" name="Frame 2087326659" x="0" y="0" width="960" height="163">
+        <text id="1:2276" name="ВОЙДИТЕ ИЛИ ЗАРЕГИСТИРУЙТЕСЬ" x="0" y="0" width="960" height="163" />
+      </frame>
+      <frame id="1:2277" name="Frame 6434" x="0" y="243" width="960" height="1056.3603515625">
+        <instance id="1:2278" name="Component 23" x="62" y="48" width="836" height="17" />
+        <text id="1:2279" name="СОЗДАЙТЕ АККАУНТ" x="48" y="113" width="864" height="67" />
+        <frame id="1:2280" name="Frame 2087326664" x="48" y="228" width="864" height="389">
+          <instance id="1:2281" name="Input" x="0" y="0" width="864" height="119" />
+          <instance id="1:2282" name="Input" x="0" y="135" width="864" height="119" />
+          <instance id="1:2283" name="Input" x="0" y="270" width="864" height="119" />
+        </frame>
+        <frame id="1:2284" name="Frame 2087326665" x="133.5" y="665" width="693" height="37">
+          <instance id="1:2285" name="Component 22" x="0" y="1.5" width="34" height="34" />
+          <text id="1:2286" name="Я согласен на обработку персональных данных" x="42" y="0" width="651" height="37" />
+        </frame>
+        <frame id="1:2287" name="Frame 2087326667" x="48" y="750" width="864" height="258.3603210449219">
+          <instance id="1:2288" name="Component 17" x="0" y="0" width="864" height="118.18016052246094" />
+          <instance id="1:2289" name="Component 25" x="0" y="142.18016052246094" width="864" height="116.18016052246094" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <instance id="1:2290" name="Footer" x="-1" y="2059" width="1081" height="505" />
+</frame>

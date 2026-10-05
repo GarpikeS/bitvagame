@@ -1,0 +1,477 @@
+const imgUntitled111111 = "http://localhost:3845/assets/d7e94d982cb664465d1f0ae8e53f184947ee186c.png";
+const imgEllipse93 = "http://localhost:3845/assets/d13fc6900665eddc27c42a94ed4dff5518336de4.svg";
+const imgEllipse94 = "http://localhost:3845/assets/adef6a9797867aca90c05356dcca5af5627b8f3f.svg";
+const imgGroup = "http://localhost:3845/assets/a0ea78a5197521e6713080e1d0bab60f21cd09bb.svg";
+const imgGroup1 = "http://localhost:3845/assets/1cba9ef8cf8e427a708282d8871c7ffc3b2f72c4.svg";
+const imgGroup2 = "http://localhost:3845/assets/734d31727ad371bfb844e249c34add3f41abd213.svg";
+const imgGroup3 = "http://localhost:3845/assets/eee2aace48d772c25fb2577f5967488991ae579d.svg";
+const imgGroup4 = "http://localhost:3845/assets/c03cfca713c88047c761b8b1ab7535a02438ff22.svg";
+const imgGroup5 = "http://localhost:3845/assets/a108ee2d70c4b1e339a4014fc3a23dd1f96ac03d.svg";
+const imgGroup6 = "http://localhost:3845/assets/aa9b4fbc5e9cd8b774ee6f2a182f5462d85142e2.svg";
+const imgGroup7 = "http://localhost:3845/assets/7cc90a87b4205ff831768c9e216eaa27c1ff48a1.svg";
+const imgGroup8 = "http://localhost:3845/assets/4db070959220efc36cb8e0c21121dbd29d0dc371.svg";
+const imgGroup9 = "http://localhost:3845/assets/879d7013659f4ff4c88d57658b00dfe0f7afb806.svg";
+const imgGroup10 = "http://localhost:3845/assets/c7e13a007b00078fa4bf50dff549f0112e040bcf.svg";
+const imgGroup11 = "http://localhost:3845/assets/43904bdccb668895f2c8f0cf34d3a1245f1bda24.svg";
+const imgGroup12 = "http://localhost:3845/assets/3308f0f15c42eb41431ae7426295fd31888ba64e.svg";
+const imgGroup13 = "http://localhost:3845/assets/600636199b26ea5816a3e10b6c283232c8547073.svg";
+const imgGroup14 = "http://localhost:3845/assets/f2729dcd786ce666e8847a0da971598298890753.svg";
+const imgGroup15 = "http://localhost:3845/assets/4a0d90d3bd6fb6ff4a174b28b0667bfb988b9b83.svg";
+const imgGroup16 = "http://localhost:3845/assets/f8a20718eceebc7637637b4d38b0cbe3b6377464.svg";
+const imgGroup17 = "http://localhost:3845/assets/fe4cc319d336b5337ac95074b3686f65df7aa01c.svg";
+const imgGroup18 = "http://localhost:3845/assets/1bb9a8d5ef00140ba90ea09f20f9a048655bb923.svg";
+const imgGroup19 = "http://localhost:3845/assets/2ffcb032070bfc9b44bcb3ea8fb1eb5f36295a0a.svg";
+const imgGroup20 = "http://localhost:3845/assets/ff748f1f8d719c145e833c88420fd0bd46611815.svg";
+const imgGroup21 = "http://localhost:3845/assets/8442911819f27f5b8e8fb3466cd1a730a2cef1cb.svg";
+const imgGroup22 = "http://localhost:3845/assets/81a03ee34386e33d318c87026407d383ceb558be.svg";
+const imgGroup23 = "http://localhost:3845/assets/7d02df9e241782455c1a94d27a3b1f74392043c2.svg";
+const imgGroup24 = "http://localhost:3845/assets/14ca0541c9bb566153728b46952ba312dfe6fe09.svg";
+const imgGroup25 = "http://localhost:3845/assets/043ad4d00e281995c837acb3ce64f2d013bf0c58.svg";
+const imgGroup26 = "http://localhost:3845/assets/292d05037e0a0e2669229f9d41fd81f814df04d2.svg";
+const imgGroup27 = "http://localhost:3845/assets/da5e60bcac7fb3cfd9bf7c763a5f8271b55c96a6.svg";
+const imgGroup28 = "http://localhost:3845/assets/c3d1be916bb886c0d4174ff2f705f48159403fa2.svg";
+const imgGroup29 = "http://localhost:3845/assets/121e3fa8de458ef9f98296b84592323cbd761dd9.svg";
+const imgGroup30 = "http://localhost:3845/assets/582e08cdb69bb59b87a841c745627857e1ed155c.svg";
+const imgGroup31 = "http://localhost:3845/assets/f6d43d4101d91f38d7311664a6a16a84c7528918.svg";
+const imgGroup32 = "http://localhost:3845/assets/6c075c4d1c566715ad91f243dd091e3247b3dc6d.svg";
+const imgGroup33 = "http://localhost:3845/assets/04c9ea7cc7efdbf42b55de5d3e5d7dadb2ddd59e.svg";
+const imgGroup34 = "http://localhost:3845/assets/c8f24f211dd769e7a823f74d5e587e5438819040.svg";
+const imgGroup35 = "http://localhost:3845/assets/f2825d2f9c5f0e05f107265a06180f03816e9151.svg";
+const imgGroup36 = "http://localhost:3845/assets/1ef1a95e9beb26d652ea4ccbc34b77b5d0b423d1.svg";
+const imgGroup37 = "http://localhost:3845/assets/77d6e156600776af85c655efd7bfa1c915ae88b2.svg";
+const imgGroup38 = "http://localhost:3845/assets/fb771489e58a950b112cad1190fe6d5daa0e29b0.svg";
+const imgGroup39 = "http://localhost:3845/assets/1fb0a5653ada2d3c5e9b4c38343452c8a65959d5.svg";
+const imgGroup40 = "http://localhost:3845/assets/b5b4e80e47ce926e57ac0372b871a1d44626981a.svg";
+const imgGroup41 = "http://localhost:3845/assets/77982843e74bc124f3cf70e24e4b8816b0cb6008.svg";
+const imgGroup42 = "http://localhost:3845/assets/30ba5e956f0fd25a71b4c8a77a021e28ed299438.svg";
+const imgGroup43 = "http://localhost:3845/assets/e9611d127cf48094a1d6ab418389117e52113d8a.svg";
+const imgGroup44 = "http://localhost:3845/assets/3ce6129f64e9c36ce1ffaac6dadb5757707db11e.svg";
+const imgGroup45 = "http://localhost:3845/assets/6ea69f83aefd7487b0eab30f9f43b2023d8b9a69.svg";
+const imgGroup46 = "http://localhost:3845/assets/531777cab30b6398837ddbc7086a71a8d1acf66c.svg";
+const imgGroup47 = "http://localhost:3845/assets/7fa6a7fe6b97a1ce70a5f5c068ffb3066ef6bd7a.svg";
+const imgGroup48 = "http://localhost:3845/assets/3460db43be7075b332d40288555cdbe0ff155571.svg";
+const imgGroup49 = "http://localhost:3845/assets/660252f22604ac0caf5fa362370574567c2be8e3.svg";
+const imgGroup50 = "http://localhost:3845/assets/b634d4833935d4daab93d325bb38569b2d088bbc.svg";
+const imgGroup51 = "http://localhost:3845/assets/a3c7da39a123d214dc5fdef0475a76ba61c7052b.svg";
+const imgGroup52 = "http://localhost:3845/assets/5458595750e69a911ebbdf38df9c751ba2177ecd.svg";
+const imgGroup53 = "http://localhost:3845/assets/d73133611559ad40313823aa380a209ca95925fe.svg";
+const imgGroup54 = "http://localhost:3845/assets/fb112d1f40177c3440b64ee7fe8c6660fc71c5f9.svg";
+const imgGroup55 = "http://localhost:3845/assets/c157b1ae1c3342b138fb260c1e32d39e636b4ef3.svg";
+const imgGroup56 = "http://localhost:3845/assets/c87a7834a208369821c302a0a4b7b5671100fcae.svg";
+const imgGroup57 = "http://localhost:3845/assets/b690414e297e174ef079432576d525293382c61e.svg";
+const imgGroup58 = "http://localhost:3845/assets/8bd6103e049a89956e1e4b2cb06550584a597eaf.svg";
+const imgGroup59 = "http://localhost:3845/assets/322fefbbc69610c68df8174c9342a7944d265918.svg";
+const imgGroup60 = "http://localhost:3845/assets/422718f7cc3ec0377d2dc3aa649dc10b6c57ecff.svg";
+const imgGroup61 = "http://localhost:3845/assets/ab176bd31ce7b0cf672aed548ddb68f53e30d003.svg";
+const imgGroup62 = "http://localhost:3845/assets/74295b64ba28f5e7da368a0243353965d0013e6d.svg";
+const imgGroup63 = "http://localhost:3845/assets/3e5ca8de8218836b84fcda6650a2e106f064938a.svg";
+const imgGroup64 = "http://localhost:3845/assets/61f129ab7946f9a3fe9d7fa2b5899fc359e0e98e.svg";
+const imgGroup65 = "http://localhost:3845/assets/1b0b43c896ff2f5afce15a191fd47721954e3263.svg";
+const imgGroup66 = "http://localhost:3845/assets/780e7175ab7f9e77bc5b96d501b1c92e45fd52ea.svg";
+const imgGroup67 = "http://localhost:3845/assets/9a6374a6cc72ddf6c93a32daf7539d5b948849c6.svg";
+const imgGroup68 = "http://localhost:3845/assets/977a965c06c90a304ba01923da7dc51f93657633.svg";
+const imgGroup69 = "http://localhost:3845/assets/65896e748e50a508309a9933cff701c1b04153f0.svg";
+const imgGroup70 = "http://localhost:3845/assets/a813c4f6ff79fd1909ba03f7516929c54e230608.svg";
+const imgGroup71 = "http://localhost:3845/assets/88a5326b5653eff6faad26fd76ef5c340bb6f003.svg";
+const imgGroup72 = "http://localhost:3845/assets/1ffbd3994ae69351649907412b6c13f8ab257d1d.svg";
+const imgGroup73 = "http://localhost:3845/assets/d8fa0e3f18998e6deb37924a117feb295ea8e6f8.svg";
+const imgGroup74 = "http://localhost:3845/assets/03761ca9da74358f665c35c0eeb43028a20884df.svg";
+const imgGroup75 = "http://localhost:3845/assets/780e450dc4cca18d77aa7dada4601bf8a4758c3c.svg";
+const imgGroup76 = "http://localhost:3845/assets/275f00fae35f26a139393afac3898a194bfdf0c3.svg";
+const imgGroup77 = "http://localhost:3845/assets/f8c06a1053f196885684f1722dee0b9e42c08095.svg";
+const imgGroup78 = "http://localhost:3845/assets/52120c9a6d01bc0cfe9f1162d87e156b316677b8.svg";
+const imgGroup79 = "http://localhost:3845/assets/8af487042c4232b75790a8fcf1228e5d260964fe.svg";
+const imgGroup80 = "http://localhost:3845/assets/eb8ed9fa94b4cf1f6e06e9760da348e6809d34d7.svg";
+const imgGroup81 = "http://localhost:3845/assets/f709207e313b9e40cf156f064c37b025ef888c98.svg";
+const imgGroup82 = "http://localhost:3845/assets/5c59084361f6aa16f1576e8b46454f2fd549d155.svg";
+const imgGroup83 = "http://localhost:3845/assets/fcf28e337a47a79453bf8d16ec72422ecf353de5.svg";
+const imgGroup84 = "http://localhost:3845/assets/bf885680222d34ca61025ae6de3774e8aaa39c35.svg";
+const imgGroup85 = "http://localhost:3845/assets/ce0e9fd0c94f0e3e5325ab26b309c4d795483635.svg";
+const imgGroup86 = "http://localhost:3845/assets/c92bc6e333127552ee5ffdaa155ba83bd7c8314e.svg";
+const imgGroup87 = "http://localhost:3845/assets/294ddd7e6ba8613b68651599ccc1a215bc721b23.svg";
+const imgGroup88 = "http://localhost:3845/assets/7b27508f0e1a31feea418df40ea9c4d1cf66c7c1.svg";
+const imgGroup89 = "http://localhost:3845/assets/9388b1b6c498ff54f52e7912d3007bbd1579c298.svg";
+const imgGroup90 = "http://localhost:3845/assets/53f16d8cbb131b8eb7b7d5a43781d9e4ea68d2e3.svg";
+const imgGroup91 = "http://localhost:3845/assets/527cac1e0d43537bef602fa4d7ebb1164483b65f.svg";
+const imgGroup92 = "http://localhost:3845/assets/ef1fae588ac300a1cede37e645422afe38222f11.svg";
+const imgGroup93 = "http://localhost:3845/assets/dc874111471ecb742f2c4f562a601aeab2bfa05c.svg";
+const imgGroup94 = "http://localhost:3845/assets/c71afeb4e4169214c984ed42394391b72524d18c.svg";
+const imgGroup95 = "http://localhost:3845/assets/7a4d10924ef49de2bebebe8fbba63bb966e5977d.svg";
+const imgGroup96 = "http://localhost:3845/assets/9d5aa1a48c7b667b2601bcd0f6e7a183e69f0174.svg";
+const imgGroup97 = "http://localhost:3845/assets/779094a82b50407d84ca0bcbbf54db76f1598267.svg";
+const imgGroup98 = "http://localhost:3845/assets/dfcbe1bf38020d8c20d3fd2437bc3d5c6bac8d2f.svg";
+const imgGroup99 = "http://localhost:3845/assets/7e1062c03f4cd975688a9d3b0f879118a2903bb9.svg";
+const imgGroup100 = "http://localhost:3845/assets/4968741da47866ef17b82e319a672b313db35e77.svg";
+const imgGroup101 = "http://localhost:3845/assets/d6c1e4e13a57d61643614c10a6c2d903285cf3d8.svg";
+const imgGroup102 = "http://localhost:3845/assets/016183c9fa8e7241062b372ea703a585e56891c3.svg";
+const imgGroup103 = "http://localhost:3845/assets/403ced7f13822b8034d3834c9aaa25ffef0c6492.svg";
+const imgGroup104 = "http://localhost:3845/assets/e3a4432b19446c661f68ca5ff54a6bbc530d5fc4.svg";
+const imgGroup105 = "http://localhost:3845/assets/744fbf2f3a07bbead4982235fc06ad77344d9704.svg";
+const imgGroup106 = "http://localhost:3845/assets/f7e2ae1d2cec78a77c365f4c55bc61f3b1f0f03b.svg";
+const imgGroup107 = "http://localhost:3845/assets/93983b6c9f2e1b2855f0d40646df9c5ed990d861.svg";
+const imgGroup108 = "http://localhost:3845/assets/688b4bc43712890cdd5d5b9736869df5a6d62d5d.svg";
+const imgGroup109 = "http://localhost:3845/assets/d69df342a7b2c9bd23c6b0d9e8e4543dcbf724d8.svg";
+const imgGroup110 = "http://localhost:3845/assets/52fb00cd05d8cac97d67519a71397e3981b6a912.svg";
+
+export default function Group() {
+  return (
+    <div className="contents relative size-full" data-node-id="1:1964">
+      <div className="absolute bg-[#ff8b1e] left-0 rounded-[80px] size-[960px] top-0" data-node-id="1:1965" />
+      <div className="absolute contents left-0 top-0" data-node-id="1:1966">
+        <div className="absolute contents left-0 top-0" data-node-id="1:1967" data-name="Mask group">
+          <div className="absolute contents left-0 top-0" data-node-id="1:1969">
+            <div className="absolute h-[569.117px] left-0 mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[-262.648px_-397.926px] mask-size-[960px_960px] mix-blend-plus-lighter top-0 w-[488.056px]" data-node-id="1:1970" style={{ maskImage: `url("${imgEllipse93}")` }}>
+              <div className="absolute inset-[-89.02%_-103.81%]">
+                <img alt="" className="block max-w-none size-full" src={imgEllipse94} />
+              </div>
+            </div>
+            <div className="absolute contents left-0 mix-blend-overlay top-0" data-node-id="1:1971" data-name="Mask group">
+              <div className="absolute contents inset-0 mix-blend-overlay" data-node-id="1:1973" data-name="Layer 1">
+                <div className="absolute contents inset-0" data-node-id="1:1974" data-name="Group">
+                  <div className="absolute inset-0 mask-position-[-830.656px_-623px,_-846.656px_-373.688px]" data-node-id="1:1975" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup1} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-477.383px_-901.271px,_-493.383px_-651.959px]" data-node-id="1:1980" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup2} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-705.395px_-410.891px,_-721.395px_-161.578px]" data-node-id="1:1985" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup3} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-850.449px_-404.484px,_-866.449px_-155.172px]" data-node-id="1:1990" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup4} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-140.594px_-1054.529px,_-156.594px_-805.217px]" data-node-id="1:1995" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup5} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-805.91px_-209.855px,_-821.91px_39.457px]" data-node-id="1:2000" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup6} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-556.027px_-192.602px,_-572.027px_56.711px]" data-node-id="1:2005" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup7} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-417.16px_-797.615px,_-433.16px_-548.303px]" data-node-id="1:2010" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup8} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-722.531px_-318.629px,_-738.531px_-69.316px]" data-node-id="1:2015" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup9} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-542.328px_-535.207px,_-558.328px_-285.895px]" data-node-id="1:2020" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-156.809px_-221.479px,_-172.809px_27.834px]" data-node-id="1:2025" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup11} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[104.527px_-573.873px,_88.527px_-324.561px]" data-node-id="1:2030" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup12} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-36.035px_-508.5px,_-52.035px_-259.188px]" data-node-id="1:2035" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup13} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-789.258px_-403.184px,_-805.258px_-153.871px]" data-node-id="1:2040" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup14} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-89.473px_-589.234px,_-105.473px_-339.922px]" data-node-id="1:2045" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup15} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-280.023px_-1065.672px,_-296.023px_-816.359px]" data-node-id="1:2050" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup16} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-278.359px_-569.475px,_-294.359px_-320.162px]" data-node-id="1:2055" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup17} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-359.457px_-983.967px,_-375.457px_-734.655px]" data-node-id="1:2060" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup18} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-863.125px_-972.215px,_-879.125px_-722.902px]" data-node-id="1:2065" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup19} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-849.918px_-1085.152px,_-865.918px_-835.84px]" data-node-id="1:2070" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup20} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-575.426px_-274.274px,_-591.426px_-24.961px]" data-node-id="1:2075" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup21} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-4.191px_-663.225px,_-20.191px_-413.912px]" data-node-id="1:2080" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup22} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-58.566px_-373.068px,_-74.566px_-123.756px]" data-node-id="1:2085" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup23} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-681.145px_-202.664px,_-697.145px_46.648px]" data-node-id="1:2090" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup24} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-640.871px_-1010.955px,_-656.871px_-761.643px]" data-node-id="1:2095" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup25} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-517.957px_-1130.088px,_-533.957px_-880.775px]" data-node-id="1:2100" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup26} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-263.641px_-861.18px,_-279.641px_-611.867px]" data-node-id="1:2105" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup27} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[77.891px_-758.664px,_61.891px_-509.352px]" data-node-id="1:2110" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup28} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-457.316px_-613.779px,_-473.316px_-364.467px]" data-node-id="1:2115" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup29} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-843.465px_-716.268px,_-859.465px_-466.955px]" data-node-id="1:2120" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup30} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-448.359px_-224.719px,_-464.359px_24.594px]" data-node-id="1:2125" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup31} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-491.617px_-330.4px,_-507.617px_-81.088px]" data-node-id="1:2130" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup32} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-281.023px_-642.527px,_-297.023px_-393.215px]" data-node-id="1:2135" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup33} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-222.492px_-1132.02px,_-238.492px_-882.707px]" data-node-id="1:2140" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup34} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[44.375px_-470.165px,_28.375px_-220.852px]" data-node-id="1:2143" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup35} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-47.09px_-1141.279px,_-63.09px_-891.967px]" data-node-id="1:2146" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup36} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-444.762px_-1154.449px,_-460.762px_-905.137px]" data-node-id="1:2149" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup37} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[68.68px_-206.399px,_52.68px_42.914px]" data-node-id="1:2152" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup38} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-107.691px_-310.41px,_-123.691px_-61.098px]" data-node-id="1:2155" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup39} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-127.063px_-1157.383px,_-143.063px_-908.07px]" data-node-id="1:2158" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup40} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-65.52px_-900.649px,_-81.52px_-651.336px]" data-node-id="1:2161" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup41} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-621.141px_-564.037px,_-637.141px_-314.725px]" data-node-id="1:2164" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup42} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-81.82px_-707.732px,_-97.82px_-458.42px]" data-node-id="1:2167" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup43} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[108.977px_-362.238px,_92.977px_-112.926px]" data-node-id="1:2170" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup44} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-785.617px_-836.357px,_-801.617px_-587.045px]" data-node-id="1:2173" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup45} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-663.047px_-736.508px,_-679.047px_-487.195px]" data-node-id="1:2177" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup46} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-236.438px_-968.986px,_-252.438px_-719.674px]" data-node-id="1:2181" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup47} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-3.082px_-1060.912px,_-19.082px_-811.6px]" data-node-id="1:2185" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup48} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[105.352px_-668.279px,_89.352px_-418.967px]" data-node-id="1:2189" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup49} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-330.422px_-1112.053px,_-346.422px_-862.74px]" data-node-id="1:2193" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup50} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-14.301px_-971.172px,_-30.301px_-721.859px]" data-node-id="1:2197" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup51} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-618.535px_-1112.223px,_-634.535px_-862.91px]" data-node-id="1:2201" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup52} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-604.656px_-368.738px,_-620.656px_-119.426px]" data-node-id="1:2205" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup53} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-307.602px_-763.838px,_-323.602px_-514.526px]" data-node-id="1:2209" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup54} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-271.758px_-399.359px,_-287.758px_-150.047px]" data-node-id="1:2213" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup55} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-268.871px_-191.643px,_-284.871px_57.67px]" data-node-id="1:2217" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup56} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-548.93px_-441.143px,_-564.93px_-191.83px]" data-node-id="1:2222" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup57} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-724.457px_-668.894px,_-740.457px_-419.582px]" data-node-id="1:2227" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup58} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-518.336px_-1023.445px,_-534.336px_-774.133px]" data-node-id="1:2232" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup59} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-822.234px_-497.15px,_-838.234px_-247.838px]" data-node-id="1:2237" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup60} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[79.93px_-1104.174px,_63.93px_-854.861px]" data-node-id="1:2242" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup61} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-560.918px_-653.893px,_-576.918px_-404.58px]" data-node-id="1:2247" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup62} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-120.84px_-954.611px,_-136.84px_-705.299px]" data-node-id="1:2252" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup63} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-755.949px_-572.217px,_-771.949px_-322.904px]" data-node-id="1:2257" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup64} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[79.711px_-301.336px,_63.711px_-52.023px]" data-node-id="1:2262" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup65} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-650.988px_-626.57px,_-666.988px_-377.258px]" data-node-id="1:2267" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup66} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-680.172px_-949.943px,_-696.172px_-700.631px]" data-node-id="1:2272" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup67} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[108.918px_-458.027px,_92.918px_-208.715px]" data-node-id="1:2276" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup68} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-357.598px_-506.852px,_-373.598px_-257.539px]" data-node-id="1:2280" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup69} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-129.793px_-775.293px,_-145.793px_-525.98px]" data-node-id="1:2284" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup70} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-73.609px_-200.43px,_-89.609px_48.883px]" data-node-id="1:2288" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup71} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-690.191px_-515.756px,_-706.191px_-266.443px]" data-node-id="1:2292" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup72} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[101.473px_-1004.738px,_85.473px_-755.426px]" data-node-id="1:2296" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup73} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-649.625px_-286.197px,_-665.625px_-36.885px]" data-node-id="1:2300" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup74} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-738.809px_-1040.143px,_-754.809px_-790.83px]" data-node-id="1:2304" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup75} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-839.617px_-295.371px,_-855.617px_-46.059px]" data-node-id="1:2308" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup76} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-375.988px_-593.869px,_-391.988px_-344.557px]" data-node-id="1:2312" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup77} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-572.238px_-864.068px,_-588.238px_-614.756px]" data-node-id="1:2316" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup78} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-363.145px_-213.303px,_-379.145px_36.01px]" data-node-id="1:2320" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup79} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-172.59px_-531.5px,_-188.59px_-282.188px]" data-node-id="1:2324" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup80} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-780.609px_-928.83px,_-796.609px_-679.518px]" data-node-id="1:2328" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup81} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-396.453px_-324.137px,_-412.453px_-74.824px]" data-node-id="1:2332" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup82} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-660.039px_-854.33px,_-676.039px_-605.018px]" data-node-id="1:2336" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup83} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-161.219px_-852.23px,_-177.219px_-602.918px]" data-node-id="1:2340" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup84} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-36.141px_-809.939px,_-52.141px_-560.627px]" data-node-id="1:2344" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup85} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-444.473px_-523.938px,_-460.473px_-274.625px]" data-node-id="1:2348" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup86} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-15.766px_-259.064px,_-31.766px_-9.752px]" data-node-id="1:2352" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup87} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[75.41px_-936.918px,_59.41px_-687.605px]" data-node-id="1:2356" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup88} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-756.52px_-751.832px,_-772.52px_-502.52px]" data-node-id="1:2360" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup89} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-430.023px_-1021.613px,_-446.023px_-772.301px]" data-node-id="1:2365" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup90} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-355.316px_-886.053px,_-371.316px_-636.74px]" data-node-id="1:2370" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup91} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-593.977px_-767.141px,_-609.977px_-517.828px]" data-node-id="1:2375" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup92} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[70.73px_-851.404px,_54.73px_-602.092px]" data-node-id="1:2380" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup93} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-216.055px_-799.34px,_-232.055px_-550.027px]" data-node-id="1:2385" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup94} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-389.523px_-700.693px,_-405.523px_-451.381px]" data-node-id="1:2390" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup95} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-109.723px_-455.649px,_-125.723px_-206.336px]" data-node-id="1:2395" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup96} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-241.699px_-277.805px,_-257.699px_-28.492px]" data-node-id="1:2400" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup97} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[26.461px_-396.637px,_10.461px_-147.324px]" data-node-id="1:2405" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup98} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-448.945px_-429.627px,_-464.945px_-180.314px]" data-node-id="1:2410" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup99} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-162.223px_-639.178px,_-178.223px_-389.865px]" data-node-id="1:2415" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup100} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-362.129px_-406.051px,_-378.129px_-156.738px]" data-node-id="1:2419" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup101} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-501.801px_-805.016px,_-517.801px_-555.703px]" data-node-id="1:2423" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup102} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-494.957px_-712.572px,_-510.957px_-463.26px]" data-node-id="1:2427" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup103} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-215.672px_-713.394px,_-231.672px_-464.082px]" data-node-id="1:2431" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup104} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[43.527px_-553.244px,_27.527px_-303.932px]" data-node-id="1:2435" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup105} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-236.762px_-486.363px,_-252.762px_-237.051px]" data-node-id="1:2439" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup106} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-763.594px_-1137.256px,_-779.594px_-887.943px]" data-node-id="1:2443" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup107} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-181.84px_-371.461px,_-197.84px_-122.148px]" data-node-id="1:2447" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup108} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-571.121px_-935.758px,_-587.121px_-686.445px]" data-node-id="1:2451" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup109} />
+                  </div>
+                  <div className="absolute inset-0 mask-position-[-311.738px_-324.375px,_-327.738px_-75.063px]" data-node-id="1:2455" style={{ maskImage: `url("${imgEllipse93}"), url("${imgGroup}")` }} data-name="Group">
+                    <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup110} />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['Ekaterina_Velikaya_One:Regular'] h-[391.634px] leading-[0.78] left-0 mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[-76.754px_33.004px] mask-size-[960px_960px] not-italic text-[#f3f3f3] text-[194.369px] top-0 w-[807.245px]" data-node-id="1:2459" style={{ maskImage: `url("${imgEllipse93}")` }}>
+              Девичник
+            </p>
+            <div className="absolute h-[881.528px] left-0 mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[-62px_-192.313px] mask-size-[960px_960px] top-0 w-[850.561px]" data-node-id="1:2460" style={{ maskImage: `url("${imgEllipse93}")` }} data-name="Untitled-в11111осстановлено 1">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute h-[103.51%] left-[-0.03%] max-w-none top-0 w-[100.05%]" src={imgUntitled111111} />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}

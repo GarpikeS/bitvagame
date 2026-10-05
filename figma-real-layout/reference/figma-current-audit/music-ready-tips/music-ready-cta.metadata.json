@@ -1,0 +1,12 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "<frame id=\"1:356\" name=\"Frame 6493\" x=\"60\" y=\"5485\" width=\"960\" height=\"219\">\n  <text id=\"1:357\" name=\"ВСЁ ГОТОВО? ТОГДА ЖМИТЕ!\" x=\"0\" y=\"0\" width=\"960\" height=\"67\" />\n  <instance id=\"1:358\" name=\"Component 36\" x=\"0\" y=\"99\" width=\"960\" height=\"120\" />\n</frame>"
+    },
+    {
+      "type": "text",
+      "text": "IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design."
+    }
+  ]
+}

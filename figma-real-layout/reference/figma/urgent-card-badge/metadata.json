@@ -1,0 +1,12 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "<symbol id=\"1:239\" name=\"Bage\" x=\"2048\" y=\"11487\" width=\"200\" height=\"50\">\n  <text id=\"1:240\" name=\"🔥 хит недели\" x=\"16\" y=\"16\" width=\"168\" height=\"18\" />\n</symbol>"
+    },
+    {
+      "type": "text",
+      "text": "IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design."
+    }
+  ]
+}

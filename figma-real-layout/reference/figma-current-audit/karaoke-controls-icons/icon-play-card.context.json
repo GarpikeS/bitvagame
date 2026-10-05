@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "const imgUnion = \"http://localhost:3845/assets/24c9f666424e5c1fa384d780a94a1327488696c2.svg\";\n\nexport default function Frame() {\n  return (\n    <div className=\"bg-white content-stretch flex flex-col gap-[24px] items-start p-[32px] relative rounded-[40px] size-full\" data-node-id=\"1:530\">\n      <div className=\"bg-[#ff8b1e] content-stretch flex items-center justify-center relative rounded-[110.008px] shrink-0 size-[105px]\" data-node-id=\"I1:530;1:536\">\n        <div className=\"relative shrink-0 size-[48px]\" data-node-id=\"I1:530;1:536;1:542\" data-name=\"icons/fill/play\">\n          <div className=\"absolute bottom-[16.67%] left-1/4 right-[16.67%] top-[16.67%]\" data-node-id=\"I1:530;1:536;1:542;419:6943\" data-name=\"Union\">\n            <img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgUnion} />\n          </div>\n        </div>\n      </div>\n      <div className=\"[word-break:break-word] content-stretch flex flex-col gap-[16px] items-start leading-[1.1] not-italic relative shrink-0 w-full\" data-node-id=\"I1:530;1:537\">\n        <p className=\"[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Medium'] relative shrink-0 text-[#161616] text-[30px] w-[406px]\" data-node-id=\"I1:530;1:538\">\n          Новая игра\n        </p>\n        <p className=\"[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Regular'] min-w-full relative shrink-0 text-[#898989] text-[26px] w-[min-content]\" data-node-id=\"I1:530;1:539\">\n          обновить список песен\n        </p>\n      </div>\n    </div>\n  );\n}"
+    },
+    {
+      "type": "text",
+      "text": "SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.\n1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens\n2. Convert React syntax to the target framework/library\n3. Transform all Tailwind classes to the target styling system while preserving exact visual design\n4. Follow the project's existing patterns and conventions\nDO NOT install any Tailwind as a dependency unless the user instructs you to do so.\n"
+    },
+    {
+      "type": "text",
+      "text": "Node ids have been added to the code as data attributes, e.g. `data-node-id=\"1:2\"`."
+    },
+    {
+      "type": "text",
+      "text": "Image assets are stored on a localhost server. Clients can use these images directly in code as a way to view the image assets the same way they would other remote servers. Images and SVGs will be stored as constants, e.g. const image = 'http://localhost:3845/assets/10c13ac1a228a365cb98a0064b1d5afbc84887b2.png' These constants will be used in the code as the source for the image, e.g. <img src={image} /> This is true for both images and SVGs, so you can use the same approach for both types of assets."
+    },
+    {
+      "type": "text",
+      "text": "IMPORTANT: After you call this tool, you MUST call get_screenshot to get a screenshot of the node for context."
+    }
+  ]
+}

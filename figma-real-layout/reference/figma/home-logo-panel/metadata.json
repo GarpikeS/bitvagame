@@ -1,0 +1,12 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "<boolean-operation id=\"1:1213\" name=\"Union\" x=\"59\" y=\"286\" width=\"960\" height=\"361.7080078125\">\n  <vector id=\"1:1214\" name=\"Vector\" x=\"59\" y=\"286\" width=\"960\" height=\"361.7082214355469\" />\n</boolean-operation>"
+    },
+    {
+      "type": "text",
+      "text": "IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design."
+    }
+  ]
+}
