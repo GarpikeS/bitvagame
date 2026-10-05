@@ -14,6 +14,20 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  secrets:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: gitleaks/gitleaks-action@e0c47f4f8be36e29cdc102c57e68cb5cbf0e8d1e # v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITLEAKS_VERSION: '8.30.1'
+          GITLEAKS_ENABLE_COMMENTS: 'false'
+          GITLEAKS_ENABLE_UPLOAD_ARTIFACT: 'false'
   verify:
     runs-on: ubuntu-latest
     timeout-minutes: 15
@@ -30,6 +44,9 @@ jobs:
         run: node tools/repository-check.cjs
       - name: Install locked dependencies
         run: npm ci
+        working-directory: figma-real-layout
+      - name: Dependency audit
+        run: npm audit --audit-level=low
         working-directory: figma-real-layout
       - name: API tests
         run: npm run test:api
