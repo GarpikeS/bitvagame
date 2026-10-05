@@ -18,3 +18,23 @@
 в `finally`. Оформление Git не должно менять или отключать публичный сайт.
 
 Репозиторий по умолчанию приватный. CI не получает production-секреты.
+
+## Зависимости: baseline 06.10.2026
+
+На чистой установке по lockfile `npm audit` сообщил о 6 findings:
+5 high и 1 moderate; critical — 0. Проверка не устанавливает факт эксплуатации.
+
+| Пакет | Severity | Прямая зависимость |
+| --- | --- | --- |
+| fastify | high | Да |
+| nodemailer | high | Да |
+| brace-expansion | high | Нет |
+| fast-uri | high | Нет |
+| nanoid | high | Нет |
+| ip-address | moderate | Нет |
+
+Registry сообщил `fixAvailable=true` для всех шести. Версии не обновлялись
+автоматически при оформлении Git: это отдельная доработка с API-регрессией,
+проверкой почты, оплаты, UI и новым release. Не выполнять `npm audit fix`
+в production checkout без review. Повторять audit на дату обновления:
+результаты registry меняются.

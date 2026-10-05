@@ -43,6 +43,13 @@ npm run test:api
 npm run build
 ```
 
+Для production-сборки явно задайте `NODE_ENV=production` в среде сборки.
+Локальный `.env.example` содержит `NODE_ENV=development` для разработки:
+его копия может включить development-вариант React даже при `vite build`.
+`VITE_ENABLE_CLOSED_GAMES=true` — отдельный preview-флаг закрытых игр;
+не включать его в публичный релиз без согласования. CI собирает production
+с этим флагом `false`. Значения Vite фиксируются при сборке, не при запуске API.
+
 Браузерные проверки запускаются отдельно при работающем локальном сайте:
 
 ```powershell
