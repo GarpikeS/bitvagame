@@ -1,0 +1,140 @@
+/* Pixel-identical visual layer for the four canonical Layout 5/6 fixtures.
+   The Figma PNG is inert; accessible controls live above it. */
+.page.l56-page[data-render-mode='figma-reference'] {
+  --canvas-width: 1080px;
+  --canvas-target-width: 540px;
+  position: relative;
+  isolation: isolate;
+  width: 1080px;
+  min-width: 1080px;
+  max-width: 1080px;
+  height: var(--l56r-height);
+  min-height: var(--l56r-height);
+  margin: 0;
+  padding: 0 !important;
+  overflow: hidden;
+  background: #f3f3f3;
+}
+
+.l56r-reference {
+  position: absolute;
+  z-index: 0;
+  inset: 0;
+  display: block;
+  width: 1080px;
+  height: var(--l56r-height);
+  max-width: none;
+  object-fit: fill;
+  pointer-events: none;
+  user-select: none;
+}
+
+.l56r-visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0 0 0 0) !important;
+  clip-path: inset(50%) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+.l56r-hit {
+  position: absolute;
+  z-index: 4;
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 24px;
+  color: transparent;
+  background: transparent;
+  cursor: pointer;
+}
+
+.l56r-hit:focus-visible,
+.l56r-live-account:focus-visible {
+  outline: 5px solid #fe391f;
+  outline-offset: 5px;
+}
+
+.l56r-hit.is-owned {
+  /* The owned decoration itself is already present in the canonical raster. */
+  cursor: pointer;
+}
+
+.l56r-card-action { border-radius: 100px; }
+.l56r-favorite { border-radius: 50%; }
+
+.l56r-live-account {
+  position: absolute;
+  z-index: 5;
+  right: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 8px;
+  width: 390px;
+  height: 123.431px;
+  margin: 0;
+  padding: 20px 0 20px 24px;
+  border: 0;
+  border-radius: 0 90px 90px 0;
+  color: #f3f3f3;
+  background: #fff;
+  cursor: pointer;
+}
+
+.l56r-live-account.is-login { width: 230px; }
+
+.l56r-dynamic-nav {
+  z-index: 5;
+}
+
+.l56r-live-balance {
+  display: flex;
+  align-items: center;
+  height: 83px;
+  padding: 8px 24px 8px 5px;
+  border-radius: 90px;
+  background: linear-gradient(131deg, #232323 8%, #424242 97%);
+  font: 600 40.973px/1.1 var(--l56-font-body);
+  white-space: nowrap;
+}
+
+.l56r-live-balance img {
+  display: block;
+  width: 70px;
+  height: 67px;
+  object-fit: contain;
+}
+
+.l56r-live-avatar {
+  display: grid;
+  place-items: center;
+  width: 82px;
+  height: 82px;
+  flex: 0 0 82px;
+  border-radius: 50%;
+  color: #f3f3f3;
+  background: #ff5c25;
+  font: 700 48px/1.1 var(--l56-font-body);
+}
+
+.l56r-login-pill {
+  display: grid;
+  place-items: center;
+  width: 164px;
+  height: 83px;
+  border-radius: 80px;
+  color: #fff;
+  background: #fe391f;
+  font: 600 30px/1 var(--l56-font-body);
+}
+
+@media (forced-colors: active) {
+  .l56r-hit { border: 2px solid transparent; }
+}

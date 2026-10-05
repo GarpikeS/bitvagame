@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "No node could be found for the provided nodeId: 1:709. Make sure the Figma desktop app is open and the document containing the node is the active tab."
+    }
+  ],
+  "isError": true
+}

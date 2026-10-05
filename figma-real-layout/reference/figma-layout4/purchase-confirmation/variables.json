@@ -1,0 +1,8 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"1\":\"Effect(type: DROP_SHADOW, color: #0000001F, offset: (5, 4), radius: 9.100000381469727, spread: 0)\",\"Оранжевый\":\"#FF391F\",\"красный\":\"Effect(type: DROP_SHADOW, color: #FE391F, offset: (0, 4), radius: 37.599998474121094, spread: 0)\"}"
+    }
+  ]
+}

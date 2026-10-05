@@ -1,0 +1,13 @@
+export default function Frame() {
+  return (
+    <div className="[word-break:break-word] content-stretch flex flex-col gap-[24px] items-start not-italic relative size-full" data-node-id="1:1234">
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[0] relative shrink-0 text-[#161616] text-[41.317px] w-[374px]" data-node-id="1:1235">
+        <span className="leading-[1.1]">{`Активируйте `}</span>
+        <span className="leading-[1.1] text-[#ff8b1e]">{`промокод `}</span>
+      </p>
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Regular'] leading-[1.1] min-w-full relative shrink-0 text-[#616161] text-[24px] w-[min-content]" data-node-id="1:1236">
+        монеты автоматически зачислятся на баланс после регистрации
+      </p>
+    </div>
+  );
+}

@@ -1,0 +1,210 @@
+const imgFrame6461 = "https://www.figma.com/api/mcp/asset/98cadcf1-f579-42b7-aef4-624cc76710a5.svg";
+const imgGroup2087331500 = "https://www.figma.com/api/mcp/asset/815386e9-58eb-44a8-b0dc-6d34a7affd2b.svg";
+const imgGroup2087331501 = "https://www.figma.com/api/mcp/asset/b813a4f8-3b14-461b-a638-503945ede1d6.svg";
+const imgGroup2087331502 = "https://www.figma.com/api/mcp/asset/0197530d-9d5d-4820-9134-8be56a825407.svg";
+const imgFrame2087325369 = "https://www.figma.com/api/mcp/asset/6153971e-d234-4afb-b93c-1f5a4add8f34.svg";
+const imgGroup2087331503 = "https://www.figma.com/api/mcp/asset/c43d16b8-6093-44fc-bce9-f91d362492b5.svg";
+const imgGroup2087331504 = "https://www.figma.com/api/mcp/asset/dd50bed8-e6de-4e5d-bcd1-bb8a71cc3ce3.svg";
+const imgGroup2087331505 = "https://www.figma.com/api/mcp/asset/9b615965-318c-4443-abdb-587a1c97d167.svg";
+const imgGroup2087331506 = "https://www.figma.com/api/mcp/asset/11d8f845-440b-405a-9f81-c2cc52289908.svg";
+const imgGroup2087331507 = "https://www.figma.com/api/mcp/asset/6bbc76aa-3b5c-4bd3-a76e-f941401938e5.svg";
+const imgGroup2087331508 = "https://www.figma.com/api/mcp/asset/3011921c-7f05-4b52-836a-cbcb5e49a67b.svg";
+const imgGroup2087331509 = "https://www.figma.com/api/mcp/asset/59388a24-6439-4e93-8891-f0a6f368079b.svg";
+const imgGroup2087331510 = "https://www.figma.com/api/mcp/asset/92e3b80d-a66d-466a-9cb2-5db3cb8dea3d.svg";
+const imgGroup2087331511 = "https://www.figma.com/api/mcp/asset/b17daaef-05ce-4a26-a34d-1adbe8188a19.svg";
+
+export default function Component2() {
+  return (
+    <div className="bg-[#5a5a5a] relative size-full" data-node-id="1:3829" data-name="2 песни">
+      <div className="absolute contents left-[59px] top-[90px]" data-node-id="1:3830">
+        <div className="absolute left-[59px] rounded-[80px] size-[960px] top-[90px]" data-node-id="1:3831" style={{ backgroundImage: "url(\"data:image/svg+xml;utf8,<svg viewBox='0 0 960 960' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'><rect x='0' y='0' height='100%' width='100%' fill='url(%23grad)' opacity='1'/><defs><radialGradient id='grad' gradientUnits='userSpaceOnUse' cx='0' cy='0' r='10' gradientTransform='matrix(2.9392e-15 48 -48 2.9392e-15 480 480)'><stop stop-color='rgba(49,24,0,1)' offset='0'/><stop stop-color='rgba(36,23,11,1)' offset='0.5'/><stop stop-color='rgba(22,22,22,1)' offset='1'/></radialGradient></defs></svg>\")" }} />
+        <div className="absolute left-[820px] size-[156px] top-[849.31px]" data-node-id="1:3832">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame6461} />
+        </div>
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Trailers_Trial:Bold'] leading-none left-[calc(50%-906.5px)] not-italic text-[#ff8b1e] text-[96px] top-[214px] whitespace-nowrap" data-node-id="1:3834">{`Дискотека Авария `}</p>
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Trailers_Trial:Bold'] leading-none left-[calc(50%-906.5px)] not-italic text-[#f3f3f3] text-[96px] top-[312px] whitespace-nowrap" data-node-id="1:3835">
+          Если хочешь остаться
+        </p>
+        <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[0] left-[138px] not-italic text-[#f3f3f3] text-[34.079px] top-[437px] w-[802px] whitespace-pre-wrap" data-node-id="1:3836">
+          <p className="leading-[1.41] mb-0">{`То ли это ветерок мои губы колышет `}</p>
+          <p className="mb-0">
+            <span className="leading-[1.41]">{`То ли это я кричу тебе, но ты меня `}</span>
+            <span className="[word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.41] not-italic text-[#f3f3f3]">{`не слышишь `}</span>
+          </p>
+          <p className="leading-[1.41] mb-0">​</p>
+          <p className="leading-[1.41] mb-0">Если хочешь остаться, останься просто так</p>
+          <p className="leading-[1.41] mb-0">Пусть тебе приснятся сны о теплых берегах</p>
+          <p className="leading-[1.41] mb-0">{`Давно за двенадцать, а ты еще в гостях `}</p>
+          <p className="leading-[1.41] mb-0">{`Ты думаешь остаться, так останься просто так `}</p>
+          <p className="leading-[1.41] mb-0">​</p>
+          <p className="leading-[1.41] mb-0">Все изъедены сплетни за долгие месяцы</p>
+          <p className="leading-[1.41] mb-0">{`И гитару давно позабыли на лестнице `}</p>
+          <p className="leading-[1.41]">И ей уже не хочется песен</p>
+        </div>
+        <div className="absolute h-[49px] left-[702px] top-[477px] w-[216px]" data-node-id="1:3837">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup2087331500} />
+        </div>
+        <div className="absolute h-[49px] left-[500px] top-[619px] w-[71.011px]" data-node-id="1:3841">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup2087331501} />
+        </div>
+        <div className="absolute h-[49px] left-[715px] top-[718px] w-[190px]" data-node-id="1:3844">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup2087331502} />
+        </div>
+        <div className="absolute left-[870px] size-[56px] top-[179px]" data-node-id="1:3848">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame2087325369} />
+        </div>
+      </div>
+      <div className="absolute contents left-[59px] top-[1097px]" data-node-id="1:3850">
+        <div className="absolute left-[59px] rounded-[80px] size-[960px] top-[1097px]" data-node-id="1:3851" style={{ backgroundImage: "url(\"data:image/svg+xml;utf8,<svg viewBox='0 0 960 960' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'><rect x='0' y='0' height='100%' width='100%' fill='url(%23grad)' opacity='1'/><defs><radialGradient id='grad' gradientUnits='userSpaceOnUse' cx='0' cy='0' r='10' gradientTransform='matrix(2.9392e-15 48 -48 2.9392e-15 480 480)'><stop stop-color='rgba(49,24,0,1)' offset='0'/><stop stop-color='rgba(36,23,11,1)' offset='0.5'/><stop stop-color='rgba(22,22,22,1)' offset='1'/></radialGradient></defs></svg>\")" }} />
+        <div className="absolute left-[820px] size-[156px] top-[1856.31px]" data-node-id="1:3852">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame6461} />
+        </div>
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Trailers_Trial:Bold'] leading-none left-[calc(50%-906.5px)] not-italic text-[#ff8b1e] text-[96px] top-[1221px] whitespace-nowrap" data-node-id="1:3854">
+          Корни
+        </p>
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Trailers_Trial:Bold'] leading-none left-[calc(50%-906.5px)] not-italic text-[#f3f3f3] text-[96px] top-[1319px] whitespace-nowrap" data-node-id="1:3855">
+          Ты узнаешь её
+        </p>
+        <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[0] left-[138px] not-italic text-[#f3f3f3] text-[34.079px] top-[1444px] w-[802px] whitespace-pre-wrap" data-node-id="1:3856">
+          <p className="leading-[1.41] mb-0">
+            Колосятся под знаком луны
+            <br aria-hidden />
+            {` `}
+          </p>
+          <p className="leading-[1.41] mb-0">{`Ты узнаешь её из тысячи `}</p>
+          <p className="leading-[1.41] mb-0">
+            {`Её образ на сердце высечен `}
+            <br aria-hidden />
+            <br aria-hidden />
+          </p>
+          <p className="leading-[1.41] mb-0">{`Ты узнаешь её из тысячи `}</p>
+          <p className="leading-[1.41] mb-0">{`По словам, по глазам, по голосу `}</p>
+          <p className="leading-[1.41] mb-0">{`Её образ на сердце высечен `}</p>
+          <p className="leading-[1.41] mb-0">
+            {`Ароматами гладиолуса `}
+            <br aria-hidden />
+            <br aria-hidden />
+          </p>
+          <p className="leading-[1.41]">Ты узнаешь её, ты узнаешь её</p>
+        </div>
+        <div className="absolute h-[49px] left-[460px] top-[1580px] w-[153px]" data-node-id="1:3857">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup2087331503} />
+        </div>
+        <div className="absolute h-[49px] left-[375px] top-[1724px] w-[126px]" data-node-id="1:3860">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup2087331504} />
+        </div>
+        <div className="absolute h-[49px] left-[328px] top-[1820px] w-[195px]" data-node-id="1:3863">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup2087331505} />
+        </div>
+        <div className="absolute left-[870px] size-[56px] top-[1186px]" data-node-id="1:3866">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame2087325369} />
+        </div>
+      </div>
+      <div className="absolute contents left-[1070px] top-[1097px]" data-node-id="1:3868">
+        <div className="absolute left-[1070px] rounded-[80px] size-[960px] top-[1097px]" data-node-id="1:3869" style={{ backgroundImage: "url(\"data:image/svg+xml;utf8,<svg viewBox='0 0 960 960' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'><rect x='0' y='0' height='100%' width='100%' fill='url(%23grad)' opacity='1'/><defs><radialGradient id='grad' gradientUnits='userSpaceOnUse' cx='0' cy='0' r='10' gradientTransform='matrix(2.9392e-15 48 -48 2.9392e-15 480 480)'><stop stop-color='rgba(49,24,0,1)' offset='0'/><stop stop-color='rgba(36,23,11,1)' offset='0.5'/><stop stop-color='rgba(22,22,22,1)' offset='1'/></radialGradient></defs></svg>\")" }} />
+        <div className="absolute left-[1831px] size-[156px] top-[1856.31px]" data-node-id="1:3870">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame6461} />
+        </div>
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Trailers_Trial:Bold'] leading-none left-[calc(50%+104.5px)] not-italic text-[#ff8b1e] text-[96px] top-[1221px] whitespace-nowrap" data-node-id="1:3872">
+          Корни
+        </p>
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Trailers_Trial:Bold'] leading-none left-[calc(50%+104.5px)] not-italic text-[#f3f3f3] text-[96px] top-[1319px] whitespace-nowrap" data-node-id="1:3873">
+          Ты узнаешь её
+        </p>
+        <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[0] left-[1149px] not-italic text-[#f3f3f3] text-[34.079px] top-[1444px] w-[802px] whitespace-pre-wrap" data-node-id="1:3874">
+          <p className="leading-[1.41] mb-0">
+            Колосятся под знаком луны
+            <br aria-hidden />
+            {` `}
+          </p>
+          <p className="leading-[1.41] mb-0">{`Ты узнаешь её из тысячи `}</p>
+          <p className="leading-[1.41] mb-0">
+            {`Её образ на сердце высечен `}
+            <br aria-hidden />
+            <br aria-hidden />
+          </p>
+          <p className="leading-[1.41] mb-0">{`Ты узнаешь её из тысячи `}</p>
+          <p className="leading-[1.41] mb-0">{`По словам, по глазам, по голосу `}</p>
+          <p className="leading-[1.41] mb-0">{`Её образ на сердце высечен `}</p>
+          <p className="leading-[1.41] mb-0">
+            {`Ароматами гладиолуса `}
+            <br aria-hidden />
+            <br aria-hidden />
+          </p>
+          <p className="leading-[1.41]">Ты узнаешь её, ты узнаешь её</p>
+        </div>
+        <div className="absolute h-0 left-[1479px] top-[1621px] w-[137px]" data-node-id="1:3875">
+          <div className="absolute inset-[-2px_-1.46%]">
+            <img alt="" className="block max-w-none size-full" src={imgGroup2087331506} />
+          </div>
+        </div>
+        <div className="absolute h-0 left-[1393px] top-[1764px] w-[109px]" data-node-id="1:3877">
+          <div className="absolute inset-[-2px_-1.83%]">
+            <img alt="" className="block max-w-none size-full" src={imgGroup2087331507} />
+          </div>
+        </div>
+        <div className="absolute h-0 left-[1346px] top-[1860px] w-[179px]" data-node-id="1:3879">
+          <div className="absolute inset-[-2px_-1.12%]">
+            <img alt="" className="block max-w-none size-full" src={imgGroup2087331508} />
+          </div>
+        </div>
+        <div className="absolute left-[1881px] size-[56px] top-[1186px]" data-node-id="1:3881">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame2087325369} />
+        </div>
+      </div>
+      <div className="absolute content-stretch flex flex-col items-start left-[1070px] top-[90px] w-[960px]" data-node-id="1:3883">
+        <div className="grid-cols-[max-content] grid-rows-[max-content] inline-grid leading-[0] place-items-start relative shrink-0" data-node-id="1:3884">
+          <div className="col-1 ml-0 mt-0 relative rounded-[80px] row-1 size-[960px]" data-node-id="1:3885" style={{ backgroundImage: "url(\"data:image/svg+xml;utf8,<svg viewBox='0 0 960 960' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'><rect x='0' y='0' height='100%' width='100%' fill='url(%23grad)' opacity='1'/><defs><radialGradient id='grad' gradientUnits='userSpaceOnUse' cx='0' cy='0' r='10' gradientTransform='matrix(2.9392e-15 48 -48 2.9392e-15 480 480)'><stop stop-color='rgba(49,24,0,1)' offset='0'/><stop stop-color='rgba(36,23,11,1)' offset='0.5'/><stop stop-color='rgba(22,22,22,1)' offset='1'/></radialGradient></defs></svg>\")" }} />
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] col-1 font-['TT_Trailers_Trial:Bold'] leading-none ml-[79px] mt-[124px] not-italic relative row-1 text-[#ff8b1e] text-[96px] whitespace-nowrap" data-node-id="1:3886">{`Дискотека Авария `}</p>
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] col-1 font-['TT_Trailers_Trial:Bold'] leading-none ml-[79px] mt-[222px] not-italic relative row-1 text-[#f3f3f3] text-[96px] whitespace-nowrap" data-node-id="1:3887">
+            Если хочешь остаться
+          </p>
+          <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] col-1 font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] ml-[79px] mt-[347px] not-italic relative row-1 text-[#f3f3f3] text-[34.079px] w-[802px] whitespace-pre-wrap" data-node-id="1:3888">
+            <p className="leading-[1.41] mb-0">{`То ли это ветерок мои губы колышет `}</p>
+            <p className="mb-0">
+              <span className="leading-[1.41]">{`То ли это я кричу тебе, но ты меня `}</span>
+              <span className="[word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.41] not-italic text-[#ff8b1e]">{`не слышишь `}</span>
+            </p>
+            <p className="leading-[1.41] mb-0">​</p>
+            <p className="leading-[1.41] mb-0">Если хочешь остаться, останься просто так</p>
+            <p className="mb-0">
+              <span className="leading-[1.41]">{`Пусть тебе приснятся `}</span>
+              <span className="[word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.41] not-italic text-[#ff8b1e]">сны</span>
+              <span className="leading-[1.41]">{` о теплых берегах`}</span>
+            </p>
+            <p className="leading-[1.41] mb-0">{`Давно за двенадцать, а ты еще в гостях `}</p>
+            <p className="mb-0">
+              <span className="leading-[1.41]">{`Ты думаешь остаться, так останься `}</span>
+              <span className="[word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.41] not-italic text-[#ff8b1e]">{`просто так `}</span>
+            </p>
+            <p className="leading-[1.41] mb-0">​</p>
+            <p className="leading-[1.41] mb-0">Все изъедены сплетни за долгие месяцы</p>
+            <p className="leading-[1.41] mb-0">{`И гитару давно позабыли на лестнице `}</p>
+            <p className="leading-[1.41]">И ей уже не хочется песен</p>
+          </div>
+          <div className="col-1 h-[49px] ml-[643px] mt-[387px] relative row-1 w-[216px]" data-node-id="1:3889">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup2087331509} />
+          </div>
+          <div className="col-1 h-[49px] ml-[441px] mt-[529px] relative row-1 w-[71.011px]" data-node-id="1:3893">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup2087331510} />
+          </div>
+          <div className="col-1 h-[49px] ml-[656px] mt-[628px] relative row-1 w-[190px]" data-node-id="1:3896">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup2087331511} />
+          </div>
+          <div className="col-1 ml-[831px] mt-[89px] relative row-1 size-[56px]" data-node-id="1:3900">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame2087325369} />
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

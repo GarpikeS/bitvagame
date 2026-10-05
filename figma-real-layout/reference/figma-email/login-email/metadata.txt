@@ -1,0 +1,22 @@
+<frame id="1:342" name="Войдите в аккаунт" x="1345" y="324" width="1080" height="2564">
+  <instance id="1:343" name="Footer" x="-1" y="2059" width="1081" height="505" />
+  <instance id="1:344" name="Header" x="62" y="80" width="958" height="104.43013000488281" />
+  <frame id="1:345" name="Frame 2087326659" x="59.5" y="248.4296875" width="960" height="67">
+    <text id="1:346" name="ВОЙДИТЕ В АККАУНТ" x="0" y="0" width="960" height="67" />
+  </frame>
+  <frame id="1:347" name="Frame 6434" x="59.5" y="395.4296875" width="960" height="1022.1184692382812">
+    <instance id="1:348" name="Component 23" x="62" y="48" width="836" height="17" />
+    <text id="1:349" name="ВОЙТИ" x="48" y="113" width="864" height="67" />
+    <instance id="1:350" name="Component 57" x="251.56649780273438" y="228" width="456.86700439453125" height="128.5703125" />
+    <frame id="1:351" name="Frame 2087326773" x="48" y="404.5703125" width="864" height="255.54815673828125">
+      <frame id="1:352" name="Frame 2087326664" x="0" y="0" width="864" height="121">
+        <instance id="1:353" name="Input" x="0" y="0" width="864" height="121" />
+      </frame>
+      <instance id="1:354" name="Input" x="0" y="137" width="864" height="118.54815673828125" />
+    </frame>
+    <frame id="1:355" name="Frame 2087326668" x="48" y="708.1184692382812" width="864" height="266">
+      <instance id="1:356" name="Component 17" x="0" y="0" width="864" height="122" />
+      <instance id="1:357" name="Component 25" x="0" y="146" width="864" height="120" />
+    </frame>
+  </frame>
+</frame>

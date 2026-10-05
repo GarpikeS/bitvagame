@@ -1,0 +1,9 @@
+const imgUnion = "http://localhost:3845/assets/2e5fa02c380de6fa7b4511c7b34384bb2224c68b.svg";
+
+export default function Union() {
+  return (
+    <div className="relative size-full" data-node-id="1:1213" data-name="Union">
+      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUnion} />
+    </div>
+  );
+}

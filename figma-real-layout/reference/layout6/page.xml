@@ -1,0 +1,1015 @@
+<canvas id="0:1" name="Page 1" x="0" y="0" width="0" height="0">
+  <frame id="1:478" name="Описание игры (мобильный)" x="0" y="0" width="1080" height="7773">
+    <rounded-rectangle id="1:479" name="image 2" x="-90" y="-1" width="1212" height="977" />
+    <rounded-rectangle id="1:480" name="Rectangle 231" x="-24" y="558" width="1169" height="404" />
+    <rounded-rectangle id="1:481" name="Rectangle 156" x="0" y="815" width="1080" height="6958" />
+    <frame id="1:482" name="Black + Red" x="780" y="491" width="62.17713928222656" height="27" />
+    <frame id="1:503" name="Frame 6400" x="60" y="710" width="779.3919067382812" height="64.09736633300781">
+      <instance id="1:504" name="Tag" x="0" y="0" width="237.3918914794922" height="64.09736633300781" />
+      <instance id="1:505" name="Tag" x="252.3918914794922" y="0" width="257" height="64.09736633300781" />
+      <instance id="1:506" name="Tag" x="524.3919067382812" y="0" width="255" height="64.09736633300781" />
+    </frame>
+    <instance id="1:507" name="Header" x="60" y="79" width="960" height="123.43087768554688" />
+    <instance id="1:508" name="Component 2" x="936" y="700" width="84" height="84" />
+    <frame id="1:509" name="Frame 2087326673" x="55" y="2120" width="970" height="120">
+      <instance id="1:510" name="Component 36" x="0" y="0" width="970" height="120" />
+    </frame>
+    <instance id="1:511" name="Footer" x="-1" y="7268" width="1081" height="505" />
+    <frame id="1:512" name="Frame 6510" x="60" y="6667" width="962" height="521">
+      <text id="1:513" name="ВАМ МОЖЕТ ПОНРАВИТЬСЯ" x="0" y="0" width="961.4970703125" height="39" />
+      <frame id="1:514" name="Frame 6508" x="0" y="71" width="962" height="310">
+        <instance id="1:515" name="Component 40" x="0" y="0" width="310" height="310" />
+        <instance id="1:516" name="Component 40" x="326" y="0" width="310" height="310" />
+        <instance id="1:517" name="Frame 2087325390" x="652" y="0" width="310" height="310" />
+      </frame>
+      <instance id="1:518" name="button M" x="0" y="413" width="966" height="108" />
+    </frame>
+    <frame id="1:519" name="Group 2087326742" x="60" y="926" width="960" height="159">
+      <frame id="1:520" name="Frame 6373" x="60" y="926" width="960" height="159">
+        <frame id="1:521" name="Frame 2087325335" x="150.5" y="0" width="659" height="159">
+          <text id="1:522" name="КОРОЛЕВСКАЯ БИТВА" x="0" y="0" width="659" height="67" />
+          <text id="1:523" name="Весёлые соревнования для вечеринок, семьи и корпоративов. Открыл — и сразу играй!" x="0" y="107" width="659" height="52" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="1:524" name="Frame 2087326708" x="60" y="1154" width="960" height="918">
+      <instance id="1:525" name="Tag/Frame 2087326694" x="0" y="0" width="473" height="452" />
+      <instance id="1:526" name="Frame 2087326706" x="487" y="0" width="473" height="452" />
+      <instance id="1:527" name="Frame 2087326707" x="0" y="466" width="473" height="452" />
+      <instance id="1:528" name="Frame 2087326708" x="487" y="466" width="473" height="452" />
+    </frame>
+    <frame id="1:529" name="Frame 2087326803" x="59" y="2714" width="962.4970703125" height="337.00030517578125">
+      <text id="1:530" name="СИСТЕМА ОЧКОВ" x="0" y="0" width="962.4970703125" height="67" />
+      <frame id="1:531" name="Frame 2087326797" x="0" y="107" width="959.0012817382812" height="230.0003204345703">
+        <frame id="1:532" name="Frame 2087326798" x="0" y="0" width="959.0012817382812" height="230.0003204345703">
+          <instance id="1:533" name="Frame 2087326796" x="0" y="0" width="230.0003204345703" height="230.0003204345703" />
+          <instance id="1:534" name="Frame 2087326799" x="243.0003204345703" y="0" width="230.0003204345703" height="230.0003204345703" />
+          <instance id="1:535" name="Frame 2087326797" x="486.0006408691406" y="0" width="230.0003204345703" height="230.0003204345703" />
+          <instance id="1:536" name="Frame 2087326800" x="729.0009765625" y="0" width="230.0003204345703" height="230.0003204345703" />
+        </frame>
+      </frame>
+    </frame>
+    <symbol id="1:537" name="Group 2087331646" x="65" y="2321" width="953.000244140625" height="312" />
+    <instance id="1:596" name="Frame 2087326710" x="60" y="5753" width="960.0003051757812" height="834" />
+    <frame id="1:597" name="Frame 2087326850" x="53" y="4458" width="967.5" height="1215">
+      <text id="1:598" name="СБОРНИКИ ИГР" x="0" y="0" width="967.5" height="67" />
+      <frame id="1:599" name="Frame 2087326849" x="0" y="107" width="967.5" height="960">
+        <symbol id="1:600" name="Frame 6495" x="0" y="0" width="469.25" height="465" />
+        <symbol id="1:609" name="Frame 6495" x="498.25" y="0" width="469.25" height="465" />
+        <symbol id="1:620" name="Frame 6495" x="0" y="495" width="469.25" height="465" />
+        <symbol id="1:632" name="Frame 6495" x="498.25" y="495" width="469.25" height="465" />
+      </frame>
+      <instance id="1:652" name="button M" x="0" y="1107" width="967.5" height="108" />
+    </frame>
+    <frame id="1:653" name="Group 2087331646" x="0" y="3130" width="1080" height="1315">
+      <rounded-rectangle id="1:654" name="Rectangle 42183" x="175" y="4193" width="731" height="252" />
+      <frame id="1:655" name="Group 2087331547" x="0" y="3130" width="1080" height="1265">
+        <frame id="1:656" name="Group 2087331544" x="0" y="3130" width="1080" height="1131">
+          <rounded-rectangle id="1:657" name="Rectangle 42171" x="0" y="3130" width="1080" height="1131" />
+          <frame id="1:658" name="Frame 2087325334" x="122" y="3201" width="836.1514892578125" height="908.32373046875">
+            <text id="1:659" name="ТИПЫ ЗАДАНИЙ" x="0" y="0" width="836.1514892578125" height="67" />
+            <frame id="1:660" name="Frame 2087326858" x="0" y="127" width="836.1514892578125" height="781.32373046875">
+              <frame id="1:661" name="Frame 2087326857" x="0" y="0" width="836.1514892578125" height="372.161865234375">
+                <symbol id="1:662" name="Frame 2087326851" x="0" y="0" width="255.38381958007812" height="372.161865234375" />
+                <symbol id="1:675" name="Frame 2087326852" x="290.3838195800781" y="0" width="255.38381958007812" height="372.161865234375" />
+                <symbol id="1:689" name="Frame 2087326853" x="580.7676391601562" y="0" width="255.38381958007812" height="372.161865234375" />
+              </frame>
+              <frame id="1:702" name="Frame 2087326856" x="145.19192504882812" y="409.161865234375" width="545.7676391601562" height="372.161865234375">
+                <symbol id="1:703" name="Frame 2087326855" x="0" y="0" width="255.38381958007812" height="372.161865234375" />
+                <symbol id="1:716" name="Frame 2087326854" x="290.3838195800781" y="0" width="255.38381958007812" height="372.161865234375" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="1:729" name="Group 2087331546" x="357" y="4215" width="366" height="82">
+          <rounded-rectangle id="1:730" name="Rectangle 42147" x="357" y="4215" width="366" height="82" />
+          <text id="1:731" name="10 раундов" x="420" y="4238.5390625" width="240" height="34" />
+        </frame>
+        <text id="1:732" name="Побеждает тот, у кого по итогам 10 раундов окажется больше всего баллов!" x="223" y="4341" width="634" height="54" />
+      </frame>
+    </frame>
+  </frame>
+  <frame id="1:733" name="Бесплатный сборник" x="1256" y="0" width="1080" height="5546">
+    <frame id="1:734" name="Frame 2087326792" x="60" y="107" width="960" height="5107.56640625">
+      <instance id="1:735" name="Header" x="0" y="0" width="960" height="123.43087768554688" />
+      <text id="1:736" name="СБОРНИК: ВЕЧЕРИНКА" x="223" y="203.430908203125" width="514" height="67" />
+      <instance id="1:737" name="Group 2087331644" x="0" y="350.430908203125" width="960" height="960" />
+      <frame id="1:738" name="Frame 2087325287" x="0" y="1390.430908203125" width="960" height="136">
+        <instance id="1:739" name="Component 42" x="0" y="0" width="960" height="136" />
+      </frame>
+      <frame id="1:740" name="Frame 2087326866" x="1.5" y="1606.430908203125" width="957" height="488.79132080078125">
+        <frame id="1:741" name="Frame 2087326864" x="32" y="48" width="893" height="113">
+          <frame id="1:742" name="Group 2087331578" x="0" y="0" width="410" height="113">
+            <frame id="1:743" name="Frame 2087325320" x="0" y="0" width="410" height="113">
+              <text id="1:744" name="В ЭТОМ СБОРНИКЕ ВАМ МОГУТ ПОНАДОБИТЬСЯ" x="0" y="0" width="410" height="113" />
+            </frame>
+          </frame>
+          <instance id="1:745" name="button M" x="496" y="0" width="397" height="108" />
+        </frame>
+        <frame id="1:746" name="Frame 2087326863" x="32" y="216" width="414.98431396484375" height="224.7913360595703">
+          <instance id="1:747" name="Component 67" x="0" y="0" width="198.66012573242188" height="224.7913360595703" />
+          <instance id="1:748" name="Component 67" x="218.66012573242188" y="0" width="196.32418823242188" height="224.7913360595703" />
+        </frame>
+      </frame>
+      <frame id="1:749" name="Group 2087331647" x="-60" y="2175.22216796875" width="1080" height="1315">
+        <rounded-rectangle id="1:750" name="Rectangle 42183" x="115" y="3238.22216796875" width="731" height="252" />
+        <frame id="1:751" name="Group 2087331547" x="-60" y="2175.22216796875" width="1080" height="1265">
+          <frame id="1:752" name="Group 2087331544" x="-60" y="2175.22216796875" width="1080" height="1131">
+            <rounded-rectangle id="1:753" name="Rectangle 42171" x="-60" y="2175.22216796875" width="1080" height="1131" />
+            <frame id="1:754" name="Frame 2087325334" x="62" y="2246.22216796875" width="836.1514892578125" height="908.32373046875">
+              <text id="1:755" name="ТИПЫ ЗАДАНИЙ" x="0" y="0" width="836.1514892578125" height="67" />
+              <frame id="1:756" name="Frame 2087326858" x="0" y="127" width="836.1514892578125" height="781.32373046875">
+                <frame id="1:757" name="Frame 2087326857" x="0" y="0" width="836.1514892578125" height="372.161865234375">
+                  <instance id="1:758" name="Frame 2087326851" x="0" y="0" width="255.38381958007812" height="372.161865234375" />
+                  <instance id="1:759" name="Frame 2087326852" x="290.3838195800781" y="0" width="255.38381958007812" height="372.161865234375" />
+                  <instance id="1:760" name="Frame 2087326853" x="580.7676391601562" y="0" width="255.38381958007812" height="372.161865234375" />
+                </frame>
+                <frame id="1:761" name="Frame 2087326856" x="145.19192504882812" y="409.161865234375" width="545.7676391601562" height="372.161865234375">
+                  <instance id="1:762" name="Frame 2087326855" x="0" y="0" width="255.38381958007812" height="372.161865234375" />
+                  <instance id="1:763" name="Frame 2087326854" x="290.3838195800781" y="0" width="255.38381958007812" height="372.161865234375" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:764" name="Group 2087331546" x="297" y="3260.22216796875" width="366" height="82">
+            <rounded-rectangle id="1:765" name="Rectangle 42147" x="297" y="3260.22216796875" width="366" height="82" />
+            <text id="1:766" name="10 раундов" x="360" y="3283.76123046875" width="240" height="34" />
+          </frame>
+          <text id="1:767" name="Побеждает тот, у кого по итогам 10 раундов окажется больше всего баллов!" x="163" y="3386.22216796875" width="634" height="54" />
+        </frame>
+      </frame>
+      <instance id="1:768" name="Frame 2087326867" x="0" y="3570.22216796875" width="960" height="691.000244140625" />
+      <instance id="1:769" name="Frame 2087326866" x="0" y="4341.22265625" width="960" height="766.3438720703125" />
+    </frame>
+    <instance id="1:770" name="Footer" x="-1" y="5041" width="1081" height="505" />
+  </frame>
+  <frame id="1:771" name="Платный сборник" x="2448" y="0" width="1080" height="5546">
+    <frame id="1:772" name="Frame 2087326792" x="60" y="107" width="960" height="5107.56640625">
+      <instance id="1:773" name="Header" x="0" y="0" width="960" height="123.43087768554688" />
+      <text id="1:774" name="СБОРНИК: ДЕНЬ РОЖДЕНИЯ" x="161" y="203.430908203125" width="638" height="67" />
+      <instance id="1:775" name="Group 2087331644" x="0" y="350.430908203125" width="960" height="960" />
+      <instance id="1:776" name="Component 42" x="0" y="1390.430908203125" width="960" height="136" />
+      <frame id="1:777" name="Frame 2087326866" x="1.5" y="1606.430908203125" width="957" height="488.79132080078125">
+        <frame id="1:778" name="Frame 2087326864" x="32" y="48" width="893" height="113">
+          <frame id="1:779" name="Group 2087331578" x="0" y="0" width="410" height="113">
+            <frame id="1:780" name="Frame 2087325320" x="0" y="0" width="410" height="113">
+              <text id="1:781" name="В ЭТОМ СБОРНИКЕ ВАМ МОГУТ ПОНАДОБИТЬСЯ" x="0" y="0" width="410" height="113" />
+            </frame>
+          </frame>
+          <instance id="1:782" name="button M" x="496" y="0" width="397" height="108" />
+        </frame>
+        <frame id="1:783" name="Frame 2087326863" x="32" y="216" width="414.98431396484375" height="224.7913360595703">
+          <instance id="1:784" name="Component 67" x="0" y="0" width="198.66012573242188" height="224.7913360595703" />
+          <instance id="1:785" name="Component 67" x="218.66012573242188" y="0" width="196.32418823242188" height="224.7913360595703" />
+        </frame>
+      </frame>
+      <frame id="1:786" name="Group 2087331647" x="-60" y="2175.22216796875" width="1080" height="1315">
+        <rounded-rectangle id="1:787" name="Rectangle 42183" x="115" y="3238.22216796875" width="731" height="252" />
+        <frame id="1:788" name="Group 2087331547" x="-60" y="2175.22216796875" width="1080" height="1265">
+          <frame id="1:789" name="Group 2087331544" x="-60" y="2175.22216796875" width="1080" height="1131">
+            <rounded-rectangle id="1:790" name="Rectangle 42171" x="-60" y="2175.22216796875" width="1080" height="1131" />
+            <frame id="1:791" name="Frame 2087325334" x="62" y="2246.22216796875" width="836.1514892578125" height="908.32373046875">
+              <text id="1:792" name="ТИПЫ ЗАДАНИЙ" x="0" y="0" width="836.1514892578125" height="67" />
+              <frame id="1:793" name="Frame 2087326858" x="0" y="127" width="836.1514892578125" height="781.32373046875">
+                <frame id="1:794" name="Frame 2087326857" x="0" y="0" width="836.1514892578125" height="372.161865234375">
+                  <instance id="1:795" name="Frame 2087326851" x="0" y="0" width="255.38381958007812" height="372.161865234375" />
+                  <instance id="1:796" name="Frame 2087326852" x="290.3838195800781" y="0" width="255.38381958007812" height="372.161865234375" />
+                  <instance id="1:797" name="Frame 2087326853" x="580.7676391601562" y="0" width="255.38381958007812" height="372.161865234375" />
+                </frame>
+                <frame id="1:798" name="Frame 2087326856" x="145.19192504882812" y="409.161865234375" width="545.7676391601562" height="372.161865234375">
+                  <instance id="1:799" name="Frame 2087326855" x="0" y="0" width="255.38381958007812" height="372.161865234375" />
+                  <instance id="1:800" name="Frame 2087326854" x="290.3838195800781" y="0" width="255.38381958007812" height="372.161865234375" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:801" name="Group 2087331546" x="297" y="3260.22216796875" width="366" height="82">
+            <rounded-rectangle id="1:802" name="Rectangle 42147" x="297" y="3260.22216796875" width="366" height="82" />
+            <text id="1:803" name="10 раундов" x="360" y="3283.76123046875" width="240" height="34" />
+          </frame>
+          <text id="1:804" name="Побеждает тот, у кого по итогам 10 раундов окажется больше всего баллов!" x="163" y="3386.22216796875" width="634" height="54" />
+        </frame>
+      </frame>
+      <symbol id="1:805" name="Frame 2087326750" x="0" y="3570.22216796875" width="960" height="691.000244140625" />
+      <instance id="1:808" name="Frame 2087326866" x="0" y="4341.22265625" width="960" height="766.3438720703125" />
+    </frame>
+    <instance id="1:809" name="Footer" x="-1" y="5041" width="1081" height="505" />
+  </frame>
+  <frame id="1:810" name="Спасибо за покупку" x="7019" y="5517" width="1080" height="2564">
+    <frame id="1:811" name="Layer 2" x="-1" y="0" width="1081.02978515625" height="749">
+      <frame id="1:812" name="Clip path group" x="-1.000027410686016" y="1.8189894035458565e-12" width="1081.02978515625" height="749">
+        <frame id="1:813" name="clippath" x="-1.000027410686016" y="1.8189894035458565e-12" width="1081.02978515625" height="749">
+          <vector id="1:814" name="Vector" x="-1.000027410686016" y="1.8189894035458565e-12" width="1081.02978515625" height="749" />
+        </frame>
+        <frame id="1:815" name="Group" x="-2.367214910686016" y="-31.21874999999818" width="1083.9373779296875" height="693.90234375">
+          <frame id="1:816" name="Group" x="-2.367214910686016" y="-31.21874999999818" width="1083.9373779296875" height="693.90234375">
+            <frame id="1:817" name="Group" x="198.39059758931398" y="-31.21874999999818" width="841.1143188476562" height="352.4550476074219">
+              <frame id="1:818" name="Group" x="991.968722589314" y="-31.21874999999818" width="47.53617477416992" height="47.696468353271484" />
+              <frame id="1:821" name="Group" x="198.39059758931398" y="18.14843750000182" width="42.869712829589844" height="45.5355110168457" />
+              <vector id="1:825" name="Vector" x="852.789035089314" y="102.56250000000182" width="40.20768737792969" height="15.845779418945312" />
+              <frame id="1:826" name="Group" x="359.667941339314" y="188.85937500000182" width="230.1966552734375" height="132.37692260742188" />
+            </frame>
+            <frame id="1:832" name="Group" x="146.31637883931398" y="13.234375000001819" width="874.6453857421875" height="325.59033203125">
+              <vector id="1:833" name="Vector" x="910.285128839314" y="316.8828125000018" width="27.222322463989258" height="21.941890716552734" />
+              <vector id="1:834" name="Vector" x="146.31637883931398" y="24.62500000000182" width="31.7844181060791" height="19.377910614013672" />
+              <vector id="1:835" name="Vector" x="683.078097589314" y="210.86718750000182" width="18.85629653930664" height="42.051116943359375" />
+              <vector id="1:836" name="Vector" x="469.429660089314" y="13.234375000001819" width="27.541486740112305" height="22.77385902404785" />
+              <vector id="1:837" name="Vector" x="241.57419133931398" y="87.14062500000182" width="38.02991485595703" height="34.7884635925293" />
+              <vector id="1:838" name="Vector" x="947.070285089314" y="125.25000000000182" width="73.89144897460938" height="35.55232238769531" />
+            </frame>
+            <frame id="1:839" name="Group" x="89.18356633931398" y="-8.664062499998181" width="940.9234619140625" height="575.417724609375">
+              <vector id="1:840" name="Vector" x="541.726535089314" y="-5.914062499998181" width="10.68868350982666" height="8.121254920959473" />
+              <vector id="1:841" name="Vector" x="89.18356633931398" y="22.85156250000182" width="11.643016815185547" height="10.321069717407227" />
+              <vector id="1:842" name="Vector" x="205.50387883931398" y="96.10937500000182" width="11.639894485473633" height="10.321064949035645" />
+              <vector id="1:843" name="Vector" x="626.738253839314" y="550.6562500000018" width="14.934725761413574" height="16.09743309020996" />
+              <vector id="1:844" name="Vector" x="692.023410089314" y="68.62500000000182" width="20.87982940673828" height="23.555490493774414" />
+              <vector id="1:845" name="Vector" x="373.187472589314" y="8.195312500001819" width="15.138117790222168" height="22.877485275268555" />
+              <vector id="1:846" name="Vector" x="974.308566339314" y="480.3046875000018" width="12.20311164855957" height="12.568242073059082" />
+              <vector id="1:847" name="Vector" x="437.363253839314" y="70.84375000000182" width="18.914846420288086" height="25.817481994628906" />
+              <vector id="1:848" name="Vector" x="580.640597589314" y="438.6250000000018" width="7.96956205368042" height="9.779267311096191" />
+              <vector id="1:849" name="Vector" x="626.460910089314" y="6.375000000001819" width="15.488563537597656" height="10.001312255859375" />
+              <vector id="1:850" name="Vector" x="809.695285089314" y="-8.664062499998181" width="26.95640754699707" height="19.81313705444336" />
+              <vector id="1:851" name="Vector" x="1022.199191339314" y="60.71875000000182" width="7.90781307220459" height="15.807289123535156" />
+            </frame>
+            <frame id="1:852" name="Group" x="-2.367214910686016" y="10.289062500001819" width="1083.9373779296875" height="652.39453125">
+              <vector id="1:853" name="Vector" x="962.597628839314" y="319.2343750000018" width="4.0175909996032715" height="3.2242283821105957" />
+              <vector id="1:854" name="Vector" x="1015.914035089314" y="201.57812500000182" width="14.039873123168945" height="16.153688430786133" />
+              <vector id="1:855" name="Vector" x="1062.617160089314" y="92.28906250000182" width="12.628689765930176" height="8.199348449707031" />
+              <vector id="1:856" name="Vector" x="1036.675753839314" y="327.5625000000018" width="19.27461051940918" height="15.659253120422363" />
+              <vector id="1:857" name="Vector" x="1010.902316339314" y="402.6250000000018" width="5.209835529327393" height="6.300420761108398" />
+              <vector id="1:858" name="Vector" x="1076.804660089314" y="259.5937500000018" width="4.765465259552002" height="4.831897258758545" />
+              <vector id="1:859" name="Vector" x="971.035128839314" y="258.6484375000018" width="5.203494548797607" height="5.634240627288818" />
+              <vector id="1:860" name="Vector" x="973.015597589314" y="306.4531250000018" width="16.690052032470703" height="17.266902923583984" />
+              <vector id="1:861" name="Vector" x="877.894503839314" y="292.3828125000018" width="10.397669792175293" height="11.1293363571167" />
+              <vector id="1:862" name="Vector" x="785.156222589314" y="310.9062500000018" width="21.055072784423828" height="17.317249298095703" />
+              <vector id="1:863" name="Vector" x="584.300753839314" y="243.20335388183776" width="11.890212059020996" height="7.958892822265625" />
+              <vector id="1:864" name="Vector" x="509.738253839314" y="404.4375000000018" width="4.142796993255615" height="2.7147879600524902" />
+              <vector id="1:865" name="Vector" x="451.585910089314" y="255.10937500000182" width="17.744564056396484" height="19.05222511291504" />
+              <vector id="1:866" name="Vector" x="531.355441339314" y="404.7421875000018" width="4.204361438751221" height="5.631295680999756" />
+              <vector id="1:867" name="Vector" x="493.460910089314" y="304.9921875000018" width="9.221162796020508" height="9.604594230651855" />
+              <vector id="1:868" name="Vector" x="381.910128839314" y="405.1328125000018" width="13.169961929321289" height="10.492810249328613" />
+              <vector id="1:869" name="Vector" x="194.17966008931398" y="319.1171875000018" width="18.57375717163086" height="15.697707176208496" />
+              <vector id="1:870" name="Vector" x="100.78122258931398" y="401.8828125000018" width="3.820509672164917" height="3.985117197036743" />
+              <vector id="1:871" name="Vector" x="45.687472589313984" y="301.2421875000018" width="9.089750289916992" height="8.982832908630371" />
+              <vector id="1:872" name="Vector" x="81.45700383931398" y="326.0625000000018" width="7.152406692504883" height="9.791084289550781" />
+              <vector id="1:873" name="Vector" x="115.68356633931398" y="536.9765625000018" width="12.731904983520508" height="13.678510665893555" />
+              <vector id="1:874" name="Vector" x="304.261691339314" y="10.288930500524657" width="19.180803298950195" height="14.655562400817871" />
+              <vector id="1:875" name="Vector" x="439.496066339314" y="146.82031250000182" width="10.54319953918457" height="14.788800239562988" />
+              <vector id="1:876" name="Vector" x="56.796847589313984" y="393.8906250000018" width="13.623675346374512" height="15.990851402282715" />
+              <vector id="1:877" name="Vector" x="515.371066339314" y="651.0390625000018" width="12.91340160369873" height="11.644536018371582" />
+              <vector id="1:878" name="Vector" x="771.164035089314" y="533.9375000000018" width="7.36881685256958" height="6.093148708343506" />
+              <vector id="1:879" name="Vector" x="299.851535089314" y="268.4140625000018" width="16.17694854736328" height="19.250608444213867" />
+              <vector id="1:880" name="Vector" x="267.839816339314" y="435.1718750000018" width="8.551569938659668" height="6.919201374053955" />
+              <vector id="1:881" name="Vector" x="941.246066339314" y="641.0546875000018" width="16.862163543701172" height="19.961223602294922" />
+              <vector id="1:882" name="Vector" x="700.359347589314" y="139.20312500000182" width="18.30153465270996" height="14.625945091247559" />
+              <vector id="1:883" name="Vector" x="505.941378839314" y="72.89062500000182" width="15.885952949523926" height="11.306356430053711" />
+              <vector id="1:884" name="Vector" x="570.550753839314" y="171.00000000000182" width="17.78211212158203" height="14.107839584350586" />
+              <vector id="1:885" name="Vector" x="528.136691339314" y="226.99218750000182" width="10.172391891479492" height="12.18040657043457" />
+              <vector id="1:886" name="Vector" x="488.480441339314" y="169.32812500000182" width="17.369096755981445" height="11.01131534576416" />
+              <vector id="1:887" name="Vector" x="1065.062472589314" y="574.6640625000018" width="7.738017559051514" height="8.011725425720215" />
+              <vector id="1:888" name="Vector" x="764.816378839314" y="219.57031250000182" width="15.432263374328613" height="10.44027042388916" />
+              <vector id="1:889" name="Vector" x="450.476535089314" y="449.4765625000018" width="6.884789943695068" height="9.258176803588867" />
+              <vector id="1:890" name="Vector" x="890.464816339314" y="26.81250000000182" width="14.876105308532715" height="18.901235580444336" />
+              <vector id="1:891" name="Vector" x="645.628878839314" y="164.98437500000182" width="8.701699256896973" height="5.609653472900391" />
+              <vector id="1:892" name="Vector" x="878.675753839314" y="494.6484375000018" width="19.230838775634766" height="14.501601219177246" />
+              <vector id="1:893" name="Vector" x="531.402316339314" y="118.91406250000182" width="13.889647483825684" height="13.554176330566406" />
+              <vector id="1:894" name="Vector" x="271.929660089314" y="505.2187500000018" width="8.911393165588379" height="7.854798793792725" />
+              <vector id="1:895" name="Vector" x="167.12497258931398" y="571.4296875000018" width="19.503080368041992" height="14.469038009643555" />
+              <vector id="1:896" name="Vector" x="45.949191339313984" y="641.8515625000018" width="17.660093307495117" height="18.37417221069336" />
+              <vector id="1:897" name="Vector" x="109.03512883931398" y="76.58593750000182" width="10.817004203796387" height="15.224017143249512" />
+              <vector id="1:898" name="Vector" x="9.226535089313984" y="365.5703125000018" width="4.386862277984619" height="2.93766188621521" />
+              <vector id="1:899" name="Vector" x="-2.367214910686016" y="207.94531250000182" width="9.195967674255371" height="11.831026077270508" />
+            </frame>
+            <frame id="1:900" name="Group" x="82.17575383931398" y="41.95312500000182" width="889.28271484375" height="513.0990600585938">
+              <vector id="1:901" name="Vector" x="759.269503839314" y="519.0078125000018" width="7.994617462158203" height="7.2833638191223145" />
+              <vector id="1:902" name="Vector" x="856.226535089314" y="434.5703125000018" width="8.019598007202148" height="8.121233940124512" />
+              <vector id="1:903" name="Vector" x="467.023410089314" y="110.88281250000182" width="7.447004318237305" height="6.019149303436279" />
+              <vector id="1:904" name="Vector" x="231.88278508931398" y="131.77343750000182" width="16.605619430541992" height="16.30765151977539" />
+              <vector id="1:905" name="Vector" x="178.37497258931398" y="252.54687500000182" width="16.483585357666016" height="14.507528305053711" />
+              <vector id="1:906" name="Vector" x="255.50778508931398" y="546.2500000000018" width="10.3569917678833" height="8.802214622497559" />
+              <vector id="1:907" name="Vector" x="390.007785089314" y="315.8750000000018" width="16.727371215820312" height="21.462255477905273" />
+              <vector id="1:908" name="Vector" x="959.292941339314" y="41.95331657446695" width="12.165526390075684" height="9.193037033081055" />
+              <vector id="1:909" name="Vector" x="880.738253839314" y="202.67187500000182" width="13.104302406311035" height="8.843003273010254" />
+              <vector id="1:910" name="Vector" x="357.175753839314" y="74.55468750000182" width="8.852670669555664" height="12.322519302368164" />
+              <vector id="1:911" name="Vector" x="702.460910089314" y="307.1875000000018" width="16.6275634765625" height="17.370521545410156" />
+              <vector id="1:912" name="Vector" x="354.816378839314" y="487.2812500000018" width="13.567351341247559" height="14.720727920532227" />
+              <vector id="1:913" name="Vector" x="320.621066339314" y="140.65625000000182" width="13.842705726623535" height="14.856900215148926" />
+              <vector id="1:914" name="Vector" x="260.683566339314" y="372.1015625000018" width="15.701333999633789" height="10.515926361083984" />
+              <vector id="1:915" name="Vector" x="162.76169133931398" y="463.3359375000018" width="10.344482421875" height="6.60623025894165" />
+              <vector id="1:916" name="Vector" x="82.17575383931398" y="238.57812500000182" width="14.01479721069336" height="9.25195598602295" />
+            </frame>
+            <frame id="1:917" name="Group" x="105.57028508931398" y="116.96875000000182" width="932.1513061523438" height="299.9999084472656">
+              <vector id="1:918" name="Vector" x="1029.433566339314" y="334.9843750000018" width="8.28804874420166" height="11.010936737060547" />
+              <vector id="1:919" name="Vector" x="653.878878839314" y="395.7343750000018" width="18.442399978637695" height="21.234275817871094" />
+              <vector id="1:920" name="Vector" x="798.304660089314" y="159.72656250000182" width="19.218311309814453" height="22.356399536132812" />
+              <vector id="1:921" name="Vector" x="622.468722589314" y="116.96875000000182" width="21.496234893798828" height="20.3697509765625" />
+              <vector id="1:922" name="Vector" x="122.53903508931398" y="158.31250000000182" width="23.25787353515625" height="16.7813777923584" />
+              <vector id="1:923" name="Vector" x="105.57028508931398" y="119.00781250000182" width="11.111092567443848" height="13.81472110748291" />
+            </frame>
+            <frame id="1:924" name="Group" x="19.937472589313984" y="-14.335937499998181" width="656.0114135742188" height="300.7863464355469">
+              <frame id="1:925" name="Group" x="19.937472589313984" y="-14.335937499998181" width="656.0114135742188" height="104.98706817626953">
+                <frame id="1:926" name="Group" x="19.937472589313984" y="14.335937500001819" width="41.36619567871094" height="76.31519317626953" />
+                <frame id="1:932" name="Group" x="595.273410089314" y="-14.335937499998181" width="80.67549133300781" height="80.68646240234375" />
+              </frame>
+              <frame id="1:937" name="Group" x="163.98434758931398" y="183.70312500000182" width="75.05705261230469" height="102.74728393554688" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="1:943" name="Frame 2087326652" x="-1" y="80" width="1081" height="1090.430908203125">
+      <instance id="1:944" name="Header" x="60" y="0" width="961" height="123.43087768554688" />
+      <frame id="1:945" name="Frame 2087326650" x="60.5" y="203.43087768554688" width="960" height="887">
+        <frame id="1:946" name="Frame 2087326659" x="0" y="0" width="960" height="67">
+          <text id="1:947" name="УРААА!" x="0" y="0" width="960" height="67" />
+        </frame>
+        <frame id="1:948" name="Frame 6434" x="0" y="147" width="960" height="740">
+          <instance id="1:949" name="Component 33" x="404.5" y="48" width="151" height="151" />
+          <frame id="1:950" name="Frame 2087326671" x="48" y="279" width="864" height="67">
+            <text id="1:951" name="СПАСИБО ЗА ПОКУПКУ" x="0" y="0" width="864" height="67" />
+          </frame>
+          <frame id="1:952" name="Frame 2087326668" x="48" y="426" width="864" height="266">
+            <instance id="1:953" name="Component 17" x="0" y="0" width="864" height="122" />
+            <instance id="1:954" name="Component 25" x="0" y="146" width="864" height="120" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <instance id="1:955" name="Footer" x="-1" y="2059" width="1081" height="505" />
+  </frame>
+  <frame id="1:956" name="Сборники" x="3579" y="0" width="1080" height="3281">
+    <instance id="1:957" name="Header" x="59.5" y="80" width="960" height="123.43087768554688" />
+    <instance id="1:958" name="Footer" x="-1" y="2776" width="1081" height="505" />
+    <frame id="1:959" name="Frame 2087326820" x="57" y="290" width="966.5" height="2406">
+      <instance id="1:960" name="Frame 2087326820" x="0" y="0" width="966.5" height="180" />
+      <frame id="1:961" name="Frame 2087326815" x="0" y="260" width="966.5" height="728">
+        <text id="1:962" name="МОИ СБОРНИКИ" x="0" y="0" width="966.5" height="67" />
+        <frame id="1:963" name="Frame 2087326814" x="0" y="115" width="966.5" height="613">
+          <frame id="1:964" name="Frame 2087326801" x="0" y="0" width="966.5" height="465">
+            <instance id="1:965" name="Component 71" x="0" y="0" width="465" height="465" />
+            <instance id="1:966" name="Component 72" x="494" y="0" width="465" height="465" />
+          </frame>
+          <instance id="1:967" name="button M" x="0" y="505" width="966.5" height="108" />
+        </frame>
+      </frame>
+      <frame id="1:968" name="Frame 2087326819" x="0" y="1068" width="966.5" height="746">
+        <text id="1:969" name="КУПИТЬ СБОРНИКИ" x="0" y="0" width="966.5" height="67" />
+        <frame id="1:970" name="Frame 2087326817" x="0" y="115" width="966.5" height="613">
+          <frame id="1:971" name="Frame 2087326818" x="0" y="0" width="966.5" height="613">
+            <frame id="1:972" name="Frame 2087326816" x="0" y="0" width="966.5" height="465">
+              <instance id="1:973" name="Component 71" x="0" y="0" width="465" height="465" />
+              <instance id="1:974" name="Component 72" x="494" y="0" width="465" height="465" />
+            </frame>
+            <instance id="1:975" name="button M" x="0" y="505" width="966.5" height="108" />
+          </frame>
+        </frame>
+      </frame>
+      <instance id="1:976" name="Group 2087331646" x="6.7498779296875" y="1894" width="953.000244140625" height="312" />
+      <instance id="1:977" name="Component 17" x="2.25" y="2286" width="962" height="120" />
+    </frame>
+  </frame>
+  <frame id="1:978" name="Купить категорию" x="4779" y="5517" width="1080" height="2680">
+    <frame id="1:979" name="Group 2087326738" x="0" y="2199" width="1081" height="1028">
+      <rounded-rectangle id="1:980" name="Rectangle 154" x="0" y="2199" width="1081" height="1028" />
+      <frame id="1:981" name="Group 2087326616" x="60" y="2322" width="960.2421875" height="212.59375">
+        <frame id="1:982" name="Group 2087326625" x="615.2421875" y="2325.890625" width="405" height="208.703125">
+          <text id="1:983" name="Политика конфиденциальности" x="615.2421875" y="2471.1875" width="383" height="18" />
+          <text id="1:984" name="ИП Шаталов Дмитрий Андреевич ОГРН: 322861700029539 ИНН: 711404699134" x="615.2421855204814" y="2325.8907266152964" width="405" height="76" />
+          <text id="1:985" name="© 2025. Все права защищены" x="615.2421875" y="2516.59375" width="362" height="18" />
+        </frame>
+        <frame id="1:986" name="Group 2087326569" x="60" y="2322" width="409.94580078125" height="154.4605255126953">
+          <text id="1:987" name="И Г Р Ы" x="300.421875" y="2368.234375" width="154" height="61" />
+          <frame id="1:988" name="Group" x="68.78125" y="2368.296875" width="192.05526733398438" height="61.454994201660156" />
+          <vector id="1:994" name="Vector" x="60" y="2323.8515625" width="209.06297302246094" height="32.37458801269531" />
+          <vector id="1:995" name="Vector" x="60" y="2441.2734375" width="209.06297302246094" height="32.37458801269531" />
+          <vector id="1:996" name="Vector" x="175.421875" y="2444.0859375" width="183.53639221191406" height="32.37458801269531" />
+          <vector id="1:997" name="Vector" x="149.8984375" y="2322" width="209.06297302246094" height="32.37458801269531" />
+          <vector id="1:998" name="Vector" x="260.8828125" y="2326.4375" width="209.06297302246094" height="32.37458801269531" />
+          <vector id="1:999" name="Vector" x="260.8828125" y="2443.8671875" width="209.06297302246094" height="32.37458801269531" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="1:1000" name="Frame 2087326872" x="60" y="80" width="960" height="1641.5985107421875">
+      <instance id="1:1001" name="Header" x="0" y="0" width="960" height="123.43087768554688" />
+      <frame id="1:1002" name="Frame 2087326869" x="0" y="203.43087768554688" width="960" height="1438.1676025390625">
+        <text id="1:1003" name="ПОДТВЕРДИТЕ ВАШУ ПОКУПКУ" x="64" y="64" width="832" height="67" />
+        <instance id="1:1004" name="Frame 2087326868" x="243" y="211" width="474" height="474" />
+        <frame id="1:1005" name="Frame 2087326735" x="64" y="765" width="832" height="609.1676025390625">
+          <frame id="1:1006" name="Frame 2087326733" x="0" y="0" width="832" height="323.1675720214844">
+            <frame id="1:1007" name="Frame 6444" x="32" y="32" width="768" height="159.16757202148438">
+              <frame id="1:1008" name="Frame 6440" x="0" y="0" width="768" height="21">
+                <text id="1:1009" name="Cборник" x="0" y="0" width="229" height="21" />
+                <text id="1:1010" name="День рождения" x="547" y="0" width="221" height="21" />
+              </frame>
+              <vector id="1:1011" name="Vector 205" x="0" y="61" width="758" height="0.00006626646427321248" />
+              <frame id="1:1012" name="Frame 6443" x="0" y="101.00006103515625" width="768" height="58.16749954223633">
+                <text id="1:1013" name="Итого" x="0" y="18.583749771118164" width="384" height="21" />
+                <frame id="1:1014" name="Frame 2087326734" x="384" y="0" width="384" height="58.16749954223633">
+                  <rounded-rectangle id="1:1015" name="Adobe Express - file (10) 3" x="173.29791259765625" y="7.105427357601002e-15" width="55.33452897778079" height="58.167498908345806" />
+                  <text id="1:1016" name="100 монет" x="236" y="18.583749771118164" width="148" height="21" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:1017" name="Group 2087326747" x="32" y="231.16757202148438" width="365" height="60">
+              <frame id="1:1018" name="Group 2087326746" x="32" y="231.16757202148438" width="33" height="33">
+                <text id="1:1019" name="!" x="44" y="237.16757202148438" width="9" height="21" />
+                <ellipse id="1:1020" name="Ellipse 109" x="32" y="231.16757202148438" width="33" height="33" />
+              </frame>
+              <text id="1:1021" name="У вас не хватает монет (1 монета = 1 рубль)" x="75" y="237.16757202148438" width="322" height="54" />
+            </frame>
+          </frame>
+          <instance id="1:1022" name="Component 46" x="0" y="371.1675720214844" width="832" height="136" />
+          <text id="1:1023" name="После пополнения баланса списание монет произведётся автоматически" x="105" y="555.1676025390625" width="622" height="54" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="1:1024" name="Подтвердить" x="5899" y="5517" width="1080" height="2680">
+    <frame id="1:1025" name="Group 2087326738" x="0" y="2199" width="1081" height="1028">
+      <rounded-rectangle id="1:1026" name="Rectangle 154" x="0" y="2199" width="1081" height="1028" />
+      <frame id="1:1027" name="Group 2087326616" x="60" y="2322" width="960.2421875" height="212.59375">
+        <frame id="1:1028" name="Group 2087326625" x="615.2421875" y="2325.890625" width="405" height="208.703125">
+          <text id="1:1029" name="Политика конфиденциальности" x="615.2421875" y="2471.1875" width="383" height="18" />
+          <text id="1:1030" name="ИП Шаталов Дмитрий Андреевич ОГРН: 322861700029539 ИНН: 711404699134" x="615.2421855204814" y="2325.8907266152964" width="405" height="76" />
+          <text id="1:1031" name="© 2025. Все права защищены" x="615.2421875" y="2516.59375" width="362" height="18" />
+        </frame>
+        <frame id="1:1032" name="Group 2087326569" x="60" y="2322" width="409.94580078125" height="154.4605255126953">
+          <text id="1:1033" name="И Г Р Ы" x="300.421875" y="2368.234375" width="154" height="61" />
+          <frame id="1:1034" name="Group" x="68.78125" y="2368.296875" width="192.05526733398438" height="61.454994201660156" />
+          <vector id="1:1040" name="Vector" x="60" y="2323.8515625" width="209.06297302246094" height="32.37458801269531" />
+          <vector id="1:1041" name="Vector" x="60" y="2441.2734375" width="209.06297302246094" height="32.37458801269531" />
+          <vector id="1:1042" name="Vector" x="175.421875" y="2444.0859375" width="183.53639221191406" height="32.37458801269531" />
+          <vector id="1:1043" name="Vector" x="149.8984375" y="2322" width="209.06297302246094" height="32.37458801269531" />
+          <vector id="1:1044" name="Vector" x="260.8828125" y="2326.4375" width="209.06297302246094" height="32.37458801269531" />
+          <vector id="1:1045" name="Vector" x="260.8828125" y="2443.8671875" width="209.06297302246094" height="32.37458801269531" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="1:1046" name="Frame 2087326871" x="60" y="80" width="960" height="1443.867919921875">
+      <instance id="1:1047" name="Header" x="0" y="0" width="960" height="123.43087768554688" />
+      <frame id="1:1048" name="Frame 2087326869" x="0" y="203.43087768554688" width="960" height="1240.43701171875">
+        <frame id="1:1049" name="Frame 2087326870" x="64" y="64" width="832" height="1112.43701171875">
+          <text id="1:1050" name="ПОДТВЕРДИТЕ ВАШУ ПОКУПКУ" x="61" y="0" width="710" height="67" />
+          <instance id="1:1051" name="Frame 2087326868" x="179" y="147" width="474" height="474" />
+          <frame id="1:1052" name="Frame 2087326735" x="64" y="701" width="704" height="411.43707275390625">
+            <frame id="1:1053" name="Frame 2087326733" x="0" y="0" width="704" height="125.00006103515625">
+              <frame id="1:1054" name="Frame 6444" x="32" y="32" width="640" height="61.000064849853516">
+                <frame id="1:1055" name="Frame 6440" x="0" y="0" width="640" height="21">
+                  <text id="1:1056" name="Cборник" x="0" y="0" width="229" height="21" />
+                  <text id="1:1057" name="День рождения" x="419" y="0" width="221" height="21" />
+                </frame>
+                <vector id="1:1058" name="Vector 205" x="0" y="61" width="758" height="0.00006626646427321248" />
+              </frame>
+            </frame>
+            <instance id="1:1059" name="Component 46" x="0" y="173.00006103515625" width="704" height="136.43701171875" />
+            <text id="1:1060" name="После покупки категория будет разблокирована навсегда" x="41" y="357.43707275390625" width="622" height="54" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="1:1061" name="День рождения" x="4779" y="0" width="1080" height="4604">
+    <frame id="1:1062" name="Frame 2087326792" x="60" y="107" width="960" height="3911.775390625">
+      <instance id="1:1063" name="Header" x="0" y="0" width="960" height="123.43087768554688" />
+      <text id="1:1064" name="СБОРНИК: ДЕНЬ РОЖДЕНИЯ" x="161" y="203.43087768554688" width="638" height="67" />
+      <frame id="1:1065" name="Frame 2087326873" x="0.999847412109375" y="350.4308776855469" width="958.0003051757812" height="230.0003204345703">
+        <rounded-rectangle id="1:1066" name="Rectangle 184" x="0" y="0" width="958" height="230" />
+        <frame id="1:1067" name="Frame 2087325349" x="43" y="48" width="549" height="147">
+          <instance id="1:1068" name="Component 69/Component 70/Component 69/edited-photo (4) 1/Property 23" x="0" y="0" width="149" height="147" />
+          <frame id="1:1069" name="Frame 2087325330" x="169" y="12.131855010986328" width="380" height="122.73628997802734">
+            <text id="1:1070" name="ТИП ИГРЫ: СОЛО" x="0" y="0" width="302" height="50" />
+            <text id="1:1071" name="игрок выполняет задание самостоятельно" x="0" y="70.73629760742188" width="450" height="52" />
+          </frame>
+        </frame>
+        <instance id="1:1072" name="Frame 2087326801" x="728" y="0" width="230.0003204345703" height="230.0003204345703" />
+      </frame>
+      <frame id="1:1073" name="Frame 2087326876" x="0" y="660.43115234375" width="960" height="1634">
+        <frame id="1:1074" name="Frame 2087326874" x="0" y="0" width="961" height="1466">
+          <frame id="1:1075" name="Mask group" x="0" y="0" width="960" height="960">
+            <rounded-rectangle id="1:1076" name="Rectangle 260" x="0" y="0" width="960" height="960" />
+            <frame id="1:1077" name="Group 2087331474" x="-334" y="-394.6875" width="1556.4599609375" height="2196.810791015625">
+              <rounded-rectangle id="1:1078" name="cb832fa3a20abcc45665f34e937d72b3_2890067d-dc32-4d58-af9c-0849be36cada 1" x="-334" y="-394.6875" width="1556.4599609375" height="2196.810791015625" />
+              <frame id="1:1079" name="Group 2087331427" x="-81.34375" y="467.577880859375" width="1107.739990234375" height="586.3941040039062">
+                <vector id="1:1080" name="Ellipse 931" x="-81.34378782469867" y="467.5778901024023" width="1107.739990234375" height="547.1318969726562" />
+                <vector id="1:1081" name="Ellipse 932" x="-53.4921875" y="506.3359375" width="1051.3096923828125" height="547.6360473632812" />
+                <vector id="1:1082" name="Ellipse 933" x="-81.34375" y="468.4765625" width="1107.739990234375" height="547.1318969726562" />
+                <vector id="1:1083" name="Ellipse 934" x="-53.4921875" y="505.5234375" width="1051.3096923828125" height="547.6360473632812" />
+              </frame>
+              <rounded-rectangle id="1:1084" name="cb832fa3a20abcc45665f34e937d72b3_2890067d-dc32-4d58-af9c-0849be36cada 2" x="175.8671875" y="300.2578125" width="800.438720703125" height="998.46630859375" />
+              <frame id="1:1085" name="Group 2087331422" x="48.002899169921875" y="92.46795654296875" width="868.512063473343" height="330.6339926022615">
+                <vector id="1:1086" name="Хиты Караоке" x="57.32029982749117" y="91.71874868682272" width="841.713181777799" height="259.96660301878865" />
+                <vector id="1:1087" name="Хиты Караоке" x="65.48436344518001" y="91.85937356061322" width="841.7132134653766" height="259.96654830921693" />
+              </frame>
+            </frame>
+            <rounded-rectangle id="1:1088" name="image 12" x="0" y="0" width="960" height="960" />
+          </frame>
+          <frame id="1:1089" name="Group 2087331558" x="0" y="748" width="961" height="718">
+            <frame id="1:1090" name="Group 2087331491" x="0" y="748" width="961" height="718">
+              <rounded-rectangle id="1:1091" name="Rectangle 42148" x="0" y="748" width="961" height="299" />
+              <rounded-rectangle id="1:1092" name="Rectangle 42149" x="0" y="1047" width="961" height="419" />
+              <frame id="1:1093" name="Frame 6528" x="55.078125" y="806" width="862.7955932617188" height="50">
+                <text id="1:1094" name="ПРАВИЛА ИГРЫ" x="0" y="0" width="862.7955932617188" height="50" />
+              </frame>
+              <frame id="1:1095" name="Frame 6529" x="55.078125" y="1103" width="862.7955932617188" height="324.79132080078125">
+                <text id="1:1096" name="ВАМ ПОНАДОБЯТСЯ" x="0" y="0" width="862.7955932617188" height="50" />
+                <frame id="1:1097" name="Frame 2087326863" x="0" y="100" width="414.98431396484375" height="224.7913360595703">
+                  <instance id="1:1098" name="Component 67" x="0" y="0" width="198.66012573242188" height="224.7913360595703" />
+                  <instance id="1:1099" name="Component 67" x="218.66012573242188" y="0" width="196.32418823242188" height="224.7913360595703" />
+                </frame>
+              </frame>
+            </frame>
+            <text id="1:1100" name="Поставьте в ряд 5 стаканчиков с шариками внутри. У вас 1 минута, чтобы выдуть все 5 шариков из стаканчиков. Стаканчики можно придерживать руками, чтобы он не опрокидывались." x="55" y="884" width="883" height="120" />
+          </frame>
+          <instance id="1:1101" name="Frame 6461" x="762" y="559" width="156" height="156" />
+          <vector id="1:1102" name="Vector 222" x="50" y="1047" width="871" height="0.0000757091365812812" />
+        </frame>
+        <frame id="1:1103" name="Frame 2087326875" x="0" y="1514" width="960" height="120">
+          <instance id="1:1104" name="Component 37" x="0" y="0" width="468" height="120" />
+          <instance id="1:1105" name="Component 38" x="492" y="0" width="468" height="120" />
+        </frame>
+      </frame>
+      <frame id="1:1106" name="Frame 2087326793" x="0" y="2374.43115234375" width="960" height="691.000244140625">
+        <text id="1:1107" name="Управление игрой" x="0" y="0" width="960" height="67" />
+        <instance id="1:1108" name="Component 69/Component 54" x="0" y="115" width="960" height="576.000244140625" />
+      </frame>
+      <instance id="1:1109" name="Frame 2087326866" x="0" y="3145.431396484375" width="960" height="766.3438720703125" />
+    </frame>
+    <instance id="1:1110" name="Footer" x="-1" y="4099" width="1081" height="505" />
+  </frame>
+  <frame id="1:1111" name="Список заданий" x="5939" y="0" width="1080" height="4212">
+    <instance id="1:1112" name="Header" x="59" y="107" width="960" height="123.43087768554688" />
+    <text id="1:1113" name="СБОРНИК: ДЕНЬ РОЖДЕНИЯ" x="221" y="341" width="638" height="67" />
+    <vector id="1:1114" name="Vector 289" x="408.359375" y="779.2890625" width="53.53651428222656" height="28.07423973083496" />
+    <vector id="1:1115" name="Vector 290" x="476.86328125" y="1114.6015625" width="20.759174346923828" height="14.53139877319336" />
+    <frame id="1:1116" name="Frame 2087326878" x="59" y="487" width="960" height="3102.546875">
+      <instance id="1:1117" name="Frame 2087326880" x="0" y="0" width="960" height="974.7734375" />
+      <instance id="1:1118" name="Frame 2087326881" x="0" y="1054.7734375" width="960" height="1007.7734375" />
+      <instance id="1:1119" name="Frame 2087326882" x="0" y="2142.546875" width="960" height="960" />
+    </frame>
+    <instance id="1:1120" name="Footer" x="-1" y="3707" width="1081" height="505" />
+  </frame>
+  <frame id="1:1121" name="Покупка реквизита" x="7195" y="0" width="1080" height="2074">
+    <frame id="1:1122" name="Group 2087331585" x="59" y="341" width="962" height="3498">
+      <text id="1:1123" name="СБОРНИК: ДЕНЬ РОЖДЕНИЯ" x="221" y="341" width="638" height="67" />
+      <frame id="1:1124" name="Group 2087331570" x="59" y="540" width="960.0003051757812" height="230.0003204345703">
+        <rounded-rectangle id="1:1125" name="Rectangle 184" x="59" y="540" width="958" height="230" />
+        <rounded-rectangle id="1:1126" name="Rectangle 186" x="789" y="540" width="230.0003204345703" height="230.0003204345703" />
+        <text id="1:1127" name="балла за победу" x="808" y="674" width="191" height="43" />
+        <text id="1:1128" name="+3" x="864" y="595" width="76" height="50" />
+        <frame id="1:1129" name="Frame 2087325349" x="102" y="588" width="534" height="134">
+          <frame id="1:1130" name="Frame 2087325348" x="0" y="0" width="134" height="134">
+            <rounded-rectangle id="1:1131" name="edited-photo (4) 1" x="10" y="-7" width="113" height="155" />
+          </frame>
+          <frame id="1:1132" name="Frame 2087325330" x="154" y="5.631855010986328" width="380" height="122.73628997802734">
+            <text id="1:1133" name="ТИП ИГРЫ: СОЛО" x="0" y="0" width="302" height="50" />
+            <text id="1:1134" name="игрок выполняет задание самостоятельно" x="0" y="70.73628997802734" width="450" height="52" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="1:1135" name="Mask group" x="59" y="850" width="960" height="960">
+        <rounded-rectangle id="1:1136" name="Rectangle 260" x="59" y="850" width="960" height="960" />
+        <frame id="1:1137" name="Group 2087331474" x="-275" y="455.3125" width="1556.4599609375" height="2196.810791015625">
+          <rounded-rectangle id="1:1138" name="cb832fa3a20abcc45665f34e937d72b3_2890067d-dc32-4d58-af9c-0849be36cada 1" x="-275" y="455.3125" width="1556.4599609375" height="2196.810791015625" />
+          <frame id="1:1139" name="Group 2087331427" x="-22.33984375" y="1317.577880859375" width="1107.739990234375" height="586.3941040039062">
+            <vector id="1:1140" name="Ellipse 931" x="-22.339881574698666" y="1317.5778901024023" width="1107.739990234375" height="547.1318969726562" />
+            <vector id="1:1141" name="Ellipse 932" x="5.51171875" y="1356.3359375" width="1051.3096923828125" height="547.6360473632812" />
+            <vector id="1:1142" name="Ellipse 933" x="-22.33984375" y="1318.4765625" width="1107.739990234375" height="547.1318969726562" />
+            <vector id="1:1143" name="Ellipse 934" x="5.5078125" y="1355.5234375" width="1051.3096923828125" height="547.6360473632812" />
+          </frame>
+          <rounded-rectangle id="1:1144" name="cb832fa3a20abcc45665f34e937d72b3_2890067d-dc32-4d58-af9c-0849be36cada 2" x="234.8671875" y="1150.265625" width="800.438720703125" height="998.46630859375" />
+          <frame id="1:1145" name="Group 2087331422" x="106.99899291992188" y="942.4679565429688" width="868.512063473343" height="330.6339926022615">
+            <vector id="1:1146" name="Хиты Караоке" x="116.31639357749117" y="941.7187486868227" width="841.713181777799" height="259.96660301878865" />
+            <vector id="1:1147" name="Хиты Караоке" x="124.48045719518001" y="941.8593735606132" width="841.7132109173999" height="259.96654830921693" />
+          </frame>
+        </frame>
+        <rounded-rectangle id="1:1148" name="image 12" x="59" y="850" width="960" height="960" />
+      </frame>
+      <frame id="1:1149" name="Group 2087331558" x="59" y="1598" width="961" height="718">
+        <frame id="1:1150" name="Group 2087331491" x="59" y="1598" width="961" height="718">
+          <rounded-rectangle id="1:1151" name="Rectangle 42148" x="59" y="1598" width="961" height="299" />
+          <rounded-rectangle id="1:1152" name="Rectangle 42149" x="59" y="1897" width="961" height="419" />
+          <frame id="1:1153" name="Frame 6528" x="114.078125" y="1656" width="862.7955932617188" height="50">
+            <text id="1:1154" name="ПРАВИЛА ИГРЫ" x="0" y="0" width="862.7955932617188" height="50" />
+          </frame>
+          <frame id="1:1155" name="Frame 6529" x="114.078125" y="1953" width="862.7955932617188" height="50">
+            <text id="1:1156" name="ВАМ ПОНАДОБЯТСЯ" x="0" y="0" width="862.7955932617188" height="50" />
+          </frame>
+        </frame>
+        <text id="1:1157" name="Поставьте в ряд 5 стаканчиков с шариками внутри. У вас 1 минута, чтобы выдуть все 5 шариков из стаканчиков. Стаканчики можно придерживать руками, чтобы он не опрокидывались." x="114" y="1734" width="883" height="120" />
+      </frame>
+      <frame id="1:1158" name="Frame 2087325299" x="59" y="2355" width="961" height="158">
+        <frame id="1:1159" name="Frame 6466" x="0" y="0" width="395" height="158">
+          <text id="1:1160" name="ПРЕДЫДУЩЕЕ" x="55" y="50" width="285" height="58" />
+        </frame>
+        <frame id="1:1161" name="Frame 6465" x="411" y="0" width="549" height="158">
+          <text id="1:1162" name="НОВОЕ ЗАДАНИЕ" x="111" y="50" width="327" height="58" />
+        </frame>
+      </frame>
+      <frame id="1:1163" name="Frame 6464" x="59" y="2600" width="961" height="540">
+        <text id="1:1164" name="Управление игрой" x="0" y="0" width="961" height="39" />
+        <frame id="1:1165" name="Group 2087326756" x="0" y="69" width="960" height="471">
+          <rounded-rectangle id="1:1166" name="Rectangle 265" x="0" y="69" width="472" height="229" />
+          <rounded-rectangle id="1:1167" name="Rectangle 267" x="0" y="311" width="472" height="229" />
+          <rounded-rectangle id="1:1168" name="Rectangle 266" x="488" y="69" width="472" height="229" />
+          <rounded-rectangle id="1:1169" name="Rectangle 268" x="488" y="311" width="472" height="229" />
+          <frame id="1:1170" name="Frame 6453" x="32" y="212" width="305" height="54">
+            <text id="1:1171" name="Купить другой сборник" x="0" y="0" width="406" height="21" />
+            <text id="1:1172" name="1 сборник = 100 монет" x="0" y="36" width="305" height="18" />
+          </frame>
+          <frame id="1:1173" name="Frame 6455" x="32" y="452" width="305" height="54">
+            <text id="1:1174" name="Объявить победителя" x="0" y="0" width="305" height="21" />
+            <text id="1:1175" name="и завершить игру" x="0" y="36" width="305" height="18" />
+          </frame>
+          <frame id="1:1176" name="Frame 6456" x="528" y="452" width="305" height="54">
+            <text id="1:1177" name="Начать заново" x="0" y="0" width="305" height="21" />
+            <text id="1:1178" name="сыграть в сборник сначала" x="0" y="36" width="376" height="18" />
+          </frame>
+          <frame id="1:1179" name="Frame 6454" x="528" y="212" width="391" height="54">
+            <text id="1:1180" name="Список заданий" x="0" y="0" width="391" height="21" />
+            <text id="1:1181" name="сыграйте в игру ещё раз" x="0" y="36" width="391" height="18" />
+          </frame>
+          <frame id="1:1182" name="Frame 6452" x="32" y="101" width="79" height="79" />
+          <frame id="1:1184" name="Frame 6460" x="528" y="101" width="106" height="79">
+            <text id="1:1185" name="60" x="0" y="19" width="106" height="60" />
+          </frame>
+          <frame id="1:1186" name="Frame 6458" x="32" y="347" width="79" height="79" />
+          <frame id="1:1201" name="Frame 6459" x="528" y="347" width="79" height="79" />
+        </frame>
+      </frame>
+      <frame id="1:1203" name="Frame 6463" x="60" y="3199" width="961" height="640">
+        <text id="1:1204" name="Советы" x="0" y="0" width="961" height="39" />
+        <frame id="1:1205" name="Group 2087326736" x="0" y="69" width="960" height="571">
+          <rounded-rectangle id="1:1206" name="Rectangle 205" x="0" y="69" width="960" height="175" />
+          <rounded-rectangle id="1:1207" name="Rectangle 207" x="0" y="465" width="960" height="175" />
+          <rounded-rectangle id="1:1208" name="Rectangle 206" x="0" y="267" width="960" height="175" />
+          <frame id="1:1209" name="Frame 6382" x="36" y="122" width="877" height="70">
+            <frame id="1:1210" name="Frame 6381" x="0" y="0" width="70" height="70" />
+            <text id="1:1221" name="Заранее подготовьте реквизит — стаканчики, мячик, бумагу и ручку — чтобы не прерывать игру" x="100" y="8" width="777" height="54" />
+          </frame>
+          <frame id="1:1222" name="Frame 6384" x="36" y="517" width="877" height="87">
+            <frame id="1:1223" name="Frame 6381" x="0" y="8.5" width="70" height="70" />
+            <text id="1:1227" name="Перед каждой игрой посмотрите короткое видео или фото с описанием — так объяснять правила не придётся" x="100" y="0" width="777" height="87" />
+          </frame>
+          <frame id="1:1228" name="Frame 6383" x="36" y="320" width="877" height="70">
+            <frame id="1:1229" name="Frame 6381" x="0" y="0" width="70" height="70" />
+            <text id="1:1231" name="Назначьте одного человека считать очки — так никто не запутается в баллах" x="100" y="8" width="654" height="54" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="1:1232" name="Frame 6461" x="821" y="1409" width="156" height="156" />
+      <frame id="1:1235" name="Group 2087331536" x="114" y="2052" width="407.5741882324219" height="224.828125">
+        <rounded-rectangle id="1:1236" name="Rectangle 42157" x="114" y="2058.59375" width="192.1975860595703" height="192.1975860595703" />
+        <rounded-rectangle id="1:1237" name="Rectangle 42158" x="325.24609375" y="2058.59375" width="192.1975860595703" height="192.1975860595703" />
+        <ellipse id="1:1238" name="Ellipse 936" x="291.0859375" y="2052" width="21.574193954467773" height="21.574193954467773" />
+        <text id="1:1239" name="Стаканчики" x="166" y="2265.828125" width="88" height="11" />
+        <text id="1:1240" name="Теннисные мячики" x="350" y="2265.828125" width="142" height="11" />
+        <frame id="1:1241" name="Mask group" x="114" y="2058.59375" width="192.1975860595703" height="192.1975860595703">
+          <rounded-rectangle id="1:1242" name="Rectangle 42161" x="114" y="2058.59375" width="192.1975860595703" height="192.1975860595703" />
+          <rounded-rectangle id="1:1243" name="ea91912e-2145-4ad2-8643-888b8d482187@1x_1-1 1" x="112" y="2056" width="201" height="201" />
+        </frame>
+        <frame id="1:1244" name="Mask group" x="366" y="2100" width="109" height="109">
+          <ellipse id="1:1245" name="Ellipse 941" x="366" y="2100" width="109" height="109" />
+          <rounded-rectangle id="1:1246" name="7c2c1fbe-9ce3-46a9-b29c-e1f1bd48c7a2@1x_1-1 1" x="78.63671875" y="1742.375" width="549.504150390625" height="549.504150390625" />
+        </frame>
+        <ellipse id="1:1247" name="Ellipse 937" x="500" y="2052" width="21.574193954467773" height="21.574193954467773" />
+      </frame>
+      <vector id="1:1248" name="Vector 222" x="109" y="1897" width="871" height="0.0000757091365812812" />
+    </frame>
+    <frame id="1:1249" name="Frame 2087326895" x="60" y="107" width="960" height="1345.86279296875">
+      <instance id="1:1250" name="Header" x="0" y="0" width="960" height="123.43087768554688" />
+      <frame id="1:1251" name="Frame 2087326894" x="0" y="168.43087768554688" width="960" height="1177.431884765625">
+        <frame id="1:1252" name="Frame 2087326893" x="48" y="64" width="864" height="64">
+          <text id="1:1253" name="Приобрести реквизит для сборника" x="0" y="7" width="702" height="50" />
+          <frame id="1:1254" name="Group 2087326744" x="800" y="0" width="64" height="64" />
+        </frame>
+        <frame id="1:1259" name="Frame 2087326888" x="48" y="186" width="864" height="927.431884765625">
+          <instance id="1:1260" name="Frame 2087326886" x="0" y="0" width="864" height="196" />
+          <instance id="1:1261" name="Frame 2087326887" x="0" y="220" width="864" height="196" />
+          <frame id="1:1262" name="Frame 2087326890" x="0" y="440" width="864" height="372.33154296875">
+            <frame id="1:1263" name="Frame 2087326892" x="26" y="26" width="461" height="81">
+              <frame id="1:1264" name="Frame 2087326891" x="0" y="0" width="81" height="81">
+                <text id="1:1265" name="WB" x="14" y="30" width="53" height="22" />
+              </frame>
+              <frame id="1:1266" name="Frame 2087325370" x="105" y="13.5" width="356" height="54">
+                <text id="1:1267" name="Вся корзина реквизита" x="0" y="0" width="356" height="22" />
+                <text id="1:1268" name="Готовая подборка на Wildberries" x="0" y="37" width="356" height="17" />
+              </frame>
+            </frame>
+            <frame id="1:1269" name="Frame 2087326889" x="26" y="134" width="357" height="56.84520721435547">
+              <frame id="1:1270" name="Group 2087326635" x="0" y="0" width="200" height="56.84520721435547">
+                <frame id="1:1271" name="Frame 6325" x="-0.00001941279879247304" y="-0.0001456371246604249" width="200" height="56.84520721435547">
+                  <text id="1:1272" name="Стаканчики" x="25" y="18.422603607177734" width="150" height="20" />
+                </frame>
+              </frame>
+              <frame id="1:1273" name="Group 2087331586" x="208" y="0" width="149" height="56.84520721435547">
+                <frame id="1:1274" name="Frame 6325" x="207.9999805872012" y="-0.0001456371246604249" width="149" height="56.84520721435547">
+                  <text id="1:1275" name="Мячики" x="25" y="18.422603607177734" width="99" height="20" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:1276" name="Group 2087331587" x="26" y="217.84521484375" width="342" height="25.486328125">
+              <frame id="1:1277" name="Group 2087331537" x="26" y="217.84521484375" width="25.486328125" height="25.486328125">
+                <ellipse id="1:1278" name="Ellipse 942" x="26" y="217.84521484375" width="25.486328125" height="25.486328125" />
+                <text id="1:1279" name="!" x="36.220703125" y="225.24365234375" width="5" height="11" />
+              </frame>
+              <text id="1:1280" name="Вы перейдёте на сайт Wildberries" x="62" y="224.84521484375" width="306" height="14" />
+            </frame>
+            <instance id="1:1281" name="button - S" x="26" y="270.33154296875" width="812" height="76" />
+          </frame>
+          <frame id="1:1282" name="Frame 2087326826" x="75.98626708984375" y="836.33154296875" width="712.0274658203125" height="91.1003646850586">
+            <frame id="1:1283" name="Group" x="24" y="24" width="51.02748489379883" height="43.100364685058594" />
+            <text id="1:1286" name="Кстати, мы ничего не зарабатываем на этих товарах — просто делимся с вами тем, что может пригодиться" x="94.02748107910156" y="24.050182342529297" width="594" height="43" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <instance id="1:1287" name="Footer" x="-1" y="1569" width="1081" height="505" />
+  </frame>
+  <frame id="1:1288" name="Поп ап вопрос" x="8320" y="0" width="1080" height="2074">
+    <frame id="1:1289" name="Group 2087331585" x="59" y="341" width="962" height="3498">
+      <text id="1:1290" name="СБОРНИК: ДЕНЬ РОЖДЕНИЯ" x="221" y="341" width="638" height="67" />
+      <frame id="1:1291" name="Group 2087331570" x="59" y="540" width="960.0003051757812" height="230.0003204345703">
+        <rounded-rectangle id="1:1292" name="Rectangle 184" x="59" y="540" width="958" height="230" />
+        <rounded-rectangle id="1:1293" name="Rectangle 186" x="789" y="540" width="230.0003204345703" height="230.0003204345703" />
+        <text id="1:1294" name="балла за победу" x="808" y="674" width="191" height="43" />
+        <text id="1:1295" name="+3" x="864" y="595" width="76" height="50" />
+        <frame id="1:1296" name="Frame 2087325349" x="102" y="588" width="534" height="134">
+          <frame id="1:1297" name="Frame 2087325348" x="0" y="0" width="134" height="134">
+            <rounded-rectangle id="1:1298" name="edited-photo (4) 1" x="10" y="-7" width="113" height="155" />
+          </frame>
+          <frame id="1:1299" name="Frame 2087325330" x="154" y="5.631855010986328" width="380" height="122.73628997802734">
+            <text id="1:1300" name="ТИП ИГРЫ: СОЛО" x="0" y="0" width="302" height="50" />
+            <text id="1:1301" name="игрок выполняет задание самостоятельно" x="0" y="70.73628997802734" width="450" height="52" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="1:1302" name="Mask group" x="59" y="850" width="960" height="960">
+        <rounded-rectangle id="1:1303" name="Rectangle 260" x="59" y="850" width="960" height="960" />
+        <frame id="1:1304" name="Group 2087331474" x="-275" y="455.3125" width="1556.4599609375" height="2196.810791015625">
+          <rounded-rectangle id="1:1305" name="cb832fa3a20abcc45665f34e937d72b3_2890067d-dc32-4d58-af9c-0849be36cada 1" x="-275" y="455.3125" width="1556.4599609375" height="2196.810791015625" />
+          <frame id="1:1306" name="Group 2087331427" x="-22.33984375" y="1317.577880859375" width="1107.739990234375" height="586.3941040039062">
+            <vector id="1:1307" name="Ellipse 931" x="-22.339881574698666" y="1317.5778901024023" width="1107.739990234375" height="547.1318969726562" />
+            <vector id="1:1308" name="Ellipse 932" x="5.51171875" y="1356.3359375" width="1051.3096923828125" height="547.6360473632812" />
+            <vector id="1:1309" name="Ellipse 933" x="-22.33984375" y="1318.4765625" width="1107.739990234375" height="547.1318969726562" />
+            <vector id="1:1310" name="Ellipse 934" x="5.5078125" y="1355.5234375" width="1051.3096923828125" height="547.6360473632812" />
+          </frame>
+          <rounded-rectangle id="1:1311" name="cb832fa3a20abcc45665f34e937d72b3_2890067d-dc32-4d58-af9c-0849be36cada 2" x="234.8671875" y="1150.265625" width="800.438720703125" height="998.46630859375" />
+          <frame id="1:1312" name="Group 2087331422" x="106.99899291992188" y="942.4601440429688" width="868.5120737148809" height="330.6417010372529">
+            <vector id="1:1313" name="Хиты Караоке" x="116.31639357749117" y="941.7109361868227" width="841.713181777799" height="259.96660301878865" />
+            <vector id="1:1314" name="Хиты Караоке" x="124.48045646062928" y="941.8593736600907" width="841.7132109173999" height="259.96654830921693" />
+          </frame>
+        </frame>
+        <rounded-rectangle id="1:1315" name="image 12" x="59" y="850" width="960" height="960" />
+      </frame>
+      <frame id="1:1316" name="Group 2087331558" x="59" y="1598" width="961" height="718">
+        <frame id="1:1317" name="Group 2087331491" x="59" y="1598" width="961" height="718">
+          <rounded-rectangle id="1:1318" name="Rectangle 42148" x="59" y="1598" width="961" height="299" />
+          <rounded-rectangle id="1:1319" name="Rectangle 42149" x="59" y="1897" width="961" height="419" />
+          <frame id="1:1320" name="Frame 6528" x="114.078125" y="1656" width="862.7955932617188" height="50">
+            <text id="1:1321" name="ПРАВИЛА ИГРЫ" x="0" y="0" width="862.7955932617188" height="50" />
+          </frame>
+          <frame id="1:1322" name="Frame 6529" x="114.078125" y="1953" width="862.7955932617188" height="50">
+            <text id="1:1323" name="ВАМ ПОНАДОБЯТСЯ" x="0" y="0" width="862.7955932617188" height="50" />
+          </frame>
+        </frame>
+        <text id="1:1324" name="Поставьте в ряд 5 стаканчиков с шариками внутри. У вас 1 минута, чтобы выдуть все 5 шариков из стаканчиков. Стаканчики можно придерживать руками, чтобы он не опрокидывались." x="114" y="1734" width="883" height="120" />
+      </frame>
+      <frame id="1:1325" name="Frame 2087325299" x="59" y="2355" width="961" height="158">
+        <frame id="1:1326" name="Frame 6466" x="0" y="0" width="395" height="158">
+          <text id="1:1327" name="ПРЕДЫДУЩЕЕ" x="55" y="50" width="285" height="58" />
+        </frame>
+        <frame id="1:1328" name="Frame 6465" x="411" y="0" width="549" height="158">
+          <text id="1:1329" name="НОВОЕ ЗАДАНИЕ" x="111" y="50" width="327" height="58" />
+        </frame>
+      </frame>
+      <frame id="1:1330" name="Frame 6464" x="59" y="2600" width="961" height="540">
+        <text id="1:1331" name="Управление игрой" x="0" y="0" width="961" height="39" />
+        <frame id="1:1332" name="Group 2087326756" x="0" y="69" width="960" height="471">
+          <rounded-rectangle id="1:1333" name="Rectangle 265" x="0" y="69" width="472" height="229" />
+          <rounded-rectangle id="1:1334" name="Rectangle 267" x="0" y="311" width="472" height="229" />
+          <rounded-rectangle id="1:1335" name="Rectangle 266" x="488" y="69" width="472" height="229" />
+          <rounded-rectangle id="1:1336" name="Rectangle 268" x="488" y="311" width="472" height="229" />
+          <frame id="1:1337" name="Frame 6453" x="32" y="212" width="305" height="54">
+            <text id="1:1338" name="Купить другой сборник" x="0" y="0" width="406" height="21" />
+            <text id="1:1339" name="1 сборник = 100 монет" x="0" y="36" width="305" height="18" />
+          </frame>
+          <frame id="1:1340" name="Frame 6455" x="32" y="452" width="305" height="54">
+            <text id="1:1341" name="Объявить победителя" x="0" y="0" width="305" height="21" />
+            <text id="1:1342" name="и завершить игру" x="0" y="36" width="305" height="18" />
+          </frame>
+          <frame id="1:1343" name="Frame 6456" x="528" y="452" width="305" height="54">
+            <text id="1:1344" name="Начать заново" x="0" y="0" width="305" height="21" />
+            <text id="1:1345" name="сыграть в сборник сначала" x="0" y="36" width="376" height="18" />
+          </frame>
+          <frame id="1:1346" name="Frame 6454" x="528" y="212" width="391" height="54">
+            <text id="1:1347" name="Список заданий" x="0" y="0" width="391" height="21" />
+            <text id="1:1348" name="сыграйте в игру ещё раз" x="0" y="36" width="391" height="18" />
+          </frame>
+          <frame id="1:1349" name="Frame 6452" x="32" y="101" width="79" height="79" />
+          <frame id="1:1351" name="Frame 6460" x="528" y="101" width="106" height="79">
+            <text id="1:1352" name="60" x="0" y="19" width="106" height="60" />
+          </frame>
+          <frame id="1:1353" name="Frame 6458" x="32" y="347" width="79" height="79" />
+          <frame id="1:1368" name="Frame 6459" x="528" y="347" width="79" height="79" />
+        </frame>
+      </frame>
+      <frame id="1:1370" name="Frame 6463" x="60" y="3199" width="961" height="640">
+        <text id="1:1371" name="Советы" x="0" y="0" width="961" height="39" />
+        <frame id="1:1372" name="Group 2087326736" x="0" y="69" width="960" height="571">
+          <rounded-rectangle id="1:1373" name="Rectangle 205" x="0" y="69" width="960" height="175" />
+          <rounded-rectangle id="1:1374" name="Rectangle 207" x="0" y="465" width="960" height="175" />
+          <rounded-rectangle id="1:1375" name="Rectangle 206" x="0" y="267" width="960" height="175" />
+          <frame id="1:1376" name="Frame 6382" x="36" y="122" width="877" height="70">
+            <frame id="1:1377" name="Frame 6381" x="0" y="0" width="70" height="70" />
+            <text id="1:1388" name="Заранее подготовьте реквизит — стаканчики, мячик, бумагу и ручку — чтобы не прерывать игру" x="100" y="8" width="777" height="54" />
+          </frame>
+          <frame id="1:1389" name="Frame 6384" x="36" y="517" width="877" height="87">
+            <frame id="1:1390" name="Frame 6381" x="0" y="8.5" width="70" height="70" />
+            <text id="1:1394" name="Перед каждой игрой посмотрите короткое видео или фото с описанием — так объяснять правила не придётся" x="100" y="0" width="777" height="87" />
+          </frame>
+          <frame id="1:1395" name="Frame 6383" x="36" y="320" width="877" height="70">
+            <frame id="1:1396" name="Frame 6381" x="0" y="0" width="70" height="70" />
+            <text id="1:1398" name="Назначьте одного человека считать очки — так никто не запутается в баллах" x="100" y="8" width="654" height="54" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="1:1399" name="Frame 6461" x="821" y="1409" width="156" height="156" />
+      <frame id="1:1402" name="Group 2087331536" x="114" y="2052" width="407.5741882324219" height="224.828125">
+        <rounded-rectangle id="1:1403" name="Rectangle 42157" x="114" y="2058.59375" width="192.1975860595703" height="192.1975860595703" />
+        <rounded-rectangle id="1:1404" name="Rectangle 42158" x="325.24609375" y="2058.59375" width="192.1975860595703" height="192.1975860595703" />
+        <ellipse id="1:1405" name="Ellipse 936" x="291.0859375" y="2052" width="21.574193954467773" height="21.574193954467773" />
+        <text id="1:1406" name="Стаканчики" x="166" y="2265.828125" width="88" height="11" />
+        <text id="1:1407" name="Теннисные мячики" x="350" y="2265.828125" width="142" height="11" />
+        <frame id="1:1408" name="Mask group" x="114" y="2058.59375" width="192.1975860595703" height="192.1975860595703">
+          <rounded-rectangle id="1:1409" name="Rectangle 42161" x="114" y="2058.59375" width="192.1975860595703" height="192.1975860595703" />
+          <rounded-rectangle id="1:1410" name="ea91912e-2145-4ad2-8643-888b8d482187@1x_1-1 1" x="112" y="2056" width="201" height="201" />
+        </frame>
+        <frame id="1:1411" name="Mask group" x="366" y="2100" width="109" height="109">
+          <ellipse id="1:1412" name="Ellipse 941" x="366" y="2100" width="109" height="109" />
+          <rounded-rectangle id="1:1413" name="7c2c1fbe-9ce3-46a9-b29c-e1f1bd48c7a2@1x_1-1 1" x="78.63671875" y="1742.375" width="549.504150390625" height="549.504150390625" />
+        </frame>
+        <ellipse id="1:1414" name="Ellipse 937" x="500" y="2052" width="21.574193954467773" height="21.574193954467773" />
+      </frame>
+      <vector id="1:1415" name="Vector 222" x="109" y="1897" width="871" height="0.0000757091365812812" />
+    </frame>
+    <frame id="1:1416" name="Frame 2087326895" x="60" y="107" width="960" height="440.4308776855469">
+      <instance id="1:1417" name="Header" x="0" y="0" width="960" height="123.43087768554688" />
+      <frame id="1:1418" name="Frame 2087326894" x="0" y="168.43087768554688" width="960" height="272">
+        <frame id="1:1419" name="Frame 2087326893" x="48" y="64" width="864" height="64">
+          <text id="1:1420" name="О сборнике «День Рождения»" x="0" y="7" width="556" height="50" />
+          <frame id="1:1421" name="Group 2087326744" x="800" y="0" width="64" height="64" />
+        </frame>
+        <text id="1:1426" name="Текст в разработке" x="48" y="186" width="528" height="22" />
+      </frame>
+    </frame>
+    <instance id="1:1427" name="Footer" x="-1" y="1569" width="1081" height="505" />
+  </frame>
+  <symbol id="1:1428" name="Frame 2087326868" x="14316" y="1727" width="474" height="474" />
+  <symbol id="1:1438" name="Frame 2087326885" x="15962" y="4932" width="863" height="188" />
+  <symbol id="1:1449" name="Frame 2087326749" x="10777" y="154" width="960" height="766.3438720703125" />
+  <symbol id="1:1452" name="Frame 2087326880" x="16025" y="3299" width="960" height="974.7734375" />
+  <frame id="1:1476" name="теги" x="16025" y="4455" width="557" height="82.77348327636719">
+    <symbol id="1:1477" name="Property 1=Frame 2087325305" x="20" y="20" width="79" height="42.77347946166992" />
+    <symbol id="1:1481" name="Property 1=Frame 2087325308" x="113" y="20" width="198" height="42.77347946166992" />
+    <symbol id="1:1485" name="Property 1=Frame 2087325309" x="350" y="20" width="161" height="42.77347946166992" />
+  </frame>
+  <frame id="1:1489" name="Frame 2087325334" x="11965" y="154" width="836.1514892578125" height="794.3243408203125">
+    <frame id="1:1490" name="Frame 2087325331" x="0" y="0" width="836.1514892578125" height="372.1624755859375">
+      <frame id="1:1491" name="Group 2087331539" x="0" y="0" width="255.38381958007812" height="372.1624755859375">
+        <rounded-rectangle id="1:1492" name="Rectangle 42165" x="0" y="0.000006653310265392065" width="255.38381958007812" height="372.161865234375" />
+        <frame id="1:1493" name="Mask group" x="0" y="0.000601746141910553" width="255.38381958007812" height="372.161865234375">
+          <rounded-rectangle id="1:1494" name="Rectangle 42167" x="0" y="0.000608399452175945" width="255.38381958007812" height="372.161865234375" />
+          <rounded-rectangle id="1:1495" name="edited-photo (4) 2" x="-169.16448974609375" y="-28.375371001660824" width="566.4523315429688" height="559.8560180664062" />
+        </frame>
+        <rounded-rectangle id="1:1496" name="edited-photo (4) 1" x="53" y="51.99940490722656" width="149" height="147" />
+        <frame id="1:1497" name="Mask group" x="0" y="0.000601746141910553" width="255.38381958007812" height="372.161865234375">
+          <rounded-rectangle id="1:1498" name="Rectangle 42167" x="0" y="0.000608399452175945" width="255.38381958007812" height="372.161865234375" />
+          <rounded-rectangle id="1:1499" name="Rectangle 42169" x="431.2383728027344" y="-124.41714575141668" width="516.4957048891065" height="358.5466221505725" />
+          <rounded-rectangle id="1:1500" name="Rectangle 42170" x="387.5830078125" y="-88.40148260444403" width="516.4957048891065" height="358.5466221505725" />
+        </frame>
+        <frame id="1:1501" name="Frame 2087325330" x="25.10182762145996" y="227.99961853027344" width="205.18016052246094" height="120.73628997802734">
+          <text id="1:1502" name="СОЛО" x="0" y="0" width="205.18016052246094" height="39" />
+          <text id="1:1503" name="игрок выполняет задание самостоятельно" x="10.090080261230469" y="59.736289978027344" width="185" height="61" />
+        </frame>
+      </frame>
+      <frame id="1:1504" name="Group 2087331540" x="290.3838195800781" y="0" width="255.38381958007812" height="372.1624755859375">
+        <rounded-rectangle id="1:1505" name="Rectangle 42165" x="290.3842963873758" y="0.000006653310265392065" width="255.38381958007812" height="372.161865234375" />
+        <frame id="1:1506" name="Mask group" x="290.3842963873758" y="0.000601746141910553" width="255.38381958007812" height="372.161865234375">
+          <rounded-rectangle id="1:1507" name="Rectangle 42167" x="290.38477319464437" y="0.000608399452175945" width="255.38381958007812" height="372.161865234375" />
+          <rounded-rectangle id="1:1508" name="edited-photo (4) 2" x="121.22027966374299" y="-28.375371001660824" width="566.4523315429688" height="559.8560180664062" />
+        </frame>
+        <rounded-rectangle id="1:1509" name="edited-photo (4) 1" x="332.9482727050781" y="52.38612365722656" width="169.6089324951172" height="167.6338653564453" />
+        <frame id="1:1510" name="Mask group" x="290.3842963873758" y="0.000601746141910553" width="255.38381958007812" height="372.161865234375">
+          <rounded-rectangle id="1:1511" name="Rectangle 42167" x="290.38477319464437" y="0.000608399452175945" width="255.38381958007812" height="372.161865234375" />
+          <rounded-rectangle id="1:1512" name="Rectangle 42169" x="721.623126953782" y="-124.41714575141668" width="516.4957048891065" height="358.5466221505725" />
+          <rounded-rectangle id="1:1513" name="Rectangle 42170" x="677.9677924811258" y="-88.40148260444403" width="516.4957048891065" height="358.5466221505725" />
+        </frame>
+        <frame id="1:1514" name="Frame 2087325330" x="315.4861240386963" y="227.99961853027344" width="205.18016052246094" height="97.73628997802734">
+          <text id="1:1515" name="БАТЛ-РОЯЛ" x="0" y="0" width="205.18016052246094" height="39" />
+          <text id="1:1516" name="все играют против друг друга" x="0" y="59.736289978027344" width="205.18016052246094" height="38" />
+        </frame>
+      </frame>
+      <frame id="1:1517" name="Group 2087331541" x="580.7676391601562" y="0" width="255.38381958007812" height="372.1624755859375">
+        <rounded-rectangle id="1:1518" name="Rectangle 42165" x="580.7676162122134" y="0.000006653310265392065" width="255.38381958007812" height="372.161865234375" />
+        <frame id="1:1519" name="Mask group" x="580.7676162122134" y="0.000601746141910553" width="255.38381958007812" height="372.161865234375">
+          <rounded-rectangle id="1:1520" name="Rectangle 42167" x="580.7675932642705" y="0.000608399452175945" width="255.38381958007812" height="372.161865234375" />
+          <rounded-rectangle id="1:1521" name="edited-photo (4) 2" x="411.6030959485415" y="-28.375371001660824" width="566.4523315429688" height="559.8560180664062" />
+        </frame>
+        <rounded-rectangle id="1:1522" name="edited-photo (4) 1" x="627.0000610351562" y="51.99940490722656" width="162" height="161" />
+        <frame id="1:1523" name="Mask group" x="580.7676162122134" y="0.000601746141910553" width="255.38381958007812" height="372.161865234375">
+          <rounded-rectangle id="1:1524" name="Rectangle 42167" x="580.7675932642705" y="0.000608399452175945" width="255.38381958007812" height="372.161865234375" />
+          <rounded-rectangle id="1:1525" name="Rectangle 42169" x="1012.0059584973696" y="-124.41714575141668" width="516.4957048891065" height="358.5466221505725" />
+          <rounded-rectangle id="1:1526" name="Rectangle 42170" x="968.3505935071353" y="-88.40148260444403" width="516.4957048891065" height="358.5466221505725" />
+        </frame>
+        <frame id="1:1527" name="Frame 2087325330" x="605.8694438934326" y="227.99961853027344" width="205.18016052246094" height="123.32637023925781">
+          <text id="1:1528" name="КОММАНДОС" x="0" y="1.295039176940918" width="205.18016052246094" height="39" />
+          <text id="1:1529" name="задание выполняется в команде с другим игроком" x="-9.909919738769531" y="61.03133010864258" width="225" height="61" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="1:1530" name="Frame 2087325332" x="145.19195556640625" y="422.1624755859375" width="545.767578125" height="372.161865234375">
+      <frame id="1:1531" name="Group 2087331542" x="0" y="0" width="255.38381958007812" height="372.161865234375">
+        <rounded-rectangle id="1:1532" name="Rectangle 42165" x="0" y="0" width="255.38381958007812" height="372.161865234375" />
+        <frame id="1:1533" name="Mask group" x="0" y="0" width="255.38381958007812" height="372.161865234375">
+          <rounded-rectangle id="1:1534" name="Rectangle 42167" x="0" y="0" width="255.38381958007812" height="372.161865234375" />
+          <rounded-rectangle id="1:1535" name="edited-photo (4) 2" x="-169.1640625" y="-28.376953125" width="566.4523315429688" height="559.8560180664062" />
+        </frame>
+        <rounded-rectangle id="1:1536" name="edited-photo (4) 1" x="58.8076171875" y="52.837890625" width="138" height="136" />
+        <frame id="1:1537" name="Mask group" x="0" y="0" width="255.38381958007812" height="372.161865234375">
+          <rounded-rectangle id="1:1538" name="Rectangle 42167" x="0" y="0" width="255.38381958007812" height="372.161865234375" />
+          <rounded-rectangle id="1:1539" name="Rectangle 42169" x="431.2384338378906" y="-124.41812896728516" width="516.4957048891065" height="358.5466221505725" />
+          <rounded-rectangle id="1:1540" name="Rectangle 42170" x="387.5830993652344" y="-88.40245819091797" width="516.4957048891065" height="358.5466221505725" />
+        </frame>
+        <frame id="1:1541" name="Frame 2087325330" x="24.8076171875" y="227.837890625" width="205.18016052246094" height="120.73628997802734">
+          <text id="1:1542" name="ДУЭЛЬ" x="0" y="0" width="205.18016052246094" height="39" />
+          <text id="1:1543" name="игра проходит между двумя игроками" x="0" y="59.736289978027344" width="205.18016052246094" height="61" />
+        </frame>
+      </frame>
+      <frame id="1:1544" name="Group 2087331543" x="290.3837890625" y="0" width="255.38381958007812" height="372.161865234375">
+        <rounded-rectangle id="1:1545" name="Rectangle 42165" x="290.3837890625" y="0" width="255.38381958007812" height="372.161865234375" />
+        <frame id="1:1546" name="Mask group" x="290.3837890625" y="0" width="255.38381958007812" height="372.161865234375">
+          <rounded-rectangle id="1:1547" name="Rectangle 42167" x="290.3837890625" y="0" width="255.38381958007812" height="372.161865234375" />
+          <rounded-rectangle id="1:1548" name="edited-photo (4) 2" x="121.21875" y="-28.376953125" width="566.4523315429688" height="559.8560180664062" />
+        </frame>
+        <rounded-rectangle id="1:1549" name="edited-photo (4) 1" x="348.8076171875" y="52.837890625" width="138" height="136" />
+        <frame id="1:1550" name="Mask group" x="290.3837890625" y="0" width="255.38381958007812" height="372.161865234375">
+          <rounded-rectangle id="1:1551" name="Rectangle 42167" x="290.3837890625" y="0" width="255.38381958007812" height="372.161865234375" />
+          <rounded-rectangle id="1:1552" name="Rectangle 42169" x="721.6220703125" y="-124.41796875" width="516.4957048891065" height="358.5466221505725" />
+          <rounded-rectangle id="1:1553" name="Rectangle 42170" x="677.966796875" y="-88.40234375" width="516.4957048891065" height="358.5466221505725" />
+        </frame>
+        <frame id="1:1554" name="Frame 2087325330" x="315.19140625" y="227.837890625" width="205.18016052246094" height="97.73628997802734">
+          <text id="1:1555" name="ИГРАЮТ ВСЕ!" x="0" y="0" width="205.18016052246094" height="39" />
+          <text id="1:1556" name="в игре принимают участие все игроки" x="0" y="59.736289978027344" width="205.18016052246094" height="38" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="1:1557" name="Component 63" x="10777" y="2174" width="2064" height="505">
+    <symbol id="1:1558" name="Property 1=Хиты 90" x="539" y="20" width="465" height="465" />
+    <symbol id="1:1574" name="Property 1=Хиты караоке" x="20" y="20" width="465" height="465" />
+    <symbol id="1:1589" name="Property 1=Девичник" x="1032" y="20" width="465" height="465" />
+    <symbol id="1:2087" name="Property 1=2000" x="1551" y="20" width="465" height="465" />
+  </frame>
+  <symbol id="1:2103" name="Component 69/Component 54" x="15658" y="2174" width="960" height="576.000244140625" />
+  <symbol id="1:2137" name="Frame 2087326873" x="15004" y="3299" width="958.0003051757812" height="230.0003204345703" />
+  <symbol id="1:2145" name="Component 69/Component 70/Component 69/edited-photo (4) 1/Property 23" x="16101" y="3347" width="149" height="147" />
+  <frame id="1:2147" name="Component 67" x="12208" y="1383" width="469.6601257324219" height="264.79132080078125">
+    <symbol id="1:2148" name="Property 1=Стаканчики" x="251" y="20" width="198.66012573242188" height="224.7913360595703" />
+    <symbol id="1:2156" name="Property 1=Тенисные мячики" x="20" y="20" width="196.32418823242188" height="224.7913360595703" />
+  </frame>
+  <frame id="1:2164" name="Component 68" x="13085" y="2071" width="208.11720275878906" height="594.6796875">
+    <symbol id="1:2165" name="Property 1=реквизит" x="20" y="20" width="100" height="100" />
+    <symbol id="1:2176" name="Property 1=очки" x="88.1171875" y="207.125" width="100.00001192092896" height="100.00001192092896" />
+    <symbol id="1:2178" name="Property 1=Инструкция" x="68.671875" y="474.6796875" width="100.00001192092896" height="100.00001192092896" />
+  </frame>
+  <frame id="1:2183" name="Component 69" x="13085" y="154" width="2009" height="1093">
+    <symbol id="1:2184" name="Property 1=Платная" x="1029" y="20" width="960" height="960" />
+    <symbol id="1:2208" name="Property 1=бесплатная" x="20" y="39" width="960" height="960" />
+  </frame>
+  <frame id="1:2231" name="Component 70" x="15283" y="145" width="2197" height="1038">
+    <symbol id="1:2232" name="Property 1=др, платная=бесплатная" x="20" y="553" width="465" height="465" />
+    <symbol id="1:2242" name="Property 1=На дачу, платная=бесплатная" x="540" y="553" width="465" height="465" />
+    <symbol id="1:2260" name="Property 1=вечеринка, платная=бесплатная" x="20" y="20" width="465" height="465" />
+    <symbol id="1:2269" name="Property 1=Все игры, платная=бесплатная" x="540" y="20" width="465" height="465" />
+    <symbol id="1:2278" name="Property 1=Др, платная=Платная" x="1105" y="20" width="465" height="465" />
+    <symbol id="1:2290" name="Property 1=Др, платная=Платная" x="1115" y="30" width="465" height="465" />
+    <symbol id="1:2302" name="Property 1=Дача, платная=Платная" x="1608" y="20" width="465" height="465" />
+    <symbol id="1:2322" name="Property 1=Все игры, платная=Платная" x="1608" y="523" width="465" height="465" />
+    <symbol id="1:2333" name="Property 1=Вечеринка, платная=Платная" x="1098" y="523" width="465" height="465" />
+  </frame>
+  <frame id="1:2344" name="edited-photo (4) 1" x="10870" y="1067" width="495" height="438">
+    <symbol id="1:2345" name="Property 1=Default" x="16" y="41" width="149" height="147" />
+    <symbol id="1:2347" name="Property 1=Default" x="325" y="219" width="169.6089324951172" height="167.6338653564453" />
+    <symbol id="1:2349" name="Property 1=Default" x="347" y="34" width="162" height="161" />
+    <symbol id="1:2351" name="Property 1=Default" x="21" y="233" width="138" height="136" />
+    <symbol id="1:2353" name="Property 1=Default" x="165" y="233" width="138" height="136" />
+  </frame>
+  <frame id="1:2355" name="Frame 6461" x="15346" y="4947" width="274" height="526">
+    <symbol id="1:2356" name="Property 1=Play" x="20" y="225" width="156" height="156" />
+    <symbol id="1:2358" name="Property 1=Pause" x="20" y="20" width="156" height="156" />
+  </frame>
+  <frame id="1:2361" name="Component 76" x="15962" y="5283" width="371" height="184">
+    <symbol id="1:2362" name="Property 1=стакан" x="20" y="20" width="144" height="144" />
+    <symbol id="1:2367" name="Property 1=мячики" x="207" y="20" width="144" height="144" />
+  </frame>
+</canvas>

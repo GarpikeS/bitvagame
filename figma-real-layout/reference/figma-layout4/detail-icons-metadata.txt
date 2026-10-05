@@ -1,0 +1,52 @@
+﻿
+===== 1:897 =====
+<instance id="1:897" name="Frame 2087326799" x="0" y="0" width="230.0003204345703" height="230.0003204345703">
+  <text id="4:548" name="+1" x="83.50016021728516" y="55" width="63" height="50" />
+  <text id="4:549" name="за каждое верное слово" x="24.500160217285156" y="134" width="181" height="43" />
+</instance>
+
+===== 1:898 =====
+<instance id="1:898" name="Frame 2087326796" x="243.0003204345703" y="0" width="230.0003204345703" height="230.0003204345703">
+  <text id="4:1473" name="+1" x="91.00016021728516" y="55" width="48" height="50" />
+  <text id="4:1474" name="за каждое верное слово" x="24.500160217285156" y="134" width="181" height="69" />
+</instance>
+
+===== 1:899 =====
+<instance id="1:899" name="Frame 2087326797" x="486.0006408691406" y="0" width="230.0003204345703" height="230.0003204345703">
+  <text id="4:1247" name="+1" x="77.50016021728516" y="55" width="75" height="50" />
+  <text id="4:1248" name="за каждое верное слово" x="24.500160217285156" y="134" width="181" height="43" />
+</instance>
+
+===== 1:900 =====
+<instance id="1:900" name="Frame 2087326798" x="729.0009765625" y="0" width="230.0003204345703" height="230.0003204345703">
+  <instance id="4:1976" name="Component 58/Group" x="88.00016021728516" y="55" width="54" height="54" />
+  <text id="4:1979" name="за каждое верное слово" x="16" y="132" width="198.0003204345703" height="69" />
+</instance>
+
+===== 1:875 =====
+<frame id="1:875" name="Group 2087331488" x="0" y="7.5" width="99" height="99" />
+
+===== 1:918 =====
+<symbol id="1:918" name="Component 58/Group" x="1512" y="3472" width="38.66715621948242" height="38.671974182128906">
+  <frame id="1:919" name="Group" x="0" y="0" width="38.66715621948242" height="38.671974182128906" />
+</symbol>
+
+===== 1:916 =====
+<instance id="1:916" name="Component 2" x="936" y="700" width="84" height="84">
+  <instance id="4:550" name="icons/outline/heart" x="18" y="18" width="48" height="48" />
+</instance>
+
+===== 1:5262 =====
+<instance id="1:5262" name="icons/outline/chevron-right" x="282" y="0" width="48" height="48">
+  <vector id="4:2655" name="Vector" x="17.999998092651367" y="11.999999046325684" width="12.000000953674316" height="24" hidden="true" />
+  <boolean-operation id="4:2656" name="Union" x="16.000150680541992" y="10.000151634216309" width="15.999696731567383" height="27.99969482421875" />
+</instance>
+
+===== 1:5270 =====
+<instance id="1:5270" name="icons/outline/chevron-right" x="273" y="0" width="48" height="48">
+  <vector id="4:1792" name="Vector" x="17.999998092651367" y="11.999999046325684" width="12.000000953674316" height="24" hidden="true" />
+  <boolean-operation id="4:1793" name="Union" x="16.000150680541992" y="10.000151634216309" width="15.999696731567383" height="27.99969482421875" />
+</instance>
+
+===== 1:5231 =====
+<frame id="1:5231" name="Layer 2" x="209.62109375" y="9.570232391357422" width="30.83466339111328" height="30.796154022216797" />

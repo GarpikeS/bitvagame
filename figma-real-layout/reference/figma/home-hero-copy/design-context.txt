@@ -1,0 +1,15 @@
+const imgSubtract = "http://localhost:3845/assets/36d73fa462de45bb3630c64543dea2d384828ecd.svg";
+
+export default function Frame() {
+  return (
+    <div className="content-stretch flex flex-col gap-[48px] items-start relative size-full" data-node-id="1:1237">
+      <div className="h-[261.12px] relative shrink-0 w-[389.554px]" data-node-id="1:1238" data-name="Subtract">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSubtract} />
+      </div>
+      <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[0] min-w-full not-italic relative shrink-0 text-[#f3f3f3] text-[30px] tracking-[-0.6px] w-[min-content] whitespace-pre-wrap" data-node-id="1:1241">
+        <p className="leading-[1.04] mb-0">{`Cервис с готовыми онлайн-играми и играми для компании дома: от быстрых развлечений `}</p>
+        <p className="leading-[1.04]">до полноценных игровых вечеринок.</p>
+      </div>
+    </div>
+  );
+}

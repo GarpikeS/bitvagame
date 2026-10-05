@@ -1,0 +1,130 @@
+<frame id="1:1145" name="Главная (мобильный)" x="375" y="8113" width="1080" height="5001">
+  <boolean-operation id="1:1146" name="Union" x="-949" y="-346" width="3055.0390625" height="2271.833984375">
+    <vector id="1:1147" name="Vector 110" x="-948.5" y="-345.500244140625" width="0" height="2271.333984375" />
+    <vector id="1:1148" name="Vector 129" x="619.388916015625" y="-345.5002436041832" width="0" height="2271.333984375" />
+    <vector id="1:1149" name="Vector 149" x="-948.294921875" y="1140.65234375" width="3054.0400390625" height="0.00013349633081816137" />
+    <vector id="1:1150" name="Vector 111" x="-865.9375" y="-345.500244140625" width="0" height="2271.333984375" />
+    <vector id="1:1151" name="Vector 130" x="701.9527587890625" y="-345.5002436041832" width="0" height="2271.333984375" />
+    <vector id="1:1152" name="Vector 151" x="-948.294921875" y="1058.087890625" width="3054.0400390625" height="0.00013349633081816137" />
+    <vector id="1:1153" name="Vector 112" x="-783.373046875" y="-345.500244140625" width="0" height="2271.333984375" />
+    <vector id="1:1154" name="Vector 131" x="784.517578125" y="-345.500244140625" width="0" height="2271.333984375" />
+    <vector id="1:1155" name="Vector 153" x="-948.294921875" y="975.5224609375" width="3054.0400390625" height="0.00013349633081816137" />
+    <vector id="1:1156" name="Vector 113" x="-700.8085174560547" y="-345.5002436041832" width="0" height="2271.333984375" />
+    <vector id="1:1157" name="Vector 132" x="867.080078125" y="-345.500244140625" width="0" height="2271.333984375" />
+    <vector id="1:1158" name="Vector 155" x="-948.294921875" y="892.958984375" width="3054.0400390625" height="0.00013349633081816137" />
+    <vector id="1:1159" name="Vector 114" x="-618.244140625" y="-345.500244140625" width="0" height="2271.333984375" />
+    <vector id="1:1160" name="Vector 133" x="949.644775390625" y="-345.5002436041832" width="0" height="2271.333984375" />
+    <vector id="1:1161" name="Vector 157" x="-948.294921875" y="810.39599609375" width="3054.0400390625" height="0.00013349633081816137" />
+    <vector id="1:1162" name="Vector 115" x="-535.6796875" y="-345.500244140625" width="0" height="2271.333984375" />
+    <vector id="1:1163" name="Vector 134" x="1032.2086181640625" y="-345.5002436041832" width="0" height="2271.333984375" />
+    <vector id="1:1164" name="Vector 159" x="-948.294921875" y="727.83251953125" width="3054.0400390625" height="0.00013349633081816137" />
+    <vector id="1:1165" name="Vector 116" x="-453.1171875" y="-345.500244140625" width="0" height="2271.333984375" />
+    <vector id="1:1166" name="Vector 135" x="1114.772705078125" y="-345.5002436041832" width="0" height="2271.333984375" />
+    <vector id="1:1167" name="Vector 161" x="-948.294921875" y="645.2685546875" width="3054.0400390625" height="0.00013349633081816137" />
+    <vector id="1:1168" name="Vector 117" x="-370.55267333984375" y="-345.5002436041832" width="0" height="2271.333984375" />
+    <vector id="1:1169" name="Vector 136" x="1197.336669921875" y="-345.5002436041832" width="0" height="2271.333984375" />
+    <vector id="1:1170" name="Vector 163" x="-948.294921875" y="562.7041015625" width="3054.0400390625" height="0.00013349633081816137" />
+    <vector id="1:1171" name="Vector 118" x="-287.98828125" y="-345.500244140625" width="0" height="2271.333984375" />
+    <vector id="1:1172" name="Vector 137" x="1279.900146484375" y="-345.5002436041832" width="0" height="2271.333984375" />
+    <vector id="1:1173" name="Vector 165" x="-948.294921875" y="480.140625" width="3054.0400390625" height="0.00013349633081816137" />
+    <vector id="1:1174" name="Vector 119" x="-205.42578125" y="-345.500244140625" width="0" height="2271.333984375" />
+    <vector id="1:1175" name="Vector 138" x="1362.46435546875" y="-345.5002436041832" width="0" height="2271.333984375" />
+    <vector id="1:1176" name="Vector 167" x="-948.294921875" y="397.5771484375" width="3054.0400390625" height="0.00013349633081816137" />
+    <vector id="1:1177" name="Vector 120" x="-122.861328125" y="-345.500244140625" width="0" height="2271.333984375" />
+    <vector id="1:1178" name="Vector 168" x="-948.294921875" y="1882.90283203125" width="3054.0400390625" height="0.00013349633081816137" />
+    <vector id="1:1179" name="Vector 139" x="1445.02734375" y="-345.500244140625" width="0" height="2271.333984375" />
+    <vector id="1:1180" name="Vector 169" x="-948.294921875" y="315.0126953125" width="3054.0400390625" height="0.00013349633081816137" />
+    <vector id="1:1181" name="Vector 121" x="-40.2969970703125" y="-345.5002436041832" width="0" height="2271.333984375" />
+    <vector id="1:1182" name="Vector 170" x="-948.294921875" y="1800.33837890625" width="3054.0400390625" height="0.00013349633081816137" />
+    <vector id="1:1183" name="Vector 140" x="1527.59228515625" y="-345.5002436041832" width="0" height="2271.333984375" />
+    <vector id="1:1184" name="Vector 171" x="-948.294921875" y="232.447265625" width="3054.0400390625" height="0.00013349633081816137" />
+    <vector id="1:1185" name="Vector 122" x="42.267578125" y="-345.500244140625" width="0" height="2271.333984375" />
+    <vector id="1:1186" name="Vector 172" x="-948.294921875" y="1717.775390625" width="3054.0400390625" height="0.00013349633081816137" />
+    <vector id="1:1187" name="Vector 141" x="1610.156494140625" y="-345.5002436041832" width="0" height="2271.333984375" />
+    <vector id="1:1188" name="Vector 173" x="-948.294921875" y="149.884765625" width="3054.0400390625" height="0.00013349633081816137" />
+    <vector id="1:1189" name="Vector 123" x="124.830078125" y="-345.500244140625" width="0" height="2271.333984375" />
+    <vector id="1:1190" name="Vector 174" x="-948.294921875" y="1635.2109375" width="3054.0400390625" height="0.00013349633081816137" />
+    <vector id="1:1191" name="Vector 142" x="1692.72021484375" y="-345.5002436041832" width="0" height="2271.333984375" />
+    <vector id="1:1192" name="Vector 175" x="-948.294921875" y="67.3203125" width="3054.0400390625" height="0.00013349632990866667" />
+    <vector id="1:1193" name="Vector 124" x="207.394775390625" y="-345.5002436041832" width="0" height="2271.333984375" />
+    <vector id="1:1194" name="Vector 176" x="-948.294921875" y="1552.64404296875" width="3054.0400390625" height="0.00013349633081816137" />
+    <vector id="1:1195" name="Vector 143" x="1775.284423828125" y="-345.5002436041832" width="0" height="2271.333984375" />
+    <vector id="1:1196" name="Vector 177" x="-948.294921875" y="-15.2421875" width="3054.0400390625" height="0.00013349632990866667" />
+    <vector id="1:1197" name="Vector 125" x="289.958740234375" y="-345.5002436041832" width="0" height="2271.333984375" />
+    <vector id="1:1198" name="Vector 178" x="-948.294921875" y="1470.08203125" width="3054.0400390625" height="0.00013349633081816137" />
+    <vector id="1:1199" name="Vector 144" x="1857.847900390625" y="-345.5002436041832" width="0" height="2271.333984375" />
+    <vector id="1:1200" name="Vector 179" x="-948.294921875" y="-97.806640625" width="3054.0400390625" height="0.00013349632990866667" />
+    <vector id="1:1201" name="Vector 126" x="372.5234375" y="-345.500244140625" width="0" height="2271.333984375" />
+    <vector id="1:1202" name="Vector 180" x="-948.294921875" y="1387.517578125" width="3054.0400390625" height="0.00013349633081816137" />
+    <vector id="1:1203" name="Vector 145" x="1940.412109375" y="-345.5002436041832" width="0" height="2271.333984375" />
+    <vector id="1:1204" name="Vector 181" x="-948.294921875" y="-180.368896484375" width="3054.0400390625" height="0.00013349632990866667" />
+    <vector id="1:1205" name="Vector 127" x="455.0859375" y="-345.500244140625" width="0" height="2271.333984375" />
+    <vector id="1:1206" name="Vector 182" x="-948.294921875" y="1304.9541015625" width="3054.0400390625" height="0.00013349633081816137" />
+    <vector id="1:1207" name="Vector 146" x="2022.97607421875" y="-345.5002436041832" width="0" height="2271.333984375" />
+    <vector id="1:1208" name="Vector 183" x="-948.294921875" y="-262.935546875" width="3054.0400390625" height="0.00013349632990866667" />
+    <vector id="1:1209" name="Vector 128" x="537.6507568359375" y="-345.5002436041832" width="0" height="2271.333984375" />
+    <vector id="1:1210" name="Vector 184" x="-948.294921875" y="1222.388671875" width="3054.0400390625" height="0.00013349633081816137" />
+    <vector id="1:1211" name="Vector 147" x="2105.5390625" y="-345.500244140625" width="0" height="2271.333984375" />
+    <vector id="1:1212" name="Vector 185" x="-948.294921875" y="-345.500244140625" width="3054.0400390625" height="0.00013349632990866667" />
+  </boolean-operation>
+  <boolean-operation id="1:1213" name="Union" x="59" y="286" width="960" height="361.7080078125">
+    <vector id="1:1214" name="Vector" x="59" y="286" width="960" height="361.7082214355469" />
+  </boolean-operation>
+  <frame id="1:1215" name="Group 2087326593" x="-153.92076110839844" y="193.00039672851562" width="1444.8962763763898" height="1560.4238414925949">
+    <rounded-rectangle id="1:1216" name="Untitled (28) 3" x="-167.70118513521882" y="593.2573390392594" width="1368.2996451163708" height="1498.7215063291624" />
+    <rounded-rectangle id="1:1217" name="Untitled (28) 2" x="-167.7031391177745" y="593.258340504664" width="1368.2996451163708" height="1498.7215063291624" />
+  </frame>
+  <frame id="1:1218" name="Frame 2087325408" x="639" y="1417" width="429" height="198">
+    <text id="1:1219" name="ДЛЯ КОМПАНИЙ" x="0" y="0" width="429" height="67" />
+    <text id="1:1220" name="Собирай друзей, семью или коллег и превращай обычный вечер в игру." x="0" y="115" width="429" height="83" />
+  </frame>
+  <rounded-rectangle id="1:1221" name="Rectangle 156" x="-1" y="1749" width="1080" height="4015" />
+  <frame id="1:1222" name="Frame 2087325406" x="59" y="1859" width="403" height="483">
+    <text id="1:1223" name="ПРОСТО ВЫБИРАЙТЕ ИГРУ..." x="0" y="0" width="403" height="259" />
+    <text id="1:1224" name="...а мы позаботимся обо всём остальном: всё уже продумано, чтобы вы не тратили время на подготовку, а сразу погружались в процесс." x="0" y="307" width="403" height="176" />
+  </frame>
+  <rounded-rectangle id="1:1225" name="Rectangle 161" x="555" y="2137" width="465" height="511" />
+  <frame id="1:1226" name="Frame 6282" x="597" y="2323" width="391" height="273">
+    <text id="1:1227" name="Быстрый старт без сложностей" x="0" y="0" width="391" height="52" />
+    <vector id="1:1228" name="Vector 187" x="0" y="89" width="391" height="0" />
+    <text id="1:1229" name="Для друзей, вечеринок и команд" x="0" y="126" width="391" height="52" />
+    <vector id="1:1230" name="Vector 188" x="0" y="215" width="391" height="0" />
+    <text id="1:1231" name="Материалы внутри!" x="0" y="252" width="391" height="21" />
+  </frame>
+  <rounded-rectangle id="1:1232" name="Adobe Express - file (10) 5" x="543.83203125" y="4226" width="80.26348322691467" height="76.58925883863958" />
+  <text id="1:1233" name="ЕСТЬ ПРОМОКОД?" x="60" y="4107" width="414" height="67" />
+  <frame id="1:1234" name="Frame 2087325394" x="631" y="4240" width="388" height="141">
+    <text id="1:1235" name="Активируйте промокод" x="0" y="0" width="374" height="74" />
+    <text id="1:1236" name="монеты автоматически зачислятся на баланс после регистрации" x="0" y="98" width="388" height="43" />
+  </frame>
+  <frame id="1:1237" name="Frame 2087325407" x="59" y="1223.83984375" width="432" height="454.1201171875">
+    <boolean-operation id="1:1238" name="Subtract" x="0" y="0" width="389.5537109375" height="261.1201171875">
+      <text id="1:1239" name="место, где начинается веселье" x="-2.8798828125" y="1.16015625" width="457" height="259" />
+      <vector id="1:1240" name="Vector 190" x="302.6201171875" y="63.66015625" width="97.9520034790039" height="61" />
+    </boolean-operation>
+    <text id="1:1241" name="Cервис с готовыми онлайн-играми и играми для компании дома: от быстрых развлечений до полноценных игровых вечеринок." x="0" y="309.1201171875" width="432" height="145" />
+  </frame>
+  <text id="1:1242" name="Мафия" x="106" y="3413" width="140" height="29" />
+  <frame id="1:1243" name="Frame 6510" x="58" y="2728" width="966" height="1236">
+    <frame id="1:1244" name="Frame 6493" x="0" y="0" width="966" height="84">
+      <instance id="1:1245" name="button - S" x="0" y="4" width="236" height="76" />
+      <instance id="1:1246" name="button - S" x="252" y="4" width="265" height="76" />
+      <instance id="1:1247" name="Component 3" x="533" y="4" width="333" height="76" />
+      <instance id="1:1248" name="Component 2" x="882" y="0" width="84" height="84" />
+    </frame>
+    <frame id="1:1249" name="Frame 6509" x="0" y="132" width="966" height="1104">
+      <frame id="1:1250" name="Frame 6508" x="0" y="0" width="966" height="964">
+        <instance id="1:1251" name="Component 40" x="0" y="0" width="465" height="467" />
+        <instance id="1:1252" name="Frame 2087325389" x="495" y="0" width="465" height="467" />
+        <instance id="1:1253" name="Frame 2087325390" x="0" y="497" width="465" height="467" />
+        <instance id="1:1254" name="Frame 2087325391" x="495" y="497" width="465" height="467" />
+      </frame>
+      <instance id="1:1255" name="button M" x="0" y="996" width="966" height="108" />
+    </frame>
+  </frame>
+  <instance id="1:1256" name="Header" x="60" y="80" width="960" height="122" />
+  <symbol id="1:1257" name="Play – button/Default/Yes/Default" x="748" y="1083" width="274" height="285" />
+  <instance id="1:1261" name="Component 9" x="553" y="4079" width="467" height="124" />
+  <symbol id="1:1262" name="Footer" x="0" y="4496" width="1081" height="505" />
+  <instance id="1:1267" name="Frame 2087325388" x="555" y="1829" width="465" height="463" />
+</frame>

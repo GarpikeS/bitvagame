@@ -1,0 +1,395 @@
+/* Layout 5 exact game states. The existing ResponsiveCanvas owns scaling from
+   Figma's 1080px canvas; this component deliberately stays at natural size. */
+.page.l5rg-page {
+  --canvas-width: 1080px;
+  --canvas-target-width: 540px;
+  position: relative;
+  width: 1080px;
+  min-width: 1080px;
+  max-width: 1080px;
+  min-height: var(--l5rg-frame-height);
+  height: var(--l5rg-frame-height);
+  margin: 0;
+  overflow: hidden;
+  isolation: isolate;
+  background: #f3f3f3;
+}
+
+.l5rg-page *,
+.l5rg-page *::before,
+.l5rg-page *::after {
+  box-sizing: border-box;
+}
+
+.l5rg-frame {
+  position: absolute;
+  z-index: 0;
+  inset: 0;
+  display: block;
+  width: 1080px;
+  height: var(--l5rg-frame-height);
+  max-width: none;
+  object-fit: fill;
+  pointer-events: none;
+  user-select: none;
+}
+
+.l5rg-category-cover {
+  position: absolute;
+  z-index: 1;
+  left: 60px;
+  top: 518.4309px;
+  display: block;
+  width: 960px;
+  height: 960px;
+  max-width: none;
+  border-radius: 80px;
+  object-fit: cover;
+  pointer-events: none;
+  user-select: none;
+}
+
+.l5rg-category-cover--2000s {
+  background: #161616;
+}
+
+/* Layout 5 has exact 960px Figma covers for Karaoke, 90s and Girls. The
+   2000s branch only has the square category artwork, so it keeps the Figma
+   crop and restores the category title as a live layer. */
+.l5rg-category-cover-title {
+  position: absolute;
+  z-index: 2;
+  left: 153px;
+  top: 641px;
+  max-width: 690px;
+  color: #f3f3f3;
+  font-family: var(--font-sans);
+  font-size: 87px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 1.1;
+  pointer-events: none;
+  user-select: none;
+}
+
+/* The Figma state exports bake the placeholder into the frame. This live layer
+   replaces only the selector's inner text area after a category is selected,
+   preserving the exact 5px border and the arrow from node 1:542. */
+.l5rg-selected-category {
+  position: absolute;
+  z-index: 4;
+  left: 65px;
+  top: 315.4309px;
+  display: flex;
+  align-items: center;
+  width: 827px;
+  height: 118px;
+  padding-left: 27px;
+  overflow: hidden;
+  border-radius: 59px 0 0 59px;
+  color: #232323;
+  background: #f3f3f3;
+  font-family: var(--font-display);
+  font-size: 82.533px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.003;
+  text-transform: uppercase;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.l5rg-selected-category > span {
+  display: block;
+  transform: scaleX(.8);
+  transform-origin: left center;
+}
+
+.l5rg-empty-slice {
+  position: absolute;
+  z-index: 0;
+  left: 0;
+  width: 1080px;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.l5rg-empty-slice--top {
+  top: 0;
+  height: 518.4309px;
+}
+
+.l5rg-empty-slice--bottom {
+  top: 1556.4309px;
+  height: 2142.5691px;
+}
+
+.l5rg-empty-cover {
+  position: absolute;
+  left: 0;
+  display: block;
+  width: 1080px;
+  height: 3857px;
+  max-width: none;
+}
+
+.l5rg-empty-slice--top .l5rg-empty-cover {
+  top: 0;
+}
+
+.l5rg-empty-slice--bottom .l5rg-empty-cover {
+  top: -1714.4309px;
+}
+
+.l5rg-empty-art {
+  position: absolute;
+  z-index: 1;
+  left: 60px;
+  top: 518.4309px;
+  display: block;
+  width: 960px;
+  height: 958px;
+  max-width: none;
+  border-radius: 80px;
+  pointer-events: none;
+  user-select: none;
+}
+
+.l5rg-dynamic-nav {
+  position: absolute;
+  z-index: 6;
+  top: 107px;
+  left: 60px;
+  width: 960px;
+  height: 123.431px;
+}
+
+.l5rg-page .l5rg-dynamic-nav .detail-nav {
+  position: relative;
+  inset: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 960px;
+  max-width: none;
+  height: 123.431px;
+  min-height: 123.431px;
+  margin: 0;
+  padding: 20px;
+  border-radius: 90px;
+  background: #fff;
+  box-shadow: none;
+}
+
+.l5rg-page .l5rg-dynamic-nav .detail-nav-back {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+}
+
+.l5rg-page .l5rg-dynamic-nav .detail-nav-back strong {
+  font: 600 42px/1.1 "TT Hoves Pro Trial", var(--font-body);
+}
+
+.l5rg-page .l5rg-dynamic-nav .detail-nav-back-arrow {
+  flex: 0 0 64px;
+  width: 64px;
+  min-width: 64px;
+  height: 64px;
+  padding: 0;
+}
+
+.l5rg-page .l5rg-dynamic-nav .close-user {
+  width: auto;
+  min-width: 164px;
+  height: 83px;
+  padding: 0 30px;
+  border: 0;
+  border-radius: 80px;
+  color: #fff;
+  background: #fe391f;
+  font: 600 30px/1 "TT Hoves Pro Trial", var(--font-body);
+}
+
+.l5rg-page .l5rg-dynamic-nav .nav-account {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0;
+  border: 0;
+  transform: none;
+}
+
+.l5rg-page .l5rg-dynamic-nav .balance-badge {
+  height: 83px;
+  padding: 10px 20px;
+  border-radius: 80px;
+  gap: 8px;
+  font-size: 42px;
+}
+
+.l5rg-page .l5rg-dynamic-nav .balance-badge .coin {
+  width: 67px;
+  height: 67px;
+}
+
+.l5rg-page .l5rg-dynamic-nav .avatar {
+  width: 82px;
+  height: 82px;
+  font-size: 48px;
+}
+
+.l5rg-second-song {
+  position: absolute;
+  z-index: 2;
+  left: 60px;
+  top: 518.4309px;
+  width: 960px;
+  height: 960px;
+  overflow: hidden;
+  border-radius: 80px;
+  pointer-events: none;
+}
+
+.l5rg-second-song-sheet {
+  position: absolute;
+  display: block;
+  width: 2089px;
+  height: 2147px;
+  max-width: none;
+  pointer-events: none;
+  user-select: none;
+}
+
+.l5rg-second-song-sheet.is-hidden {
+  left: -59px;
+  top: -1097px;
+}
+
+.l5rg-second-song-sheet.is-revealed {
+  left: -1070px;
+  top: -1097px;
+}
+
+.l5rg-control-patch {
+  position: absolute;
+  z-index: 3;
+  left: 821px;
+  top: 1277.7434px;
+  width: 156px;
+  height: 156px;
+  overflow: hidden;
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.l5rg-control-patch-frame {
+  position: absolute;
+  left: -821px;
+  top: -1277.7434px;
+  display: block;
+  width: 1080px;
+  height: 3581px;
+  max-width: none;
+  pointer-events: none;
+  user-select: none;
+}
+
+.l5rg-played-count {
+  position: absolute;
+  z-index: 4;
+  left: 98px;
+  display: grid;
+  place-items: center;
+  width: 68px;
+  height: 60px;
+  color: #ff8b1e;
+  background: #fff;
+  font: 600 48px/1.1 "TT Hoves Pro Trial", var(--font-body);
+  text-align: center;
+  pointer-events: none;
+}
+
+.l5rg-remaining-count {
+  position: absolute;
+  z-index: 4;
+  top: 1672.4309px;
+  right: 92px;
+  display: grid;
+  place-items: center;
+  width: 310px;
+  height: 72px;
+  border-radius: 800px;
+  color: #f3f3f3;
+  background: #b01c08;
+  font: 600 30px/1.1 "TT Hoves Pro Trial", var(--font-body);
+  text-align: center;
+  pointer-events: none;
+}
+
+.l5rg-hits {
+  position: absolute;
+  z-index: 5;
+  inset: 0;
+  pointer-events: none;
+}
+
+.l5rg-hit {
+  position: absolute;
+  display: block;
+  min-width: 0;
+  min-height: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 24px;
+  outline-offset: -6px;
+  background: transparent;
+  color: transparent;
+  font-size: 0;
+  opacity: 1;
+  cursor: pointer;
+  pointer-events: auto;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.l5rg-hit:disabled {
+  opacity: 1;
+  cursor: default;
+  pointer-events: none;
+}
+
+.l5rg-hit:focus-visible {
+  outline: 6px solid #ff8b1e;
+}
+
+.l5rg-title-home-hit {
+  z-index: 7;
+  border-radius: 0;
+}
+
+.l5rg-visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0 0 0 0) !important;
+  clip-path: inset(50%) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .l5rg-page,
+  .l5rg-page * {
+    scroll-behavior: auto !important;
+    animation: none !important;
+    transition: none !important;
+  }
+}

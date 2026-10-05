@@ -1,0 +1,46 @@
+<frame id="1:1711" name="Купить категорию" x="1284" y="13918" width="1080" height="2680">
+  <instance id="1:1712" name="Header" x="59" y="107" width="961" height="123.43087768554688" />
+  <frame id="1:1713" name="Frame 2087326808" x="62" y="373" width="956" height="1262.43701171875">
+    <frame id="1:1714" name="Frame 2087326806" x="123" y="60" width="710" height="67">
+      <text id="1:1715" name="ПОДТВЕРДИТЕ ВАШУ ПОКУПКУ" x="0" y="0" width="710" height="67" />
+    </frame>
+    <frame id="1:1716" name="Group 2087331495" x="241" y="196" width="474" height="474">
+      <frame id="1:1717" name="Frame 6495" x="245" y="200" width="465" height="465">
+        <ellipse id="1:1718" name="Ellipse 922" x="688.009765625" y="193.81640625" width="648.1516420060116" height="510.9518315234218" />
+        <ellipse id="1:1719" name="Ellipse 923" x="-161" y="233.86328125" width="634.3338087863931" height="505.87911637319485" />
+        <frame id="1:1720" name="Mask group" x="80" y="-45" width="444.4280090332031" height="619.6275024414062">
+          <rounded-rectangle id="1:1721" name="Rectangle 42126" x="80.00008660192543" y="-45" width="444.4280090332031" height="619.6275024414062" />
+          <frame id="1:1722" name="Group 2087331446" x="126.25653076171875" y="-45.40234375" width="378.81475830078125" height="635.3319702148438">
+            <rounded-rectangle id="1:1723" name="237dd15bb8f88c5a2e802f178080ecce_e9ede05f-eba6-4b0c-aa87-b12ab7848f4b (1) 2" x="466.5322265625" y="-45.40234375" width="337.9920883712498" height="132.3912768424234" />
+            <rounded-rectangle id="1:1724" name="237dd15bb8f88c5a2e802f178080ecce_e9ede05f-eba6-4b0c-aa87-b12ab7848f4b (1) 1" x="505.0712890625" y="-24.548828125" width="378.81475830078125" height="614.4784545898438" />
+          </frame>
+        </frame>
+        <text id="1:1725" name="Хиты 90-х" x="45" y="59.5" width="204" height="29" />
+      </frame>
+      <rounded-rectangle id="1:1726" name="Rectangle 42142" x="241" y="196" width="474" height="474" />
+    </frame>
+    <frame id="1:1727" name="Frame 2087326810" x="60" y="739" width="836" height="463.43701171875">
+      <frame id="1:1728" name="Frame 2087326809" x="0" y="0" width="836" height="361.43701171875">
+        <frame id="1:1729" name="Frame 2087326808" x="0" y="0" width="836" height="195">
+          <frame id="1:1730" name="Group 2087331485" x="37" y="45" width="759" height="21">
+            <frame id="1:1731" name="Frame 6444" x="37" y="45" width="759" height="21">
+              <frame id="1:1732" name="Frame 6443" x="0" y="0" width="690.6650390625" height="21">
+                <text id="1:1733" name="Доступ к категории «Хиты 90-х»" x="0" y="0" width="452" height="21" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:1734" name="Group 2087331486" x="37" y="90" width="365" height="60">
+            <frame id="1:1735" name="Group 2087326746" x="37" y="90" width="33" height="33">
+              <text id="1:1736" name="!" x="49" y="96" width="9" height="21" />
+              <ellipse id="1:1737" name="Ellipse 109" x="37" y="90" width="33" height="33" />
+            </frame>
+            <text id="1:1738" name="У вас не хватает монет (1 монета = 1 рубль)" x="80" y="96" width="322" height="54" />
+          </frame>
+        </frame>
+        <instance id="1:1739" name="Component 60" x="0" y="225" width="836" height="136.43701171875" />
+      </frame>
+      <text id="1:1740" name="После пополнения баланса списание монет произведётся автоматически" x="0" y="409.43701171875" width="836" height="54" />
+    </frame>
+  </frame>
+  <instance id="1:1741" name="Footer" x="-1" y="2175" width="1081" height="505" />
+</frame>

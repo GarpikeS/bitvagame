@@ -1,0 +1,12 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "<frame id=\"1:1243\" name=\"Frame 6510\" x=\"58\" y=\"2728\" width=\"966\" height=\"1236\">\n  <frame id=\"1:1244\" name=\"Frame 6493\" x=\"0\" y=\"0\" width=\"966\" height=\"84\">\n    <instance id=\"1:1245\" name=\"button - S\" x=\"0\" y=\"4\" width=\"236\" height=\"76\" />\n    <instance id=\"1:1246\" name=\"button - S\" x=\"252\" y=\"4\" width=\"265\" height=\"76\" />\n    <instance id=\"1:1247\" name=\"Component 3\" x=\"533\" y=\"4\" width=\"333\" height=\"76\" />\n    <instance id=\"1:1248\" name=\"Component 2\" x=\"882\" y=\"0\" width=\"84\" height=\"84\" />\n  </frame>\n  <frame id=\"1:1249\" name=\"Frame 6509\" x=\"0\" y=\"132\" width=\"966\" height=\"1104\">\n    <frame id=\"1:1250\" name=\"Frame 6508\" x=\"0\" y=\"0\" width=\"966\" height=\"964\">\n      <instance id=\"1:1251\" name=\"Component 40\" x=\"0\" y=\"0\" width=\"465\" height=\"467\" />\n      <instance id=\"1:1252\" name=\"Frame 2087325389\" x=\"495\" y=\"0\" width=\"465\" height=\"467\" />\n      <instance id=\"1:1253\" name=\"Frame 2087325390\" x=\"0\" y=\"497\" width=\"465\" height=\"467\" />\n      <instance id=\"1:1254\" name=\"Frame 2087325391\" x=\"495\" y=\"497\" width=\"465\" height=\"467\" />\n    </frame>\n    <instance id=\"1:1255\" name=\"button M\" x=\"0\" y=\"996\" width=\"966\" height=\"108\" />\n  </frame>\n</frame>"
+    },
+    {
+      "type": "text",
+      "text": "IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design."
+    }
+  ]
+}

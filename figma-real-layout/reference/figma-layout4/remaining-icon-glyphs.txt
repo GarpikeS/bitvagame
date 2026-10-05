@@ -1,0 +1,31 @@
+﻿src/main.jsx:412:  ['▣', 'Мои покупки', 'purchasesCount', 'purchases'],
+src/main.jsx:413:  ['♥', 'Избранное', 'favoritesCount', 'favorites'],
+src/main.jsx:414:  ['⚙', 'Настройки', '', 'profile'],
+src/main.jsx:415:  ['✎', 'Редактировать профиль', '', 'profile'],
+src/main.jsx:417:  ['●', 'Поддержка', '', 'profile'],
+src/main.jsx:1613:          <span className="login-avatar">●</span>
+src/main.jsx:1798:              <img alt="" aria-hidden="true" src="/generated/layout4-icons/heart.png" />
+src/main.jsx:1873:            <img alt="" aria-hidden="true" src="/generated/layout4-icons/question.png" />
+src/main.jsx:1880:            <img alt="" aria-hidden="true" src="/generated/layout4-icons/heart.png" />
+src/main.jsx:1986:            <i>›</i>
+src/main.jsx:1992:        <em aria-hidden="true">⇥</em>
+src/main.jsx:1994:        <i aria-hidden="true">›</i>
+src/main.jsx:2082:        <span>{actionLabel} <b aria-hidden="true">›</b></span>
+src/main.jsx:2260:        {actionLabel ? <button type="button" onClick={() => goTo('forms')}>{actionLabel} <span>›</span></button> : null}
+src/main.jsx:3184:    ['Купить и скачать бланки', 'blank', '/generated/layout4-icons/control-category.png', () => goTo('music-blanks')],
+src/main.jsx:3186:    ['Объявить победителя', 'cup', '/generated/layout4-icons/control-settings.png', () => goTo('music-winner')],
+src/main.jsx:3187:    ['Новая игра', 'play', '/generated/layout4-icons/control-play.png', () => goTo('music-new-game')],
+src/main.jsx:3203:              <img alt="" src="/generated/layout4-icons/control-chevron.png" />
+src/main.jsx:3229:          <img alt="" src="/generated/layout4-icons/dropdown.png" />
+src/main.jsx:3446:            src={isSongFullscreen ? '/generated/layout4-icons/collapse.png' : '/generated/layout4-icons/expand.png'}
+src/main.jsx:3470:            src={isPaused ? '/generated/layout4-icons/play.png' : '/generated/layout4-icons/pause.png'}
+src/main.jsx:3654:            <img alt="" aria-hidden="true" src="/generated/layout4-icons/close.png" />
+src/main.jsx:3758:        <img className="karaoke-success-icon" alt="" src="/generated/layout4-icons/purchase-success.png" />
+src/main.jsx:3788:          <img alt="" aria-hidden="true" src="/generated/layout4-icons/close.png" />
+src/main.jsx:3873:          <img alt="" aria-hidden="true" src="/generated/layout4-icons/heart-button.png" />
+src/main.jsx:3902:            <span><b><img alt="" aria-hidden="true" src="/generated/layout4-icons/score-winner.png" /></b><small>победителю</small></span>
+src/main.jsx:3948:        <img alt="" aria-hidden="true" src="/generated/layout4-icons/question.png" />
+src/main.jsx:4268:      <img alt="" src="/generated/layout4-icons/back.png" />
+src/styles.css:7219:  /* Figma's 122–129px layers are rotated bounds; the card itself is 478.98 × 106.5px. */
+src/styles.css:8205:  content: "×";
+src/styles.css:12391:  content: "×";

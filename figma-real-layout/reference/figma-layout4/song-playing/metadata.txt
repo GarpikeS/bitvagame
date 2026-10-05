@@ -1,0 +1,28 @@
+<frame id="1:703" name="Игра (песня играет)" x="145" y="7126" width="1080" height="3581">
+  <frame id="1:704" name="Frame 2087325290" x="60" y="107" width="960" height="3286.77490234375">
+    <instance id="1:705" name="Header" x="0" y="0" width="960" height="123.43087768554688" />
+    <frame id="1:706" name="Frame 2087326792" x="0" y="203.43087768554688" width="960" height="128">
+      <text id="1:707" name="ВЫБРАТЬ КАТЕГОРИЮ" x="32" y="35" width="438" height="58" />
+      <frame id="1:708" name="Group 2087331486" x="864" y="32" width="64" height="64" />
+    </frame>
+    <frame id="1:711" name="Frame 2087325282" x="0" y="411.4308776855469" width="960" height="1258">
+      <frame id="1:712" name="Group 2087331515" x="0" y="0" width="960" height="960">
+        <rounded-rectangle id="1:713" name="Rectangle 260" x="0" y="0" width="960" height="960" />
+        <frame id="1:714" name="Frame 6461" x="761" y="759.3125" width="156" height="156" />
+        <text id="1:717" name="Дискотека Авария" x="79" y="124" width="453" height="67" />
+        <text id="1:718" name="Если хочешь остаться" x="79" y="222" width="557" height="67" />
+        <text id="1:719" name="То ли это ветерок мои губы колышет То ли это я кричу тебе, но ты меня не слышишь Если хочешь остаться, останься просто так Пусть тебе приснятся сны о теплых берегах Давно за двенадцать, а ты еще в гостях Ты думаешь остаться, так останься просто так Все изъедены сплетни за долгие месяцы И гитару давно позабыли на лестнице И ей уже не хочется песен" x="79" y="347" width="802" height="504" />
+        <frame id="1:720" name="Group 2087331500" x="643" y="387" width="216" height="49" />
+        <frame id="1:724" name="Group 2087331501" x="441" y="529" width="71.0107421875" height="49" />
+        <frame id="1:727" name="Group 2087331502" x="656" y="628" width="190" height="49" />
+        <frame id="1:731" name="Frame 2087325369" x="821" y="89" width="56" height="56" />
+      </frame>
+      <frame id="1:733" name="Frame 2087326804" x="0" y="980" width="960" height="278">
+        <instance id="1:734" name="Component 36" x="0" y="0" width="960" height="122" />
+        <instance id="1:735" name="Component 60" x="0" y="142" width="960" height="136" />
+      </frame>
+    </frame>
+    <instance id="1:736" name="Frame 2087326750" x="0" y="1749.430908203125" width="960" height="691.000244140625" />
+    <instance id="1:737" name="Frame 2087326749" x="0" y="2520.43115234375" width="960" height="766.3438720703125" />
+  </frame>
+</frame>

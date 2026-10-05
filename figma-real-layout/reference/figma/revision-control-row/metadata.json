@@ -1,0 +1,12 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "<frame id=\"1:807\" name=\"Frame 6318\" x=\"24.027196884155273\" y=\"24.02713966369629\" width=\"432.48858642578125\" height=\"24.027141571044922\">\n  <instance id=\"1:808\" name=\"Component 42\" x=\"0\" y=\"9.5367431640625e-7\" width=\"24.027141571044922\" height=\"24.027141571044922\" />\n  <frame id=\"1:809\" name=\"Frame 6291\" x=\"40.04523468017578\" y=\"0\" width=\"392.443359375\" height=\"24.027141571044922\">\n    <text id=\"1:810\" name=\"Купить и скачать бланки\" x=\"0\" y=\"5.013570785522461\" width=\"340.3845520019531\" height=\"14\" />\n    <frame id=\"1:811\" name=\"Frame 2087325410\" x=\"340.3845520019531\" y=\"0\" width=\"52.058807373046875\" height=\"24.027141571044922\">\n      <instance id=\"1:812\" name=\"Frame 6321\" x=\"0\" y=\"0\" width=\"24.027141571044922\" height=\"24.027141571044922\" />\n      <instance id=\"1:813\" name=\"icons/outline/chevron-right\" x=\"28.031665802001953\" y=\"0\" width=\"24.027141571044922\" height=\"24.027141571044922\" />\n    </frame>\n  </frame>\n</frame>"
+    },
+    {
+      "type": "text",
+      "text": "IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design."
+    }
+  ]
+}

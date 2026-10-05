@@ -1,0 +1,10 @@
+<frame id="1:5177" name="Заглушка" x="3379" y="558" width="960" height="958">
+  <rounded-rectangle id="1:5178" name="fef5212522d3979c5d1d89d95b14975e_2d8e6142-bc9d-4479-822f-ed621241b7d6 1" x="-151" y="-58" width="1262" height="1016" />
+  <rounded-rectangle id="1:5179" name="Firefly (1111) 1" x="-219" y="-351" width="1330" height="1443" />
+  <frame id="1:5180" name="Group 2087331632" x="152" y="578" width="737" height="260">
+    <text id="1:5181" name="выберите категорию" x="152" y="578" width="737" height="260" />
+  </frame>
+  <frame id="1:5182" name="Group 2087331638" x="394" y="865" width="495" height="22">
+    <text id="1:5183" name="Чтобы играть или оплатить" x="394" y="865" width="495" height="22" />
+  </frame>
+</frame>

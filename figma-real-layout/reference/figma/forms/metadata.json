@@ -1,0 +1,12 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "<frame id=\"1:2198\" name=\"Бланки\" x=\"11462\" y=\"8244\" width=\"1080\" height=\"2564\">\n  <frame id=\"1:2199\" name=\"Frame 2087326652\" x=\"-1\" y=\"80\" width=\"1081\" height=\"1901.6103515625\">\n    <instance id=\"1:2200\" name=\"Header\" x=\"60\" y=\"0\" width=\"961\" height=\"104.43013000488281\" />\n    <frame id=\"1:2201\" name=\"Frame 2087326650\" x=\"60.5\" y=\"184.4301300048828\" width=\"960\" height=\"1521\">\n      <frame id=\"1:2202\" name=\"Frame 2087326649\" x=\"0\" y=\"0\" width=\"960\" height=\"180\" />\n      <frame id=\"1:2212\" name=\"Frame 2087326659\" x=\"0\" y=\"260\" width=\"960\" height=\"775\">\n        <text id=\"1:2213\" name=\"МОИ БЛАНКИ\" x=\"0\" y=\"0\" width=\"960\" height=\"67\" />\n        <frame id=\"1:2214\" name=\"Frame 2087326658\" x=\"0\" y=\"115\" width=\"960\" height=\"660\">\n          <instance id=\"1:2215\" name=\"Frame 2087326655\" x=\"0\" y=\"0\" width=\"960\" height=\"244\" />\n          <instance id=\"1:2216\" name=\"Frame 2087326657\" x=\"0\" y=\"276\" width=\"960\" height=\"244\" />\n          <instance id=\"1:2217\" name=\"button M\" x=\"0\" y=\"552\" width=\"966\" height=\"108\" />\n        </frame>\n      </frame>\n      <frame id=\"1:2218\" name=\"Frame 6434\" x=\"0\" y=\"1115\" width=\"960\" height=\"406\">\n        <text id=\"1:2219\" name=\"ЭТАПЫ ПОДГОТОВКИ К ИГРЕ\" x=\"48\" y=\"48\" width=\"864\" height=\"67\" />\n        <frame id=\"1:2220\" name=\"Frame 6433\" x=\"48\" y=\"163\" width=\"830\" height=\"195\">\n          <instance id=\"1:2221\" name=\"Frame 6433\" x=\"0\" y=\"0\" width=\"830\" height=\"83\" />\n          <instance id=\"1:2222\" name=\"Frame 6434\" x=\"0\" y=\"115\" width=\"830\" height=\"80\" />\n        </frame>\n      </frame>\n    </frame>\n    <instance id=\"1:2223\" name=\"Component 17\" x=\"59.5\" y=\"1785.43017578125\" width=\"962\" height=\"116.18016052246094\" />\n  </frame>\n  <instance id=\"1:2224\" name=\"Footer\" x=\"-1\" y=\"2059\" width=\"1081\" height=\"505\" />\n</frame>"
+    },
+    {
+      "type": "text",
+      "text": "IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design."
+    }
+  ]
+}

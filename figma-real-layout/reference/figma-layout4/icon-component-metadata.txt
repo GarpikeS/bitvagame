@@ -1,0 +1,108 @@
+﻿
+===== 4:1654 =====
+<instance id="4:1654" name="Component 54" x="0" y="115" width="960" height="576.000244140625">
+  <frame id="4:1655" name="Frame 6318" x="48" y="48" width="864" height="48">
+    <frame id="4:1656" name="Component 42" x="0" y="0" width="48" height="48" />
+    <frame id="4:1664" name="Frame 6291" x="80" y="0" width="784" height="48">
+      <text id="4:1665" name="Выбрать или купить другую категорию" x="0" y="10" width="736" height="28" />
+      <frame id="4:1666" name="Frame 2087325410" x="736" y="0" width="48" height="48">
+        <instance id="4:1667" name="icons/outline/chevron-right" x="0" y="0" width="48" height="48" />
+      </frame>
+    </frame>
+  </frame>
+  <vector id="4:1671" name="Vector 192" x="48" y="144" width="864" height="0.0000739356291887816" />
+  <frame id="4:1672" name="Frame 6319" x="48" y="192.0000762939453" width="864" height="48">
+    <frame id="4:1673" name="Component 42" x="0" y="0" width="48" height="48">
+      <text id="4:1674" name="14" x="1" y="6" width="46" height="34" />
+    </frame>
+    <frame id="4:1675" name="Frame 6291" x="80" y="0" width="784" height="48">
+      <text id="4:1676" name="Выпавшие песни" x="0" y="10" width="736" height="28" />
+      <frame id="4:1677" name="Frame 2087325410" x="736" y="0" width="48" height="48">
+        <instance id="4:1678" name="icons/outline/chevron-right" x="0" y="0" width="48" height="48" />
+      </frame>
+    </frame>
+  </frame>
+  <vector id="4:1682" name="Vector 193" x="48" y="288.00006103515625" width="864" height="0.0000739356291887816" />
+  <frame id="4:1683" name="Frame 6320" x="48" y="336.0001220703125" width="864" height="48">
+    <instance id="4:1684" name="Component 42" x="0" y="0" width="48" height="48" />
+    <frame id="4:1699" name="Frame 6291" x="80" y="0" width="784" height="48">
+      <text id="4:1700" name="Настройки" x="0" y="10" width="736" height="28" />
+      <frame id="4:1701" name="Frame 2087325410" x="736" y="0" width="48" height="48">
+        <instance id="4:1702" name="icons/outline/chevron-right" x="0" y="0" width="48" height="48" />
+      </frame>
+    </frame>
+  </frame>
+  <vector id="4:1706" name="Vector 194" x="48" y="432.0001220703125" width="864" height="0.0000739356291887816" />
+  <frame id="4:1707" name="Frame 6321" x="48" y="480.00018310546875" width="864" height="48">
+    <frame id="4:1708" name="Component 42" x="0" y="0" width="48" height="48">
+      <frame id="4:1709" name="icons/fill/play" x="0" y="0" width="48" height="48" />
+    </frame>
+    <frame id="4:1713" name="Frame 6291" x="80" y="0" width="784" height="48">
+      <text id="4:1714" name="Новая игра" x="0" y="10" width="736" height="28" />
+      <frame id="4:1715" name="Frame 2087325410" x="736" y="0" width="48" height="48">
+        <instance id="4:1716" name="icons/outline/chevron-right" x="0" y="0" width="48" height="48" />
+      </frame>
+    </frame>
+  </frame>
+  <frame id="4:1720" name="Frame 6322" x="48" y="624.000244140625" width="864" height="48" hidden="true" />
+  <vector id="4:1721" name="Vector 196" x="48" y="720.000244140625" width="864" height="0.0000739356291887816" hidden="true" />
+</instance>
+
+===== 4:1308 =====
+<instance id="4:1308" name="Group 2087331626" x="0" y="99" width="966.9335327148438" height="667.3438720703125">
+  <rounded-rectangle id="4:1309" name="Rectangle 240" x="0" y="454.578125" width="966.9335500970483" height="257.6846138089895" />
+  <frame id="4:1310" name="Frame 6417" x="198.84375" y="489.2890625" width="603.203327216208" height="152.90165357291698">
+    <text id="4:1311" name="ПОЙТЕ ВМЕСТЕ" x="0" y="0" width="599.1709437295794" height="66.996238514781" />
+    <text id="4:1312" name="Включайте песни, зачеркивайте поля и подпевайте!" x="0" y="64" width="599.8742664307356" height="81.97974114120007" />
+  </frame>
+  <frame id="4:1313" name="Group 2087331619" x="0.765625" y="0.0013512074947357178" width="964.4720458984375" height="244.31338500976562">
+    <rounded-rectangle id="4:1314" name="Rectangle 238" x="0.765625" y="31.429688304662704" width="964.4720286652446" height="244.3133923560381" />
+    <frame id="4:1315" name="Frame 6419" x="199.1015625" y="68.94139942526817" width="664.7449653074145" height="146.6174095198512">
+      <text id="4:1316" name="ОТКРОЙТЕ ИГРУ" x="0" y="0" width="661.9236594215035" height="60.66369729489088" />
+      <text id="4:1317" name="Откройте окно с игрой, в которой рандомно будут приходить песни." x="0" y="64" width="662.6453888341784" height="82.6518562361598" />
+    </frame>
+    <frame id="4:1318" name="Frame 6381" x="44" y="87.28124317526817" width="103.22680734097958" height="103.22680734097958" />
+  </frame>
+  <frame id="4:1322" name="Frame 2087326714" x="45" y="513.6953125" width="104.58302609622478" height="104.58302609622478">
+    <frame id="4:1323" name="Frame 2087326713" x="4.783478736877441" y="4.725799560546875" width="93.39650203364437" height="93.39650203364545" />
+  </frame>
+  <frame id="4:1327" name="Group 2087331620" x="0.9642083644866943" y="210.65625" width="964.9491577148438" height="246.82974243164062">
+    <rounded-rectangle id="4:1328" name="Rectangle 239" x="8.515624761581421" y="210.65625" width="964.9491697363555" height="246.82974595576525" />
+    <frame id="4:1329" name="Frame 6418" x="203.82813048362732" y="261.61328125" width="665.0160447470844" height="148.35562710091472">
+      <text id="4:1330" name="ПОДКЛЮЧИТЕ УСТРОЙСТВО" x="0" y="0" width="661.9671159721911" height="62.40969101712108" />
+      <text id="4:1331" name="Не забудьте подключить телефон или ноутбук к колонке" x="0" y="64" width="662.747074496001" height="84.39586071297526" />
+    </frame>
+    <frame id="4:1332" name="Frame 2087326712" x="47.382814168930054" y="273.875" width="103.47952544689178" height="103.47952544689178" />
+  </frame>
+</instance>
+
+===== 1:734 =====
+<instance id="1:734" name="Component 36" x="0" y="0" width="960" height="122">
+  <text id="4:641" name="КАК ИГРАТЬ?" x="157.5" y="32" width="645" height="58" />
+</instance>
+
+===== 1:735 =====
+<instance id="1:735" name="Component 60" x="0" y="142" width="960" height="136">
+  <text id="4:1243" name="КАК ИГРАТЬ?" x="32" y="39" width="274" height="58" />
+  <instance id="4:1244" name="Component 45/Frame 2087326725" x="601" y="32" width="327" height="72" />
+</instance>
+
+===== 1:953 =====
+<frame id="1:953" name="Group 2087326703" x="956.068359375" y="720.048828125" width="64" height="64" />
+
+===== 4:2777 =====
+<frame id="4:2777" name="Frame 6509" x="45" y="337" width="169" height="83">
+  <text id="4:2778" name="Бесплатно" x="35" y="31" width="99" height="21" />
+</frame>
+
+===== 4:357 =====
+<frame id="4:357" name="Frame 2087325279" x="35" y="18.94373321533203" width="181.19821166992188" height="45.11253356933594">
+  <rounded-rectangle id="4:358" name="Adobe Express - file (10) 3" x="0.4910695552825928" y="0" width="38.19820860577056" height="45.11253382029645" />
+  <text id="4:359" name="50 монет" x="48.19820785522461" y="12.056266784667969" width="133" height="21" />
+</frame>
+
+===== 4:317 =====
+<frame id="4:317" name="Frame 2087325279" x="35" y="18.94373321533203" width="181.19821166992188" height="45.11253356933594">
+  <rounded-rectangle id="4:318" name="Adobe Express - file (10) 3" x="0.4910695552825928" y="0" width="38.19820860577056" height="45.11253382029645" />
+  <text id="4:319" name="50 монет" x="48.19820785522461" y="12.056266784667969" width="133" height="21" />
+</frame>

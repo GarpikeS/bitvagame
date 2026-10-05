@@ -1,0 +1,363 @@
+/* Exact Figma Layout 5 screens: 1:754, 1:1544, 1:2649 and 1:2133. */
+.page.l5p-page {
+  --canvas-width: 1080px;
+  --canvas-target-width: 540px;
+  --l5p-paper: #f3f3f3;
+  position: relative;
+  width: 1080px;
+  min-width: 1080px;
+  max-width: 1080px;
+  min-height: 0;
+  overflow: hidden;
+  isolation: isolate;
+  background: var(--l5p-paper);
+}
+
+.page.l5p-page--confirm { height: 2186px; }
+.page.l5p-page--insufficient { height: 2680px; }
+.page.l5p-page--success { height: 2564px; }
+.page.l5p-page--girls { height: 3899px; }
+
+.l5p-page *,
+.l5p-page *::before,
+.l5p-page *::after { box-sizing: border-box; }
+
+.l5p-screen {
+  position: absolute;
+  z-index: 0;
+  inset: 0;
+  display: block;
+  width: 1080px;
+  height: 100%;
+  max-width: none;
+  object-fit: fill;
+  pointer-events: none;
+  user-select: none;
+}
+
+.l5p-dynamic-nav {
+  position: absolute;
+  z-index: 3;
+  left: 59px;
+  top: 107px;
+  width: 961px;
+  height: 123.431px;
+  background: #fff;
+  border-radius: 90px;
+}
+
+.l5p-page--success .l5p-dynamic-nav { top: 80px; }
+.l5p-page--girls .l5p-dynamic-nav { left: 60px; width: 960px; }
+
+.l5p-page .l5p-dynamic-nav .detail-nav {
+  position: relative;
+  inset: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  max-width: none;
+  height: 123.431px;
+  min-height: 123.431px;
+  margin: 0;
+  padding: 20px;
+  border-radius: 90px;
+  background: #fff;
+  box-shadow: none;
+}
+
+.l5p-page .l5p-dynamic-nav .detail-nav-back {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+}
+
+.l5p-page .l5p-dynamic-nav .detail-nav-back strong {
+  font: 600 42px/1.1 "TT Hoves Pro Trial", var(--font-body);
+}
+
+.l5p-page .l5p-dynamic-nav .detail-nav-back-arrow {
+  width: 64px;
+  min-width: 64px;
+  height: 64px;
+  padding: 0;
+}
+
+.l5p-page .l5p-dynamic-nav .nav-account {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0;
+  transform: none;
+}
+
+.l5p-page .l5p-dynamic-nav .balance-badge {
+  height: 83px;
+  padding: 10px 20px;
+  border-radius: 80px;
+  gap: 8px;
+  font-size: 42px;
+}
+
+.l5p-page .l5p-dynamic-nav .balance-badge .coin { width: 67px; height: 67px; }
+.l5p-page .l5p-dynamic-nav .avatar { width: 82px; height: 82px; font-size: 48px; }
+
+.l5p-hit {
+  position: absolute;
+  z-index: 4;
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 24px;
+  color: transparent;
+  background: transparent;
+  cursor: pointer;
+}
+
+.l5p-hit:focus-visible {
+  outline: 5px solid #ff8b1e;
+  outline-offset: 5px;
+}
+
+.l5p-checkout {
+  position: absolute;
+  z-index: 5;
+  left: 60px;
+  top: 350px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 960px;
+  min-height: 1169px;
+  padding: 53px 60px 48px;
+  border-radius: 56px;
+  color: #f3f3f3;
+  background: #151515;
+}
+
+.l5p-checkout.is-insufficient {
+  top: 366px;
+  min-height: 1248px;
+  padding-top: 54px;
+}
+
+.l5p-checkout-heading {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.l5p-checkout-heading h1 {
+  margin: 0;
+  color: #f3f3f3;
+  font-family: "Bitva Display Fallback", "Arial Narrow", Arial, sans-serif;
+  font-size: 72px;
+  font-weight: 700;
+  line-height: .88;
+  text-transform: uppercase;
+}
+
+.l5p-checkout-heading h1 em {
+  color: #ff841b;
+  font-style: normal;
+}
+
+.l5p-checkout-close {
+  display: grid;
+  place-items: center;
+  width: 64px;
+  height: 64px;
+  flex: none;
+  margin: 1px 0 0 auto;
+  padding: 0 0 8px;
+  border: 0;
+  border-radius: 50%;
+  color: #aaa;
+  background: #2e2e2e;
+  font-family: "Bitva UI Fallback", Arial, sans-serif;
+  font-size: 64px;
+  font-weight: 300;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.l5p-checkout-card {
+  position: relative;
+  width: 465px;
+  height: 465px;
+  flex: none;
+  margin-top: 56px;
+  overflow: hidden;
+  border: 8px solid #ff3b2b;
+  border-radius: 68px;
+  background: #480507;
+}
+
+.l5p-checkout-card img {
+  position: absolute;
+  display: block;
+  max-width: none;
+  pointer-events: none;
+}
+
+.l5p-checkout-card .l5p-checkout-art-base {
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.l5p-checkout-card .l5p-checkout-art-people {
+  left: 91px;
+  top: 23px;
+  width: 356.473px;
+  height: 442px;
+  object-fit: contain;
+}
+
+.l5p-checkout-card strong {
+  position: absolute;
+  z-index: 2;
+  left: 45px;
+  top: 52px;
+  color: #fff;
+  font-family: "Bitva UI Fallback", Arial, sans-serif;
+  font-size: 42px;
+  font-weight: 600;
+  line-height: 1.05;
+}
+
+.l5p-checkout-summary {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  min-height: 110px;
+  margin-top: 60px;
+  padding: 24px 40px;
+  border-radius: 32px;
+  color: #f3f3f3;
+  background: #2c2c2c;
+  font-family: "Bitva UI Fallback", Arial, sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 1.15;
+}
+
+.l5p-checkout-summary strong {
+  margin-top: 13px;
+  color: #ff841b;
+  font-weight: 500;
+}
+
+.l5p-checkout-pay {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 136px;
+  flex: none;
+  margin-top: 31px;
+  padding: 20px 38px 20px 45px;
+  border: 0;
+  border-radius: 934px;
+  color: #fff;
+  background: #ff3928;
+  box-shadow: 0 3px 18px rgba(254, 57, 31, .85);
+  cursor: pointer;
+}
+
+.l5p-checkout-pay:disabled { cursor: wait; opacity: .72; }
+
+.l5p-checkout-pay > b {
+  font-family: "Bitva Display Fallback", "Arial Narrow", Arial, sans-serif;
+  font-size: 70px;
+  font-weight: 700;
+  line-height: .9;
+}
+
+.l5p-checkout-pay > span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 13px;
+  min-width: 270px;
+  height: 83px;
+  padding: 13px 25px;
+  border-radius: 83px;
+  background: #cf2511;
+  font-family: "Bitva UI Fallback", Arial, sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.l5p-checkout-pay img { width: 49px; height: 49px; object-fit: contain; }
+
+.l5p-checkout-note {
+  max-width: 100%;
+  margin: 42px auto 0;
+  color: #8b8b8b;
+  font-family: "Bitva UI Fallback", Arial, sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 1.18;
+  text-align: center;
+}
+
+.l5p-checkout button:focus-visible {
+  outline: 5px solid #ff8b1e;
+  outline-offset: 5px;
+}
+
+.l5p-confirm-close { left: 897px; top: 433px; width: 64px; height: 64px; border-radius: 50%; }
+.l5p-confirm-pay { left: 123px; top: 1253px; width: 836px; height: 136.437px; border-radius: 934px; }
+.l5p-insufficient-pay { left: 122px; top: 1337px; width: 836px; height: 136.437px; border-radius: 934px; }
+.l5p-success-start { left: 107.5px; top: 844.431px; width: 864px; height: 122px; border-radius: 934px; }
+.l5p-success-return { left: 107.5px; top: 990.431px; width: 864px; height: 120px; border-radius: 934px; }
+.l5p-girls-category { left: 60px; top: 310.431px; width: 960px; height: 128px; border-radius: 64px; }
+.l5p-girls-buy { left: 505.703px; top: 1277.431px; width: 468.589px; height: 156px; border-radius: 1504px; }
+.l5p-girls-start { left: 60px; top: 1498.431px; width: 960px; height: 136px; border-radius: 934px; }
+.l5p-girls-row { left: 60px; width: 960px; height: 144px; border-radius: 0; }
+.l5p-girls-row--category { top: 1871.431px; }
+.l5p-girls-row--songs { top: 2015.431px; }
+.l5p-girls-row--winner { top: 2159.431px; }
+.l5p-girls-row--new { top: 2303.431px; }
+.l5p-girls-played-count {
+  position: absolute;
+  z-index: 4;
+  top: 2057.431px;
+  left: 98px;
+  display: grid;
+  place-items: center;
+  width: 68px;
+  height: 60px;
+  color: #ff8b1e;
+  background: #fff;
+  font: 600 48px/1.1 "TT Hoves Pro Trial", var(--font-body);
+  text-align: center;
+  pointer-events: none;
+}
+.l5p-privacy { left: 530px; width: 470px; height: 56px; border-radius: 0; }
+.l5p-page--insufficient .l5p-privacy { top: 2460px; }
+.l5p-page--success .l5p-privacy { top: 2340px; }
+.l5p-page--girls .l5p-privacy { top: 3675px; }
+
+.l5p-visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0 0 0 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}

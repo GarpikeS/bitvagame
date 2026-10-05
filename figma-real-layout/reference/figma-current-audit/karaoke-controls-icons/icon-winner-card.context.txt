@@ -1,0 +1,19 @@
+const imgFrame2087326726 = "http://localhost:3845/assets/8d33aa59d77f99ab3dc38feb0e3e457eaf66c081.svg";
+
+export default function Frame() {
+  return (
+    <div className="bg-white content-stretch flex flex-col gap-[24px] items-start p-[32px] relative rounded-[40px] size-full" data-node-id="1:529">
+      <div className="overflow-clip relative shrink-0 size-[105px]" data-node-id="I1:529;1:536">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgFrame2087326726} />
+      </div>
+      <div className="[word-break:break-word] content-stretch flex flex-col gap-[16px] items-start leading-[1.1] not-italic relative shrink-0 w-full" data-node-id="I1:529;1:537">
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Medium'] relative shrink-0 text-[#161616] text-[30px] w-[406px]" data-node-id="I1:529;1:538">
+          Объявить победителя
+        </p>
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Regular'] min-w-full relative shrink-0 text-[#898989] text-[26px] w-[min-content]" data-node-id="I1:529;1:539">
+          и завершить игру
+        </p>
+      </div>
+    </div>
+  );
+}

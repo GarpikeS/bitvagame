@@ -1,0 +1,23 @@
+const imgUntitled283 = "http://localhost:3845/assets/ac9f8a1085d1bbbcccd408b33a6280f9eeec10aa.png";
+const imgUntitled282 = "http://localhost:3845/assets/9e7b0a6565f0983a71d5d9e7862269606d99681f.png";
+
+export default function Group() {
+  return (
+    <div className="contents relative size-full" data-node-id="1:1215">
+      <div className="absolute flex h-[1498.722px] items-center justify-center left-[-167.7px] top-[223.85px] w-[1368.3px]" data-node-id="1:1216">
+        <div className="flex-none rotate-[-22.1deg]">
+          <div className="h-[1218.869px] relative w-[981.867px]" data-name="Untitled (28) 3">
+            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgUntitled283} />
+          </div>
+        </div>
+      </div>
+      <div className="absolute flex h-[1498.722px] items-center justify-center left-[-167.7px] mix-blend-color-dodge top-[223.85px] w-[1368.3px]" data-node-id="1:1217">
+        <div className="flex-none rotate-[-22.1deg]">
+          <div className="h-[1218.869px] opacity-25 relative w-[981.867px]" data-name="Untitled (28) 2">
+            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgUntitled282} />
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}

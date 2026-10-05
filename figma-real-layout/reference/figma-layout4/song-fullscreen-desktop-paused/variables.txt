@@ -1,0 +1,1 @@
+{"Желтый":"#FF8B1E","Серый":"#232323","Оранжевый":"#FF391F","Заголовок":"Font(family: \"TT Trailers Trial\", style: Bold, size: 120, weight: 700, lineHeight: 1.0033400058746338, letterSpacing: 0)","Черный":"#232323"}

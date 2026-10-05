@@ -1,0 +1,16 @@
+export default function Frame() {
+  return (
+    <div className="[word-break:break-word] content-stretch flex flex-col gap-[48px] items-start leading-[0] not-italic relative size-full text-[#161616]" data-node-id="1:1222">
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Trailers_Trial:Bold'] relative shrink-0 text-[0px] uppercase w-full" data-node-id="1:1223">
+        <span className="leading-[1.003] text-[96px]">{`ПРОСТО ВЫБИРАЙТЕ `}</span>
+        <span className="leading-[1.003] text-[#fe391f] text-[96px]">ИГРУ...</span>
+      </p>
+      <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Regular'] relative shrink-0 text-[30px] tracking-[-0.6px] w-full" data-node-id="1:1224">
+        <p className="leading-[1.04] mb-0">...а мы позаботимся</p>
+        <p className="leading-[1.04] mb-0">обо всём остальном: всё уже продумано, чтобы</p>
+        <p className="leading-[1.04] mb-0">вы не тратили время</p>
+        <p className="leading-[1.04]">на подготовку, а сразу погружались в процесс.</p>
+      </div>
+    </div>
+  );
+}

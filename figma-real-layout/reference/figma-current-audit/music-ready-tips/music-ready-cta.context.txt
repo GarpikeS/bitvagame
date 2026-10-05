@@ -1,0 +1,14 @@
+export default function Frame() {
+  return (
+    <div className="content-stretch flex flex-col gap-[32px] items-center relative size-full" data-node-id="1:356">
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Bold'] leading-[0.88] min-w-full not-italic relative shrink-0 text-[#161616] text-[96px] text-center w-[min-content]" data-node-id="1:357">
+        ВСЁ ГОТОВО? ТОГДА ЖМИТЕ!
+      </p>
+      <div className="bg-[#fe391f] content-stretch drop-shadow-[0px_3.439px_9.07px_rgba(254,57,31,0.91)] flex items-center justify-center p-[32px] relative rounded-[932.921px] shrink-0 w-[960px]" data-node-id="1:358" data-name="Component 36">
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Bold'] leading-[1.003] not-italic relative shrink-0 text-[80px] text-white uppercase whitespace-nowrap" data-node-id="I1:358;810:1624">
+          Начать игру
+        </p>
+      </div>
+    </div>
+  );
+}

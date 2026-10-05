@@ -1,0 +1,12 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "<symbol id=\"1:1257\" name=\"Play – button/Default/Yes/Default\" x=\"748\" y=\"1083\" width=\"274\" height=\"285\" />"
+    },
+    {
+      "type": "text",
+      "text": "IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design."
+    }
+  ]
+}

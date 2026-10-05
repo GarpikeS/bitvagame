@@ -1,0 +1,12 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "<instance id=\"1:3863\" name=\"Frame 2087326748\" x=\"0\" y=\"1416\" width=\"960\" height=\"611\">\n  <text id=\"2:2180\" name=\"Управление игрой\" x=\"0\" y=\"0\" width=\"960\" height=\"67\" />\n  <frame id=\"2:2181\" name=\"Frame 2087326728\" x=\"0\" y=\"99\" width=\"960\" height=\"512\">\n    <instance id=\"2:2182\" name=\"Frame 2087326732\" x=\"0\" y=\"0\" width=\"472\" height=\"248\" />\n    <instance id=\"2:2205\" name=\"Frame 2087326729\" x=\"488\" y=\"0\" width=\"472\" height=\"248\" />\n    <instance id=\"2:2216\" name=\"Frame 2087326730\" x=\"0\" y=\"264\" width=\"472\" height=\"248\" />\n    <instance id=\"2:2253\" name=\"Frame 2087326731\" x=\"488\" y=\"264\" width=\"472\" height=\"248\" />\n  </frame>\n</instance>"
+    },
+    {
+      "type": "text",
+      "text": "IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design."
+    }
+  ]
+}

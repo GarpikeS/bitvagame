@@ -1,0 +1,3 @@
+<boolean-operation id="1:1213" name="Union" x="59" y="286" width="960" height="361.7080078125">
+  <vector id="1:1214" name="Vector" x="59" y="286" width="960" height="361.7082214355469" />
+</boolean-operation>

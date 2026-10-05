@@ -1,0 +1,457 @@
+<canvas id="0:1" name="Page 1" x="0" y="0" width="0" height="0">
+  <frame id="1:259" name="Описание игры (мобильный)" x="0" y="0" width="1080" height="6948">
+    <rounded-rectangle id="1:260" name="image 2" x="-90" y="-1" width="1212" height="977" />
+    <rounded-rectangle id="1:261" name="Rectangle 231" x="-24" y="558" width="1169" height="404" />
+    <rounded-rectangle id="1:262" name="Rectangle 156" x="0" y="815" width="1080" height="6462" />
+    <frame id="1:263" name="Black + Red" x="780" y="491" width="62.17713928222656" height="27" />
+    <frame id="1:284" name="Frame 6400" x="60" y="710" width="772.8167724609375" height="64.09736633300781">
+      <instance id="1:285" name="Tag" x="0" y="0" width="230.81675720214844" height="64.09736633300781" />
+      <instance id="1:286" name="Tag" x="245.81675720214844" y="0" width="257" height="64.09736633300781" />
+      <instance id="1:287" name="Tag" x="517.8167724609375" y="0" width="255" height="64.09736633300781" />
+    </frame>
+    <instance id="1:288" name="Header" x="60" y="79" width="960" height="123.43087768554688" />
+    <instance id="1:289" name="Component 2" x="936" y="700" width="84" height="84" />
+    <frame id="1:290" name="Frame 2087326673" x="55" y="2140" width="970" height="264">
+      <instance id="1:291" name="Component 35" x="0" y="0" width="970" height="120" />
+      <instance id="1:292" name="Component 34" x="0" y="144" width="970" height="120" />
+    </frame>
+    <instance id="1:293" name="Footer" x="-1" y="6443" width="1081" height="505" />
+    <frame id="1:294" name="Frame 6510" x="60" y="5804.5234375" width="962" height="521">
+      <text id="1:295" name="ВАМ МОЖЕТ ПОНРАВИТЬСЯ" x="0" y="0" width="961.4970703125" height="39" />
+      <frame id="1:296" name="Frame 6508" x="0" y="71" width="962" height="310">
+        <instance id="1:297" name="Component 40" x="0" y="0" width="310" height="310" />
+        <instance id="1:298" name="Component 40" x="326" y="0" width="310" height="310" />
+        <instance id="1:299" name="Frame 2087325390" x="652" y="0" width="310" height="310" />
+      </frame>
+      <instance id="1:300" name="button M" x="0" y="413" width="966" height="108" />
+    </frame>
+    <frame id="1:301" name="Group 2087326742" x="60" y="895" width="960" height="262.44012451171875">
+      <frame id="1:302" name="Frame 6373" x="60" y="954" width="960" height="203.44012451171875">
+        <frame id="1:303" name="Group 7" x="163.9998779296875" y="0" width="632.000244140625" height="86.44012451171875">
+          <frame id="1:304" name="Group 6" x="164.87562251091003" y="29.18316650390625" width="547.9512939453125" height="57.2569580078125">
+            <ellipse id="1:305" name="Ellipse 5" x="164.87562251091003" y="29.18316650390625" width="57.2569580078125" height="57.2569580078125" />
+            <ellipse id="1:306" name="Ellipse 6" x="481.19788813591003" y="29.18316650390625" width="57.2569580078125" height="57.2569580078125" />
+            <ellipse id="1:307" name="Ellipse 7" x="655.56995844841" y="29.18316650390625" width="57.2569580078125" height="57.2569580078125" />
+          </frame>
+          <text id="1:308" name="МУЗЫКАЛЬНОЕ ЛОТО" x="163.9998779296875" y="0" width="632" height="84" />
+          <frame id="1:309" name="Mask group" x="164.00010031517013" y="0" width="632" height="84">
+            <text id="1:310" name="МУЗЫКАЛЬНОЕ ЛОТО" x="164.00010031517013" y="0" width="632" height="84" />
+            <frame id="1:311" name="Group 5" x="164.00010031517013" y="25.67822265625" width="547.9483642578125" height="57.2569580078125">
+              <ellipse id="1:312" name="Ellipse 2" x="164.00010031517013" y="25.67822265625" width="57.2569580078125" height="57.2569580078125" />
+              <ellipse id="1:313" name="Ellipse 3" x="480.32138937767013" y="25.67822265625" width="57.2569580078125" height="57.2569580078125" />
+              <ellipse id="1:314" name="Ellipse 4" x="654.6915065651701" y="25.67822265625" width="57.2569580078125" height="57.2569580078125" />
+            </frame>
+          </frame>
+        </frame>
+        <text id="1:315" name="Музыкальное лото — это игра, где каждому участнику выдаётся бланк с песнями и первый, кто соберёт комбинацию из зачеркнутых полей, побеждает!" x="0" y="116.44012451171875" width="960" height="87" />
+      </frame>
+      <frame id="1:316" name="Group 2087326676" x="716" y="895" width="249.90966796875" height="69.51551818847656">
+        <frame id="1:317" name="Group 180" x="745.0005741119385" y="895" width="205.61660766601562" height="66.90619659423828">
+          <text id="1:318" name="Дома" x="751.6171879768372" y="895" width="199" height="56" />
+          <vector id="1:319" name="i" x="818.5390644073486" y="958.828125" width="15.39531533998013" height="27.12042333402121" />
+          <vector id="1:320" name="i" x="763.71875" y="949.1953125" width="18.718176281777005" height="19.60196269433277" />
+        </frame>
+        <vector id="1:321" name="Vector 52" x="716" y="906.47265625" width="249.90966796875" height="58.0428581237793" />
+      </frame>
+    </frame>
+    <frame id="1:322" name="Frame 2087326708" x="60" y="1190" width="960" height="918">
+      <instance id="1:323" name="Tag/Frame 2087326694" x="0" y="0" width="473" height="452" />
+      <instance id="1:324" name="Frame 2087326706" x="487" y="0" width="473" height="452" />
+      <instance id="1:325" name="Frame 2087326707" x="0" y="466" width="473" height="452" />
+      <frame id="1:326" name="Group 2087331625" x="487" y="466" width="473" height="452">
+        <frame id="1:327" name="Frame 2087326708" x="487" y="466" width="473" height="452">
+          <frame id="1:328" name="Mask group" x="40" y="40" width="393" height="221.36000061035156">
+            <rounded-rectangle id="1:329" name="Rectangle 212" x="40" y="40" width="393" height="221.36000061035156" />
+            <rounded-rectangle id="1:330" name="image 3" x="-61.5078125" y="30" width="561.96923828125" height="289.34503173828125" />
+          </frame>
+          <frame id="1:331" name="Frame 2087326683" x="368" y="195" width="48" height="48" hidden="true">
+            <text id="1:332" name="1" x="19" y="13" width="13" height="22" hidden="true" />
+          </frame>
+          <text id="1:333" name="Обратите внимание!" x="40" y="293.3599853515625" width="339" height="45" />
+          <frame id="1:334" name="Frame 6386" x="40" y="370.3599853515625" width="393" height="42">
+            <text id="1:335" name="для игры вам понадобятся индивидуальные бланки." x="0" y="0" width="393" height="42" />
+          </frame>
+        </frame>
+        <frame id="1:336" name="Mask group" x="554.0008544921875" y="503" width="363" height="224">
+          <rounded-rectangle id="1:337" name="Rectangle 111000855" x="554.0008697509766" y="503" width="363" height="224" />
+          <rounded-rectangle id="1:338" name="Group 2087326590 1" x="539.8133697509766" y="469.541015625" width="507.53194279219497" height="411.45122769370573" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="1:339" name="Group 2087331622" x="55" y="2477" width="970" height="1078">
+      <frame id="1:340" name="Frame 2087326711" x="55" y="3435" width="970" height="120">
+        <instance id="1:341" name="Component 35" x="0" y="0" width="962" height="120" />
+      </frame>
+      <frame id="1:342" name="Frame 2087326710" x="60" y="2477" width="960" height="926">
+        <frame id="1:343" name="Frame 2087326660" x="0" y="0" width="960" height="926">
+          <text id="1:344" name="ЭТАПЫ ПОДГОТОВКИ К ИГРЕ" x="48" y="344" width="864" height="67" />
+          <frame id="1:345" name="Frame 6433" x="48" y="459" width="830" height="419">
+            <instance id="1:346" name="Frame 6433" x="0" y="0" width="830" height="83" />
+            <instance id="1:347" name="Frame 6434" x="0" y="115" width="830" height="80" />
+            <instance id="1:348" name="Frame 6435" x="0" y="227" width="830" height="80" />
+            <instance id="1:349" name="Frame 6436" x="0" y="339" width="830" height="80" />
+          </frame>
+        </frame>
+        <frame id="1:350" name="Frame 2087326709" x="0" y="0" width="960" height="292">
+          <frame id="1:351" name="Mask group" x="0" y="0" width="960" height="292">
+            <rounded-rectangle id="1:352" name="Rectangle 203" x="0" y="0" width="960" height="292" />
+            <rounded-rectangle id="1:353" name="JzS3ZIl_u5o 3" x="-276" y="-411.728515625" width="1408.144344292239" height="1811.6151393080581" />
+          </frame>
+          <frame id="1:354" name="Frame 6435" x="62" y="173.3116455078125" width="356.41973876953125" height="82.6883544921875">
+            <text id="1:355" name="4 простых шага" x="25.209861755371094" y="26.84417724609375" width="306" height="29" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="1:356" name="Frame 6493" x="60" y="5485" width="960" height="219">
+      <text id="1:357" name="ВСЁ ГОТОВО? ТОГДА ЖМИТЕ!" x="0" y="0" width="960" height="67" />
+      <instance id="1:358" name="Component 36" x="0" y="99" width="960" height="120" />
+    </frame>
+    <symbol id="1:359" name="Group 2087331626" x="59" y="4715" width="966.9335327148438" height="667.3438720703125" />
+    <rounded-rectangle id="1:389" name="Rectangle 244" x="60" y="3742" width="960" height="863" />
+    <text id="1:390" name="КУПИТЬ БЛАНКИ" x="56.5" y="3632" width="958" height="67" />
+    <frame id="1:391" name="Frame 6272" x="117" y="4352" width="837" height="118.18016052246094">
+      <text id="1:392" name="КУПИТЬ БЛАНКИ" x="250.5" y="30.09008026123047" width="336" height="58" />
+    </frame>
+    <text id="1:393" name="После покупки бланки будут доступны в личном кабинете" x="129" y="4523" width="812" height="21" />
+    <instance id="1:394" name="Component 34" x="117" y="3790" width="837" height="120" />
+    <frame id="1:395" name="Group 2087331486" x="861" y="3816" width="64" height="64" />
+    <text id="1:398" name="СКОЛЬКО БЛАНКОВ?" x="122" y="3987" width="836" height="35" />
+    <frame id="1:399" name="Group 2087326623" x="117" y="4054" width="836" height="116">
+      <frame id="1:400" name="Group 2087326578" x="116.99999999999955" y="4054.0001068115234" width="836" height="116">
+        <rounded-rectangle id="1:401" name="Rectangle 155" x="116.99999999999909" y="4054.000213623047" width="836" height="116" />
+        <frame id="1:402" name="Group 2087326574" x="860.9999999999995" y="4080.0001068115234" width="64.13752746582031" height="64.13752746582031" />
+        <frame id="1:405" name="Group 2087326575" x="138.99999999999955" y="4080.0684661865234" width="64" height="64" />
+        <text id="1:408" name="30 бланков" x="419.99999999999955" y="4083.0001068115234" width="224" height="53" />
+      </frame>
+    </frame>
+    <frame id="1:409" name="Group 2087331621" x="200" y="4202" width="680" height="69">
+      <frame id="1:410" name="Frame 2087326721" x="200" y="4202" width="332" height="69">
+        <frame id="1:411" name="Frame 2087326720" x="10" y="11.228515625" width="327.1173400878906" height="41.28857421875">
+          <rounded-rectangle id="1:412" name="Adobe Express - file (10) 3" x="6.4453125" y="2.64453125" width="42.117332952451534" height="41.28857321324904" />
+          <text id="1:413" name="Стоимость: 1500" x="60" y="11.64453125" width="234" height="21" />
+        </frame>
+      </frame>
+      <frame id="1:414" name="Group 2087326577" x="544.1171875" y="4202" width="335.8828125" height="69">
+        <frame id="1:415" name="Frame 2087326722" x="544.1171875" y="4201.999999999996" width="335.8828125" height="69">
+          <text id="1:416" name="1 бланк на человека" x="29.44140625" y="24.5" width="277" height="21" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="1:417" name="Group 2087331628" x="1190" y="3645" width="963.5" height="973">
+    <rounded-rectangle id="1:418" name="Rectangle 244" x="1193.5" y="3755" width="960" height="863" />
+    <text id="1:419" name="КУПИТЬ БЛАНКИ" x="1190" y="3645" width="958" height="67" />
+    <frame id="1:420" name="Frame 6272" x="1250.5" y="4365" width="837" height="118.18016052246094">
+      <text id="1:421" name="КУПИТЬ БЛАНКИ" x="250.5" y="30.09008026123047" width="336" height="58" />
+    </frame>
+    <text id="1:422" name="После покупки бланки будут доступны в личном кабинете" x="1262.5" y="4536" width="812" height="21" />
+    <frame id="1:423" name="Group 2087331486" x="1994.5" y="3829" width="64" height="64" />
+    <text id="1:426" name="СКОЛЬКО БЛАНКОВ?" x="1255.5" y="4000" width="836" height="35" />
+    <frame id="1:427" name="Group 2087326623" x="1250.5" y="4067" width="836" height="116">
+      <frame id="1:428" name="Group 2087326578" x="1250.5" y="4067" width="836" height="116">
+        <rounded-rectangle id="1:429" name="Rectangle 155" x="1250.5" y="4067" width="836" height="116" />
+        <frame id="1:430" name="Group 2087326574" x="1994.5" y="4093" width="64.13752746582031" height="64.13752746582031" />
+        <frame id="1:433" name="Group 2087326575" x="1272.5" y="4093.068359375" width="64" height="64" />
+        <text id="1:436" name="30 бланков" x="1553.5" y="4096" width="224" height="53" />
+      </frame>
+    </frame>
+    <frame id="1:437" name="Group 2087331621" x="1333.5" y="4215" width="680" height="69">
+      <frame id="1:438" name="Frame 2087326721" x="1333.5" y="4215" width="332" height="69">
+        <frame id="1:439" name="Frame 2087326720" x="10" y="11.228515625" width="327.1173400878906" height="41.28857421875">
+          <rounded-rectangle id="1:440" name="Adobe Express - file (10) 3" x="6.4453125" y="2.64453125" width="42.117332952451534" height="41.28857321324904" />
+          <text id="1:441" name="Стоимость: 1500" x="60" y="11.64453125" width="234" height="21" />
+        </frame>
+      </frame>
+      <frame id="1:442" name="Group 2087326577" x="1677.6171875" y="4215" width="335.8828125" height="69">
+        <frame id="1:443" name="Frame 2087326722" x="1677.6171875" y="4215" width="335.8828125" height="69">
+          <text id="1:444" name="1 бланк на человека" x="29.44140625" y="24.5" width="277" height="21" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="1:445" name="Group 2087331623" x="1252.5" y="3803" width="842" height="680">
+      <instance id="1:446" name="Component 34" x="1255.5" y="3803" width="837" height="120" />
+      <frame id="1:447" name="Group 2087331486" x="2063.5" y="3893" width="64.0000055950577" height="64.0000055950577" />
+      <frame id="1:450" name="Frame 6512" x="1252.5" y="3947" width="842" height="536">
+        <frame id="1:451" name="Frame 2087326723" x="39" y="60" width="764" height="416">
+          <frame id="1:452" name="Frame 6511" x="0" y="0" width="712" height="416">
+            <text id="1:453" name="Девичник" x="0" y="0" width="186" height="29" />
+            <vector id="1:454" name="Vector 192" x="0" y="79" width="712" height="0.00006491820113296853" />
+            <text id="1:455" name="Хиты 90-х" x="0" y="129.00006103515625" width="194" height="29" />
+            <vector id="1:456" name="Vector 193" x="0" y="208.00006103515625" width="712" height="0.00006491820113296853" />
+            <text id="1:457" name="Хиты 2000-х" x="0" y="258.0001220703125" width="247" height="29" />
+            <vector id="1:458" name="Vector 196" x="0" y="337.0001220703125" width="712" height="0.00006491820113296853" />
+            <text id="1:459" name="Хиты караоке" x="0" y="387.00018310546875" width="261" height="29" />
+          </frame>
+        </frame>
+        <rounded-rectangle id="1:460" name="Rectangle 111000854" x="809" y="60" width="6" height="236" />
+      </frame>
+    </frame>
+  </frame>
+  <frame id="1:461" name="Group 2087331629" x="1196" y="4684" width="963.5" height="973">
+    <rounded-rectangle id="1:462" name="Rectangle 244" x="1199.5" y="4794" width="960" height="863" />
+    <text id="1:463" name="КУПИТЬ БЛАНКИ" x="1196" y="4684" width="958" height="67" />
+    <frame id="1:464" name="Frame 6272" x="1256.5" y="5404" width="837" height="118.18016052246094">
+      <text id="1:465" name="КУПИТЬ БЛАНКИ" x="250.5" y="30.09008026123047" width="336" height="58" />
+    </frame>
+    <text id="1:466" name="После покупки бланки будут доступны в личном кабинете" x="1268.5" y="5575" width="812" height="21" />
+    <frame id="1:467" name="Group 2087331486" x="2000.5" y="4868" width="64" height="64" />
+    <text id="1:470" name="СКОЛЬКО БЛАНКОВ?" x="1261.5" y="5039" width="836" height="35" />
+    <frame id="1:471" name="Group 2087326623" x="1256.5" y="5106" width="836" height="116">
+      <frame id="1:472" name="Group 2087326578" x="1256.5" y="5106" width="836" height="116">
+        <rounded-rectangle id="1:473" name="Rectangle 155" x="1256.5" y="5106" width="836" height="116" />
+        <frame id="1:474" name="Group 2087326574" x="2000.5" y="5132" width="64.13752746582031" height="64.13752746582031" />
+        <frame id="1:477" name="Group 2087326575" x="1278.5" y="5132.0703125" width="64" height="64" />
+        <text id="1:480" name="30 бланков" x="1559.5" y="5135" width="224" height="53" />
+      </frame>
+    </frame>
+    <frame id="1:481" name="Group 2087331621" x="1339.5" y="5254" width="680" height="69">
+      <frame id="1:482" name="Frame 2087326721" x="1339.5" y="5254" width="332" height="69">
+        <frame id="1:483" name="Frame 2087326720" x="10" y="11.2265625" width="327.1173400878906" height="41.28857421875">
+          <rounded-rectangle id="1:484" name="Adobe Express - file (10) 3" x="6.4453125" y="2.64453125" width="42.117332952451534" height="41.28857321324904" />
+          <text id="1:485" name="Стоимость: 1500" x="60" y="11.64453125" width="234" height="21" />
+        </frame>
+      </frame>
+      <frame id="1:486" name="Group 2087326577" x="1683.6171875" y="5254" width="335.8828125" height="69">
+        <frame id="1:487" name="Frame 2087326722" x="1683.6171875" y="5254" width="335.8828125" height="69">
+          <text id="1:488" name="1 бланк на человека" x="29.44140625" y="24.5" width="277" height="21" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="1:489" name="Group 2087331623" x="1258.5" y="4842" width="842" height="680">
+      <instance id="1:490" name="Component 34" x="1261.5" y="4842" width="837" height="120" />
+      <frame id="1:491" name="Group 2087331486" x="2069.5" y="4932" width="64.0000055950577" height="64.0000055950577" />
+      <frame id="1:494" name="Frame 6512" x="1258.5" y="4986" width="842" height="536">
+        <rounded-rectangle id="1:495" name="Rectangle 111000854" x="-0.5" y="1" width="842" height="147" />
+        <frame id="1:496" name="Frame 2087326723" x="39" y="60" width="764" height="416">
+          <frame id="1:497" name="Frame 6511" x="0" y="0" width="712" height="416">
+            <text id="1:498" name="Девичник" x="0" y="0" width="186" height="29" />
+            <vector id="1:499" name="Vector 192" x="0" y="79" width="712" height="0.00006491820113296853" />
+            <text id="1:500" name="Хиты 90-х" x="0" y="129.00006103515625" width="194" height="29" />
+            <vector id="1:501" name="Vector 193" x="0" y="208.00006103515625" width="712" height="0.00006491820113296853" />
+            <text id="1:502" name="Хиты 2000-х" x="0" y="258.0001220703125" width="247" height="29" />
+            <vector id="1:503" name="Vector 196" x="0" y="337.0001220703125" width="712" height="0.00006491820113296853" />
+            <text id="1:504" name="Хиты караоке" x="0" y="387.00018310546875" width="261" height="29" />
+          </frame>
+        </frame>
+        <rounded-rectangle id="1:505" name="Rectangle 111000854" x="809" y="60" width="6" height="236" />
+      </frame>
+    </frame>
+  </frame>
+  <frame id="1:506" name="Заставка (Хиты караоке)" x="10210" y="235" width="1080" height="3712">
+    <instance id="1:507" name="Header" x="60" y="80" width="960" height="123.43087768554688" />
+    <frame id="1:508" name="Frame 2087325288" x="60" y="284" width="960" height="2847.34375">
+      <text id="1:509" name="ХИТЫ КАРАОКЕ" x="0" y="0" width="960" height="84" />
+      <frame id="1:510" name="Frame 2087325287" x="0" y="164" width="960" height="1100">
+        <frame id="1:511" name="Mask group" x="0" y="0" width="960" height="960">
+          <rounded-rectangle id="1:512" name="Rectangle 260" x="0" y="0" width="960" height="960" />
+          <frame id="1:513" name="Group 2087331474" x="-334" y="-394.6875" width="1556.4599609375" height="2196.810791015625">
+            <rounded-rectangle id="1:514" name="cb832fa3a20abcc45665f34e937d72b3_2890067d-dc32-4d58-af9c-0849be36cada 1" x="-334" y="-394.6875" width="1556.4599609375" height="2196.810791015625" />
+            <frame id="1:515" name="Group 2087331427" x="-81.3408203125" y="467.576416015625" width="1107.739990234375" height="586.3953247070312">
+              <vector id="1:516" name="Ellipse 931" x="-81.34085813719867" y="467.5764252586523" width="1107.739990234375" height="547.1318969726562" />
+              <vector id="1:517" name="Ellipse 932" x="-53.49030113220215" y="506.335693359375" width="1051.3096923828125" height="547.6360473632812" />
+              <vector id="1:518" name="Ellipse 933" x="-81.34085813719867" y="468.4748303294182" width="1107.739990234375" height="547.1318969726562" />
+              <vector id="1:519" name="Ellipse 934" x="-53.49030113220215" y="505.52194595336914" width="1051.3096923828125" height="547.6360473632812" />
+            </frame>
+            <rounded-rectangle id="1:520" name="cb832fa3a20abcc45665f34e937d72b3_2890067d-dc32-4d58-af9c-0849be36cada 2" x="175.86572265625" y="300.26171875" width="800.438720703125" height="998.46630859375" />
+            <frame id="1:521" name="Group 2087331422" x="48" y="92.46514892578125" width="868.5120362208327" height="330.63592487025016">
+              <vector id="1:522" name="Хиты Караоке" x="57.31751807562216" y="91.71596184941899" width="841.713181777799" height="259.96660301878865" />
+              <vector id="1:523" name="Хиты Караоке" x="65.48156891105532" y="91.85835789837711" width="841.7132058214484" height="259.96654830921693" />
+            </frame>
+          </frame>
+        </frame>
+        <instance id="1:524" name="Component 41" x="0" y="980" width="970" height="120" />
+      </frame>
+      <text id="1:525" name="Управление игрой" x="0" y="1344" width="960" height="67" />
+      <frame id="1:526" name="Frame 2087326728" x="0" y="1491" width="960" height="512">
+        <instance id="1:527" name="Frame 2087326732" x="0" y="0" width="472" height="248" />
+        <instance id="1:528" name="Frame 2087326729" x="488" y="0" width="472" height="248" />
+        <instance id="1:529" name="Frame 2087326730" x="0" y="264" width="472" height="248" />
+        <instance id="1:530" name="Frame 2087326731" x="488" y="264" width="472" height="248" />
+      </frame>
+      <frame id="1:531" name="Frame 2087325288" x="0" y="2083" width="960" height="764.3438720703125">
+        <text id="1:532" name="советы" x="0" y="0" width="960" height="67" />
+        <instance id="1:533" name="Group 2087331626" x="0" y="97" width="966.9335327148438" height="667.3438720703125" />
+      </frame>
+    </frame>
+    <instance id="1:534" name="Footer" x="-1" y="3212" width="1081" height="505" />
+  </frame>
+  <symbol id="1:535" name="Frame 2087326728" x="9539" y="1688" width="472" height="248" />
+  <frame id="1:540" name="Component 42" x="9491" y="2002" width="568" height="177">
+    <symbol id="1:541" name="Property 1=play" x="443" y="20" width="105" height="105" />
+    <symbol id="1:543" name="Property 1=selebration" x="302" y="20" width="105" height="105" />
+    <symbol id="1:558" name="Property 1=mic" x="161" y="52" width="105" height="105" />
+    <symbol id="1:566" name="Property 1=14" x="20" y="52" width="105" height="105" />
+  </frame>
+  <frame id="1:568" name="Component 45" x="1173" y="2794" width="1012" height="549">
+    <symbol id="1:569" name="Property 1=default" x="22" y="49" width="970" height="120" />
+    <symbol id="1:572" name="Property 1=hover" x="22" y="229" width="970" height="120" />
+    <symbol id="1:575" name="Property 1=disabled" x="22" y="409" width="970" height="120" />
+  </frame>
+  <symbol id="1:578" name="Component 45/Frame 2087326724" x="1215" y="2627" width="199" height="53" />
+  <frame id="1:580" name="Купить бланки (после регистрации/входа, нет монет)" x="3399" y="0" width="1080" height="2680">
+    <instance id="1:581" name="Header" x="60" y="80" width="960" height="123.43087768554688" />
+    <frame id="1:582" name="Group 2087326738" x="0" y="2199" width="1081" height="1028">
+      <rounded-rectangle id="1:583" name="Rectangle 154" x="0" y="2199" width="1081" height="1028" />
+      <frame id="1:584" name="Group 2087326616" x="60" y="2322" width="960.2431640625" height="212.59375">
+        <frame id="1:585" name="Group 2087326625" x="615.2431640625" y="2325.890380859375" width="405" height="208.703369140625">
+          <text id="1:586" name="Политика конфиденциальности" x="615.2431640625" y="2471.1875" width="383" height="18" />
+          <text id="1:587" name="ИП Шаталов Дмитрий Андреевич ОГРН: 322861700029539 ИНН: 711404699134" x="615.2431620829814" y="2325.8904824746714" width="405" height="76" />
+          <text id="1:588" name="© 2025. Все права защищены" x="615.2431640625" y="2516.59375" width="362" height="18" />
+        </frame>
+        <frame id="1:589" name="Group 2087326569" x="60" y="2322" width="409.94586181640625" height="154.45863342285156">
+          <text id="1:590" name="И Г Р Ы" x="300.42138671875" y="2368.234375" width="154" height="61" />
+          <frame id="1:591" name="Group" x="68.77978515625" y="2368.294677734375" width="192.05233764648438" height="61.457191467285156" />
+          <vector id="1:597" name="Vector" x="60" y="2323.849609375" width="209.06297302246094" height="32.37458801269531" />
+          <vector id="1:598" name="Vector" x="60" y="2441.275390625" width="209.06297302246094" height="32.37458801269531" />
+          <vector id="1:599" name="Vector" x="175.4248046875" y="2444.083984375" width="183.53639221191406" height="32.37458801269531" />
+          <vector id="1:600" name="Vector" x="149.89794921875" y="2322" width="209.06297302246094" height="32.37458801269531" />
+          <vector id="1:601" name="Vector" x="260.8828125" y="2326.439453125" width="209.06297302246094" height="32.37458801269531" />
+          <vector id="1:602" name="Vector" x="260.8828125" y="2443.865234375" width="209.06297302246094" height="32.37458801269531" />
+        </frame>
+      </frame>
+    </frame>
+    <rounded-rectangle id="1:603" name="Rectangle 244" x="60" y="284" width="960" height="1252" />
+    <frame id="1:604" name="Frame 2087326736" x="324.5078125" y="486" width="431.410888671875" height="550.00048828125">
+      <frame id="1:605" name="Group 2087331630" x="0.00318707013502717" y="0.0007571888854727149" width="431.410888671875" height="550.00048828125">
+        <frame id="1:606" name="Mother" x="391.445081601385" y="26.420762987225316" width="351.4687805175781" height="497.15826416015625">
+          <rounded-rectangle id="1:607" name="white-texture 1" x="556.1533813476562" y="355.4036865234375" width="387.0919065229664" height="576.4724273278941" />
+          <rounded-rectangle id="1:608" name="Снимок экрана 2024-11-03 в 13.11.04 1" x="0.8617140054702759" y="358.697509765625" width="366.34954833984375" height="516.9686279296875" hidden="true" />
+          <vector id="1:609" name="Vector" x="105.75851440429688" y="320.9915771484375" width="72.69884490966797" height="73.1531982421875" />
+          <vector id="1:610" name="Vector" x="105.75851440429688" y="248.7252197265625" width="73.1531982421875" height="73.1531982421875" />
+          <vector id="1:611" name="Vector" x="105.75851440429688" y="176.05101013183594" width="72.69884490966797" height="73.1531982421875" />
+          <vector id="1:612" name="Vector" x="105.75851440429688" y="103.794677734375" width="73.1531982421875" height="73.1531982421875" />
+          <vector id="1:613" name="Vector" x="178.45677185058594" y="320.9805603027344" width="72.69884490966797" height="73.1531982421875" />
+          <vector id="1:614" name="Vector" x="250.70408630371094" y="320.9825439453125" width="72.69884490966797" height="73.1531982421875" />
+          <vector id="1:615" name="Vector" x="323.4063415527344" y="320.967529296875" width="72.69884490966797" height="73.1531982421875" />
+          <vector id="1:616" name="Vector" x="396.10260009765625" y="320.98455810546875" width="72.69884490966797" height="73.1531982421875" />
+          <vector id="1:617" name="Vector" x="178.45677185058594" y="248.7412567138672" width="73.1531982421875" height="73.1531982421875" />
+          <vector id="1:618" name="Vector" x="250.70408630371094" y="248.7442626953125" width="73.1531982421875" height="73.1531982421875" />
+          <vector id="1:619" name="Vector" x="323.4063415527344" y="248.72921752929688" width="73.1531982421875" height="73.1531982421875" />
+          <vector id="1:620" name="Vector" x="396.10260009765625" y="248.73724365234375" width="73.1531982421875" height="73.1531982421875" />
+          <vector id="1:621" name="Vector" x="178.45677185058594" y="176.03497314453125" width="72.69884490966797" height="73.1531982421875" />
+          <vector id="1:622" name="Vector" x="250.70408630371094" y="176.03598022460938" width="72.69884490966797" height="73.1531982421875" />
+          <vector id="1:623" name="Vector" x="323.4063415527344" y="176.04600524902344" width="72.69884490966797" height="73.1531982421875" />
+          <vector id="1:624" name="Vector" x="396.10260009765625" y="176.03598022460938" width="72.69884490966797" height="73.1531982421875" />
+          <vector id="1:625" name="Vector" x="178.45677185058594" y="103.78465270996094" width="73.1531982421875" height="73.1531982421875" />
+          <vector id="1:626" name="Vector" x="250.70408630371094" y="103.7796401977539" width="73.1531982421875" height="73.1531982421875" />
+          <vector id="1:627" name="Vector" x="323.4063415527344" y="103.7986831665039" width="73.1531982421875" height="73.1531982421875" />
+          <vector id="1:628" name="Vector" x="396.10260009765625" y="103.78765869140625" width="73.1531982421875" height="73.1531982421875" />
+          <text id="1:629" name="Машина Времени — Поворот" x="131.2071075439453" y="166.4912567138672" width="48.61735534667969" height="22" />
+          <text id="1:630" name="Little Big — Skibidi" x="131.2071075439453" y="91.51629638671875" width="45.43678283691406" height="14" />
+          <text id="1:631" name="Кино — Группа крови" x="131.2071075439453" y="311.4208068847656" width="48.61735534667969" height="22" />
+          <text id="1:632" name="Альянс — На заре" x="203.90536499023438" y="311.46588134765625" width="41.80183792114258" height="14" />
+          <text id="1:633" name="t.A.T.u. — All the Things She Said" x="203.9093780517578" y="236.4568634033203" width="48.61735534667969" height="22" />
+          <text id="1:634" name="Ленинград — Рыба" x="273.4210510253906" y="236.47189331054688" width="48.61735534667969" height="14" />
+          <text id="1:635" name="Чай  вдвоём - Просто друг" x="348.6966247558594" y="236.47189331054688" width="48.61735534667969" height="22" />
+          <text id="1:636" name="IOWA - Улыбайся" x="421.4530029296875" y="236.47189331054688" width="48.61735534667969" height="14" />
+          <text id="1:637" name="Король и Шут — Кукла колдуна" x="273.4210510253906" y="308.7212219238281" width="48.61735534667969" height="22" />
+          <text id="1:638" name="Женя Трофимов - Поезда" x="348.6966247558594" y="308.7212219238281" width="48.61735534667969" height="22" />
+          <text id="1:639" name="Кино -  Группа  крови" x="421.4549865722656" y="308.7212219238281" width="48.61735534667969" height="22" />
+          <text id="1:640" name="Король и Шут — Кукла колдуна" x="199.58644104003906" y="163.1012420654297" width="48.61735534667969" height="22" />
+          <text id="1:641" name="Мiyagi &amp; Эндшпиль — I Got Love" x="273.4210510253906" y="91.52632141113281" width="48.61735534667969" height="22" />
+          <text id="1:642" name="Кристина  Орбакайте -  Перелетная  птица" x="348.6986083984375" y="91.52632141113281" width="48.61735534667969" height="30" />
+          <text id="1:643" name="Ёлка - На большом воздушном шаре" x="421.4549865722656" y="91.52632141113281" width="48.61735534667969" height="38" />
+          <text id="1:644" name="Мiyagi &amp; Эндшпиль — I Got Love" x="131.8063507080078" y="240.5172576904297" width="48.61735534667969" height="22" />
+          <text id="1:645" name="Алла Пугачёва — Арлекино" x="203.9093780517578" y="91.51629638671875" width="48.61735534667969" height="22" />
+          <text id="1:646" name="Жуки — Батарейка" x="273.4210510253906" y="163.75759887695312" width="48.61735534667969" height="14" />
+          <text id="1:647" name="Глюк&#39;oZa -  Танцуй,  Россия!" x="348.6966247558594" y="163.75759887695312" width="48.61735534667969" height="22" />
+          <text id="1:648" name="Ленинград -  Вояж" x="421.4549865722656" y="163.75759887695312" width="48.61735534667969" height="14" />
+          <vector id="1:649" name="Vector 57" x="184.50326538085938" y="309.2001953125" width="65.11325737539073" height="50.923391591653626" />
+          <vector id="1:650" name="Vector 59" x="254.6722869873047" y="162.26551818847656" width="65.1132666354888" height="50.92339746730522" />
+          <vector id="1:651" name="Vector 61" x="396.2208251953125" y="223.1964569091797" width="63.68130938135346" height="63.504848505864175" />
+          <vector id="1:652" name="Vector 62" x="331.3287353515625" y="96.20198059082031" width="76.60530033647456" height="63.09988768474557" />
+          <vector id="1:653" name="Vector 58" x="183.66152954101562" y="230.77711486816406" width="67.98777694305682" height="63.00711934793071" />
+          <vector id="1:654" name="Vector 60" x="107.9991455078125" y="160.5449676513672" width="67.98777836052113" height="63.00712100408623" />
+          <frame id="1:655" name="Group 186" x="42.931392669677734" y="318.89776611328125" width="287" height="38">
+            <text id="1:656" name="МУЗЫКАЛЬНОЕ ЛОТО" x="42.93146503943717" y="318.8978765212232" width="287" height="38" />
+          </frame>
+        </frame>
+        <frame id="1:657" name="Mother" x="431.413831601385" y="60.18641087540891" width="431.4108842578371" height="550.0005059481491">
+          <rounded-rectangle id="1:658" name="white-texture 1" x="556.1549682617188" y="355.4031677246094" width="470.4049143856473" height="627.7860966231729" />
+          <rounded-rectangle id="1:659" name="Снимок экрана 2024-11-03 в 13.11.04 1" x="0.8631197214126587" y="358.6973876953125" width="449.46418584948333" height="572.066443893882" hidden="true" />
+          <vector id="1:660" name="Vector" x="105.7568588256836" y="320.9927673339844" width="84.15180868905554" height="84.52164725578018" />
+          <vector id="1:661" name="Vector" x="105.7596206665039" y="248.72671508789062" width="84.59945088380118" height="84.59945088380118" />
+          <vector id="1:662" name="Vector" x="105.76036071777344" y="176.05113220214844" width="84.15180868905554" height="84.52164725578018" />
+          <vector id="1:663" name="Vector" x="105.7585678100586" y="103.79400634765625" width="84.59945088380118" height="84.59945088380118" />
+          <vector id="1:664" name="Vector" x="178.4590606689453" y="320.9827575683594" width="84.15180868905554" height="84.52164725578018" />
+          <vector id="1:665" name="Vector" x="250.7054901123047" y="320.9838562011719" width="84.15180868905554" height="84.52164725578018" />
+          <vector id="1:666" name="Vector" x="323.4023742675781" y="320.9666442871094" width="84.15180868905554" height="84.52164725578018" />
+          <vector id="1:667" name="Vector" x="396.1037902832031" y="320.9873046875" width="84.15180868905554" height="84.52164725578018" />
+          <vector id="1:668" name="Vector" x="178.4558868408203" y="248.74114990234375" width="84.59945088380118" height="84.59945088380118" />
+          <vector id="1:669" name="Vector" x="250.70266723632812" y="248.74420166015625" width="84.59945088380118" height="84.59945088380118" />
+          <vector id="1:670" name="Vector" x="323.4036560058594" y="248.72731018066406" width="84.59945088380118" height="84.59945088380118" />
+          <vector id="1:671" name="Vector" x="396.1033630371094" y="248.73809814453125" width="84.59945088380118" height="84.59945088380118" />
+          <vector id="1:672" name="Vector" x="178.45938110351562" y="176.03457641601562" width="84.15180868905554" height="84.52164725578018" />
+          <vector id="1:673" name="Vector" x="250.70204162597656" y="176.03732299804688" width="84.15180868905554" height="84.52164725578018" />
+          <vector id="1:674" name="Vector" x="323.4051818847656" y="176.04446411132812" width="84.15180868905554" height="84.52164725578018" />
+          <vector id="1:675" name="Vector" x="396.101806640625" y="176.0374755859375" width="84.15180868905554" height="84.52164725578018" />
+          <vector id="1:676" name="Vector" x="178.4611053466797" y="103.78599548339844" width="84.59945088380118" height="84.59945088380118" />
+          <vector id="1:677" name="Vector" x="250.70205688476562" y="103.77887725830078" width="84.59945088380118" height="84.59945088380118" />
+          <vector id="1:678" name="Vector" x="323.40313720703125" y="103.79756164550781" width="84.59945088380118" height="84.59945088380118" />
+          <vector id="1:679" name="Vector" x="396.103515625" y="103.78890228271484" width="84.59945088380118" height="84.59945088380118" />
+          <text id="1:680" name="Машина Времени — Поворот" x="131.2045440673828" y="166.49240112304688" width="51.666528638412274" height="30.00029699259676" />
+          <text id="1:681" name="Little Big — Skibidi" x="131.2041473388672" y="91.51634979248047" width="47.16301268169991" height="21.573820582314966" />
+          <text id="1:682" name="Кино — Группа крови" x="131.2049102783203" y="311.4211730957031" width="51.666528638412274" height="30.00029699259676" />
+          <text id="1:683" name="Альянс — На заре" x="203.9063262939453" y="311.4652099609375" width="43.58175861484324" height="20.95137130801288" />
+          <text id="1:684" name="t.A.T.u. — All the Things She Said" x="203.90438842773438" y="236.45687866210938" width="51.666528638412274" height="30.00029699259676" />
+          <text id="1:685" name="Ленинград — Рыба" x="273.4254150390625" y="236.47193908691406" width="50.29660576205424" height="22.118462962445392" />
+          <text id="1:686" name="Чай  вдвоём - Просто друг" x="348.6947326660156" y="236.47344970703125" width="51.666528638412274" height="30.00029699259676" />
+          <text id="1:687" name="IOWA - Улыбайся" x="421.45135498046875" y="236.47232055664062" width="50.29660576205424" height="22.118462962445392" />
+          <text id="1:688" name="Король и Шут — Кукла колдуна" x="273.4236755371094" y="308.72052001953125" width="51.666528638412274" height="30.00029699259676" />
+          <text id="1:689" name="Женя Трофимов - Поезда" x="348.6969299316406" y="308.7213439941406" width="51.666528638412274" height="30.00029699259676" />
+          <text id="1:690" name="Кино -  Группа  крови" x="421.4557189941406" y="308.7208557128906" width="51.666528638412274" height="30.00029699259676" />
+          <text id="1:691" name="Король и Шут — Кукла колдуна" x="199.5819854736328" y="163.099609375" width="51.666528638412274" height="30.00029699259676" />
+          <text id="1:692" name="Мiyagi &amp; Эндшпиль — I Got Love" x="273.422119140625" y="91.52639770507812" width="51.666528638412274" height="30.00029699259676" />
+          <text id="1:693" name="Кристина  Орбакайте -  Перелетная  птица" x="348.7034606933594" y="91.52684783935547" width="53.036451514770306" height="37.882131022748126" />
+          <text id="1:694" name="Ёлка - На большом воздушном шаре" x="421.45416259765625" y="91.5267333984375" width="54.40637439112834" height="45.76396505289949" />
+          <text id="1:695" name="Мiyagi &amp; Эндшпиль — I Got Love" x="131.8062286376953" y="240.5157012939453" width="51.666528638412274" height="30.00029699259676" />
+          <text id="1:696" name="Алла Пугачёва — Арлекино" x="203.90789794921875" y="91.51525115966797" width="51.666528638412274" height="30.00029699259676" />
+          <text id="1:697" name="Жуки — Батарейка" x="273.425537109375" y="163.75779724121094" width="50.29660576205424" height="22.118462962445392" />
+          <text id="1:698" name="Глюк&#39;oZa -  Танцуй,  Россия!" x="348.6965026855469" y="163.7570037841797" width="51.666528638412274" height="30.00029699259676" />
+          <text id="1:699" name="Ленинград -  Вояж" x="421.4536437988281" y="163.7588348388672" width="50.29660576205424" height="22.118462962445392" />
+          <vector id="1:700" name="Vector 57" x="184.50112915039062" y="309.2002258300781" width="66.5342951364114" height="57.516952222555005" />
+          <vector id="1:701" name="Vector 59" x="254.67332458496094" y="162.26522827148438" width="66.53430031629887" height="57.516957402442586" />
+          <vector id="1:702" name="Vector 61" x="396.2206726074219" y="223.19677734375" width="64.92389361701771" height="64.89588910990506" />
+          <vector id="1:703" name="Vector 62" x="331.3280944824219" y="96.20060729980469" width="81.96675916428694" height="72.04131462567716" />
+          <vector id="1:704" name="Vector 58" x="183.6613311767578" y="230.77566528320312" width="71.60387487851403" height="68.43877839680249" />
+          <vector id="1:705" name="Vector 60" x="107.99837493896484" y="160.54608154296875" width="71.60387487851403" height="68.43877839680249" />
+          <frame id="1:706" name="Group 186" x="42.92840576171875" y="318.89984130859375" width="289.26792949438095" height="86.5846948325634">
+            <text id="1:707" name="МУЗЫКАЛЬНОЕ ЛОТО" x="42.92841103343653" y="318.89987204212593" width="289.26792949438095" height="86.5846948325634" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <text id="1:708" name="ПОДТВЕРДИТЕ ВАШУ ПОКУПКУ" x="185" y="364" width="710" height="67" />
+    <frame id="1:709" name="Frame 2087326735" x="125" y="903" width="829" height="552.1676025390625">
+      <frame id="1:710" name="Frame 2087326733" x="0" y="0" width="829" height="384.1675720214844">
+        <frame id="1:711" name="Frame 6444" x="32" y="32" width="765" height="220.16757202148438">
+          <frame id="1:712" name="Frame 6439" x="0" y="0" width="765" height="21">
+            <text id="1:713" name="Бланков" x="0" y="0" width="114" height="21" />
+            <text id="1:714" name="2 шт." x="696" y="0" width="69" height="21" />
+          </frame>
+          <frame id="1:715" name="Frame 6440" x="0" y="61" width="765" height="21">
+            <text id="1:716" name="Категория песен" x="0" y="0" width="229" height="21" />
+            <text id="1:717" name="Девичник" x="625" y="0" width="140" height="21" />
+          </frame>
+          <vector id="1:718" name="Vector 205" x="0" y="122" width="758" height="0.00006626646472795983" />
+          <frame id="1:719" name="Frame 6443" x="0" y="162.00006103515625" width="765" height="58.16749954223633">
+            <text id="1:720" name="Итого" x="0" y="18.583749771118164" width="382.5" height="21" />
+            <frame id="1:721" name="Frame 2087326734" x="382.5" y="0" width="382.5" height="58.16749954223633">
+              <rounded-rectangle id="1:722" name="Adobe Express - file (10) 3" x="171.79791259765625" y="7.105427357601002e-15" width="55.33452897778079" height="58.16749890834626" />
+              <text id="1:723" name="100 монет" x="234.5" y="18.583749771118164" width="148" height="21" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="1:724" name="Group 2087326747" x="32" y="292.1675720214844" width="365" height="60">
+          <frame id="1:725" name="Group 2087326746" x="32" y="292.1675720214844" width="33" height="33">
+            <text id="1:726" name="!" x="44" y="298.1675720214844" width="9" height="21" />
+            <ellipse id="1:727" name="Ellipse 109" x="32" y="292.1675720214844" width="33" height="33" />
+          </frame>
+          <text id="1:728" name="У вас не хватает монет (1 монета = 1 рубль)" x="75" y="298.1675720214844" width="322" height="54" />
+        </frame>
+      </frame>
+      <instance id="1:729" name="Component 46" x="0" y="432.1675720214844" width="829" height="120" />
+    </frame>
+  </frame>
+</canvas>

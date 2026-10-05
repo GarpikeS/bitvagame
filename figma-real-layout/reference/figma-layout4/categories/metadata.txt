@@ -1,0 +1,44 @@
+<frame id="1:5184" name="Категории" x="4705" y="7096" width="1080" height="3695">
+  <instance id="1:5185" name="Header" x="59.5" y="80" width="960" height="123.43087768554688" />
+  <instance id="1:5186" name="Footer" x="-1" y="3190" width="1081" height="505" />
+  <frame id="1:5187" name="Frame 2087326820" x="57" y="290" width="966.5" height="2720.4296875">
+    <instance id="1:5188" name="Frame 2087326820" x="0" y="0" width="966.5" height="180" />
+    <frame id="1:5189" name="Frame 2087326815" x="0" y="260" width="966.5" height="728">
+      <text id="1:5190" name="МОИ КАТЕГОРИИ" x="0" y="0" width="966.5" height="67" />
+      <frame id="1:5191" name="Frame 2087326814" x="0" y="115" width="966.5" height="613">
+        <frame id="1:5192" name="Frame 2087326801" x="0" y="0" width="966.5" height="465">
+          <instance id="1:5193" name="Frame 6496" x="0" y="0" width="465" height="465" />
+          <instance id="1:5194" name="Frame 6498" x="494" y="0" width="472.5" height="465" />
+        </frame>
+        <instance id="1:5195" name="button M" x="0" y="505" width="966.5" height="108" />
+      </frame>
+    </frame>
+    <frame id="1:5196" name="Frame 2087326819" x="0" y="1068" width="966.5" height="746">
+      <text id="1:5197" name="КУПИТЬ КАТЕГОРИИ" x="0" y="0" width="966.5" height="67" />
+      <frame id="1:5198" name="Frame 2087326817" x="0" y="115" width="966.5" height="613">
+        <frame id="1:5199" name="Frame 2087326818" x="0" y="0" width="966.5" height="613">
+          <frame id="1:5200" name="Frame 2087326816" x="0" y="0" width="966.5" height="465">
+            <instance id="1:5201" name="Frame 6497" x="0" y="0" width="465" height="465" />
+            <instance id="1:5202" name="Frame 6499" x="494" y="0" width="465.5" height="465" />
+          </frame>
+          <instance id="1:5203" name="button M" x="0" y="505" width="966.5" height="108" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="1:5204" name="Group 2087331646" x="2.25" y="1894" width="962" height="826.4296875">
+      <instance id="1:5205" name="Component 17" x="2.25" y="2600.4296875" width="962" height="120" />
+      <frame id="1:5206" name="Group 2087331491" x="2.75" y="1894" width="959" height="663">
+        <rounded-rectangle id="1:5207" name="Rectangle 42148" x="2.75" y="1894" width="959" height="663" />
+        <frame id="1:5208" name="Frame 6528" x="40.75" y="1933" width="861" height="557">
+          <text id="1:5209" name="ПРАВИЛА ИГРЫ" x="0" y="0" width="861" height="67" />
+          <frame id="1:5210" name="Frame 6527" x="0" y="117" width="861" height="440">
+            <instance id="1:5211" name="Frame 6437" x="0" y="0" width="861" height="80" />
+            <instance id="1:5212" name="Frame 6527" x="0" y="120" width="861" height="80" />
+            <instance id="1:5213" name="Frame 6528" x="0" y="240" width="861" height="80" />
+            <instance id="1:5214" name="Frame 6529" x="0" y="360" width="861" height="80" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+</frame>

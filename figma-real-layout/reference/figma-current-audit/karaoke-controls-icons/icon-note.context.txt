@@ -1,0 +1,25 @@
+const imgGroup = "http://localhost:3845/assets/3835d315778756a7fe11172d2627b31069150d89.svg";
+type ComponentProps = {
+  className?: string;
+  property1?: "mic" | "14";
+};
+
+function Component({ className, property1 = "14" }: ComponentProps) {
+  const is14 = property1 === "14";
+  return (
+    <div className={className || "overflow-clip relative size-[105px]"} id={is14 ? "node-1_566" : "node-1_558"}>
+      {property1 === "mic" && (
+        <div className="absolute contents inset-[0_6.64%_0.31%_5.06%]" data-node-id="1:559" data-name="Group">
+          <div className="absolute inset-[0_6.64%_0.31%_5.06%]" data-node-id="1:560" data-name="Group">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup} />
+          </div>
+        </div>
+      )}
+      {is14 && (
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.1] left-0 not-italic text-[#ff8b1e] text-[110.468px] top-[10.59px] whitespace-nowrap" data-node-id="1:567">
+          14
+        </p>
+      )}
+    </div>
+  );
+}

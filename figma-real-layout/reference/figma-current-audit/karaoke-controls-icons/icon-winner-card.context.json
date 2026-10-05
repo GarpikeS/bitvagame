@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "const imgFrame2087326726 = \"http://localhost:3845/assets/8d33aa59d77f99ab3dc38feb0e3e457eaf66c081.svg\";\n\nexport default function Frame() {\n  return (\n    <div className=\"bg-white content-stretch flex flex-col gap-[24px] items-start p-[32px] relative rounded-[40px] size-full\" data-node-id=\"1:529\">\n      <div className=\"overflow-clip relative shrink-0 size-[105px]\" data-node-id=\"I1:529;1:536\">\n        <img alt=\"\" className=\"absolute block inset-0 max-w-none size-full\" src={imgFrame2087326726} />\n      </div>\n      <div className=\"[word-break:break-word] content-stretch flex flex-col gap-[16px] items-start leading-[1.1] not-italic relative shrink-0 w-full\" data-node-id=\"I1:529;1:537\">\n        <p className=\"[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Medium'] relative shrink-0 text-[#161616] text-[30px] w-[406px]\" data-node-id=\"I1:529;1:538\">\n          Объявить победителя\n        </p>\n        <p className=\"[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial:Regular'] min-w-full relative shrink-0 text-[#898989] text-[26px] w-[min-content]\" data-node-id=\"I1:529;1:539\">\n          и завершить игру\n        </p>\n      </div>\n    </div>\n  );\n}"
+    },
+    {
+      "type": "text",
+      "text": "SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.\n1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens\n2. Convert React syntax to the target framework/library\n3. Transform all Tailwind classes to the target styling system while preserving exact visual design\n4. Follow the project's existing patterns and conventions\nDO NOT install any Tailwind as a dependency unless the user instructs you to do so.\n"
+    },
+    {
+      "type": "text",
+      "text": "Node ids have been added to the code as data attributes, e.g. `data-node-id=\"1:2\"`."
+    },
+    {
+      "type": "text",
+      "text": "Image assets are stored on a localhost server. Clients can use these images directly in code as a way to view the image assets the same way they would other remote servers. Images and SVGs will be stored as constants, e.g. const image = 'http://localhost:3845/assets/10c13ac1a228a365cb98a0064b1d5afbc84887b2.png' These constants will be used in the code as the source for the image, e.g. <img src={image} /> This is true for both images and SVGs, so you can use the same approach for both types of assets."
+    },
+    {
+      "type": "text",
+      "text": "IMPORTANT: After you call this tool, you MUST call get_screenshot to get a screenshot of the node for context."
+    }
+  ]
+}

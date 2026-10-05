@@ -1,0 +1,933 @@
+const imgLettersCoinsLettersVariant34 = "http://localhost:3845/assets/4acc0c6a779b3ba92f7419909ea4b37613b864c3.svg";
+const imgUnion = "http://localhost:3845/assets/4d85e0c883d3fbf7c298316041389c2c52688c69.svg";
+const imgAdobeExpressFile103 = "http://localhost:3845/assets/7a310a701f0d624eeaa84ab0c161d11ab49e2557.png";
+const imgWhiteTexture1 = "http://localhost:3845/assets/377ee36b1b87dd1e4b779ae4acab81906ce042b1.png";
+const imgGroup = "http://localhost:3845/assets/6444969f555917ce1c6a6a7ae5419323bb30da67.svg";
+const imgVector = "http://localhost:3845/assets/1375f22a2e89d3df867641ed615fa69c17cda327.svg";
+const imgVector1 = "http://localhost:3845/assets/c17c239b3ebf32a2f5214c404aefc296fa760b20.svg";
+const imgVector2 = "http://localhost:3845/assets/9d97e4f98b2e8de291c2a5cbe44aaa5c8aa11aff.svg";
+const imgVector3 = "http://localhost:3845/assets/2996b6070d6d787db1174646c484598b46a78552.svg";
+const imgVector4 = "http://localhost:3845/assets/ff2bb3897148a66488cf2f06f1b83325943cb901.svg";
+const imgVector5 = "http://localhost:3845/assets/d696970dbf8c7da0b05e42763eb77869c83bf621.svg";
+const imgVector6 = "http://localhost:3845/assets/73da96eeda63e203be4185dd4b66945aae38fd5f.svg";
+const imgVector7 = "http://localhost:3845/assets/4ac745fe9f3ced80980f86c10dc2e35dae41435f.svg";
+const imgVector8 = "http://localhost:3845/assets/b75207be696054fbb28c414e9cb6f64867ac0ee5.svg";
+const imgVector9 = "http://localhost:3845/assets/d812a7c765306ce42896b0c2a487a0f9205462d5.svg";
+const imgVector10 = "http://localhost:3845/assets/8c10759fea4840ca4a2943986d1a6dc14a59f022.svg";
+const imgVector11 = "http://localhost:3845/assets/5129be1af503a40d9cd39a9fd348b9224abc5abe.svg";
+const imgVector12 = "http://localhost:3845/assets/b9bbb5d60abdb7a9535e1fe6846a164d813496b6.svg";
+const imgVector13 = "http://localhost:3845/assets/58f6ad2c0c8694a848e9509f58e6d86fa6c91cb8.svg";
+const imgVector14 = "http://localhost:3845/assets/921d36184d86f78d07730ef6049677de62dd3aa5.svg";
+const imgVector15 = "http://localhost:3845/assets/8982e121732cf6c82af21623009e56494aedabcd.svg";
+const imgVector16 = "http://localhost:3845/assets/77c6031cf7887f1874fde516640a4fad253a582c.svg";
+const imgVector17 = "http://localhost:3845/assets/c2b9e39e25729214b219bf27ad0864b99c35e11e.svg";
+const imgVector18 = "http://localhost:3845/assets/b2cd525d1101c6538fc80240aa232addde771ba6.svg";
+const imgVector19 = "http://localhost:3845/assets/b829cd908b8648672e8f41b515b10fa9c7a56e77.svg";
+const imgVector57 = "http://localhost:3845/assets/33487d8dcf2145d1577d930dea4ed2a82260f043.svg";
+const imgVector59 = "http://localhost:3845/assets/a7e103bf49e1e36636f748f49e8ddee42119f773.svg";
+const imgVector61 = "http://localhost:3845/assets/5431d9df40907cdb7cceff61c37ba9523cf764f9.svg";
+const imgVector62 = "http://localhost:3845/assets/78de52d77f59778242b26198b697984bc7d53e6a.svg";
+const imgVector58 = "http://localhost:3845/assets/b5b718cefd63d70bcb67fbb095dd18e75944d38f.svg";
+const imgVector60 = "http://localhost:3845/assets/aeb635ba52749d476186d8d38f54abe0b15ccc33.svg";
+const imgVector63 = "http://localhost:3845/assets/69b8a29c25f8421983a54f25e47403eaba8d6906.svg";
+const imgVector64 = "http://localhost:3845/assets/1df0ad0757d264d91d09de12c1e64c9a165dd10b.svg";
+const imgVector65 = "http://localhost:3845/assets/7dd2805a5afa5e23dc1cd45784a1a35d4116091b.svg";
+const imgVector66 = "http://localhost:3845/assets/9e1cc7acaf4bdbe10fa53d8f91a27e4df67dd14a.svg";
+const imgVector205 = "http://localhost:3845/assets/b97fc3fe97379f66e38ee92ba719eb840fbd253d.svg";
+const imgEllipse109 = "http://localhost:3845/assets/d19b5203aec5903146567a8e4f3e58371b187ef9.svg";
+
+function LettersCoinsLettersVariant({ className }: { className?: string }) {
+  return (
+    <div className={className || "relative size-[82px]"} data-node-id="1:37" data-name="Letters/Coins/Letters/Variant34">
+      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgLettersCoinsLettersVariant34} />
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Hoves_Pro_Trial:Bold'] inset-[29.27%_32.93%_29.27%_31.71%] leading-[1.1] not-italic text-[#f3f3f3] text-[48.188px] text-center whitespace-nowrap" data-node-id="1:39">
+        Т
+      </p>
+    </div>
+  );
+}
+
+function IconsOutlineChevronLeft({ className }: { className?: string }) {
+  return (
+    <div className={className || "overflow-clip relative size-[24px]"} data-node-id="1:40" data-name="icons/outline/chevron-left">
+      <div className="absolute inset-[20.83%_33.33%]" data-node-id="1:42" data-name="Union">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUnion} />
+      </div>
+    </div>
+  );
+}
+
+function CoinsHeaderFrame({ className }: { className?: string }) {
+  return (
+    <div className={className || "bg-[#e5e5e5] content-stretch flex items-center justify-center pb-[21px] pl-[25px] pr-[28px] pt-[20px] relative rounded-[32px] size-[64px]"} data-node-id="1:44" data-name="Coins/Header/Frame 2087325377">
+      <IconsOutlineChevronLeft className="overflow-clip relative shrink-0 size-[24px]" />
+    </div>
+  );
+}
+
+export default function Component() {
+  return (
+    <div className="bg-[#f3f3f3] relative size-full" data-node-id="1:580" data-name="Купить бланки (после регистрации/входа, нет монет)">
+      <div className="-translate-x-1/2 absolute bg-white content-stretch flex items-center justify-between left-1/2 p-[20px] rounded-[90px] top-[80px] w-[960px]" data-node-id="1:581" data-name="Header">
+        <div className="content-stretch flex gap-[16px] items-center relative shrink-0" data-node-id="I1:581;838:4386">
+          <CoinsHeaderFrame className="bg-[#e5e5e5] content-stretch flex items-center justify-center pb-[21px] pl-[25px] pr-[28px] pt-[20px] relative rounded-[32px] shrink-0 size-[64px]" />
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.1] not-italic relative shrink-0 text-[#161616] text-[42px] text-center whitespace-nowrap" data-node-id="I1:581;838:4388">{`Купить бланки `}</p>
+        </div>
+        <div className="content-stretch flex gap-[8px] items-center relative shrink-0" data-node-id="I1:581;838:4389">
+          <div className="content-stretch flex gap-[4px] items-center pr-[24px] py-[8px] relative rounded-[90px] shrink-0" data-node-id="I1:581;838:4390" style={{ backgroundImage: "linear-gradient(-49.5408deg, rgb(35, 35, 35) 8.0174%, rgb(66, 66, 66) 96.721%)" }}>
+            <div className="flex h-[67.431px] items-center justify-center relative shrink-0 w-[70.666px]" data-node-id="I1:581;838:4391">
+              <div className="flex-none rotate-[0.63deg]">
+                <div className="h-[66.667px] relative w-[69.938px]" data-name="Adobe Express - file (10) 3">
+                  <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                    <img alt="" className="absolute h-[279.23%] left-0 max-w-none top-[-40.3%] w-[269.47%]" src={imgAdobeExpressFile103} />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] bg-clip-text font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.1] not-italic relative shrink-0 text-[40.973px] text-[transparent] text-center whitespace-nowrap" data-node-id="I1:581;838:4392" style={{ backgroundImage: "linear-gradient(108.646deg, rgb(209, 209, 209) 0%, rgb(102, 102, 102) 146.67%)" }}>
+              0
+            </p>
+          </div>
+          <LettersCoinsLettersVariant className="relative shrink-0 size-[82px]" />
+        </div>
+      </div>
+      <div className="absolute contents left-0 top-[2199px]" data-node-id="1:582">
+        <div className="absolute bg-[#161616] h-[1028px] left-0 rounded-[109px] top-[2199px] w-[1081px]" data-node-id="1:583" />
+        <div className="absolute contents left-[60px] top-[2322px]" data-node-id="1:584">
+          <div className="[word-break:break-word] absolute contents font-['TT_Hoves_Pro_Trial_Variable:Medium'] inset-[86.79%_5.53%_5.43%_56.97%] not-italic text-[#767676] text-[25.946px] whitespace-nowrap" data-node-id="1:585">
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [text-underline-position:from-font] absolute decoration-from-font decoration-solid inset-[92.21%_7.57%_7.12%_56.97%] leading-none underline" data-node-id="1:586">
+              Политика конфиденциальности
+            </p>
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] absolute inset-[86.79%_5.53%_10.38%_56.97%] leading-[1.11]" data-node-id="1:587">
+              ИП Шаталов Дмитрий Андреевич
+              <br aria-hidden />
+              ОГРН: 322861700029539
+              <br aria-hidden />
+              ИНН: 711404699134
+            </p>
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] absolute inset-[93.9%_9.51%_5.43%_56.97%] leading-none" data-node-id="1:588">
+              © 2025. Все права защищены
+            </p>
+          </div>
+          <div className="absolute contents left-[60px] top-[2322px]" data-node-id="1:589">
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Trailers_Trial:Bold_Italic'] leading-[1.003] left-[calc(25%+30.42px)] not-italic text-[#ff391f] text-[87.601px] top-[2368.23px] whitespace-nowrap" data-node-id="1:590">
+              И Г Р Ы
+            </p>
+            <div className="absolute inset-[88.37%_75.85%_9.34%_6.37%]" data-node-id="1:591" data-name="Group">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup} />
+            </div>
+            <div className="absolute inset-[86.71%_75.09%_12.08%_5.56%]" data-node-id="1:597" data-name="Vector">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+            </div>
+            <div className="absolute inset-[91.09%_75.09%_7.7%_5.56%]" data-node-id="1:598" data-name="Vector">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+            </div>
+            <div className="absolute inset-[91.2%_66.76%_7.59%_16.24%]" data-node-id="1:599" data-name="Vector">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector2} />
+            </div>
+            <div className="absolute inset-[86.64%_66.76%_12.15%_13.88%]" data-node-id="1:600" data-name="Vector">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+            </div>
+            <div className="absolute inset-[86.81%_56.49%_11.98%_24.16%]" data-node-id="1:601" data-name="Vector">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector3} />
+            </div>
+            <div className="absolute inset-[91.19%_56.49%_7.6%_24.16%]" data-node-id="1:602" data-name="Vector">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="-translate-x-1/2 absolute bg-[#161616] h-[1252px] left-1/2 rounded-[37px] shadow-[0px_4px_24.9px_0px_rgba(0,0,0,0.07)] top-[284px] w-[960px]" data-node-id="1:603" />
+      <div className="absolute h-[550px] left-[calc(25%+54.51px)] top-[486px] w-[431.411px]" data-node-id="1:604">
+        <div className="absolute contents left-0 top-0" data-node-id="1:605">
+          <div className="absolute flex h-[497.158px] items-center justify-center left-[39.98px] top-[26.42px] w-[351.469px]" data-node-id="1:606">
+            <div className="flex-none rotate-90">
+              <div className="bg-white h-[351.469px] opacity-37 overflow-clip relative w-[497.158px]" data-name="Mother">
+                <div className="absolute aspect-[576.4724273278941/387.0919065229663] flex items-center justify-center left-[-4.09%] mix-blend-multiply right-[-11.87%] top-[-26.77px]" data-node-id="1:607" style={{ containerType: "size" }}>
+                  <div className="flex-none h-[hypot(-0.846582cqw,-66.2958cqh)] rotate-[179.51deg] w-[hypot(-148.077cqw,0.852595cqh)]">
+                    <div className="relative size-full" data-name="white-texture 1">
+                      <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgWhiteTexture1} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[70.64%_64.01%_8.67%_21.27%] items-center justify-center mix-blend-multiply" data-node-id="1:609" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[100.625cqw] w-[99.3789cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector4} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[49.95%_64.01%_29.23%_21.27%] items-center justify-center mix-blend-multiply" data-node-id="1:610" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[100cqw] w-[100cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector5} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[29.41%_64.01%_49.91%_21.27%] items-center justify-center mix-blend-multiply" data-node-id="1:611" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[100.625cqw] w-[99.3789cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector6} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[8.72%_64.01%_70.47%_21.27%] items-center justify-center mix-blend-multiply" data-node-id="1:612" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[100cqw] w-[100cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector7} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[70.64%_49.39%_8.67%_35.9%] items-center justify-center mix-blend-multiply" data-node-id="1:613" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[100.625cqw] w-[99.3789cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector8} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[70.64%_34.86%_8.67%_50.43%] items-center justify-center mix-blend-multiply" data-node-id="1:614" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[100.625cqw] w-[99.3789cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector8} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[70.64%_20.23%_8.68%_65.05%] items-center justify-center mix-blend-multiply" data-node-id="1:615" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[100.625cqw] w-[99.3789cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector9} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[70.64%_5.61%_8.67%_79.67%] items-center justify-center mix-blend-multiply" data-node-id="1:616" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[100.625cqw] w-[99.3789cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector10} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[49.96%_49.39%_29.23%_35.9%] items-center justify-center mix-blend-multiply" data-node-id="1:617" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[100cqw] w-[100cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector11} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[49.96%_34.86%_29.23%_50.43%] items-center justify-center mix-blend-multiply" data-node-id="1:618" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[100cqw] w-[100cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector11} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[49.95%_20.23%_29.23%_65.05%] items-center justify-center mix-blend-multiply" data-node-id="1:619" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[100cqw] w-[100cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector12} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[49.96%_5.61%_29.23%_79.67%] items-center justify-center mix-blend-multiply" data-node-id="1:620" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[100cqw] w-[100cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector13} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[29.4%_49.39%_49.91%_35.9%] items-center justify-center mix-blend-multiply" data-node-id="1:621" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[100.625cqw] w-[99.3789cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector14} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[29.4%_34.86%_49.91%_50.43%] items-center justify-center mix-blend-multiply" data-node-id="1:622" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[100.625cqw] w-[99.3789cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector14} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[29.4%_20.23%_49.91%_65.05%] items-center justify-center mix-blend-multiply" data-node-id="1:623" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[100.625cqw] w-[99.3789cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector15} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[29.4%_5.61%_49.91%_79.67%] items-center justify-center mix-blend-multiply" data-node-id="1:624" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[100.625cqw] w-[99.3789cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector16} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[8.72%_49.39%_70.47%_35.9%] items-center justify-center mix-blend-multiply" data-node-id="1:625" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[100cqw] w-[100cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector17} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[8.71%_34.86%_70.47%_50.43%] items-center justify-center mix-blend-multiply" data-node-id="1:626" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[100cqw] w-[100cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector17} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[8.72%_20.23%_70.47%_65.05%] items-center justify-center mix-blend-multiply" data-node-id="1:627" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[100cqw] w-[100cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector18} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[8.72%_5.61%_70.47%_79.67%] items-center justify-center mix-blend-multiply" data-node-id="1:628" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[100cqw] w-[100cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector19} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[33.54%_69.18%_52.63%_26.39%] items-center justify-center mix-blend-multiply" data-node-id="1:629" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[45.2513cqw] w-[220.988cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">Машина Времени — Поворот</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[13.11%_70.79%_73.96%_26.39%] items-center justify-center mix-blend-multiply" data-node-id="1:630" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[30.812cqw] w-[324.548cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">Little Big — Skibidi</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[74.77%_69.18%_11.39%_26.39%] items-center justify-center mix-blend-multiply" data-node-id="1:631" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[45.2513cqw] w-[220.988cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">Кино — Группа крови</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[76.72%_56.17%_11.38%_41.01%] items-center justify-center mix-blend-multiply" data-node-id="1:632" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[33.4914cqw] w-[298.585cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">Альянс — На заре</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[53.44%_54.56%_32.72%_41.01%] items-center justify-center mix-blend-multiply" data-node-id="1:633" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[45.2513cqw] w-[220.988cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">t.A.T.u. — All the Things She Said</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[53.45%_42.19%_32.72%_55%] items-center justify-center mix-blend-multiply" data-node-id="1:634" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[28.7963cqw] w-[347.267cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">Ленинград — Рыба</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[53.45%_25.44%_32.72%_70.14%] items-center justify-center mix-blend-multiply" data-node-id="1:635" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[45.2513cqw] w-[220.988cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full whitespace-pre-wrap">
+                      {`Чай `}
+                      <br aria-hidden />
+                      вдвоём -<br aria-hidden />
+                      Просто друг
+                    </p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[53.45%_12.41%_32.72%_84.77%] items-center justify-center mix-blend-multiply" data-node-id="1:636" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[28.7963cqw] w-[347.267cqh]">
+                    <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[0] not-italic relative text-[#9d9d9d] text-[8.212px] w-full whitespace-pre-wrap">
+                      <p className="leading-[1.01] mb-0">{`IOWA - `}</p>
+                      <p className="leading-[1.01]">Улыбайся</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[74%_40.58%_12.16%_55%] items-center justify-center mix-blend-multiply" data-node-id="1:637" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[45.2513cqw] w-[220.988cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">Король и Шут — Кукла колдуна</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[74%_25.44%_12.16%_70.14%] items-center justify-center mix-blend-multiply" data-node-id="1:638" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[45.2513cqw] w-[220.988cqh]">
+                    <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[0] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">
+                      <p className="leading-[1.01] mb-0">Женя</p>
+                      <p className="leading-[1.01] mb-0">Трофимов -</p>
+                      <p className="leading-[1.01]">Поезда</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[74%_10.8%_12.16%_84.77%] items-center justify-center mix-blend-multiply" data-node-id="1:639" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[45.2513cqw] w-[220.988cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full whitespace-pre-wrap">
+                      {`Кино - `}
+                      <br aria-hidden />
+                      {`Группа `}
+                      <br aria-hidden />
+                      крови
+                    </p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[32.57%_55.43%_53.59%_40.15%] items-center justify-center mix-blend-multiply" data-node-id="1:640" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[45.2513cqw] w-[220.988cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">Король и Шут — Кукла колдуна</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[12.21%_40.58%_73.96%_55%] items-center justify-center mix-blend-multiply" data-node-id="1:641" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[45.2513cqw] w-[220.988cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">{`Мiyagi & Эндшпиль — I Got Love`}</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[12.21%_23.83%_73.96%_70.14%] items-center justify-center mix-blend-multiply" data-node-id="1:642" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[61.7064cqw] w-[162.058cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full whitespace-pre-wrap">
+                      {`Кристина `}
+                      <br aria-hidden />
+                      {`Орбакайте - `}
+                      <br aria-hidden />
+                      {`Перелетная `}
+                      <br aria-hidden />
+                      птица
+                    </p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[12.21%_7.58%_73.96%_84.77%] items-center justify-center mix-blend-multiply" data-node-id="1:643" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[78.1614cqw] w-[127.94cqh]">
+                    <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[0] not-italic relative text-[#9d9d9d] text-[8.212px] w-full whitespace-pre-wrap">
+                      <p className="leading-[1.01] mb-0">{`Ёлка - `}</p>
+                      <p className="leading-[1.01] mb-0">{`На `}</p>
+                      <p className="leading-[1.01] mb-0">{`большом `}</p>
+                      <p className="leading-[1.01] mb-0">воздушном</p>
+                      <p className="leading-[1.01]">шаре</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[54.6%_69.06%_31.57%_26.51%] items-center justify-center mix-blend-multiply" data-node-id="1:644" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[45.2513cqw] w-[220.988cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">{`Мiyagi & Эндшпиль — I Got Love`}</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[12.21%_54.56%_73.96%_41.01%] items-center justify-center mix-blend-multiply" data-node-id="1:645" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[45.2513cqw] w-[220.988cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">Алла Пугачёва — Арлекино</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[32.76%_42.19%_53.41%_55%] items-center justify-center mix-blend-multiply" data-node-id="1:646" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[28.7963cqw] w-[347.267cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">Жуки — Батарейка</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[32.76%_25.44%_53.41%_70.14%] items-center justify-center mix-blend-multiply" data-node-id="1:647" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[45.2513cqw] w-[220.988cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full whitespace-pre-wrap">
+                      {`Глюк'oZa - `}
+                      <br aria-hidden />
+                      {`Танцуй, `}
+                      <br aria-hidden />
+                      Россия!
+                    </p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[32.76%_12.41%_53.41%_84.77%] items-center justify-center mix-blend-multiply" data-node-id="1:648" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[28.7963cqw] w-[347.267cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full whitespace-pre-wrap">
+                      {`Ленинград - `}
+                      <br aria-hidden />
+                      Вояж
+                    </p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[72.61%_52.65%_8.87%_37.11%] items-center justify-center mix-blend-multiply" data-node-id="1:649" style={{ containerType: "size" }}>
+                  <div className="flex-none h-[hypot(49.7889cqw,21.8132cqh)] rotate-[-71.09deg] w-[hypot(28.4185cqw,-106.052cqh)]">
+                    <div className="relative size-full">
+                      <div className="absolute inset-[-1.16%_-0.73%_-1.21%_-0.73%]">
+                        <img alt="" className="block max-w-none size-full" src={imgVector57} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[30.8%_38.53%_50.67%_51.23%] items-center justify-center mix-blend-multiply" data-node-id="1:650" style={{ containerType: "size" }}>
+                  <div className="flex-none h-[hypot(49.7889cqw,21.8132cqh)] rotate-[-71.09deg] w-[hypot(28.4185cqw,-106.052cqh)]">
+                    <div className="relative size-full">
+                      <div className="absolute inset-[-1.16%_-0.73%_-1.21%_-0.73%]">
+                        <img alt="" className="block max-w-none size-full" src={imgVector59} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[52.51%_7.53%_29.37%_79.7%] items-center justify-center mix-blend-multiply" data-node-id="1:651" style={{ containerType: "size" }}>
+                  <div className="flex-none h-[hypot(59.8717cqw,39.4302cqh)] rotate-[-56.7deg] w-[hypot(39.8512cqw,-60.8476cqh)]">
+                    <div className="relative size-full">
+                      <div className="absolute inset-[-0.8%_-0.9%_-0.91%_-0.9%]">
+                        <img alt="" className="block max-w-none size-full" src={imgVector61} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[8.27%_20.66%_69.93%_66.64%] items-center justify-center mix-blend-multiply" data-node-id="1:652" style={{ containerType: "size" }}>
+                  <div className="flex-none h-[hypot(65.9336cqw,15.0133cqh)] rotate-[-79.38deg] w-[hypot(16.4365cqw,-106.39cqh)]">
+                    <div className="relative size-full">
+                      <div className="absolute inset-[-0.75%_-0.61%_-0.81%_-0.61%]">
+                        <img alt="" className="block max-w-none size-full" src={imgVector62} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[50.7%_50.38%_29.95%_36.94%] items-center justify-center mix-blend-multiply" data-node-id="1:653" style={{ containerType: "size" }}>
+                  <div className="flex-none h-[hypot(66.18cqw,24.4682cqh)] rotate-[-71.09deg] w-[hypot(26.4942cqw,-83.4367cqh)]">
+                    <div className="relative size-full">
+                      <div className="absolute inset-[-0.85%_-0.75%_-0.88%_-0.75%]">
+                        <img alt="" className="block max-w-none size-full" src={imgVector58} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[30.72%_65.6%_49.94%_21.72%] items-center justify-center mix-blend-multiply" data-node-id="1:654" style={{ containerType: "size" }}>
+                  <div className="flex-none h-[hypot(66.18cqw,24.4682cqh)] rotate-[-71.09deg] w-[hypot(26.4942cqw,-83.4367cqh)]">
+                    <div className="relative size-full">
+                      <div className="absolute inset-[-0.85%_-0.75%_-0.88%_-0.75%]">
+                        <img alt="" className="block max-w-none size-full" src={imgVector60} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="-translate-x-1/2 absolute contents h-[287px] left-[calc(50%-186.65px)] mix-blend-multiply top-[31.9px] w-[38px]" data-node-id="1:655">
+                  <div className="absolute flex h-[287px] items-center justify-center left-[calc(50%-205.65px)] mix-blend-multiply top-[31.9px] w-[38px]" data-node-id="1:656">
+                    <div className="-rotate-90 flex-none">
+                      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Bold'] leading-[1.003] not-italic relative text-[#ff8b1e] text-[54.524px] whitespace-nowrap">МУЗЫКАЛЬНОЕ ЛОТО</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="absolute flex h-[550.001px] items-center justify-center left-0 top-0 w-[431.411px]" data-node-id="1:657">
+            <div className="flex-none rotate-[99.86deg]">
+              <div className="bg-white h-[351.469px] overflow-clip relative w-[497.158px]" data-name="Mother">
+                <div className="absolute aspect-[576.4725517910382/387.09194128919484] flex items-center justify-center left-[-4.09%] mix-blend-multiply right-[-11.87%] top-[-26.77px]" data-node-id="1:658" style={{ containerType: "size" }}>
+                  <div className="flex-none h-[hypot(-0.696645cqw,-60.8769cqh)] rotate-[179.51deg] w-[hypot(-121.852cqw,0.782907cqh)]">
+                    <div className="relative size-full" data-name="white-texture 1">
+                      <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgWhiteTexture1} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[70.64%_64.01%_8.67%_21.27%] items-center justify-center mix-blend-multiply" data-node-id="1:660" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[86.93cqw] w-[86.0121cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector4} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[49.95%_64.01%_29.23%_21.27%] items-center justify-center mix-blend-multiply" data-node-id="1:661" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[86.4701cqw] w-[86.4701cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector5} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[29.41%_64.01%_49.91%_21.27%] items-center justify-center mix-blend-multiply" data-node-id="1:662" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[86.93cqw] w-[86.0121cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector6} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[8.72%_64.01%_70.47%_21.27%] items-center justify-center mix-blend-multiply" data-node-id="1:663" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[86.4701cqw] w-[86.4701cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector7} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[70.64%_49.39%_8.67%_35.9%] items-center justify-center mix-blend-multiply" data-node-id="1:664" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[86.93cqw] w-[86.0121cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector8} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[70.64%_34.86%_8.67%_50.43%] items-center justify-center mix-blend-multiply" data-node-id="1:665" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[86.93cqw] w-[86.0121cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector8} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[70.64%_20.24%_8.68%_65.05%] items-center justify-center mix-blend-multiply" data-node-id="1:666" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[86.93cqw] w-[86.0121cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector9} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[70.64%_5.61%_8.67%_79.67%] items-center justify-center mix-blend-multiply" data-node-id="1:667" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[86.93cqw] w-[86.0121cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector10} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[49.96%_49.39%_29.23%_35.9%] items-center justify-center mix-blend-multiply" data-node-id="1:668" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[86.4701cqw] w-[86.4701cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector11} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[49.96%_34.86%_29.23%_50.43%] items-center justify-center mix-blend-multiply" data-node-id="1:669" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[86.4701cqw] w-[86.4701cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector11} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[49.95%_20.24%_29.23%_65.05%] items-center justify-center mix-blend-multiply" data-node-id="1:670" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[86.4701cqw] w-[86.4701cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector12} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[49.96%_5.61%_29.23%_79.67%] items-center justify-center mix-blend-multiply" data-node-id="1:671" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[86.4701cqw] w-[86.4701cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector13} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[29.4%_49.39%_49.91%_35.9%] items-center justify-center mix-blend-multiply" data-node-id="1:672" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[86.93cqw] w-[86.0121cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector14} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[29.4%_34.86%_49.91%_50.43%] items-center justify-center mix-blend-multiply" data-node-id="1:673" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[86.93cqw] w-[86.0121cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector14} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[29.4%_20.23%_49.91%_65.05%] items-center justify-center mix-blend-multiply" data-node-id="1:674" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[86.93cqw] w-[86.0121cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector15} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[29.4%_5.61%_49.91%_79.67%] items-center justify-center mix-blend-multiply" data-node-id="1:675" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[86.93cqw] w-[86.0121cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector16} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[8.72%_49.39%_70.47%_35.9%] items-center justify-center mix-blend-multiply" data-node-id="1:676" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[86.4701cqw] w-[86.4701cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector17} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[8.71%_34.86%_70.47%_50.43%] items-center justify-center mix-blend-multiply" data-node-id="1:677" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[86.4701cqw] w-[86.4701cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector17} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[8.72%_20.24%_70.47%_65.05%] items-center justify-center mix-blend-multiply" data-node-id="1:678" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[86.4701cqw] w-[86.4701cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector18} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[8.72%_5.61%_70.47%_79.67%] items-center justify-center mix-blend-multiply" data-node-id="1:679" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[86.4701cqw] w-[86.4701cqh]">
+                    <div className="relative size-full" data-name="Vector">
+                      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector19} />
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[33.54%_69.18%_52.63%_26.39%] items-center justify-center mix-blend-multiply" data-node-id="1:680" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[42.5808cqw] w-[162.056cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">Машина Времени — Поворот</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[13.11%_70.79%_73.96%_26.39%] items-center justify-center mix-blend-multiply" data-node-id="1:681" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[29.6843cqw] w-[210.611cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">Little Big — Skibidi</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[74.77%_69.18%_11.39%_26.39%] items-center justify-center mix-blend-multiply" data-node-id="1:682" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[42.5808cqw] w-[162.056cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">Кино — Группа крови</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[76.72%_56.17%_11.38%_41.01%] items-center justify-center mix-blend-multiply" data-node-id="1:683" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[32.1235cqw] w-[199.518cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">Альянс — На заре</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[53.44%_54.56%_32.72%_41.01%] items-center justify-center mix-blend-multiply" data-node-id="1:684" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[42.5808cqw] w-[162.056cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">t.A.T.u. — All the Things She Said</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[53.45%_42.19%_32.72%_55%] items-center justify-center mix-blend-multiply" data-node-id="1:685" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[27.8349cqw] w-[219.804cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">Ленинград — Рыба</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[53.45%_25.44%_32.72%_70.14%] items-center justify-center mix-blend-multiply" data-node-id="1:686" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[42.5808cqw] w-[162.056cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full whitespace-pre-wrap">
+                      {`Чай `}
+                      <br aria-hidden />
+                      вдвоём -<br aria-hidden />
+                      Просто друг
+                    </p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[53.45%_12.41%_32.72%_84.77%] items-center justify-center mix-blend-multiply" data-node-id="1:687" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[27.8349cqw] w-[219.804cqh]">
+                    <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[0] not-italic relative text-[#9d9d9d] text-[8.212px] w-full whitespace-pre-wrap">
+                      <p className="leading-[1.01] mb-0">{`IOWA - `}</p>
+                      <p className="leading-[1.01]">Улыбайся</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[74%_40.58%_12.16%_55%] items-center justify-center mix-blend-multiply" data-node-id="1:688" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[42.5808cqw] w-[162.056cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">Король и Шут — Кукла колдуна</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[74%_25.44%_12.16%_70.14%] items-center justify-center mix-blend-multiply" data-node-id="1:689" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[42.5808cqw] w-[162.056cqh]">
+                    <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[0] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">
+                      <p className="leading-[1.01] mb-0">Женя</p>
+                      <p className="leading-[1.01] mb-0">Трофимов -</p>
+                      <p className="leading-[1.01]">Поезда</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[74%_10.8%_12.16%_84.77%] items-center justify-center mix-blend-multiply" data-node-id="1:690" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[42.5808cqw] w-[162.056cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full whitespace-pre-wrap">
+                      {`Кино - `}
+                      <br aria-hidden />
+                      {`Группа `}
+                      <br aria-hidden />
+                      крови
+                    </p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[32.57%_55.43%_53.59%_40.14%] items-center justify-center mix-blend-multiply" data-node-id="1:691" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[42.5808cqw] w-[162.056cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">Король и Шут — Кукла колдуна</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[12.21%_40.58%_73.96%_55%] items-center justify-center mix-blend-multiply" data-node-id="1:692" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[42.5808cqw] w-[162.056cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">{`Мiyagi & Эндшпиль — I Got Love`}</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[12.21%_23.83%_73.96%_70.14%] items-center justify-center mix-blend-multiply" data-node-id="1:693" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[56.5649cqw] w-[128.338cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full whitespace-pre-wrap">
+                      {`Кристина `}
+                      <br aria-hidden />
+                      {`Орбакайте - `}
+                      <br aria-hidden />
+                      {`Перелетная `}
+                      <br aria-hidden />
+                      птица
+                    </p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[12.21%_7.58%_73.96%_84.77%] items-center justify-center mix-blend-multiply" data-node-id="1:694" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[69.8448cqw] w-[106.235cqh]">
+                    <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[0] not-italic relative text-[#9d9d9d] text-[8.212px] w-full whitespace-pre-wrap">
+                      <p className="leading-[1.01] mb-0">{`Ёлка - `}</p>
+                      <p className="leading-[1.01] mb-0">{`На `}</p>
+                      <p className="leading-[1.01] mb-0">{`большом `}</p>
+                      <p className="leading-[1.01] mb-0">воздушном</p>
+                      <p className="leading-[1.01]">шаре</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[54.6%_69.06%_31.57%_26.51%] items-center justify-center mix-blend-multiply" data-node-id="1:695" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[42.5808cqw] w-[162.056cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">{`Мiyagi & Эндшпиль — I Got Love`}</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[12.21%_54.56%_73.96%_41.01%] items-center justify-center mix-blend-multiply" data-node-id="1:696" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[42.5808cqw] w-[162.056cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">Алла Пугачёва — Арлекино</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[32.76%_42.19%_53.41%_55%] items-center justify-center mix-blend-multiply" data-node-id="1:697" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[27.8349cqw] w-[219.804cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full">Жуки — Батарейка</p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[32.76%_25.44%_53.41%_70.14%] items-center justify-center mix-blend-multiply" data-node-id="1:698" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[42.5808cqw] w-[162.056cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full whitespace-pre-wrap">
+                      {`Глюк'oZa - `}
+                      <br aria-hidden />
+                      {`Танцуй, `}
+                      <br aria-hidden />
+                      Россия!
+                    </p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[32.76%_12.41%_53.41%_84.77%] items-center justify-center mix-blend-multiply" data-node-id="1:699" style={{ containerType: "size" }}>
+                  <div className="-rotate-90 flex-none h-[27.8349cqw] w-[219.804cqh]">
+                    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.01] not-italic relative text-[#9d9d9d] text-[8.212px] w-full whitespace-pre-wrap">
+                      {`Ленинград - `}
+                      <br aria-hidden />
+                      Вояж
+                    </p>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[72.61%_52.65%_8.87%_37.11%] items-center justify-center mix-blend-multiply" data-node-id="1:700" style={{ containerType: "size" }}>
+                  <div className="flex-none h-[hypot(48.7255cqw,19.3126cqh)] rotate-[-71.09deg] w-[hypot(27.8115cqw,-93.8945cqh)]">
+                    <div className="relative size-full">
+                      <div className="absolute inset-[-1.16%_-0.73%_-1.21%_-0.73%]">
+                        <img alt="" className="block max-w-none size-full" src={imgVector63} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[30.8%_38.53%_50.67%_51.23%] items-center justify-center mix-blend-multiply" data-node-id="1:701" style={{ containerType: "size" }}>
+                  <div className="flex-none h-[hypot(48.7255cqw,19.3126cqh)] rotate-[-71.09deg] w-[hypot(27.8115cqw,-93.8945cqh)]">
+                    <div className="relative size-full">
+                      <div className="absolute inset-[-1.16%_-0.73%_-1.21%_-0.73%]">
+                        <img alt="" className="block max-w-none size-full" src={imgVector64} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[52.51%_7.53%_29.37%_79.7%] items-center justify-center mix-blend-multiply" data-node-id="1:702" style={{ containerType: "size" }}>
+                  <div className="flex-none h-[hypot(58.7258cqw,38.585cqh)] rotate-[-56.7deg] w-[hypot(39.0884cqw,-59.5434cqh)]">
+                    <div className="relative size-full">
+                      <div className="absolute inset-[-0.8%_-0.9%_-0.91%_-0.9%]">
+                        <img alt="" className="block max-w-none size-full" src={imgVector65} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[8.27%_20.66%_69.93%_66.64%] items-center justify-center mix-blend-multiply" data-node-id="1:703" style={{ containerType: "size" }}>
+                  <div className="flex-none h-[hypot(61.6209cqw,13.1499cqh)] rotate-[-79.38deg] w-[hypot(15.3614cqw,-93.1853cqh)]">
+                    <div className="relative size-full">
+                      <div className="absolute inset-[-0.75%_-0.61%_-0.81%_-0.61%]">
+                        <img alt="" className="block max-w-none size-full" src={imgVector66} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[50.7%_50.38%_29.95%_36.94%] items-center justify-center mix-blend-multiply" data-node-id="1:704" style={{ containerType: "size" }}>
+                  <div className="flex-none h-[hypot(62.8378cqw,22.5263cqh)] rotate-[-71.09deg] w-[hypot(25.1562cqw,-76.8147cqh)]">
+                    <div className="relative size-full">
+                      <div className="absolute inset-[-0.85%_-0.75%_-0.88%_-0.75%]">
+                        <img alt="" className="block max-w-none size-full" src={imgVector60} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="absolute flex inset-[30.72%_65.6%_49.94%_21.72%] items-center justify-center mix-blend-multiply" data-node-id="1:705" style={{ containerType: "size" }}>
+                  <div className="flex-none h-[hypot(62.8378cqw,22.5263cqh)] rotate-[-71.09deg] w-[hypot(25.1562cqw,-76.8147cqh)]">
+                    <div className="relative size-full">
+                      <div className="absolute inset-[-0.85%_-0.75%_-0.88%_-0.75%]">
+                        <img alt="" className="block max-w-none size-full" src={imgVector60} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="-translate-x-1/2 absolute contents h-[287px] left-[calc(50%-186.65px)] mix-blend-multiply top-[31.9px] w-[38px]" data-node-id="1:706">
+                  <div className="absolute flex h-[287px] items-center justify-center left-[calc(50%-205.65px)] mix-blend-multiply top-[31.9px] w-[38px]" data-node-id="1:707">
+                    <div className="-rotate-90 flex-none">
+                      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Bold'] leading-[1.003] not-italic relative text-[#ff8b1e] text-[54.524px] whitespace-nowrap">МУЗЫКАЛЬНОЕ ЛОТО</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <p className="-translate-x-1/2 [text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] absolute font-['TT_Trailers_Trial:Bold'] leading-[0] left-1/2 not-italic text-[#ff8b1e] text-[96px] text-center top-[364px] whitespace-nowrap" data-node-id="1:708">
+        <span className="leading-none text-[#f3f3f3]">{`ПОДТВЕРДИТЕ `}</span>
+        <span className="leading-none">ВАШУ ПОКУПКУ</span>
+      </p>
+      <div className="absolute content-stretch flex flex-col gap-[48px] items-center left-[calc(8.33%+35px)] top-[903px] w-[829px]" data-node-id="1:709">
+        <div className="bg-[#2c2c2c] content-stretch flex flex-col gap-[40px] items-start p-[32px] relative rounded-[40px] shrink-0 w-full" data-node-id="1:710">
+          <div className="content-stretch flex flex-col gap-[40px] items-start relative shrink-0 w-full" data-node-id="1:711">
+            <div className="[word-break:break-word] content-stretch flex items-center justify-between leading-[1.1] not-italic relative shrink-0 text-[#f3f3f3] text-[30px] w-full whitespace-nowrap" data-node-id="1:712">
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial_Variable:Regular'] relative shrink-0" data-node-id="1:713">
+                Бланков
+              </p>
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] relative shrink-0 text-right" data-node-id="1:714">
+                2 шт.
+              </p>
+            </div>
+            <div className="[word-break:break-word] content-stretch flex items-center justify-between leading-[1.1] not-italic relative shrink-0 text-[#f3f3f3] text-[30px] w-full whitespace-nowrap" data-node-id="1:715">
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial_Variable:Regular'] relative shrink-0" data-node-id="1:716">
+                Категория песен
+              </p>
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] relative shrink-0 text-right" data-node-id="1:717">
+                Девичник
+              </p>
+            </div>
+            <div className="h-0 relative shrink-0 w-[758px]" data-node-id="1:718">
+              <div className="absolute inset-[-1px_0]">
+                <img alt="" className="block max-w-none size-full" src={imgVector205} />
+              </div>
+            </div>
+            <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-node-id="1:719">
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] flex-[1_0_0] font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.1] min-w-px not-italic relative text-[#f3f3f3] text-[30px]" data-node-id="1:720">
+                Итого
+              </p>
+              <div className="content-stretch flex flex-[1_0_0] gap-[8px] items-center justify-end min-w-px relative" data-node-id="1:721">
+                <div className="flex h-[58.167px] items-center justify-center relative shrink-0 w-[55.335px]" data-node-id="1:722">
+                  <div className="flex-none rotate-[0.63deg]">
+                    <div className="h-[57.57px] relative w-[54.705px]" data-name="Adobe Express - file (10) 3">
+                      <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                        <img alt="" className="absolute h-[323.35%] left-[-16.93%] max-w-none top-[-51.13%] w-[344.51%]" src={imgAdobeExpressFile103} />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial_Variable:DemiBold'] leading-[1.1] not-italic relative shrink-0 text-[#f3f3f3] text-[30px] text-center whitespace-nowrap" data-node-id="1:723">
+                  100 монет
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="grid-cols-[max-content] grid-rows-[max-content] inline-grid leading-[0] place-items-start relative shrink-0" data-node-id="1:724">
+            <div className="col-1 grid-cols-[max-content] grid-rows-[max-content] inline-grid ml-0 mt-0 place-items-start relative row-1" data-node-id="1:725">
+              <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] col-1 font-['TT_Hoves_Pro_Trial_Variable:Medium'] leading-[1.1] ml-[12px] mt-[6px] not-italic relative row-1 text-[#ff8b1e] text-[30px] text-center whitespace-nowrap" data-node-id="1:726">
+                !
+              </p>
+              <div className="col-1 ml-0 mt-0 relative row-1 size-[33px]" data-node-id="1:727">
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse109} />
+              </div>
+            </div>
+            <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] col-1 font-['TT_Hoves_Pro_Trial_Variable:Medium'] ml-[43px] mt-[6px] not-italic relative row-1 text-[#ff8b1e] text-[30px] whitespace-nowrap" data-node-id="1:728">
+              <p className="leading-[1.1] mb-0">У вас не хватает монет</p>
+              <p className="leading-[1.1]">(1 монета = 1 рубль)</p>
+            </div>
+          </div>
+        </div>
+        <div className="bg-[#fe391f] content-stretch drop-shadow-[0px_3.439px_9.07px_rgba(254,57,31,0.91)] flex items-center justify-between p-[32px] relative rounded-[932.921px] shrink-0 w-full" data-node-id="1:729" data-name="Component 46">
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Bold'] leading-[1.003] not-italic relative shrink-0 text-[#f3f3f3] text-[80px] uppercase whitespace-nowrap" data-node-id="I1:729;1:570">
+            ПОПОЛНИТЬ БАЛАНС
+          </p>
+          <div className="bg-[#b01c08] content-stretch flex items-center justify-center px-[32px] py-[16px] relative rounded-[800px] shrink-0 w-[199px]" data-node-id="I1:729;1:571" data-name="Component 45/Frame 2087326725">
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.1] not-italic relative shrink-0 text-[#f3f3f3] text-[30px] text-center whitespace-nowrap" data-node-id="I1:729;1:571;1:579">
+              100 рублей
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}

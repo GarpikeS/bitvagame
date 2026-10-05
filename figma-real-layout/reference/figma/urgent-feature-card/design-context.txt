@@ -1,0 +1,57 @@
+const imgIconsFillPlay = "http://localhost:3845/assets/f86787d56258c75237cce98a6c503a3cbd28f378.svg";
+const imgUnion = "http://localhost:3845/assets/24c9f666424e5c1fa384d780a94a1327488696c2.svg";
+const imgFrame2087325388 = "http://localhost:3845/assets/0550330440ce50e9bc5a4052bbccda427382929f.png";
+type PlayButtonProps = {
+  className?: string;
+  color?: "red" | "orange";
+  property1?: "default";
+  shadow?: "yes" | "no";
+  size?: "L" | "S";
+  text?: "no";
+};
+
+function PlayButton({ className, color = "red", property1 = "default", shadow = "yes", size = "L", text = "no" }: PlayButtonProps) {
+  const isDefaultAndNoAndNotShadowAndSAndOrange = property1 === "default" && text === "no" && shadow === "no" && size === "S" && color === "orange";
+  return (
+    <div className={className || `content-stretch flex items-center justify-center relative rounded-[110.008px] ${isDefaultAndNoAndNotShadowAndSAndOrange ? "bg-[#ff8b1e] size-[105px]" : "bg-[#fe391f] drop-shadow-[0px_4.757px_19.682px_#fe391f] size-[220.015px]"}`} id={isDefaultAndNoAndNotShadowAndSAndOrange ? "node-1_48" : "node-1_38"}>
+      <div className={`relative shrink-0 ${isDefaultAndNoAndNotShadowAndSAndOrange ? "size-[48px]" : "size-[121px]"}`} id={isDefaultAndNoAndNotShadowAndSAndOrange ? "node-1_49" : "node-1_39"} data-name="icons/fill/play">
+        <div className="absolute bottom-[16.67%] left-1/4 right-[16.67%] top-[16.67%]" id={isDefaultAndNoAndNotShadowAndSAndOrange ? "node-I1_49-419_6943" : "node-I1_39-419_6943"} data-name="Union">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={isDefaultAndNoAndNotShadowAndSAndOrange ? imgUnion : imgIconsFillPlay} />
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function Bage({ className }: { className?: string }) {
+  return (
+    <div className={className || "bg-[#232323] content-stretch flex items-center justify-center p-[16px] relative rounded-[433.619px]"} data-node-id="1:239" data-name="Bage">
+      <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:Medium'] leading-[1.003] not-italic relative shrink-0 text-[#f3f3f3] text-[26.34px] whitespace-nowrap" data-node-id="1:240">
+        🔥 хит недели
+      </p>
+    </div>
+  );
+}
+
+function Frame({ className }: { className?: string }) {
+  return (
+    <div className={className || "content-stretch flex flex-col gap-[143px] items-start p-[40px] relative rounded-[40px] w-[465px]"} data-node-id="1:241">
+      <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[40px] size-full" src={imgFrame2087325388} />
+      <div className="content-stretch flex flex-col gap-[16px] items-start relative shrink-0 w-full" data-node-id="1:242" data-name="text">
+        <div className="content-stretch flex gap-[16px] items-center relative shrink-0 w-full" data-node-id="1:243">
+          <Bage className="bg-[#232323] content-stretch flex items-center justify-center p-[16px] relative rounded-[433.619px] shrink-0" />
+        </div>
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.1] not-italic relative shrink-0 text-[#f3f3f3] text-[38px] w-[268px]" data-node-id="1:246">
+          Музыкальное лото
+        </p>
+      </div>
+      <div className="content-stretch flex items-center justify-end relative shrink-0 w-full" data-node-id="1:247" data-name="Button">
+        <PlayButton className="bg-[#ff8b1e] content-stretch flex items-center justify-center relative rounded-[110.008px] shrink-0 size-[105px]" color="orange" shadow="no" size="S" />
+      </div>
+    </div>
+  );
+}
+
+export default function Frame1() {
+  return <Frame className="content-stretch flex flex-col gap-[143px] items-start p-[40px] relative rounded-[40px] size-full" />;
+}

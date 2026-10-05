@@ -1,0 +1,24 @@
+<frame id="1:322" name="Frame 2087326708" x="60" y="1190" width="960" height="918">
+  <instance id="1:323" name="Tag/Frame 2087326694" x="0" y="0" width="473" height="452" />
+  <instance id="1:324" name="Frame 2087326706" x="487" y="0" width="473" height="452" />
+  <instance id="1:325" name="Frame 2087326707" x="0" y="466" width="473" height="452" />
+  <frame id="1:326" name="Group 2087331625" x="487" y="466" width="473" height="452">
+    <frame id="1:327" name="Frame 2087326708" x="487" y="466" width="473" height="452">
+      <frame id="1:328" name="Mask group" x="40" y="40" width="393" height="221.36000061035156">
+        <rounded-rectangle id="1:329" name="Rectangle 212" x="40" y="40" width="393" height="221.36000061035156" />
+        <rounded-rectangle id="1:330" name="image 3" x="-61.5078125" y="30" width="561.96923828125" height="289.34503173828125" />
+      </frame>
+      <frame id="1:331" name="Frame 2087326683" x="368" y="195" width="48" height="48" hidden="true">
+        <text id="1:332" name="1" x="19" y="13" width="13" height="22" hidden="true" />
+      </frame>
+      <text id="1:333" name="Обратите внимание!" x="40" y="293.3599853515625" width="339" height="45" />
+      <frame id="1:334" name="Frame 6386" x="40" y="370.3599853515625" width="393" height="42">
+        <text id="1:335" name="для игры вам понадобятся индивидуальные бланки." x="0" y="0" width="393" height="42" />
+      </frame>
+    </frame>
+    <frame id="1:336" name="Mask group" x="554.0008544921875" y="503" width="363" height="224">
+      <rounded-rectangle id="1:337" name="Rectangle 111000855" x="554.0008697509766" y="503" width="363" height="224" />
+      <rounded-rectangle id="1:338" name="Group 2087326590 1" x="539.8133697509766" y="469.541015625" width="507.53194279219497" height="411.45122769370573" />
+    </frame>
+  </frame>
+</frame>

@@ -1,0 +1,1 @@
+<rounded-rectangle id="1:838" name="fef5212522d3979c5d1d89d95b14975e_2d8e6142-bc9d-4479-822f-ed621241b7d6 1" x="-79" y="0" width="1262" height="1016" />

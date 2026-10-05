@@ -1,0 +1,37 @@
+<frame id="1:2158" name="Мои покупки" x="10236" y="8244" width="1080" height="2241">
+  <frame id="1:2159" name="Frame 2087326652" x="-1" y="80" width="1081" height="843.021240234375">
+    <instance id="1:2160" name="Header" x="60" y="0" width="961" height="104.43013000488281" />
+    <frame id="1:2161" name="Group 2087326653" x="60.5" y="184.4301300048828" width="960" height="173">
+      <frame id="1:2162" name="Group 2087326572" x="803.5" y="230.4301300048828" width="217" height="81.89605712890625">
+        <rounded-rectangle id="1:2163" name="Rectangle 119" x="803.5" y="230.4301300048828" width="217" height="81.89605712890625" />
+        <text id="1:2164" name="11 240" x="882.5" y="258.3950443267822" width="114" height="28.963239669799805" />
+        <rounded-rectangle id="1:2165" name="Adobe Express - file (10) 3" x="808.232421875" y="239.4193878173828" width="70.66575843653663" height="67.34540520309383" />
+      </frame>
+      <frame id="1:2166" name="Frame 2087325419" x="60.5" y="184.4301300048828" width="456.656005859375" height="173">
+        <frame id="1:2167" name="Group 2087326647" x="0" y="0" width="173.21957397460938" height="173">
+          <frame id="1:2168" name="Group 2087326567" x="10.8828125" y="10.869017601013184" width="152.3606719970703" height="152.16754150390625">
+            <ellipse id="1:2169" name="Ellipse 82" x="10.8828125" y="10.869017601013184" width="152.3606719970703" height="152.16754150390625" />
+            <text id="1:2170" name="Т" x="63.52734375" y="59.56099987030029" width="50" height="62.92013931274414" />
+          </frame>
+          <ellipse id="1:2171" name="Ellipse 96" x="0" y="0" width="173.21957397460938" height="173" />
+        </frame>
+        <frame id="1:2172" name="Frame 2087325418" x="205.21957397460938" y="34.53169250488281" width="251.43641662597656" height="103.93661499023438">
+          <frame id="1:2173" name="Frame 2087326646" x="0" y="0" width="240.45574951171875" height="49.93661880493164">
+            <text id="1:2174" name="Тимур" x="0" y="0" width="202" height="49.93661880493164" />
+            <frame id="1:2175" name="Layer 2" x="209.62109375" y="9.570232391357422" width="30.83466339111328" height="30.796154022216797" />
+          </frame>
+          <frame id="1:2178" name="Frame 2087326647" x="0" y="81.93661499023438" width="251.43641662597656" height="22">
+            <text id="1:2179" name="@timur" x="0" y="0" width="104" height="22" />
+            <ellipse id="1:2180" name="Ellipse 95" x="120" y="7.286505222320557" width="7.436416149139404" height="7.426989555358887" />
+            <text id="1:2181" name="ID 0427" x="143.43641662597656" y="0" width="108" height="22" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="1:2182" name="Frame 2087326650" x="60.5" y="437.43011474609375" width="960" height="405.5910949707031">
+      <frame id="1:2183" name="Frame 2087326649" x="0" y="0" width="960" height="265.5910949707031" />
+      <instance id="1:2196" name="button M" x="0" y="297.5910949707031" width="966" height="108" />
+    </frame>
+  </frame>
+  <instance id="1:2197" name="Footer" x="-1" y="1736" width="1081" height="505" />
+</frame>

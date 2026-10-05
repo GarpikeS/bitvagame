@@ -1,0 +1,105 @@
+﻿
+===== 1:856 =====
+<instance id="1:856" name="Tag/Frame 2087326694" x="0" y="0" width="474.24853515625" height="452">
+  <frame id="4:1427" name="Mask group" x="40" y="40" width="394.24853515625" height="221.36000061035156">
+    <rounded-rectangle id="4:1428" name="Rectangle 212" x="40" y="40" width="394.24853515625" height="221.36000061035156" />
+    <rounded-rectangle id="4:1429" name="image 3" x="-61.830299377441406" y="30" width="563.7545776367188" height="289.34503173828125" />
+  </frame>
+  <frame id="4:1430" name="Frame 2087326683" x="368" y="195" width="48" height="48">
+    <text id="4:1431" name="1" x="19" y="13" width="10" height="22" />
+  </frame>
+  <frame id="4:1432" name="Frame 6386" x="40" y="293.3599853515625" width="394.24853515625" height="67">
+    <text id="4:1433" name="Распечатайте индивидуальные бланки каждому участнику, приготовьте ручки или карандаши." x="0" y="0" width="394.24853515625" height="67" />
+  </frame>
+</instance>
+
+===== 1:857 =====
+<instance id="1:857" name="Frame 2087326706" x="488.24853515625" y="0" width="474.24853515625" height="452">
+  <frame id="4:1530" name="Mask group" x="40" y="40" width="394.24853515625" height="221.36000061035156">
+    <rounded-rectangle id="4:1531" name="Rectangle 212" x="40" y="40" width="394.24853515625" height="221.36000061035156" />
+    <rounded-rectangle id="4:1532" name="image 3" x="-61.830299377441406" y="30" width="563.7545776367188" height="289.34503173828125" />
+  </frame>
+  <frame id="4:1533" name="Frame 2087326683" x="368" y="195" width="48" height="48">
+    <text id="4:1534" name="1" x="17.5" y="13" width="13" height="22" />
+  </frame>
+  <frame id="4:1535" name="Frame 6386" x="40" y="293.3599853515625" width="394.24853515625" height="67">
+    <text id="4:1536" name="Распечатайте индивидуальные бланки каждому участнику, приготовьте ручки или карандаши." x="0" y="0" width="394.24853515625" height="67" />
+  </frame>
+</instance>
+
+===== 1:858 =====
+<instance id="1:858" name="Frame 2087326707" x="0" y="466" width="474.24853515625" height="452">
+  <frame id="4:1810" name="Mask group" x="40" y="40" width="394.24853515625" height="221.36000061035156">
+    <rounded-rectangle id="4:1811" name="Rectangle 212" x="40" y="40" width="394.24853515625" height="221.36000061035156" />
+    <rounded-rectangle id="4:1812" name="image 3" x="-61.830299377441406" y="30" width="563.7545776367188" height="289.34503173828125" />
+  </frame>
+  <frame id="4:1813" name="Frame 2087326683" x="368" y="195" width="48" height="48">
+    <text id="4:1814" name="1" x="17.5" y="13" width="13" height="22" />
+  </frame>
+  <frame id="4:1815" name="Frame 6386" x="40" y="293.3599853515625" width="394.24853515625" height="42">
+    <text id="4:1816" name="Распечатайте индивидуальные бланки каждому участнику, приготовьте ручки или карандаши." x="0" y="0" width="394.24853515625" height="42" />
+  </frame>
+</instance>
+
+===== 1:859 =====
+<instance id="1:859" name="Frame 2087326708" x="488.24853515625" y="466" width="474.24853515625" height="452">
+  <frame id="4:1801" name="Mask group" x="40" y="40" width="394.24853515625" height="221.36000061035156">
+    <rounded-rectangle id="4:1802" name="Rectangle 212" x="40" y="40" width="394.24853515625" height="221.36000061035156" />
+    <rounded-rectangle id="4:1803" name="image 3" x="-61.830299377441406" y="30" width="563.7545776367188" height="289.34503173828125" />
+  </frame>
+  <frame id="4:1804" name="Frame 2087326683" x="368" y="195" width="48" height="48">
+    <text id="4:1805" name="1" x="17.5" y="13" width="13" height="22" />
+  </frame>
+  <frame id="4:1806" name="Frame 6386" x="40" y="293.3599853515625" width="394.24853515625" height="92">
+    <text id="4:1807" name="Распечатайте индивидуальные бланки каждому участнику, приготовьте ручки или карандаши." x="0" y="0" width="394.24853515625" height="92" />
+  </frame>
+</instance>
+
+===== 1:872 =====
+<frame id="1:872" name="Group 2087331490" x="0" y="107" width="959" height="163.705078125">
+  <rounded-rectangle id="1:873" name="Rectangle 42147" x="0" y="107" width="959" height="163.705078125" />
+  <frame id="1:874" name="Frame 6517" x="16" y="133.72735977172852" width="804" height="114">
+    <frame id="1:875" name="Group 2087331488" x="0" y="7.5" width="99" height="99" />
+    <frame id="1:890" name="Frame 6516" x="119" y="0" width="685" height="114">
+      <text id="1:891" name="Для игры вам понадобятся лист бумаги, ручка или заметки в телефоне" x="0" y="0" width="685" height="52" />
+      <text id="1:892" name="Записывайте пропущенные слова и считайте очки — это часть веселья!" x="0" y="72" width="685" height="42" />
+    </frame>
+  </frame>
+</frame>
+
+===== 1:893 =====
+<frame id="1:893" name="Frame 2087326800" x="0" y="2243.705078125" width="962.4970703125" height="337.00030517578125">
+  <text id="1:894" name="СИСТЕМА ОЧКОВ" x="0" y="0" width="962.4970703125" height="67" />
+  <frame id="1:895" name="Frame 2087326797" x="0" y="107" width="959.0012817382812" height="230.0003204345703">
+    <frame id="1:896" name="Frame 2087326798" x="0" y="0" width="959.0012817382812" height="230.0003204345703">
+      <instance id="1:897" name="Frame 2087326799" x="0" y="0" width="230.0003204345703" height="230.0003204345703" />
+      <instance id="1:898" name="Frame 2087326796" x="243.0003204345703" y="0" width="230.0003204345703" height="230.0003204345703" />
+      <instance id="1:899" name="Frame 2087326797" x="486.0006408691406" y="0" width="230.0003204345703" height="230.0003204345703" />
+      <instance id="1:900" name="Frame 2087326798" x="729.0009765625" y="0" width="230.0003204345703" height="230.0003204345703" />
+    </frame>
+  </frame>
+</frame>
+
+===== 1:897 =====
+<instance id="1:897" name="Frame 2087326799" x="0" y="0" width="230.0003204345703" height="230.0003204345703">
+  <text id="4:548" name="+1" x="83.50016021728516" y="55" width="63" height="50" />
+  <text id="4:549" name="за каждое верное слово" x="24.500160217285156" y="134" width="181" height="43" />
+</instance>
+
+===== 1:898 =====
+<instance id="1:898" name="Frame 2087326796" x="243.0003204345703" y="0" width="230.0003204345703" height="230.0003204345703">
+  <text id="4:1473" name="+1" x="91.00016021728516" y="55" width="48" height="50" />
+  <text id="4:1474" name="за каждое верное слово" x="24.500160217285156" y="134" width="181" height="69" />
+</instance>
+
+===== 1:899 =====
+<instance id="1:899" name="Frame 2087326797" x="486.0006408691406" y="0" width="230.0003204345703" height="230.0003204345703">
+  <text id="4:1247" name="+1" x="77.50016021728516" y="55" width="75" height="50" />
+  <text id="4:1248" name="за каждое верное слово" x="24.500160217285156" y="134" width="181" height="43" />
+</instance>
+
+===== 1:900 =====
+<instance id="1:900" name="Frame 2087326798" x="729.0009765625" y="0" width="230.0003204345703" height="230.0003204345703">
+  <instance id="4:1976" name="Component 58/Group" x="88.00016021728516" y="55" width="54" height="54" />
+  <text id="4:1979" name="за каждое верное слово" x="16" y="132" width="198.0003204345703" height="69" />
+</instance>

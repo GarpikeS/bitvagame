@@ -1,0 +1,120 @@
+const imgImage4 = "http://localhost:3845/assets/0bd99a5328ca60b3603ac61d1c748e6eaa9780c6.png";
+const imgImage5 = "http://localhost:3845/assets/6acacd6fb58c045e7eeb40f51369f7d9146206b6.png";
+const imgImage6 = "http://localhost:3845/assets/8dec80261dbf7946c10363878f3d832009706478.png";
+const imgImage7 = "http://localhost:3845/assets/61f7123cb2e1af8ee1981ecf704a5d63cd56590b.png";
+const imgGroup20873265902 = "http://localhost:3845/assets/75230d066d59170147e77f50248f1d01f54380d5.png";
+const imgImage3 = "http://localhost:3845/assets/50e45153259da5dcaa26e9584c3adc4ba8af885f.svg";
+const imgGroup20873265901 = "http://localhost:3845/assets/5fe0766806835958c8084c8772b289a734edf9e1.svg";
+
+export default function Frame() {
+  return (
+    <div className="gap-x-[14px] gap-y-[14px] grid grid-cols-[repeat(2,minmax(0,1fr))] grid-rows-[repeat(2,minmax(0,1fr))] relative size-full" data-node-id="1:322">
+      <div className="bg-[#e3e3e3] content-stretch flex flex-col gap-[32px] items-center justify-self-stretch p-[40px] relative rounded-[40px] self-stretch shrink-0" data-node-id="1:323" data-name="Tag/Frame 2087326694">
+        <div className="grid-rows-[max-content] inline-grid leading-[0] place-items-start relative shrink-0 w-full" data-node-id="I1:323;849:27615" data-name="Mask group">
+          <div className="aspect-[2400/1792] col-1 mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[101.508px_10px] mask-size-[393px_221.359px] ml-[-25.83%] mt-[-10px] relative row-1 w-[143%]" data-node-id="I1:323;849:27617" style={{ maskImage: `url("${imgImage3}")` }} data-name="image 3">
+            <div aria-hidden className="absolute inset-0 pointer-events-none">
+              <img alt="" className="absolute max-w-none object-cover size-full" src={imgImage4} />
+              <img alt="" className="absolute max-w-none object-cover size-full" src={imgImage5} />
+            </div>
+          </div>
+        </div>
+        <div className="absolute bg-[#ff8b1e] content-stretch flex flex-col items-center justify-center left-[368px] px-[20px] py-[10px] rounded-[50px] size-[48px] top-[195px]" data-node-id="I1:323;849:27618">
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Black'] leading-[1.003] not-italic relative shrink-0 text-[32px] text-white whitespace-nowrap" data-node-id="I1:323;849:27619">
+            1
+          </p>
+        </div>
+        <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="I1:323;849:27620">
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:Medium'] leading-[0] not-italic relative shrink-0 text-[#232323] text-[24px] w-full whitespace-pre-wrap" data-node-id="I1:323;849:27622">
+            <span className="leading-[1.05]">Распечатайте</span>
+            <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[1.05] underline">{` `}</span>
+            <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[1.05] text-[#ff8b1e] underline">индивидуальные бланки каждому участнику,</span>
+            <span className="[text-decoration-skip-ink:none] [text-underline-position:from-font] decoration-from-font decoration-solid leading-[1.05] underline">{` `}</span>
+            <span className="leading-[1.05]">приготовьте ручки</span>
+            <span className="leading-[1.05]">{` `}</span>
+            <span className="leading-[1.05]">{`или карандаши.  `}</span>
+          </p>
+        </div>
+      </div>
+      <div className="bg-[#e3e3e3] content-stretch flex flex-col gap-[32px] items-center justify-self-stretch p-[40px] relative rounded-[40px] self-stretch shrink-0" data-node-id="1:324">
+        <div className="grid-rows-[max-content] inline-grid leading-[0] place-items-start relative shrink-0 w-full" data-node-id="I1:324;849:27615" data-name="Mask group">
+          <div className="aspect-[2400/1792] col-1 mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[101.508px_10px] mask-size-[393px_221.359px] ml-[-25.83%] mt-[-10px] relative row-1 w-[143%]" data-node-id="I1:324;849:27617" style={{ maskImage: `url("${imgImage3}")` }} data-name="image 3">
+            <div className="absolute inset-0 overflow-hidden pointer-events-none">
+              <img alt="" className="absolute h-[129.48%] left-[-4.37%] max-w-none top-[-29.58%] w-full" src={imgImage6} />
+            </div>
+          </div>
+        </div>
+        <div className="absolute bg-[#ff8b1e] content-stretch flex flex-col items-center justify-center left-[368px] px-[20px] py-[10px] rounded-[50px] size-[48px] top-[195px]" data-node-id="I1:324;849:27618">
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Black'] leading-[1.003] not-italic relative shrink-0 text-[32px] text-white whitespace-nowrap" data-node-id="I1:324;849:27619">
+            2
+          </p>
+        </div>
+        <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="I1:324;849:27620">
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:Medium'] leading-[0] not-italic relative shrink-0 text-[#232323] text-[24px] w-full" data-node-id="I1:324;849:27622">
+            <span className="leading-[1.05]">Запустите игру,</span>
+            <span className="leading-[1.05]">{` `}</span>
+            <span className="leading-[1.05]">на экране будут появляется композиции.</span>
+            <span className="leading-[1.05] text-[#ff8b1e]">{` `}</span>
+            <span className="leading-[1.05]">{`Песня есть в бланке? Зачеркивайте! `}</span>
+            <span className="leading-[1.05]">{`Параллельно подпевайте свои любимые хиты! `}</span>
+          </p>
+        </div>
+      </div>
+      <div className="bg-[#e3e3e3] content-stretch flex flex-col gap-[32px] items-center justify-self-stretch p-[40px] relative rounded-[40px] self-stretch shrink-0" data-node-id="1:325">
+        <div className="grid-rows-[max-content] inline-grid leading-[0] place-items-start relative shrink-0 w-full" data-node-id="I1:325;849:27615" data-name="Mask group">
+          <div className="aspect-[2400/1792] col-1 mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[101.508px_10px] mask-size-[393px_221.359px] ml-[-25.83%] mt-[-10px] relative row-1 w-[143%]" data-node-id="I1:325;849:27617" style={{ maskImage: `url("${imgImage3}")` }} data-name="image 3">
+            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage7} />
+          </div>
+        </div>
+        <div className="absolute bg-[#ff8b1e] content-stretch flex flex-col items-center justify-center left-[368px] px-[20px] py-[10px] rounded-[50px] size-[48px] top-[195px]" data-node-id="I1:325;849:27618">
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Black'] leading-[1.003] not-italic relative shrink-0 text-[32px] text-white whitespace-nowrap" data-node-id="I1:325;849:27619">
+            3
+          </p>
+        </div>
+        <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="I1:325;849:27620">
+          <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:Medium'] leading-[0] not-italic relative shrink-0 text-[#232323] text-[24px] w-full" data-node-id="I1:325;849:27622">
+            <p className="mb-0">
+              <span className="[word-break:break-word] font-['TT_Hoves_Pro_Trial:Medium'] leading-[1.05] not-italic">Первый, кто соберет линию</span>
+              <span className="leading-[1.05]">{` `}</span>
+              <span className="[word-break:break-word] font-['TT_Hoves_Pro_Trial:Medium'] leading-[1.05] not-italic">из зачёркнутых полей</span>
+              <span className="leading-[1.05]">{` `}</span>
+              <span className="[word-break:break-word] font-['TT_Hoves_Pro_Trial:Medium'] leading-[1.05] not-italic">(по вертикали</span>
+            </p>
+            <p>
+              <span className="[word-break:break-word] font-['TT_Hoves_Pro_Trial:Medium'] leading-[1.05] not-italic">{`или горизонтали), `}</span>
+              <span className="leading-[1.05] text-[#232323]">{`побеждает! `}</span>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className="grid-cols-[max-content] grid-rows-[max-content] inline-grid justify-self-start leading-[0] place-items-start relative self-start shrink-0" data-node-id="1:326">
+        <div className="bg-[#ff8b1e] col-1 content-stretch flex flex-col gap-[32px] h-[452px] items-start ml-[487px] mt-[466px] p-[40px] relative rounded-[40px] row-1 w-[473px]" data-node-id="1:327">
+          <div className="grid-rows-[max-content] inline-grid leading-[0] place-items-start relative shrink-0 w-full" data-node-id="1:328" data-name="Mask group">
+            <div className="aspect-[2400/1792] col-1 mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[101.508px_10px] mask-size-[393px_221.36px] ml-[-25.83%] mt-[-10px] relative row-1 w-[143%]" data-node-id="1:330" style={{ maskImage: `url("${imgImage3}")` }} data-name="image 3">
+              <div aria-hidden className="absolute inset-0 pointer-events-none">
+                <img alt="" className="absolute max-w-none object-cover size-full" src={imgImage7} />
+                <div className="absolute bg-[#da6b02] inset-0" />
+              </div>
+            </div>
+          </div>
+          <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Bold'] leading-[0.88] not-italic relative shrink-0 text-[64px] text-white whitespace-nowrap" data-node-id="1:333">{`Обратите внимание! `}</p>
+          <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="1:334">
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:Medium'] leading-[1.05] not-italic relative shrink-0 text-[24px] text-white w-full" data-node-id="1:335">
+              для игры вам понадобятся индивидуальные бланки.
+            </p>
+          </div>
+        </div>
+        <div className="col-1 grid-cols-[max-content] grid-rows-[max-content] inline-grid ml-[554px] mt-[503px] place-items-start relative row-1" data-node-id="1:336" data-name="Mask group">
+          <div className="col-1 flex h-[411.451px] items-center justify-center ml-[462.84px] mt-[469.54px] relative row-1 w-[507.532px]" data-node-id="1:338">
+            <div className="flex-none rotate-[14.32deg]">
+              <div className="h-[311.209px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[91.165px_33.459px] mask-size-[363px_224px] relative w-[444.363px]" style={{ maskImage: `url("${imgGroup20873265901}")` }} data-name="Group 2087326590 1">
+                <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                  <img alt="" className="absolute h-[177.5%] left-[0.25%] max-w-none top-[-21.42%] w-full" src={imgGroup20873265902} />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}

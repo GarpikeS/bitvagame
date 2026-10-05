@@ -1,0 +1,12 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "<frame id=\"1:2538\" name=\"Уже есть аккаунт\" x=\"17426\" y=\"8218\" width=\"1080\" height=\"2564\">\n  <frame id=\"1:2539\" name=\"Frame 2087326652\" x=\"-1\" y=\"80\" width=\"1081\" height=\"890.6102905273438\">\n    <instance id=\"1:2540\" name=\"Header\" x=\"60\" y=\"0\" width=\"961\" height=\"104.43013000488281\" />\n    <frame id=\"1:2541\" name=\"Frame 2087326650\" x=\"60.5\" y=\"184.4301300048828\" width=\"960\" height=\"706.18017578125\">\n      <frame id=\"1:2542\" name=\"Frame 2087326659\" x=\"0\" y=\"0\" width=\"960\" height=\"67\">\n        <text id=\"1:2543\" name=\"ВОЙДИТЕ В АККАУНТ\" x=\"0\" y=\"0\" width=\"960\" height=\"67\" />\n      </frame>\n      <frame id=\"1:2544\" name=\"Frame 6434\" x=\"0\" y=\"147\" width=\"960\" height=\"559.18017578125\">\n        <instance id=\"1:2545\" name=\"Component 23\" x=\"62\" y=\"48\" width=\"836\" height=\"17\" />\n        <text id=\"1:2546\" name=\"ВОЙТИ\" x=\"48\" y=\"113\" width=\"864\" height=\"67\" />\n        <frame id=\"1:2547\" name=\"Frame 2087326664\" x=\"48\" y=\"228\" width=\"864\" height=\"119\">\n          <instance id=\"1:2548\" name=\"Input\" x=\"0\" y=\"0\" width=\"864\" height=\"119\" />\n        </frame>\n        <frame id=\"1:2549\" name=\"Frame 2087326667\" x=\"48\" y=\"395\" width=\"864\" height=\"116.18016052246094\">\n          <instance id=\"1:2550\" name=\"Component 25\" x=\"0\" y=\"0\" width=\"864\" height=\"116.18016052246094\" />\n        </frame>\n      </frame>\n    </frame>\n  </frame>\n  <instance id=\"1:2551\" name=\"Footer\" x=\"-1\" y=\"2059\" width=\"1081\" height=\"505\" />\n</frame>"
+    },
+    {
+      "type": "text",
+      "text": "IMPORTANT: After you call this tool, you MUST call get_design_context if trying to implement the design, since this tool only returns metadata. If you do not call get_design_context, the agent will not be able to implement the design."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+const imgImage4 = "https://www.figma.com/api/mcp/asset/e111dc2e-bcc2-4338-8a12-e9bddc2654d0.png";
+const imgImage5 = "https://www.figma.com/api/mcp/asset/a1a1d852-466c-4909-b199-772a5b44df49.png";
+const imgImage6 = "https://www.figma.com/api/mcp/asset/94e5ea5a-86c2-4d43-988b-35d6e5d6c4b3.png";
+const imgImage7 = "https://www.figma.com/api/mcp/asset/a0847980-4dac-40f8-bae9-dd5689af93da.png";
+const imgImage8 = "https://www.figma.com/api/mcp/asset/5875c21e-9f3f-44bf-82af-8aa9ac6e00e3.png";
+const imgImage9 = "https://www.figma.com/api/mcp/asset/1c03fb7c-4c49-4e90-b252-ed62e5f06695.png";
+const imgImage10 = "https://www.figma.com/api/mcp/asset/e79f52d5-392f-47f3-929d-05294963215f.png";
+const imgImage11 = "https://www.figma.com/api/mcp/asset/6b400333-b52a-4fdd-a694-b1b279ef74c9.png";
+const imgImage3 = "https://www.figma.com/api/mcp/asset/f67ce8d1-1354-439d-93b4-438955553813.svg";
+
+export default function Frame2087326794() {
+  return (
+    <div className="content-stretch flex flex-col gap-[32px] items-start relative size-full" data-node-id="1:687">
+      <div className="gap-x-[14px] gap-y-[14px] grid grid-cols-[repeat(2,minmax(0,1fr))] grid-rows-[repeat(2,minmax(0,1fr))] h-[918px] relative shrink-0 w-[962.497px]" data-node-id="1:688">
+        <div className="bg-[#e3e3e3] col-1 content-stretch flex flex-col gap-[32px] items-center justify-self-stretch p-[40px] relative rounded-[40px] row-1 self-stretch shrink-0" data-node-id="1:689" data-name="Tag/Frame 2087326694">
+          <div className="grid-rows-[max-content] inline-grid leading-[0] place-items-start relative shrink-0 w-full" data-node-id="I1:689;849:27615" data-name="Mask group">
+            <div className="aspect-[2400/1792] col-1 mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[101.508px_10px] mask-size-[393px_221.36px] ml-[-25.83%] mt-[-10px] relative row-1 w-[143%]" data-node-id="I1:689;849:27617" style={{ maskImage: `url("${imgImage3}")` }} data-name="image 3">
+              <div aria-hidden className="absolute inset-0 pointer-events-none">
+                <img alt="" className="absolute max-w-none object-cover size-full" src={imgImage4} />
+                <img alt="" className="absolute max-w-none object-cover size-full" src={imgImage5} />
+                <div className="absolute inset-0 overflow-hidden">
+                  <img alt="" className="absolute h-[117.44%] left-[14.72%] max-w-none top-[-16.52%] w-[74.82%]" src={imgImage6} />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="absolute bg-[#ff8b1e] content-stretch flex flex-col items-center justify-center left-[368px] px-[20px] py-[10px] rounded-[50px] size-[48px] top-[195px]" data-node-id="I1:689;849:27618">
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Black'] leading-[1.003] not-italic relative shrink-0 text-[32px] text-white whitespace-nowrap" data-node-id="I1:689;849:27619">
+              1
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="I1:689;849:27620">
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:Medium'] leading-[1.05] not-italic relative shrink-0 text-[#232323] text-[24px] w-full" data-node-id="I1:689;849:27622">
+              Включаем песню — звучит знакомый трек, но некоторые слова вырезаны.
+            </p>
+          </div>
+        </div>
+        <div className="bg-[#e3e3e3] col-2 content-stretch flex flex-col gap-[32px] items-center justify-self-stretch p-[40px] relative rounded-[40px] row-1 self-stretch shrink-0" data-node-id="1:690">
+          <div className="grid-rows-[max-content] inline-grid leading-[0] place-items-start relative shrink-0 w-full" data-node-id="I1:690;849:27615" data-name="Mask group">
+            <div className="aspect-[2400/1792] col-1 mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[101.508px_10px] mask-size-[393px_221.36px] ml-[-25.83%] mt-[-10px] relative row-1 w-[143%]" data-node-id="I1:690;849:27617" style={{ maskImage: `url("${imgImage3}")` }} data-name="image 3">
+              <div aria-hidden className="absolute inset-0 pointer-events-none">
+                <div className="absolute inset-0 overflow-hidden">
+                  <img alt="" className="absolute h-[129.48%] left-[-4.37%] max-w-none top-[-29.58%] w-full" src={imgImage7} />
+                </div>
+                <div className="absolute inset-0 overflow-hidden">
+                  <img alt="" className="absolute h-[110.04%] left-[17.8%] max-w-none top-[-10.11%] w-[70.11%]" src={imgImage8} />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="absolute bg-[#ff8b1e] content-stretch flex flex-col items-center justify-center left-[368px] px-[20px] py-[10px] rounded-[50px] size-[48px] top-[195px]" data-node-id="I1:690;849:27618">
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Black'] leading-[1.003] not-italic relative shrink-0 text-[32px] text-white whitespace-nowrap" data-node-id="I1:690;849:27619">
+              2
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="I1:690;849:27620">
+            <div className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:Medium'] leading-[0] not-italic relative shrink-0 text-[#232323] text-[24px] w-full" data-node-id="I1:690;849:27622">
+              <p className="leading-[1.05] mb-0">Слушай внимательно — следи</p>
+              <p className="leading-[1.05]">\а музыкой и приготовься продолжить текст.</p>
+            </div>
+          </div>
+        </div>
+        <div className="bg-[#e3e3e3] col-1 content-stretch flex flex-col gap-[32px] items-center justify-self-stretch p-[40px] relative rounded-[40px] row-2 self-stretch shrink-0" data-node-id="1:691">
+          <div className="grid-rows-[max-content] inline-grid leading-[0] place-items-start relative shrink-0 w-full" data-node-id="I1:691;849:27615" data-name="Mask group">
+            <div className="aspect-[2400/1792] col-1 mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[101.508px_10px] mask-size-[393px_221.36px] ml-[-25.83%] mt-[-10px] relative row-1 w-[143%]" data-node-id="I1:691;849:27617" style={{ maskImage: `url("${imgImage3}")` }} data-name="image 3">
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <img alt="" className="absolute h-[111.55%] left-[17.74%] max-w-none top-[-5.74%] w-[71.07%]" src={imgImage9} />
+              </div>
+            </div>
+          </div>
+          <div className="absolute bg-[#ff8b1e] content-stretch flex flex-col items-center justify-center left-[368px] px-[20px] py-[10px] rounded-[50px] size-[48px] top-[195px]" data-node-id="I1:691;849:27618">
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Black'] leading-[1.003] not-italic relative shrink-0 text-[32px] text-white whitespace-nowrap" data-node-id="I1:691;849:27619">
+              3
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="I1:691;849:27620">
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:Medium'] leading-[1.05] not-italic relative shrink-0 text-[#232323] text-[24px] w-full" data-node-id="I1:691;849:27622">
+              Пропевай пропущенные слова вслух, не сбиваясь с ритма.
+            </p>
+          </div>
+        </div>
+        <div className="bg-[#e3e3e3] col-2 content-stretch flex flex-col gap-[32px] items-center justify-self-stretch p-[40px] relative rounded-[40px] row-2 self-stretch shrink-0" data-node-id="1:692">
+          <div className="grid-rows-[max-content] inline-grid leading-[0] place-items-start relative shrink-0 w-full" data-node-id="I1:692;849:27615" data-name="Mask group">
+            <div className="aspect-[2400/1792] col-1 mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[101.508px_10px] mask-size-[393px_221.36px] ml-[-25.83%] mt-[-10px] relative row-1 w-[143%]" data-node-id="I1:692;849:27617" style={{ maskImage: `url("${imgImage3}")` }} data-name="image 3">
+              <div aria-hidden className="absolute inset-0 pointer-events-none">
+                <img alt="" className="absolute max-w-none object-cover size-full" src={imgImage10} />
+                <div className="absolute inset-0 overflow-hidden">
+                  <img alt="" className="absolute h-[97.17%] left-[15.63%] max-w-none top-[-6.22%] w-[75.17%]" src={imgImage11} />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="absolute bg-[#ff8b1e] content-stretch flex flex-col items-center justify-center left-[368px] px-[20px] py-[10px] rounded-[50px] size-[48px] top-[195px]" data-node-id="I1:692;849:27618">
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Black'] leading-[1.003] not-italic relative shrink-0 text-[32px] text-white whitespace-nowrap" data-node-id="I1:692;849:27619">
+              4
+            </p>
+          </div>
+          <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="I1:692;849:27620">
+            <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:Medium'] leading-[1.05] not-italic relative shrink-0 text-[#232323] text-[24px] w-full" data-node-id="I1:692;849:27622">
+              Считайте очки — за правильные слова получайте баллы и определите чемпиона караоке-битвы.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className="bg-[#fe391f] content-stretch drop-shadow-[0px_3.439px_9.07px_rgba(254,57,31,0.91)] flex items-center justify-center p-[32px] relative rounded-[932.921px] shrink-0 w-[970px]" data-node-id="1:693" data-name="Component 36">
+        <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Trailers_Trial:Bold'] leading-[1.003] not-italic relative shrink-0 text-[80px] text-white uppercase whitespace-nowrap" data-node-id="I1:693;810:1624">
+          Начать игру
+        </p>
+      </div>
+    </div>
+  );
+}
+
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

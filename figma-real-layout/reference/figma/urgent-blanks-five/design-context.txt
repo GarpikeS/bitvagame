@@ -1,0 +1,8 @@
+export default function Component() {
+  return (
+    <p className="[text-box-edge:cap_alphabetic] [text-box-trim:trim-both] [word-break:break-word] font-['TT_Hoves_Pro_Trial:Regular'] leading-[0] not-italic relative size-full text-[#4c2704] text-[30px] tracking-[-0.6px]" data-node-id="1:359">
+      <span className="font-['TT_Hoves_Pro_Trial:DemiBold'] leading-[1.04]">{`5 бланков `}</span>
+      <span className="leading-[1.04]">для игры</span>
+    </p>
+  );
+}
