@@ -41,7 +41,7 @@
     "@fastify/rate-limit": "^11.2.0",
     "@fastify/static": "^10.1.2",
     "fastify": "^5.12.5",
-    "jszip": "^3.10.1",
+    "jszip": "^3.10.2",
     "nodemailer": "^10.0.15",
     "react": "19.2.7",
     "react-dom": "19.2.7"
