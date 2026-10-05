@@ -52,7 +52,7 @@
     "@types/nodemailer": "^8.0.1",
     "concurrently": "^10.0.4",
     "playwright": "^1.62.1",
-    "tsx": "^4.23.5",
+    "tsx": "^4.23.15",
     "typescript": "^7.0.2",
     "vite": "8.1.3"
   }
